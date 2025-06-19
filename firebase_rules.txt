@@ -1,0 +1,40 @@
+// 🔥 FIREBASE FIRESTORE RULES - VINU BHAISAHAB KE LIYE 🔥
+
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Allow read/write access to all documents for authenticated and unauthenticated users
+    match /{document=**} {
+      allow read, write: if true;
+    }
+    
+    // Vendors collection - full access
+    match /vendors/{vendorId} {
+      allow read, write: if true;
+    }
+    
+    // Categories collection - full access  
+    match /categories/{categoryId} {
+      allow read, write: if true;
+    }
+    
+    // Offers collection - full access
+    match /offers/{offerId} {
+      allow read, write: if true;
+    }
+    
+    // Users collection - full access
+    match /users/{userId} {
+      allow read, write: if true;
+    }
+  }
+}
+
+// 🔥 FIREBASE STORAGE RULES 🔥
+service firebase.storage {
+  match /b/{bucket}/o {
+    match /{allPaths=**} {
+      allow read, write: if true;
+    }
+  }
+}

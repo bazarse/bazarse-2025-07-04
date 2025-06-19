@@ -1,0 +1,8 @@
+# 🔥 FIREBASE AUTO-UPDATER DEPENDENCIES 🔥
+firebase-admin==6.2.0
+google-cloud-firestore==2.13.1
+google-cloud-storage==2.10.0
+schedule==1.2.0
+requests==2.31.0
+python-dotenv==1.0.0
+pytz==2023.3
