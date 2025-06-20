@@ -14,6 +14,7 @@ import 'deals_page.dart';
 import 'bazarse_search_screen.dart';
 import '../widgets/modern_bottom_nav.dart';
 import 'ultra_location_screen.dart';
+import 'claim_business_search_page.dart';
 
 /// Outstanding Home Screen - Vinu Bhaisahab's Premium App 🚀
 class HomeScreen extends StatefulWidget {
@@ -214,8 +215,8 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
 
                   const SizedBox(height: 30),
 
-                  // 🔥 TRENDING IN CITY HEADING 🔥
-                  _buildTrendingHeading(),
+                  // 🔥 CLAIM YOUR BUSINESS BANNER 🔥
+                  _buildClaimBusinessBanner(),
 
                   const SizedBox(height: 20),
 
@@ -382,92 +383,110 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
     );
   }
 
-  // 🔥 STUNNING TRENDING IN CITY HEADING 🔥
-  Widget _buildTrendingHeading() {
-    return Container(
-      margin: const EdgeInsets.symmetric(horizontal: 16),
-      child: Row(
-        children: [
-          // 🔥 GRADIENT ICON 🔥
-          Container(
-            padding: const EdgeInsets.all(8),
-            decoration: BoxDecoration(
-              gradient: const LinearGradient(
-                colors: [
-                  Color(0xFF0070FF),
-                  Color(0xFF7D30F5),
-                  Color(0xFFFF2EB4),
-                ],
-                begin: Alignment.topLeft,
-                end: Alignment.bottomRight,
-              ),
-              borderRadius: BorderRadius.circular(12),
-              boxShadow: [
-                BoxShadow(
-                  color: const Color(0xFF0070FF).withValues(alpha: 0.3),
-                  blurRadius: 15,
-                  spreadRadius: 2,
-                ),
-              ],
-            ),
-            child: const Icon(Icons.trending_up, color: Colors.white, size: 24),
+  // 🔥 CLAIM YOUR BUSINESS BANNER 🔥
+  Widget _buildClaimBusinessBanner() {
+    return GestureDetector(
+      onTap: () => _navigateToClaimBusiness(),
+      child: Container(
+        margin: const EdgeInsets.symmetric(horizontal: 16),
+        padding: const EdgeInsets.all(20),
+        decoration: BoxDecoration(
+          gradient: LinearGradient(
+            colors: [
+              const Color(0xFF0070FF).withValues(alpha: 0.9),
+              const Color(0xFF7D30F5).withValues(alpha: 0.8),
+              const Color(0xFFFF2EB4).withValues(alpha: 0.7),
+            ],
+            begin: Alignment.topLeft,
+            end: Alignment.bottomRight,
           ),
-
-          const SizedBox(width: 12),
-
-          // 🔥 AMAZING GRADIENT TEXT 🔥
-          Expanded(
-            child: ShaderMask(
-              shaderCallback: (bounds) => const LinearGradient(
-                colors: [
-                  Color(0xFF0070FF),
-                  Color(0xFF7D30F5),
-                  Color(0xFFFF2EB4),
-                ],
-                begin: Alignment.centerLeft,
-                end: Alignment.centerRight,
-              ).createShader(bounds),
-              child: Text(
-                'Trending in ${_currentLocation.isNotEmpty ? _currentLocation.split(',').first : 'Your City'}',
-                style: GoogleFonts.poppins(
-                  fontSize: 22,
-                  fontWeight: FontWeight.w700,
-                  color: Colors.white,
-                  letterSpacing: 0.5,
-                ),
-              ),
+          borderRadius: BorderRadius.circular(20),
+          boxShadow: [
+            BoxShadow(
+              color: const Color(0xFF0070FF).withValues(alpha: 0.4),
+              blurRadius: 20,
+              spreadRadius: 3,
+              offset: const Offset(0, 8),
             ),
-          ),
-
-          // 🔥 GLOWING VIEW ALL BUTTON 🔥
-          Container(
-            padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
-            decoration: BoxDecoration(
-              gradient: const LinearGradient(
-                colors: [Color(0xFF0070FF), Color(0xFF00D4FF)],
-                begin: Alignment.topLeft,
-                end: Alignment.bottomRight,
+          ],
+        ),
+        child: Row(
+          children: [
+            // Left side - Business icon
+            Container(
+              padding: const EdgeInsets.all(12),
+              decoration: BoxDecoration(
+                color: Colors.white.withValues(alpha: 0.2),
+                borderRadius: BorderRadius.circular(15),
               ),
-              borderRadius: BorderRadius.circular(20),
-              boxShadow: [
-                BoxShadow(
-                  color: const Color(0xFF0070FF).withValues(alpha: 0.4),
-                  blurRadius: 10,
-                  spreadRadius: 1,
-                ),
-              ],
-            ),
-            child: Text(
-              'View All',
-              style: GoogleFonts.poppins(
-                fontSize: 12,
-                fontWeight: FontWeight.w600,
+              child: const Icon(
+                Icons.business,
                 color: Colors.white,
+                size: 32,
               ),
             ),
-          ),
-        ],
+
+            const SizedBox(width: 16),
+
+            // Middle - Text content
+            Expanded(
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(
+                    'Claim Your Business',
+                    style: GoogleFonts.poppins(
+                      fontSize: 18,
+                      fontWeight: FontWeight.w700,
+                      color: Colors.white,
+                    ),
+                  ),
+                  const SizedBox(height: 4),
+                  Text(
+                    'in 2 min and get upto ₹5000 free credits',
+                    style: GoogleFonts.poppins(
+                      fontSize: 13,
+                      fontWeight: FontWeight.w500,
+                      color: Colors.white.withValues(alpha: 0.9),
+                    ),
+                  ),
+                  const SizedBox(height: 6),
+                  Text(
+                    'Are you a business owner?',
+                    style: GoogleFonts.poppins(
+                      fontSize: 11,
+                      fontWeight: FontWeight.w400,
+                      color: Colors.white.withValues(alpha: 0.8),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+
+            // Right side - Arrow
+            Container(
+              padding: const EdgeInsets.all(8),
+              decoration: BoxDecoration(
+                color: Colors.white.withValues(alpha: 0.2),
+                borderRadius: BorderRadius.circular(12),
+              ),
+              child: const Icon(
+                Icons.arrow_forward_ios,
+                color: Colors.white,
+                size: 16,
+              ),
+            ),
+          ],
+        ),
       ),
+    );
+  }
+
+  // 🔥 NAVIGATE TO CLAIM BUSINESS 🔥
+  void _navigateToClaimBusiness() {
+    Navigator.push(
+      context,
+      MaterialPageRoute(builder: (context) => const ClaimBusinessSearchPage()),
     );
   }
 
