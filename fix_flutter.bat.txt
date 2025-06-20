@@ -1,0 +1,22 @@
+@echo off
+echo 🔥 BAZARSE - Windows Flutter Fix 🔥
+echo 🚀 Fixing Flutter dependencies...
+
+echo 📋 Current Flutter version:
+flutter --version
+
+echo 🔧 Cleaning Flutter cache...
+flutter clean
+
+echo 📦 Getting dependencies...
+flutter pub get
+
+echo 🌐 Enabling web support...
+flutter config --enable-web
+
+echo ✅ Setup complete!
+echo.
+echo 🚀 Now run: flutter run -d chrome --web-renderer html
+echo.
+echo 🔥 Your outstanding 3x1 grid is ready!
+pause
