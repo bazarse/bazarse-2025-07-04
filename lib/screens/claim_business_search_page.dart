@@ -15,8 +15,7 @@ class ClaimBusinessSearchPage extends StatefulWidget {
 class _ClaimBusinessSearchPageState extends State<ClaimBusinessSearchPage>
     with TickerProviderStateMixin {
   final TextEditingController _searchController = TextEditingController();
-  final LocationService _locationService = LocationService();
-  
+
   String _searchQuery = '';
   String _currentCity = 'Ujjain';
   bool _isSearching = false;
@@ -60,10 +59,10 @@ class _ClaimBusinessSearchPageState extends State<ClaimBusinessSearchPage>
 
   Future<void> _getCurrentCity() async {
     try {
-      final location = await _locationService.getCurrentLocation();
-      if (location != null) {
+      final locationData = await LocationService.getCurrentLocationWithAddress();
+      if (locationData['success'] && locationData['address'] != null) {
         setState(() {
-          _currentCity = location.split(',').first.trim();
+          _currentCity = locationData['address'].split(',').first.trim();
         });
       }
     } catch (e) {
@@ -582,8 +581,8 @@ class _ClaimBusinessSearchPageState extends State<ClaimBusinessSearchPage>
 
     return allBusinesses
         .where((business) =>
-            business['name'].toLowerCase().contains(query.toLowerCase()) ||
-            business['category'].toLowerCase().contains(query.toLowerCase()))
+            (business['name'] as String).toLowerCase().contains(query.toLowerCase()) ||
+            (business['category'] as String).toLowerCase().contains(query.toLowerCase()))
         .toList();
   }
 
