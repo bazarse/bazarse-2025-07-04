@@ -196,10 +196,22 @@ class _BazarseSearchScreenState extends State<BazarseSearchScreen> {
                 _isAIPoweredSearchEnabled = value;
               });
             },
-            activeThumbColor: AppColors.gradientStart,
-            activeTrackColor: AppColors.gradientStart.withValues(alpha: 0.3),
-            inactiveThumbColor: Colors.white.withValues(alpha: 0.7),
-            inactiveTrackColor: Colors.white.withValues(alpha: 0.2),
+            thumbColor: WidgetStateProperty.resolveWith<Color?>(
+              (Set<WidgetState> states) {
+                if (states.contains(WidgetState.selected)) {
+                  return AppColors.gradientStart;
+                }
+                return Colors.white.withValues(alpha: 0.7);
+              },
+            ),
+            trackColor: WidgetStateProperty.resolveWith<Color?>(
+              (Set<WidgetState> states) {
+                if (states.contains(WidgetState.selected)) {
+                  return AppColors.gradientStart.withValues(alpha: 0.3);
+                }
+                return Colors.white.withValues(alpha: 0.2);
+              },
+            ),
           ),
         ],
       ),

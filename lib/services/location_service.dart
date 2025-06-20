@@ -35,32 +35,33 @@ class LocationModel {
   });
 
   Map<String, dynamic> toJson() => {
-    'id': id,
-    'displayName': displayName,
-    'fullAddress': fullAddress,
-    'neighborhood': neighborhood,
-    'locality': locality,
-    'city': city,
-    'state': state,
-    'latitude': latitude,
-    'longitude': longitude,
-    'type': type.toString(),
-    'savedAt': savedAt.toIso8601String(),
-  };
+        'id': id,
+        'displayName': displayName,
+        'fullAddress': fullAddress,
+        'neighborhood': neighborhood,
+        'locality': locality,
+        'city': city,
+        'state': state,
+        'latitude': latitude,
+        'longitude': longitude,
+        'type': type.toString(),
+        'savedAt': savedAt.toIso8601String(),
+      };
 
   factory LocationModel.fromJson(Map<String, dynamic> json) => LocationModel(
-    id: json['id'],
-    displayName: json['displayName'],
-    fullAddress: json['fullAddress'],
-    neighborhood: json['neighborhood'],
-    locality: json['locality'],
-    city: json['city'],
-    state: json['state'],
-    latitude: json['latitude'],
-    longitude: json['longitude'],
-    type: LocationType.values.firstWhere((e) => e.toString() == json['type']),
-    savedAt: DateTime.parse(json['savedAt']),
-  );
+        id: json['id'],
+        displayName: json['displayName'],
+        fullAddress: json['fullAddress'],
+        neighborhood: json['neighborhood'],
+        locality: json['locality'],
+        city: json['city'],
+        state: json['state'],
+        latitude: json['latitude'],
+        longitude: json['longitude'],
+        type:
+            LocationType.values.firstWhere((e) => e.toString() == json['type']),
+        savedAt: DateTime.parse(json['savedAt']),
+      );
 }
 
 enum LocationType { home, work, custom }
@@ -116,10 +117,7 @@ class LocationService {
 
       // Get current position with HIGH accuracy (works better on web)
       Position position = await Geolocator.getCurrentPosition(
-        locationSettings: const LocationSettings(
-          accuracy: LocationAccuracy.high,
-          distanceFilter: 50,
-        ),
+        desiredAccuracy: LocationAccuracy.high,
       ).timeout(const Duration(seconds: 20));
 
       print('📍 Got coordinates: ${position.latitude}, ${position.longitude}');

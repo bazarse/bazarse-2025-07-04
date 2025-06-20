@@ -26,10 +26,7 @@ class AdvancedLocationService {
 
       // Get high accuracy position with new API
       Position position = await Geolocator.getCurrentPosition(
-        locationSettings: const LocationSettings(
-          accuracy: LocationAccuracy.bestForNavigation,
-          distanceFilter: 10,
-        ),
+        desiredAccuracy: LocationAccuracy.bestForNavigation,
       ).timeout(const Duration(seconds: 15));
 
       // Get detailed address using reverse geocoding
