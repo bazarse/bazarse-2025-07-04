@@ -1,9 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:http/http.dart' as http;
+import 'dart:convert';
 import '../constants/colors.dart';
 import '../widgets/animated_background.dart';
 import '../services/location_service.dart';
+import '../services/google_places_service.dart';
+import '../services/ai_category_service.dart';
 import 'claim_business_profile_page.dart';
+import 'report_claimed_business_page.dart';
 
 class ClaimBusinessSearchPage extends StatefulWidget {
   const ClaimBusinessSearchPage({super.key});
@@ -18,8 +23,11 @@ class _ClaimBusinessSearchPageState extends State<ClaimBusinessSearchPage>
 
   String _searchQuery = '';
   String _currentCity = 'Ujjain';
+  String _selectedCategory = 'All Categories';
   bool _isSearching = false;
   List<Map<String, dynamic>> _searchResults = [];
+  List<Map<String, dynamic>> _allResults = [];
+  List<String> _searchSuggestions = [];
   
   late AnimationController _fadeController;
   late AnimationController _slideController;
@@ -91,7 +99,10 @@ class _ClaimBusinessSearchPageState extends State<ClaimBusinessSearchPage>
               
               // 🔥 SEARCH BAR 🔥
               _buildSearchBar(),
-              
+
+              // 🔥 CATEGORY FILTER 🔥
+              if (_searchQuery.isNotEmpty) _buildCategoryFilter(),
+
               // 🔥 SEARCH RESULTS 🔥
               Expanded(
                 child: _buildSearchResults(),
@@ -227,6 +238,71 @@ class _ClaimBusinessSearchPageState extends State<ClaimBusinessSearchPage>
         ),
       ),
     );
+  }
+
+  // 🔥 CATEGORY FILTER 🔥
+  Widget _buildCategoryFilter() {
+    final categories = AICategoryService.getAllCategories();
+
+    return SlideTransition(
+      position: _slideAnimation,
+      child: Container(
+        margin: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+        height: 40,
+        child: ListView.builder(
+          scrollDirection: Axis.horizontal,
+          itemCount: categories.length,
+          itemBuilder: (context, index) {
+            final category = categories[index];
+            final isSelected = _selectedCategory == category;
+
+            return GestureDetector(
+              onTap: () {
+                setState(() {
+                  _selectedCategory = category;
+                });
+                _applyFilter();
+              },
+              child: Container(
+                margin: const EdgeInsets.only(right: 8),
+                padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                decoration: BoxDecoration(
+                  gradient: isSelected
+                      ? AppColors.primaryGradient
+                      : null,
+                  color: isSelected ? null : Colors.white.withValues(alpha: 0.1),
+                  borderRadius: BorderRadius.circular(20),
+                  border: Border.all(
+                    color: isSelected
+                        ? Colors.transparent
+                        : Colors.white.withValues(alpha: 0.3),
+                    width: 1,
+                  ),
+                ),
+                child: Center(
+                  child: Text(
+                    category,
+                    style: GoogleFonts.poppins(
+                      fontSize: 12,
+                      fontWeight: FontWeight.w600,
+                      color: Colors.white,
+                    ),
+                  ),
+                ),
+              ),
+            );
+          },
+        ),
+      ),
+    );
+  }
+
+  // 🔥 APPLY FILTER 🔥
+  void _applyFilter() {
+    final filteredResults = AICategoryService.filterByCategory(_allResults, _selectedCategory);
+    setState(() {
+      _searchResults = filteredResults;
+    });
   }
 
   // 🔥 SEARCH RESULTS 🔥
@@ -493,29 +569,8 @@ class _ClaimBusinessSearchPageState extends State<ClaimBusinessSearchPage>
               ),
             ),
 
-            // Claim Button
-            Container(
-              padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
-              decoration: BoxDecoration(
-                gradient: AppColors.primaryGradient,
-                borderRadius: BorderRadius.circular(20),
-                boxShadow: [
-                  BoxShadow(
-                    color: AppColors.gradientStart.withValues(alpha: 0.3),
-                    blurRadius: 8,
-                    spreadRadius: 1,
-                  ),
-                ],
-              ),
-              child: Text(
-                'Claim',
-                style: GoogleFonts.poppins(
-                  fontSize: 12,
-                  fontWeight: FontWeight.w600,
-                  color: Colors.white,
-                ),
-              ),
-            ),
+            // Claim/Report Button
+            _buildActionButton(business),
           ],
         ),
       ),
@@ -527,24 +582,51 @@ class _ClaimBusinessSearchPageState extends State<ClaimBusinessSearchPage>
     if (query.isEmpty) {
       setState(() {
         _searchResults.clear();
+        _allResults.clear();
+        _searchSuggestions.clear();
       });
       return;
     }
 
     setState(() {
       _isSearching = true;
+      _searchSuggestions = AICategoryService.getSmartSearchSuggestions(query);
     });
 
-    // Simulate AI search delay
-    await Future.delayed(const Duration(milliseconds: 1500));
+    try {
+      // Search using Google Places API
+      print('🔍 Searching Google Places for: $query in $_currentCity');
 
-    // Mock search results based on query
-    final results = _getMockSearchResults(query);
+      final results = await GooglePlacesService.searchBusinesses(
+        query: query,
+        city: _currentCity,
+      );
 
-    setState(() {
-      _isSearching = false;
-      _searchResults = results;
-    });
+      // Apply AI category filtering and ranking
+      final rankedResults = AICategoryService.rankBusinesses(results, query);
+      final filteredResults = AICategoryService.filterByCategory(rankedResults, _selectedCategory);
+
+      setState(() {
+        _isSearching = false;
+        _allResults = rankedResults;
+        _searchResults = filteredResults;
+      });
+
+      print('✅ Found ${_searchResults.length} businesses');
+    } catch (e) {
+      print('❌ Search error: $e');
+
+      // Fallback to mock results
+      final fallbackResults = _getMockSearchResults(query);
+      final rankedResults = AICategoryService.rankBusinesses(fallbackResults, query);
+      final filteredResults = AICategoryService.filterByCategory(rankedResults, _selectedCategory);
+
+      setState(() {
+        _isSearching = false;
+        _allResults = rankedResults;
+        _searchResults = filteredResults;
+      });
+    }
   }
 
   // 🔥 MOCK SEARCH RESULTS 🔥
@@ -603,12 +685,239 @@ class _ClaimBusinessSearchPageState extends State<ClaimBusinessSearchPage>
     }
   }
 
+  // 🔥 BUILD ACTION BUTTON 🔥
+  Widget _buildActionButton(Map<String, dynamic> business) {
+    final isClaimed = business['is_claimed'] ?? false;
+
+    if (isClaimed) {
+      return Row(
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          // Claimed Badge
+          Container(
+            padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+            decoration: BoxDecoration(
+              color: Colors.green.withValues(alpha: 0.2),
+              borderRadius: BorderRadius.circular(12),
+              border: Border.all(
+                color: Colors.green.withValues(alpha: 0.5),
+                width: 1,
+              ),
+            ),
+            child: Row(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                const Icon(
+                  Icons.verified,
+                  color: Colors.green,
+                  size: 12,
+                ),
+                const SizedBox(width: 4),
+                Text(
+                  'Claimed',
+                  style: GoogleFonts.poppins(
+                    fontSize: 10,
+                    fontWeight: FontWeight.w600,
+                    color: Colors.green,
+                  ),
+                ),
+              ],
+            ),
+          ),
+
+          const SizedBox(width: 8),
+
+          // Report Button
+          GestureDetector(
+            onTap: () => _navigateToReportBusiness(business),
+            child: Container(
+              padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+              decoration: BoxDecoration(
+                color: Colors.red.withValues(alpha: 0.2),
+                borderRadius: BorderRadius.circular(12),
+                border: Border.all(
+                  color: Colors.red.withValues(alpha: 0.5),
+                  width: 1,
+                ),
+              ),
+              child: Row(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  const Icon(
+                    Icons.report_outlined,
+                    color: Colors.red,
+                    size: 12,
+                  ),
+                  const SizedBox(width: 4),
+                  Text(
+                    'Report',
+                    style: GoogleFonts.poppins(
+                      fontSize: 10,
+                      fontWeight: FontWeight.w600,
+                      color: Colors.red,
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          ),
+        ],
+      );
+    } else {
+      // Claim Button
+      return Container(
+        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+        decoration: BoxDecoration(
+          gradient: AppColors.primaryGradient,
+          borderRadius: BorderRadius.circular(20),
+          boxShadow: [
+            BoxShadow(
+              color: AppColors.gradientStart.withValues(alpha: 0.3),
+              blurRadius: 8,
+              spreadRadius: 1,
+            ),
+          ],
+        ),
+        child: Text(
+          'Claim',
+          style: GoogleFonts.poppins(
+            fontSize: 12,
+            fontWeight: FontWeight.w600,
+            color: Colors.white,
+          ),
+        ),
+      );
+    }
+  }
+
   // 🔥 NAVIGATE TO BUSINESS PROFILE 🔥
   void _navigateToBusinessProfile(Map<String, dynamic> business) {
+    final isClaimed = business['is_claimed'] ?? false;
+
+    if (isClaimed) {
+      // Show claimed business info dialog
+      _showClaimedBusinessDialog(business);
+    } else {
+      // Navigate to claim flow
+      Navigator.push(
+        context,
+        MaterialPageRoute(
+          builder: (context) => ClaimBusinessProfilePage(business: business),
+        ),
+      );
+    }
+  }
+
+  // 🔥 NAVIGATE TO REPORT BUSINESS 🔥
+  void _navigateToReportBusiness(Map<String, dynamic> business) {
     Navigator.push(
       context,
       MaterialPageRoute(
-        builder: (context) => ClaimBusinessProfilePage(business: business),
+        builder: (context) => ReportClaimedBusinessPage(business: business),
+      ),
+    );
+  }
+
+  // 🔥 SHOW CLAIMED BUSINESS DIALOG 🔥
+  void _showClaimedBusinessDialog(Map<String, dynamic> business) {
+    showDialog(
+      context: context,
+      builder: (context) => AlertDialog(
+        backgroundColor: AppColors.primaryBlack,
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(16),
+          side: BorderSide(
+            color: AppColors.gradientStart.withValues(alpha: 0.3),
+            width: 1,
+          ),
+        ),
+        title: Row(
+          children: [
+            Icon(
+              Icons.info_outline,
+              color: Colors.orange,
+              size: 24,
+            ),
+            const SizedBox(width: 12),
+            Text(
+              'Business Already Claimed',
+              style: GoogleFonts.poppins(
+                color: Colors.white,
+                fontSize: 16,
+                fontWeight: FontWeight.w700,
+              ),
+            ),
+          ],
+        ),
+        content: Column(
+          mainAxisSize: MainAxisSize.min,
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text(
+              'This business has already been claimed by:',
+              style: GoogleFonts.poppins(
+                color: Colors.white.withValues(alpha: 0.8),
+                fontSize: 14,
+                fontWeight: FontWeight.w400,
+              ),
+            ),
+            const SizedBox(height: 8),
+            if (business['claimed_by'] != null) ...[
+              Text(
+                '• Owner: ${business['claimed_by']['owner_name']}',
+                style: GoogleFonts.poppins(
+                  color: Colors.white,
+                  fontSize: 14,
+                  fontWeight: FontWeight.w600,
+                ),
+              ),
+              Text(
+                '• Status: ${business['claimed_by']['verification_status']}',
+                style: GoogleFonts.poppins(
+                  color: Colors.green,
+                  fontSize: 14,
+                  fontWeight: FontWeight.w600,
+                ),
+              ),
+            ],
+            const SizedBox(height: 12),
+            Text(
+              'If you believe this is incorrect, you can report this business.',
+              style: GoogleFonts.poppins(
+                color: Colors.white.withValues(alpha: 0.7),
+                fontSize: 12,
+                fontWeight: FontWeight.w400,
+              ),
+            ),
+          ],
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.pop(context),
+            child: Text(
+              'Close',
+              style: GoogleFonts.poppins(
+                color: Colors.white.withValues(alpha: 0.7),
+                fontSize: 14,
+                fontWeight: FontWeight.w600,
+              ),
+            ),
+          ),
+          TextButton(
+            onPressed: () {
+              Navigator.pop(context);
+              _navigateToReportBusiness(business);
+            },
+            child: Text(
+              'Report',
+              style: GoogleFonts.poppins(
+                color: Colors.red,
+                fontSize: 14,
+                fontWeight: FontWeight.w600,
+              ),
+            ),
+          ),
+        ],
       ),
     );
   }
