@@ -6,7 +6,7 @@ param(
 )
 
 Write-Host "🔥 BAZARSE AUTO-SYNC INSTALLER" -ForegroundColor Cyan
-Write-Host "=" * 50 -ForegroundColor Cyan
+Write-Host ("=" * 50) -ForegroundColor Cyan
 
 # Check if running as Administrator
 $isAdmin = ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator")
@@ -155,7 +155,7 @@ try {
 # Final summary
 Write-Host ""
 Write-Host "🎉 INSTALLATION COMPLETED SUCCESSFULLY!" -ForegroundColor Green
-Write-Host "=" * 50 -ForegroundColor Green
+Write-Host ("=" * 50) -ForegroundColor Green
 Write-Host ""
 Write-Host "📋 WHAT WAS INSTALLED:" -ForegroundColor Cyan
 Write-Host "✅ PowerShell execution policy set to RemoteSigned" -ForegroundColor White
