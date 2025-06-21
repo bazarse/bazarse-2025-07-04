@@ -12,10 +12,10 @@ $maxLogSize = 5MB
 
 function Write-Log {
     param([string]$Message, [string]$Level = "INFO")
-    
+
     $timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
     $logEntry = "[$timestamp] [$Level] $Message"
-    
+
     # Console output
     switch ($Level) {
         "ERROR" { Write-Host $logEntry -ForegroundColor Red }
@@ -23,14 +23,14 @@ function Write-Log {
         "WARNING" { Write-Host $logEntry -ForegroundColor Yellow }
         default { Write-Host $logEntry -ForegroundColor Cyan }
     }
-    
+
     # File logging
     try {
         # Rotate log if too large
         if ((Test-Path $logFile) -and (Get-Item $logFile).Length -gt $maxLogSize) {
             Move-Item $logFile "$logFile.old" -Force
         }
-        
+
         Add-Content -Path $logFile -Value $logEntry -ErrorAction SilentlyContinue
     } catch {
         # Silent fail for logging
