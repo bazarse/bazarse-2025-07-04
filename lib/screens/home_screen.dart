@@ -5,6 +5,7 @@ import 'package:video_player/video_player.dart';
 import 'package:chewie/chewie.dart';
 import '../constants/colors.dart';
 import '../widgets/animated_background.dart';
+import '../widgets/extraordinary_video_player.dart';
 import '../services/location_service.dart';
 import 'menu_page.dart';
 import 'explore_page.dart';
@@ -35,9 +36,7 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
   late Animation<double> _searchFadeAnimation;
   int _currentSearchIndex = 0;
 
-  // 🔥 VIDEO PLAYER VARIABLES 🔥
-  VideoPlayerController? _videoController;
-  ChewieController? _chewieController;
+
 
   // Auto-changing search suggestions
   final List<String> _searchSuggestions = [
@@ -96,9 +95,6 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
 
     // Start search text animation
     _startSearchAnimation();
-
-    // Initialize video player
-    _initializeVideoPlayer();
   }
 
   // 📍 GET CURRENT LOCATION - SIMPLE & WORKING 📍
@@ -142,38 +138,11 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
     });
   }
 
-  // 🔥 INITIALIZE VIDEO PLAYER 🔥
-  Future<void> _initializeVideoPlayer() async {
-    try {
-      _videoController = VideoPlayerController.asset(
-        'assets/videos/homescreen/cta.mp4',
-      );
-      await _videoController!.initialize();
 
-      _chewieController = ChewieController(
-        videoPlayerController: _videoController!,
-        autoPlay: true,
-        looping: true,
-        showControls: false,
-        aspectRatio: 16 / 9,
-        allowFullScreen: false,
-        allowMuting: false,
-        showControlsOnInitialize: false,
-      );
-
-      if (mounted) {
-        setState(() {});
-      }
-    } catch (e) {
-      print('❌ Error initializing video: $e');
-    }
-  }
 
   @override
   void dispose() {
     _searchAnimationController.dispose();
-    _videoController?.dispose();
-    _chewieController?.dispose();
     super.dispose();
   }
 
@@ -208,10 +177,10 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
                   // Sleek Professional Header - Outstanding Design! 🔥
                   _buildSleekHeader(),
 
-                  const SizedBox(height: 16),
+                  const SizedBox(height: 20),
 
-                  // 🔥 AMAZING 3x1 BAZAR GRID 🔥
-                  _buildAmazingBazarGrid(),
+                  // 🔥 EXTRAORDINARY VIDEO PLAYER 🔥
+                  const ExtraordinaryVideoPlayer(),
 
                   const SizedBox(height: 30),
 
@@ -343,45 +312,7 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
     );
   }
 
-  // 🔥 AUTO-PLAYING VIDEO SECTION 🔥
-  Widget _buildVideoSection() {
-    if (_chewieController == null || !_videoController!.value.isInitialized) {
-      return Container(
-        height: 140, // Reduced height for banner style
-        width: double.infinity, // Full width
-        margin: const EdgeInsets.symmetric(
-          horizontal: 8,
-        ), // Minimal side margins
-        decoration: BoxDecoration(
-          color: Colors.grey[900],
-          borderRadius: BorderRadius.circular(16),
-        ),
-        child: const Center(
-          child: CircularProgressIndicator(color: Colors.blue),
-        ),
-      );
-    }
 
-    return Container(
-      height: 140, // Reduced height for banner style
-      width: double.infinity, // Full width
-      margin: const EdgeInsets.symmetric(horizontal: 8), // Minimal side margins
-      decoration: BoxDecoration(
-        borderRadius: BorderRadius.circular(16),
-        boxShadow: [
-          BoxShadow(
-            color: Colors.blue.withValues(alpha: 0.3),
-            blurRadius: 20,
-            spreadRadius: 2,
-          ),
-        ],
-      ),
-      child: ClipRRect(
-        borderRadius: BorderRadius.circular(16),
-        child: Chewie(controller: _chewieController!),
-      ),
-    );
-  }
 
   // 🔥 CLAIM YOUR BUSINESS BANNER 🔥
   Widget _buildClaimBusinessBanner() {
@@ -490,150 +421,9 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
     );
   }
 
-  // 🔥 AMAZING 3x1 BAZAR GRID - PEOPLE LOVE TO CLICK! 🔥
-  Widget _buildAmazingBazarGrid() {
-    return Container(
-      margin: const EdgeInsets.symmetric(horizontal: 16),
-      child: Row(
-        children: [
-          // AI Bazar - Stunning Blue Gradient
-          Expanded(
-            child: _buildBazarCard(
-              'AI\nBazar',
-              [
-                const Color(0xFF0070FF).withValues(alpha: 0.8), // Bright Blue
-                const Color(0xFF00D4FF).withValues(alpha: 0.6), // Cyan Blue
-                const Color(0xFF87CEEB).withValues(alpha: 0.4), // Sky Blue
-              ],
-              '',
-              () => Navigator.push(
-                context,
-                MaterialPageRoute(builder: (context) => const AIPage()),
-              ),
-            ),
-          ),
-          const SizedBox(width: 12),
 
-          // Explore Bazar - Mesmerizing Purple Gradient
-          Expanded(
-            child: _buildBazarCard(
-              'Explore\nBazar',
-              [
-                const Color(
-                  0xFF7D30F5,
-                ).withValues(alpha: 0.8), // Vibrant Purple
-                const Color(0xFFB347D9).withValues(alpha: 0.6), // Light Purple
-                const Color(0xFFE6E6FA).withValues(alpha: 0.4), // Lavender
-              ],
-              '',
-              () => Navigator.push(
-                context,
-                MaterialPageRoute(builder: (context) => const ExplorePage()),
-              ),
-            ),
-          ),
-          const SizedBox(width: 12),
 
-          // Nearby Bazar - Gorgeous Pink Gradient
-          Expanded(
-            child: _buildBazarCard(
-              'Nearby\nBazar',
-              [
-                const Color(0xFFFF2EB4).withValues(alpha: 0.8), // Hot Pink
-                const Color(0xFFFF69B4).withValues(alpha: 0.6), // Medium Pink
-                const Color(0xFFFFB6C1).withValues(alpha: 0.4), // Light Pink
-              ],
-              '',
-              () => Navigator.push(
-                context,
-                MaterialPageRoute(builder: (context) => const NearbyPage()),
-              ),
-            ),
-          ),
-        ],
-      ),
-    );
-  }
 
-  // 🔥 INDIVIDUAL BAZAR CARD - AMAZING DESIGN WITH PEXELS BACKGROUND! 🔥
-  Widget _buildBazarCard(
-    String title,
-    List<Color> gradientColors,
-    String backgroundImageUrl,
-    VoidCallback onTap,
-  ) {
-    return GestureDetector(
-      onTap: onTap,
-      child: AnimatedContainer(
-        duration: const Duration(milliseconds: 300),
-        height: 120, // Increased height for better visibility
-        decoration: BoxDecoration(
-          borderRadius: BorderRadius.circular(20),
-          boxShadow: [
-            BoxShadow(
-              color: gradientColors[0].withValues(alpha: 0.2),
-              blurRadius: 15,
-              spreadRadius: 3,
-              offset: const Offset(0, 5),
-            ),
-            BoxShadow(
-              color: gradientColors[1].withValues(alpha: 0.1),
-              blurRadius: 25,
-              spreadRadius: 5,
-              offset: const Offset(0, 10),
-            ),
-          ],
-        ),
-        child: ClipRRect(
-          borderRadius: BorderRadius.circular(20),
-          child: Stack(
-            children: [
-              // 🔥 GRADIENT BACKGROUND ONLY 🔥
-              Container(
-                decoration: BoxDecoration(
-                  gradient: LinearGradient(
-                    colors: gradientColors,
-                    begin: Alignment.topLeft,
-                    end: Alignment.bottomRight,
-                  ),
-                ),
-              ),
-
-              // 🔥 TEXT CONTENT 🔥
-              Center(
-                child: Text(
-                  title,
-                  textAlign: TextAlign.center,
-                  style: GoogleFonts.poppins(
-                    color: Colors.white,
-                    fontSize: 16,
-                    fontWeight: FontWeight.w800,
-                    height: 1.2,
-                    shadows: [
-                      Shadow(
-                        color: Colors.black.withValues(alpha: 0.8),
-                        blurRadius: 6,
-                        offset: const Offset(0, 2),
-                      ),
-                      Shadow(
-                        color: Colors.black.withValues(alpha: 0.5),
-                        blurRadius: 12,
-                        offset: const Offset(0, 4),
-                      ),
-                      Shadow(
-                        color: gradientColors[0].withValues(alpha: 0.4),
-                        blurRadius: 15,
-                      ),
-                    ],
-                  ),
-                ),
-              ),
-            ],
-          ),
-        ),
-      ),
-    );
-  }
 
   // 🔥 AMAZING SEARCH BAR WITH AUTO-SUGGESTIONS 🔥
   Widget _buildAnimatedSearchBar() {
