@@ -18,6 +18,10 @@ dependencies:
   geolocator: ^10.1.0
   geocoding: ^2.1.1
   permission_handler: ^11.0.1
+  google_maps_flutter: ^2.5.0
+
+  # State Management
+  provider: ^6.1.1
 
   # Video & Media
   video_player: ^2.8.1

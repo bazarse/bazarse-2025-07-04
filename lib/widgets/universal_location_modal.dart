@@ -3,8 +3,11 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
 import '../constants/colors.dart';
 import '../models/location_context.dart';
+import '../models/saved_location_model.dart';
 import '../services/bazarse_location_service.dart';
+import '../services/enhanced_location_service.dart';
 import '../widgets/animated_background.dart';
+import '../screens/add_location_screen.dart';
 
 // 🚀 UNIVERSAL LOCATION MODAL - GPS, SEARCH, SAVED LOCATIONS 🚀
 class UniversalLocationModal extends StatefulWidget {
@@ -217,21 +220,32 @@ class _UniversalLocationModalState extends State<UniversalLocationModal>
 
         return Padding(
           padding: const EdgeInsets.all(20),
-          child: savedLocations.isEmpty
-              ? _buildEmptySavedState()
-              : ListView.builder(
-                  itemCount: savedLocations.length,
-                  itemBuilder: (context, index) {
-                    final location = savedLocations[index];
-                    return _buildLocationCard(
-                      location,
-                      onTap: () => _selectLocation(location),
-                      showDelete: true,
-                      onDelete: () =>
-                          locationService.removeSavedLocation(location),
-                    );
-                  },
-                ),
+          child: Column(
+            children: [
+              // Add Location Button
+              _buildAddLocationButton(),
+              const SizedBox(height: 16),
+
+              // Content
+              Expanded(
+                child: savedLocations.isEmpty
+                    ? _buildEmptySavedState()
+                    : ListView.builder(
+                        itemCount: savedLocations.length,
+                        itemBuilder: (context, index) {
+                          final location = savedLocations[index];
+                          return _buildLocationCard(
+                            location,
+                            onTap: () => _selectLocation(location),
+                            showDelete: true,
+                            onDelete: () =>
+                                locationService.removeSavedLocation(location),
+                          );
+                        },
+                      ),
+              ),
+            ],
+          ),
         );
       },
     );
@@ -269,6 +283,49 @@ class _UniversalLocationModalState extends State<UniversalLocationModal>
           contentPadding: const EdgeInsets.all(16),
         ),
         onChanged: _onSearchChanged,
+      ),
+    );
+  }
+
+  // ➕ ADD LOCATION BUTTON
+  Widget _buildAddLocationButton() {
+    return Container(
+      width: double.infinity,
+      height: 56,
+      decoration: BoxDecoration(
+        gradient: AppColors.primaryGradient,
+        borderRadius: BorderRadius.circular(12),
+        boxShadow: [
+          BoxShadow(
+            color: AppColors.gradientStart.withValues(alpha: 0.3),
+            blurRadius: 8,
+            spreadRadius: 1,
+          ),
+        ],
+      ),
+      child: Material(
+        color: Colors.transparent,
+        child: InkWell(
+          borderRadius: BorderRadius.circular(12),
+          onTap: _openAddLocationScreen,
+          child: Center(
+            child: Row(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                const Icon(Icons.add_location_alt, color: Colors.white),
+                const SizedBox(width: 8),
+                Text(
+                  'Add Location',
+                  style: GoogleFonts.poppins(
+                    color: Colors.white,
+                    fontWeight: FontWeight.w600,
+                    fontSize: 16,
+                  ),
+                ),
+              ],
+            ),
+          ),
+        ),
       ),
     );
   }
@@ -558,6 +615,28 @@ class _UniversalLocationModalState extends State<UniversalLocationModal>
       setState(() {
         _isSearching = false;
       });
+    }
+  }
+
+  // ➕ OPEN ADD LOCATION SCREEN
+  Future<void> _openAddLocationScreen() async {
+    final result = await Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) => const AddLocationScreen(),
+      ),
+    );
+
+    if (result != null && result is SavedLocationModel) {
+      // Convert SavedLocationModel to LocationContext for compatibility
+      LocationContext locationContext = LocationContext(
+        street: result.streetAddress,
+        locality: result.locality,
+        city: result.city,
+        lat: result.latitude,
+        lng: result.longitude,
+      );
+      _selectLocation(locationContext);
     }
   }
 
