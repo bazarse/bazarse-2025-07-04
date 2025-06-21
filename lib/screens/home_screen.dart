@@ -182,15 +182,19 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
   }
 
   Future<void> _openLocationSelection() async {
-    await UniversalLocationModal.show(
-      context,
-      title: 'Select Your Location',
-      subtitle: 'Choose your location for personalized offers and delivery',
-      onLocationSelected: (LocationContext location) {
-        setState(() {
-          _currentLocation = location.homeDisplayFormat;
-        });
-      },
+    await showModalBottomSheet(
+      context: context,
+      isScrollControlled: true,
+      backgroundColor: Colors.transparent,
+      builder: (context) => UniversalLocationModal(
+        title: 'Select Your Location',
+        subtitle: 'Choose your location for personalized offers and delivery',
+        onLocationSelected: (LocationContext location) {
+          setState(() {
+            _currentLocation = location.homeDisplayFormat;
+          });
+        },
+      ),
     );
   }
 

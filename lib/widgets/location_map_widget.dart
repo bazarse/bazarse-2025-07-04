@@ -311,9 +311,7 @@ class _LocationMapWidgetState extends State<LocationMapWidget> {
 
     try {
       Position position = await Geolocator.getCurrentPosition(
-        locationSettings: const LocationSettings(
-          accuracy: LocationAccuracy.high,
-        ),
+        desiredAccuracy: LocationAccuracy.high,
       );
 
       LatLng currentLatLng = LatLng(position.latitude, position.longitude);

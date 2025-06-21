@@ -76,10 +76,7 @@ class BazarseLocationService extends ChangeNotifier {
 
       // 3. Get current position with high accuracy
       Position position = await Geolocator.getCurrentPosition(
-        locationSettings: const LocationSettings(
-          accuracy: LocationAccuracy.high,
-          distanceFilter: 10,
-        ),
+        desiredAccuracy: LocationAccuracy.high,
       ).timeout(const Duration(seconds: 15));
 
       // 4. Reverse geocode to get address components
