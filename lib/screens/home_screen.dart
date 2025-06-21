@@ -3,10 +3,14 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:video_player/video_player.dart';
 import 'package:chewie/chewie.dart';
+import 'package:provider/provider.dart';
 import '../constants/colors.dart';
 import '../widgets/animated_background.dart';
 import '../widgets/extraordinary_video_player.dart';
 import '../services/location_service.dart';
+import '../services/enhanced_location_service.dart';
+import '../widgets/universal_location_modal.dart';
+import '../models/location_context.dart';
 import 'menu_page.dart';
 import 'explore_page.dart';
 import 'ai_page.dart';
@@ -147,16 +151,20 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
   }
 
   Future<void> _openLocationSelection() async {
-    final result = await Navigator.push(
-      context,
-      MaterialPageRoute(builder: (context) => const UltraLocationScreen()),
+    await showModalBottomSheet(
+      context: context,
+      isScrollControlled: true,
+      backgroundColor: Colors.transparent,
+      builder: (context) => UniversalLocationModal(
+        title: 'Select Your Location',
+        subtitle: 'Choose your location for personalized offers and delivery',
+        onLocationSelected: (LocationContext location) {
+          setState(() {
+            _currentLocation = location.homeDisplayFormat;
+          });
+        },
+      ),
     );
-
-    if (result != null && result is String) {
-      setState(() {
-        _currentLocation = result;
-      });
-    }
   }
 
   @override

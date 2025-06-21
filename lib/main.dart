@@ -1,10 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:provider/provider.dart';
 import 'theme/app_theme.dart';
 import 'screens/splash_screen.dart';
 import 'screens/onboarding_screen.dart';
 import 'screens/home_screen.dart';
 import 'services/firebase_service.dart';
+import 'services/bazarse_location_service.dart';
+import 'services/enhanced_location_service.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -30,23 +33,29 @@ class BazarseApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'bazarse - Naye Bharat Ka AI Bazar',
-      debugShowCheckedModeBanner: false,
-      theme: AppTheme.darkTheme,
-      home: const SplashScreen(),
-      routes: {
-        '/onboarding': (context) => const OnboardingScreen(),
-        '/home': (context) => const HomeScreen(),
-      },
-      builder: (context, child) {
-        return MediaQuery(
-          data: MediaQuery.of(
-            context,
-          ).copyWith(textScaler: const TextScaler.linear(1.0)),
-          child: child!,
-        );
-      },
+    return MultiProvider(
+      providers: [
+        ChangeNotifierProvider(create: (_) => BazarseLocationService()),
+        ChangeNotifierProvider(create: (_) => EnhancedLocationService()),
+      ],
+      child: MaterialApp(
+        title: 'bazarse - Naye Bharat Ka AI Bazar',
+        debugShowCheckedModeBanner: false,
+        theme: AppTheme.darkTheme,
+        home: const SplashScreen(),
+        routes: {
+          '/onboarding': (context) => const OnboardingScreen(),
+          '/home': (context) => const HomeScreen(),
+        },
+        builder: (context, child) {
+          return MediaQuery(
+            data: MediaQuery.of(
+              context,
+            ).copyWith(textScaler: const TextScaler.linear(1.0)),
+            child: child!,
+          );
+        },
+      ),
     );
   }
 }
