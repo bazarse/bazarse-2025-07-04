@@ -1,0 +1,1399 @@
+[
+  {
+    "name": "Federal Bank",
+    "address": "AB Building, Gopal Plaza, No 11, Varruchi Marg, near AK Building, Freeganj, Chauraha, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJV_tQ-Wx0YzkRAJ1vXg5iEo8",
+    "rating": 4.9,
+    "user_ratings_total": 209,
+    "price_level": null,
+    "types": [
+      "bank",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.181018,
+    "longitude": 75.7922486,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfaiutin5DiW27xLzAdUGLcZ1xFk1OVDDzqWNgbxSTUs7WT4gR93ui3mPIF-Qv-kO1vo0caCxe7bN5I4-tB5rxXismhK8uI1QBX0MyFUfKzJlbVjTLct8PU-4EvctkOP6D7ZWVbXgrCA-0KPZZ9aFZX0LOp33_xhy1yrOAxe1xxEOZUyIOC6f9oEmilvKfRLVelXP7I_ys2d2pL57ebPHhq0k36ZjJI1Wpf6ejXaGctIws4UofDT23ixP5brQn1iEid3R6FR3KmWYpu-L6JsA-Yp5pyc3C_IlS89ticZYYWW8ez-P62m18S5n5Z5wM90VFwX5sprTSFeLfsLoHNPHZ47UyF_6NPZz1SZsYSyT6rQDBbCYUxnmRc6HncWBjwZHxwdMWwoEe1472xNhaqh_E6gXylERzgBLCdZdyMigo0Eh6vmIoJNCJI9BxGbvAmjQxrhQqMIBgJAN10ZaY3HkyjE3o8gUfcGgHTPTjrGuYzcpgGdEV1X_B08nS0MA-fNPLKZYZNGjMDGuFYxD3xivxPTelYG0yt6eFvaesFU_o1TTNeHONs3tlcCEjC6ekPAQnK2g&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 251 0110",
+    "website": "https://locations.federalbank.co.in/federal-bank-freeganj-banks-freeganj-ujjain/home",
+    "opening_hours": [
+      "Monday: 10:00 AM – 4:00 PM",
+      "Tuesday: 10:00 AM – 4:00 PM",
+      "Wednesday: 10:00 AM – 4:00 PM",
+      "Thursday: 10:00 AM – 4:00 PM",
+      "Friday: 10:00 AM – 4:00 PM",
+      "Saturday: 10:00 AM – 4:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Ashish Patidar",
+        "author_url": "https://www.google.com/maps/contrib/109322329945729340897/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUVGIy9cvqvXmBXYHbWS1nF-lJsWCZ1z4u2qyJVKPVSv_Q-D0ow=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Super fast service,\nStaff is very clear on their activities and one can get the feeling of professional customer service. Best among the major banks\n\nThings that need double thought\n1. No car parking for bank customers",
+        "time": 1614165957,
+        "translated": false
+      },
+      {
+        "author_name": "Abhiraj Ramchandani",
+        "author_url": "https://www.google.com/maps/contrib/108668313067318869532/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhvdo1NQ3HfVygbgT63uFDYgzC_eU9LXQWpMH7MSRxvnXI9w=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Great customer centric approach. My family has accounts with federal bank since 1975. Best bank in private sector, especially ujjain branch has set high standards in customer service.",
+        "time": 1614063625,
+        "translated": false
+      },
+      {
+        "author_name": "Vinod Rochlani",
+        "author_url": "https://www.google.com/maps/contrib/112704771690975746634/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzCycwwmUECUvCGdhJMoNn6C1WbgPv9mVIdy4-rYg1WT8oNg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Very warm welcoming staff. Nice n clean premise. Good location. Fast services. well done.👌👌",
+        "time": 1614059139,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:58.795873",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Bank of India",
+    "address": "Narang Complex, 25, Bhoj Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJS4esnGt0YzkRK_egIxqvHqA",
+    "rating": 4.2,
+    "user_ratings_total": 13,
+    "price_level": null,
+    "types": [
+      "bank",
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1783124,
+    "longitude": 75.7913421,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeVAOgA_pAP03_6XbBmhRW2qyfgm81HtrZkAUaBYKqpANO6RawTnGJJjAJHgDFBYswu9KCKAVOVqK8tZnzpOzjjEHa9vZfSH2abNhIfYvVNCdzMMwa1WREzeAQ1miLPc6LCvCE18ZxjYFEa1-UPuQCl124dwaK0AAUeu0B9EJXeJIhG5c0KFzP_w0uYsj8bC91Qi-SS8-9LAaU6b6vqYbB7TCPtwjXBpj0nfD6EePNQKsmq5px1I4m6LctQ9P8Y_mvBNJW076XeUJYA53xfDaUk3C6Zs3mng26YnQ7DVn7641BaEk3ItT4pE0sRHnHmWBCaBRbNax4bCAwl2v8wc-wKHvTcvLVfTLzNKNfcIALfw7PebVyFx3bzXfL78Sbolw3kt8vNJTC_ml0PMmI8dIPamPLh1uXeFIYzKwHOPCCyyYS4WKvUMs_FWDFXOU3X9xJNRxpp-ZuuO2DQRsI-Dkv_REV5ucYSWaLzMXeTRvzMWkY75zCZbzl1JzKo2PaCMKyJh8KeKHDScxAgd6CPt5yjQ2DY7hLoaQR1VQ-dbztfJcs1eElK_m87iBolKTEi71zdkLC_ePldZg&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "1800 103 1906",
+    "opening_hours": [
+      "Monday: 10:00 AM – 4:00 PM",
+      "Tuesday: 10:00 AM – 4:00 PM",
+      "Wednesday: 10:00 AM – 4:00 PM",
+      "Thursday: 10:00 AM – 4:00 PM",
+      "Friday: 10:00 AM – 4:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Keshav Sharma",
+        "author_url": "https://www.google.com/maps/contrib/113268792426273512373/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLM7aL9nbpPz6HdmkuIuXETTDDYgqROy70dd6bmJved37N9ag=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "2 months ago",
+        "text": "Employee's are very good",
+        "time": 1745396244,
+        "translated": false
+      },
+      {
+        "author_name": "Atin Jadia",
+        "author_url": "https://www.google.com/maps/contrib/104348808533956521049/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDw9LXWDKWaQMZQ52THEwaLJDTxc5nwmaaD5lmC6i3Qw375fYntA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "9 years ago",
+        "text": "Very efficient and supportive staff .",
+        "time": 1446746300,
+        "translated": false
+      },
+      {
+        "author_name": "Ummehani Light wala",
+        "author_url": "https://www.google.com/maps/contrib/109893454045091401601/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKODToYiYHVPPygMXclmnUTwlRSksn122kDqsBuyCEFxNEKEw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Good\nVery nice",
+        "time": 1710142416,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:58.880443",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "CENTRAL BANK OF INDIA - UJJAIN Branch",
+    "address": "36 37, Varah Mihir Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJb0dym2t0YzkRbBZIq7_Mbn8",
+    "rating": 3.4,
+    "user_ratings_total": 9,
+    "price_level": null,
+    "types": [
+      "bank",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1799632,
+    "longitude": 75.78858699999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdiFQVCXXVhZuDHLt7gXhBACpezS4u7jQ5ro6ZO4mOudnpxaKT28hGo7sWyfPUSJc1OtdlGHBocOxet9wckEf6XMRQR_928P16QN88dc90U2lB_cHlwd_UwSlZOOwblJJB0YsidkRct3l-R3oDJGMoNM8U23jHHdFI8XP2sqtTYQ35cvJR0iuqo--_atiSpri-f3sw4n_X9cPBRc_yzzIJ78ENyZKsAFw36qwoRF8jWCmL2FNVYMsozKs0sVYewPxDOeuigCgsf4_7taEu0kHZZZitUMvj-69-gE98jh4gupTtyP1M&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 256 0740",
+    "website": "https://www.centralbankofindia.co.in/",
+    "reviews": [
+      {
+        "author_name": "Insiya Maksiwala",
+        "author_url": "https://www.google.com/maps/contrib/102240211272897559471/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGli4pQk6VyhBf0p_Ozc-6BYDkXlCHqPARgMIvwh9rhXtVyw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "11 months ago",
+        "text": "The worst bank staff I have ever seen .....things are there in front of their eyes then also they ask me to go round n round n round ...not at all responsible to their duties",
+        "time": 1722333640,
+        "translated": false
+      },
+      {
+        "author_name": "dhananjay dave",
+        "author_url": "https://www.google.com/maps/contrib/110095706209913521241/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIY98Wm0rQ8BKBPhwy1xnpgMCoguzf_E3lZh2wdZ-jn-9VgyQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Courteous and attentive staff",
+        "time": 1708040853,
+        "translated": false
+      },
+      {
+        "author_name": "abhi",
+        "author_url": "https://www.google.com/maps/contrib/116043511508721020558/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5MoizE2Qni2TX-nJaaPBIP5HDpsdCx-DGvOVjhaakLId1Rlg=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "2 years ago",
+        "text": "Bad",
+        "time": 1668167485,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:58.965149",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Axis Bank Branch",
+    "address": "First floor, Survey no.3996 and 3998 3 Plot. 74 Part, Vishvavidhyalay Marg, Ujjain Dewas Rd, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJT6TFI290YzkRiXidVsUubp0",
+    "rating": 3.4,
+    "user_ratings_total": 30,
+    "price_level": null,
+    "types": [
+      "bank",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1735061,
+    "longitude": 75.7920949,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdVoDnn0_6ysvVrnrNq_rjaV5BhkaBcr6hqXxvuT5sKyO9RGzVQNmR1hdSwo1aGWFFD2C4l9Sn-5ajNZmas22Pdwol4WGl8Sr2tfLZJ8Bvf14szRXMbQqLkILO5tCRrNZGP0A10wCoMyJADJd_LiiBLTVTm2hgj_Ie5AGFcISH7GvQPt6x0xA8TcbneG_u880f94JFQ08fTSLyJAFq8OVTEa2WEiWE4wrjGflHYtwjivEP1mv_OpcFCEAcAh5AUQSEIeSPjplX3w3yagbMJ-tCCC1hh1aMjhMSGYI7a-l8hBN7eQ1qLWJw6y9upJ0Rzeu3fGpipQwd31gtvhlBUm2cIs3WAxzyGhFZMOvRnnZ774IuPHkgweX8-jZGpfx8FdPlkskAIuy0l7mhfPf0NejhImxzwN6sOS_tzv-8-D_dFpxcNWRGEytENs3cITp-jV8gSQEGYyds2TqiCN4lF9GgDM4Xd1a58NPTLaS_uYnnRROodxQQ2mKqJLsPCqWAmRxd8kQtyJ-ysb3vhjZigOrLi3HV9mYWJhJ1vwfujerUHlM9W7Hks64aULEdHGwuEhyc1gUaM&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "1860 500 5555",
+    "website": "https://branch.axisbank.com/axis-bank-ujjain-bank-branch-ujjain-madhya-pradesh-37477/Home?utm_source=locator&utm_medium=googleplaces",
+    "opening_hours": [
+      "Monday: 9:30 AM – 3:30 PM",
+      "Tuesday: 9:30 AM – 3:30 PM",
+      "Wednesday: 9:30 AM – 3:30 PM",
+      "Thursday: 9:30 AM – 3:30 PM",
+      "Friday: 9:30 AM – 3:30 PM",
+      "Saturday: 9:30 AM – 3:30 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Pradeep Agrawal",
+        "author_url": "https://www.google.com/maps/contrib/105139721280640303141/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVAusVSVy2CLDWzXfqigNwENcR3iKzY8SSVZGkdIijomKZiiwJ6SQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "I visited the Axis Bank Ujjain branch to inquire about home loan rates and the process for obtaining one. I own a plot of land for the past 15 years and plan to construct on it. I met the branch manager, Ms. Rani, who provided all the information I needed. I am very satisfied with her response.",
+        "time": 1750912888,
+        "translated": false
+      },
+      {
+        "author_name": "Harsh Gupta",
+        "author_url": "https://www.google.com/maps/contrib/113311751704705554233/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtYc0866S1QDDwLLy6Y0KBGgV1XzlnH5zDNGvjUOaQ6wpf2r8F=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "The Branch Manager is extremely supportive and helpful. I visited the branch today, and she promptly resolved my concerns, addressing all my queries with great professionalism. I am very pleased and highly impressed by Axis Bank.\n\n5/5 rating for Axis Bank Dewas Road Ujjain Branch.",
+        "time": 1741259114,
+        "translated": false
+      },
+      {
+        "author_name": "Arpit Motwani",
+        "author_url": "https://www.google.com/maps/contrib/103431319917914617604/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXj0cPWPFLbm6FxFOegB5C0dZe9wl_L-X5RSRr_FDGtYzBvnWM=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Pathetic people. Very ignorant and illiterate. They do fraud and claim that they're right, you're wrong. Please refrain yourself of having account in such banks. They just fool you with the name of giving services and deduct a hell lot of money from your account just on the name of services. For me most of the time they say that this service is free that service is free and they always charge. Recently they deducted 5K from account even after confirming multiple times that there's no charges. Don't open your account in such banks.\n\n#axis_bank_fraud",
+        "time": 1714044692,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:59.061947",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "ICICI Bank Ltd.,Ujjain",
+    "address": "ICICI Bank Ltd, 84, Madhav Club Rd, Bada Bazar Kaytha, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJI-bJfHt0YzkRcrqkzJOmbT8",
+    "rating": 3.1,
+    "user_ratings_total": 22,
+    "price_level": null,
+    "types": [
+      "bank",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1788829,
+    "longitude": 75.785597,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpd5B3TJZijfXimCAlyGfZt_3h5SNSFfIPa2zy55Rrt1zGqdv26jc6pgNwOiZS6rwumLMb4LrUm5b18rzTOKOqizzTNkxcYOEYbHfUBufmwYBrxH9dEM_uqGubpEMSO4u8No2ylXutmhO4I8th8TDhKr9icaMsFSyA4JBUkyFF049hMVqUaZGxd4Bd-j_XxQzq-lGdYrzEJ_x9EtweasioT_ZWQ0OARAWELFGwDzvyn6IquYbODtXKVM6oJW_CV5RCj9OVuXONG9tf0cN6ZaqP6G-me517281uPlrQsopss-9jAHDAUkhA6PaIpYZcwa946WTx-YaNcgK0LJPOTCatgBlTrMSFkBiV7HVJpi7x29uYCjkliu9j9igFQXKbdLORFf7Mi9RTtTEFuK3pKFrGL16A15Eg4onZg4oorN7_XD9DY07kFaiIp-iM6uKgF0e2Ic9uFK5ZrwY_2CvljtRv2TUnvut0spCUcXC1EeSE_XypEuTFgn0h1qPpYaXJbIwYvagYGJCZinaUynhBxS3cyq2meHFbhq055x_0QcjlvtE-OJ-j3Ka44jTG3iJk5oOlor7n1_fVKIpQ&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "1800 1080",
+    "website": "https://maps.icicibank.com/mobile",
+    "opening_hours": [
+      "Monday: 9:30 AM – 3:00 PM",
+      "Tuesday: 9:30 AM – 3:00 PM",
+      "Wednesday: 9:30 AM – 3:00 PM",
+      "Thursday: 9:30 AM – 3:00 PM",
+      "Friday: 9:30 AM – 3:00 PM",
+      "Saturday: 9:30 AM – 3:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Khushi Sunil Maheshwari",
+        "author_url": "https://www.google.com/maps/contrib/109757244127133069180/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBbhEjj3t9bVxlZKw1QhKgjfibKLIwaZ1EmylsqAtEjhuEJBrY=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "11 months ago",
+        "text": "ICICI Bank, Teen Batti Chouraha, Ujjain\nToo long lines, not supportive staff and very slow process at Cash Counter. Not good for outside branches customers because this branch only accepting Ujjain branch people's cash deposit and others have to deposit by ATM and most of the times ATM Guard is doing time pass in his mobile phone.",
+        "time": 1722844669,
+        "translated": false
+      },
+      {
+        "author_name": "Rishabh Agrawal",
+        "author_url": "https://www.google.com/maps/contrib/106987942503536705418/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgaWUFspavD03J8uEozqOKXE9Jxzz_uDjW0D8yn4EX9LghVIvl=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 months ago",
+        "text": "ICICI Divine Valley Ujjain\nThanks to all Staff & Specially BM for hopeless behavior.",
+        "time": 1740728315,
+        "translated": false
+      },
+      {
+        "author_name": "Omprakash Patel",
+        "author_url": "https://www.google.com/maps/contrib/113907273025983875760/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUAMnTliqH7jxuO3NB65UYD05ulVQ_ZZEog7v_LmWgpvCFS7ufKA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 years ago",
+        "text": "Recently I visited to ICICI bank freeganj teen batti square, ujjain branch. For some account information. I asked my query to Mr Rahul Sahi. Without checking in system is was saying k customer care par baat kar lijiy.. mujhe kuch nai pata. I am surprised with ICICI bank service.. jab mujhe customer care par hi call karna h to me pata nai bank visit kyo kiya..",
+        "time": 1506333176,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:59.144664",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Bank of India",
+    "address": "216 A, Sethi Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJC7DtAXd0YzkRDcDdjnJfW2c",
+    "rating": 3.9,
+    "user_ratings_total": 28,
+    "price_level": null,
+    "types": [
+      "bank",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1759249,
+    "longitude": 75.8036743,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfR75OmsJiXXMIWhIP8r-ZD9TqMKwx-a7oswWh4qWIodn4YWDUlkzlX0dQgJ0UVwiekXGlrPQr4A7oB-S--Twwiqj8tpFLFyd2fgNAsBcdxlul8zSeh-03-eQpOdY9MNiZhTz4HCCFmcumPSgjAH9f8dK8OPfiVjzXMHf7E71HAftF51xVPrxK3AfrnDXCan4GLhHTmqLqHNWJfb-Oy9UXz01z7vkQ4jQRn8s1XrODO2yXvJ-1s-GZnPzBWpDQGong_TQVr8ONwPqxxKGKL-AO4RE3LHoJyOQUUmZh5eBeiSYlVZ_J1FD3JF0fW5LFEtuBSATAbDCFi6Dt9I45fNR9SVe0p4EVfc08iJ6HAlilmtd340sms9EiCmSfHx5gl-tDJNblVxMppnMWfMd0L2xTjjqYxen232ZB2eZuQdqZ_0HBX3X72lCh2o1GxiUqzuuvhx68dCd0oKWPTEqrIrHchjOaFcNsG15UeXe1Y5Jh-SA6B-zLsFX6nEpIIiYxFNLV_Kt-9RxMXfBxGqCDJKe5savRQFyfcnGbJ47BAVeCvmJKY_81cHYOujD8n-HItMvI67c5PHDwhTg&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 251 9763",
+    "opening_hours": [
+      "Monday: 10:00 AM – 4:00 PM",
+      "Tuesday: 10:00 AM – 4:00 PM",
+      "Wednesday: 10:00 AM – 4:00 PM",
+      "Thursday: 10:00 AM – 4:00 PM",
+      "Friday: 10:00 AM – 4:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Talib Khan",
+        "author_url": "https://www.google.com/maps/contrib/108349933299102687122/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXMHyzQOwd4AMv8Kc5RT7OSbsxx52TK_WEp4vjTY887hTurq4=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "Call pr koi respons nhi de rha or na hi koi other number add h online me\nI request for bank manager add other number",
+        "time": 1743582008,
+        "translated": false
+      },
+      {
+        "author_name": "Rajendra Gill",
+        "author_url": "https://www.google.com/maps/contrib/114534020182105272914/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQJpyxmknXjib630kDydyu8wc_JRjOmrBJeWtiwcDYp0_W9xHx=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "No ATM Near me otherwise always out of order",
+        "time": 1700211026,
+        "translated": false
+      },
+      {
+        "author_name": "Nikhil Patidar",
+        "author_url": "https://www.google.com/maps/contrib/115539484719350913805/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCpR6CEWGl9SU_IuXCLIQoR6AyEbeu3fdwGOgi9bOYoCXJQ9vm=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Nice behaviour of employees and providing  good service 👍",
+        "time": 1614342428,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:59.240525",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Union Bank of India",
+    "address": "Shivansh Vishala Kshetra, B-4 HIG, Dewas Rd, Rishi Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJHcPEnHt0YzkRwqGmIhSvrrE",
+    "rating": 3.2,
+    "user_ratings_total": 33,
+    "price_level": null,
+    "types": [
+      "bank",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.167324,
+    "longitude": 75.799204,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcAVztGb3x6HQy5K4VSabNkncISPf3zV8Sbgg9CMcEoGKmU93785S4S4fwFRrYsam_O4KWPDocNn69x39czOOyLORQmQuGNBjYqzpJ_1EmdX08ANji7DvpbwazXe-R-j0qWvZBNV9tmJeomSJdYmLT2Vz4Gm_0Ca2vo47AX4RPDy5vhVsEYwlDaxBkkh8KCcB0Ub52y36QWOnMWqqlcfr0WcyZcABXd93N6TWoTIHtHIXx2qmWevQA3uCVYO23DngQ9Ck6MBDIdUIoSomKEjyo_XbN4ui_DDAvvJCWpu7qpj_Y65EjbaPCD5LqSRCm0z2GLHH31f6u3J7NSEncy7tkrvELvwL_jolI4koC8nfvHAnZFRwESHp-QutTOctnW3wvEpHT40QpGUuw_OOi-enjVu_kzYQqJXcQNCEO4iavmDHwHV9xt_ULnbsSlzbWklRiQhh14jVQkR0KzlwUhyiKvdstI1jxsKl2EiplFauXwJvKbH1NvsyoA0XDrMazZaz5CJSz1M9m2u_4byRXmeVTFuJ4ho0MCbMrvKohilfL3I8l_bSfsxiFPO8GYl4yqKxwPVgu6&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 252 1772",
+    "website": "https://unionbankofindia.co.in/",
+    "opening_hours": [
+      "Monday: 10:00 AM – 4:00 PM",
+      "Tuesday: 10:00 AM – 4:00 PM",
+      "Wednesday: 10:00 AM – 4:00 PM",
+      "Thursday: 10:00 AM – 4:00 PM",
+      "Friday: 10:00 AM – 4:00 PM",
+      "Saturday: 10:00 AM – 4:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "kailash chouhan",
+        "author_url": "https://www.google.com/maps/contrib/115176735572139084310/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLfgUf2V-W197D5C2uGu-Rr3YXJ4l0pCOAwWYb_Hdh75q8igw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Union Bank of India Rishi Nagar is the most comfortable bank.Branch Manager & all staffs are very helpful. Education loan of my both sons have been taken from the branch. I am fully satisfied with the services provided by the branch.",
+        "time": 1719557034,
+        "translated": false
+      },
+      {
+        "author_name": "Shubham Pal",
+        "author_url": "https://www.google.com/maps/contrib/109153232814011886833/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEEJF5IUV9y-bGApTyPfITJuFTl0NCWOaUcVNVIw0AO5oYC3jk=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Very lazy employees even manger can’t say anything to their employees they don’t care about customers time Gold loan provider ma’am is so slow they all time doing timepass",
+        "time": 1695893892,
+        "translated": false
+      },
+      {
+        "author_name": "YOGESH SOLANKI",
+        "author_url": "https://www.google.com/maps/contrib/111523346877773537828/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocICOGZPTHrWDl1KeMPC9RmZcCvbgN-PNJ8FSsI9sUmHONJ9yg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "The services provided by union bank of india rishi nagar branch are amazing or the nature of all the bank staff here is also very coperative or the services provided by the bank from time to time are very useful for all the customers",
+        "time": 1719418220,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:59.319124",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "State Bank of India",
+    "address": "5QRH+C6C, Budhwaria Rd, Vikramaditya Cloth Market, Patel Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ4bmEhzx0YzkREhsBR1duPVY",
+    "rating": 3.2,
+    "user_ratings_total": 48,
+    "price_level": null,
+    "types": [
+      "atm",
+      "bank",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1910502,
+    "longitude": 75.77800049999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcSnx-Jam312ijBVNQVzxiGKZRwbhOJ1jkQu1Dm4FEVE6Ltum0XVHjR3v4KeDRqocHZsFoTpyFYDuvOe_JIC_TI2HfCnuWlkbLEr3gb8Bt0TB50fOFZ3nmyn5p8I6VcMXPXhmYgE9G7AF8mcpwgSbOEiNKD0X1kmQI0MhKFunJTeke7TeR_TNL6Q2GEgvhDwsxLJz63cRc8BXbllNpYRZf6yLTj-Sd26o5c5bIBiCo8DhSzZA4472cg9U0CadjePNSDF39L62gzfrVvJGO6MzlnvEhYfdyPW23uUvbd-Z74DnIJ8qKVI2tpyG32Hrt0L_0-ADk0pKnjxl84BqaKL4-EXnhZjCJ2kQKNFeKjwPg0plKlwU7bd5ThlcTQ_XO7Wo85FFrDwVLTwisNnfrDG1LF35y6d95OxngoBdJmu3yhFqjrnTDNR7QXCplQJS2G1Dl-Aw7CdwTsf1qokG4DoZ9a9IjDhzCjzB4e9VU_SxmV0s68-Od0-0OKsrQyoc-E2oo9c_UWWwrSuAc3xqdQ1MuSmC1nRBhlS68BbKX9CLXZOVO3MzDwv85i379iOEkqj1up3H_-jtxM7g&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 255 3915",
+    "opening_hours": [
+      "Monday: 10:00 AM – 4:00 PM",
+      "Tuesday: 10:00 AM – 4:00 PM",
+      "Wednesday: 10:00 AM – 4:00 PM",
+      "Thursday: 10:00 AM – 4:00 PM",
+      "Friday: 10:00 AM – 4:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "raj patel",
+        "author_url": "https://www.google.com/maps/contrib/106147529168655220648/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjaW7L6WTncXDeKpkNk3HKrsylVdGm2-sCTbQQq3EFgSthgA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "9 months ago",
+        "text": "Do not put anything in locker of this branch, they have stolen items from locker. I have not received my losses items from years",
+        "time": 1725866538,
+        "translated": false
+      },
+      {
+        "author_name": "Bal kishan purohit",
+        "author_url": "https://www.google.com/maps/contrib/106587303412670108596/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU17Z5CeJcYl0u7REMBTLawYoZ_d-7v0RY3yPasnLbu7K7b34ke=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "the best Bank of India largest number of customers have too many and Eid all the Banking and Insurance services mutual fund and SIP also.\none of the best bank in the world.\nevery Indian should proud on this Bank.\nthis bank has reliable service and quick service.\nwe cant describe this specification in the words.\nevery Indian should open account in this Bank in this bank and feel proud.",
+        "time": 1566224426,
+        "translated": false
+      },
+      {
+        "author_name": "Avinash Meena",
+        "author_url": "https://www.google.com/maps/contrib/108530411177225896827/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKjk6BEXsTwKCFgPs0ZVWRgEZlLMzUfN_zlz1vlvUiNhiwqyM-b=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "5 years ago",
+        "text": "bad staff behavior, and  you have to wait approx one hour to get cash deposited, most crowded branch and i will prefer BOB ksheer Sagar branch or PNB kanthal Branch for Your daily needs of banking if you are businness person my personal advice is BOB , best PSU bank to bank with ,highly preferred.(i have converted my SBi account to BSBDA account beacuse of their minimum balance(3000rs) and  BOB Minimum balance is 2000 and their service is also Best.",
+        "time": 1569174231,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:59.412381",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "CANARA BANK - UJJAIN FREE GANJ",
+    "address": "#18, SUNDAR DAIRY CHOURAHA, BETAL MARG, Freeganj, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJuY4EgOB1YzkRZ3MAQYcwzJ8",
+    "rating": 3.8,
+    "user_ratings_total": 14,
+    "price_level": null,
+    "types": [
+      "bank",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1807387,
+    "longitude": 75.7911563,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpe5EbsBe9-T96uK1H4E8yT-kMurb3kVHyZYiSfNY-6N87xA0rx-Q9t2fx25MA4x6Am8_I-TpCvVVyHrEw-m5-Zkll2YMcf44qF3zSjWoZDKGuCyB5riclpNAVgWxq1y92m9axpxcBcx_JWSxO8G8XwrE2H6O5ZWdsLtUuOyUNS2vn1XW9BhnLfUoCP4YPZxvsSsjHon2GCjgacqosBt6-2-6jB8vp2zeJLP4475f37nejIIHEcYvI6HUKJLthQABPbjSoESn3D84sgNaUAgbOj2BXGixvrWWbSGUPnbFUzqmDzKJ8cSbxOrrRWXnsMvFY2jn7eCvN7uAplQeHUCphoDvukUDx7LCSjdiu-2DIjcwcLFpDte4dexRXEu0yO9BcfL_5a5_xAAkZGDaObVuWxYGEteRjjM1LJHFYOlHk-Z19o8rC949VrzkJ0Opq6otAtP8iR5o7-xz4Oq4ttuxibbk2td6Wfd08ioEApAcaPI3T7nZ4YdBomwBrzK7k7U__5zNTFnw_AD1ktKmlhcFa2zVamq6bbSOiVcP6UbYzbLzKeL554WDBC0d06n--pHlLzX_JOe&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "1800 1030",
+    "website": "https://www.canarabank.com/",
+    "opening_hours": [
+      "Monday: 10:00 AM – 4:00 PM",
+      "Tuesday: 10:00 AM – 4:00 PM",
+      "Wednesday: 10:00 AM – 4:00 PM",
+      "Thursday: 10:00 AM – 4:00 PM",
+      "Friday: 10:00 AM – 4:00 PM",
+      "Saturday: 10:00 AM – 4:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Dhiraj Parmar",
+        "author_url": "https://www.google.com/maps/contrib/101374455266497465859/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJONrSbnK-f1SB3dq76KfkrY3QP14Q9ufDirrV1iryAruiRVg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 years ago",
+        "text": "Worstt worst worst service\nAll the employes are uneducated and have no manners to talk\nThe bank manager should change the employes because they don't deserve it.",
+        "time": 1621067703,
+        "translated": false
+      },
+      {
+        "author_name": "Neal Nagar",
+        "author_url": "https://www.google.com/maps/contrib/116931963064875208659/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdJVCcrh3csxoX1e9I3gtCRMjReEoHf6SqxjYh5_kyktfCP3B9=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "6 years ago",
+        "text": "Maximum time ATM nit working.",
+        "time": 1535107911,
+        "translated": false
+      },
+      {
+        "author_name": "Mohit Nayak",
+        "author_url": "https://www.google.com/maps/contrib/108253778778377988742/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXVd_3GIGIZpAvC3jfhjLr9M4OLMwgPDK-Hp68vWO-ryjHZ-HSBw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Pathetic employee's response. Lethargic and irresponsible staff.",
+        "time": 1712317210,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:59.507499",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "IDFC FIRST Bank - Ujjain Branch",
+    "address": "Ground and First Floor, Subhash Nagar Colony, Sanwer Rd, nearby Do Talaab, Rishi Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJCzKmKHF1YzkR_ozacvCyGOs",
+    "rating": 3.7,
+    "user_ratings_total": 23,
+    "price_level": null,
+    "types": [
+      "bank",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1667667,
+    "longitude": 75.78901019999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpd77u_namoQi-MVG91uHSGe01EbSkyaKS5Eq_nTgqK0R5ccbaYQTCkeIEmCitwOV46kCuHaDhkv8yAI1_tt_Vafsl7oOKiIsAZpZsVNmKJOiyTdzPCX3YgzEeNq-d26AgA7AqnEHVEF92VQphEsPNuP1OIojfxOfRObasB-xGqspba5H8JdY8cJno5H_hy9tQm2xWg3amLEoZELzh9aTpgu5uxxdHscwSHQ2K9JJvsWd2FBzHyNvqM7ojnE1YvrJVSPwY5qjj57nFm6du5RXLB3fzQ3vinj8Eiv1xf_D-m8kdcl7otaDeLvyVXiYrENd9Q2EEtdEejMONhOWMbx93Q5zg7aotuV-P_UtP8UbYxAkdjx9f0ZIhYVIQrWsVSSrcluQ_i2bcKtJ_nwctIZrKf8LpoDq7hiPuJ6qnmGuBXWnGfset86yzEGezb_ZsRHTyRhCUzKT8ha-FQuHGvybsKfSKb8yqUpI_mCzsFl7oBL0qZS3x70cezvOVhXfav8uoTtaUdPAzX-AEQwkCPk88DeLc7jdRYrRZLtknHPjqNlJcfgI9APg9JyUzL5piT_Oiywmw&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "1800 10888",
+    "website": "https://nearme.idfcfirstbank.com/idfc-first-bank/branches-in-ujjain/branches-in-rishi-nagar/idfc-first-bank-in-rishi-nagar-ujjain--d483334f-3d2e-4a20-993f-2f5c16afc6d8/home",
+    "opening_hours": [
+      "Monday: 9:30 AM – 4:30 PM",
+      "Tuesday: 9:30 AM – 4:30 PM",
+      "Wednesday: 9:30 AM – 4:30 PM",
+      "Thursday: 9:30 AM – 4:30 PM",
+      "Friday: 9:30 AM – 4:30 PM",
+      "Saturday: 9:30 AM – 4:30 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Kusum Rawat",
+        "author_url": "https://www.google.com/maps/contrib/115827849169362910680/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLMoopj3kkEf3XpoyuYM_khKpOKJmCKiwvhSc2_E4ed0FVrng=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 months ago",
+        "text": "The service of the office workers is not good at all and the way they come to the office for work is not right and they come to the home address only and not to the office address.",
+        "time": 1739856171,
+        "translated": false
+      },
+      {
+        "author_name": "Ayush Prajapat",
+        "author_url": "https://www.google.com/maps/contrib/107664132373438310864/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1-96wwq4O5Z3JF7yteS4PGaU8gYVrDR-jIGghgv3lF8CZJ-bI=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "5 years ago",
+        "text": "This bank is near by this beautiful lake and play ground",
+        "time": 1573024416,
+        "translated": false
+      },
+      {
+        "author_name": "Amit Kumar Sahu",
+        "author_url": "https://www.google.com/maps/contrib/106811454459186565946/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5n1_F3dYp-sn1ajO7Sp7dQgL1w0yWnzzt6kUvmAoR9ZMS1Sx5=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "One of the best and fastest banking services by the staff of IDFC bank Ujjain Branch.",
+        "time": 1538411768,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:59.603119",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Bank of Maharashtra - Ujjain Charitable Trust Hospital & Res.Ctr., Ujjain Branch",
+    "address": "Charitable Trust Branch 4, Sanwer Rd, nearby Hotel Mahadev Paradise, Mahaveer Nagar, L.P. Bhargav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ97hn1mV0YzkRI5FoRvpdCLU",
+    "rating": 4.5,
+    "user_ratings_total": 13,
+    "price_level": null,
+    "types": [
+      "bank",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1692864,
+    "longitude": 75.78959329999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeF_A1SnBjvE_d34oJisCHg9PY0DIXfB8uiHnVp5yiEs4KM0cZdbCD6AR3Lq6byylOpDrsBJnH5pWM13je6HyfXrUAoVJB_-65pf9wTqoxitheJjl8Mf0Vc65kJ675N3lUuRr8h6-rDoEjrsW_RNb7J1eKDx8mw2GgWhDm0MQqLmVU8cZXttn4ABSPEvu5qubBO4hS5o0A30Q2ImaHtZ8w6lOoNB3aXUNyZBaiyjiNb95DORoKJNcEzM9w81aLMUMuxp9GrigqnMl99iHDsI_q7iuWteMKnFvONXT9e9zyS0I3aVSM0y6dekCRtpedEWxr316DYi3D1wqyHx2jE8SBICA7rZNizsTgkieCD70YdOYvLdQYj4GaCA9jzomvYdW8avqUWF9P32lOALmeCPrFZIseaEmFss4ySqUmztAkZw6RFprSxuGcmIa-C9ybJc0N9riPZ_zW4pgxB88nA_8TRg-4OoaVzCdxR_1Upjj-SQS2rV0XH0d2EZ02pD78ItOWeZUeVc-FnJE3xezR2Xem3XseSbMss1x_JEZj-lnOYzbcqMbrrLa4_k_GXToIvC6cCsqULHC8BXg&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "1800 233 4526",
+    "website": "https://branch-atm-locator.bankofmaharashtra.in/bank-of-maharastra/banks-in-ujjain/banks-in-mahavir-nagar/bank-of-maharashtra-in-mahavir-nagar-ujjain--4bb29c84-a1ec-4eab-8e0d-e5db169c3a70/home",
+    "opening_hours": [
+      "Monday: 10:00 AM – 5:00 PM",
+      "Tuesday: 10:00 AM – 5:00 PM",
+      "Wednesday: 10:00 AM – 5:00 PM",
+      "Thursday: 10:00 AM – 5:00 PM",
+      "Friday: 10:00 AM – 5:00 PM",
+      "Saturday: 10:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Sandeep Kumar",
+        "author_url": "https://www.google.com/maps/contrib/108299545849788506918/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUuPOowJ4eGrF5mCK0mXDE_bflSggA5lHZCYLoua6kWStsmiBH9Jg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "This is all a useless bank service is poor, first of all, they do not give good response to the customer, what a stupid bank they are..😡😡😡",
+        "time": 1697882422,
+        "translated": false
+      },
+      {
+        "author_name": "Ramesh Kumar",
+        "author_url": "https://www.google.com/maps/contrib/100613554471769227739/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUcovaa-9TN20ifEYugtbLKsjJFBCt1Oycb1XnCTDett77LOjg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "7 years ago",
+        "text": "BANK OF MAHARASHTRA BRANCH NR. DO TALAB LOCATION AT UJJAIN",
+        "time": 1499445628,
+        "translated": false
+      },
+      {
+        "author_name": "v.k. joshi",
+        "author_url": "https://www.google.com/maps/contrib/118136004229618491816/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLjwlrru4OoeaiSyN7f0qs17O1A6-gNcF5gfOwIamaOwfwLdQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "New no is correct landline no of branch",
+        "time": 1567441182,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:59.687854",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Union Bank of India",
+    "address": "Nanakheda B-13/4 Mahakal Vanijya Kendra, Nanakheda, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJC9vi-Yh0YzkR57r05Pi1SGM",
+    "rating": 4.6,
+    "user_ratings_total": 17,
+    "price_level": null,
+    "types": [
+      "bank",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.157262,
+    "longitude": 75.79325899999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfaCAFIMYg9XnF27CHY8IJkl0BoD0AEJTzL5Hlaef2_4zXawxvQoIPebk_bU5c_o4P9WqmFhig6MuEb4mQfwERaFE7JI-EV_nQOPDUBue1rn2qpZ4uqDeZ6baJ5JWLtiEAScGVlGurLdZW0_D1oQ_No-PbdOWJWzKVIZNpJzV_3iSLwhlJ7txsGRjG9kspqAZf11Q0SVPqEibl5jlHefiqqw0FXOZC8q6A1aAaFNrYTGluDWXeceHPjuld6ImCAcuefhDVDK5JY0djpSE1p8zhx45Y1OU5HPblG-7WDqHKvj8aGAh_x0ZEtlbw-_07-8ds2AOA-uZYYWtVPRGKOfqoqfUUKdGYSda7sjg-D14bRLeIr121TWXEs1q9quJDvywpokU3gXLLR1jbgO3d8FisyXO4w2pyPoEVFVC6UbH7AfWfVTHNuwbCZHjYnTvqfxzLdZrVm7yQvEAtO43heFkstDJ3WQf8p7i0hyhf3dHC239IQ2Zr3yvIsF2xwepisZ6OlmNKjJVyoe8BhMw76cMcHspWLlA8UEmwKY7cS55ujP9SGfiwdoVARLu1sXTgal3eaaDVl&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "091375 65220",
+    "website": "https://unionbankofindia.co.in/",
+    "opening_hours": [
+      "Monday: 10:00 AM – 4:00 PM",
+      "Tuesday: 10:00 AM – 4:00 PM",
+      "Wednesday: 10:00 AM – 4:00 PM",
+      "Thursday: 10:00 AM – 4:00 PM",
+      "Friday: 10:00 AM – 4:00 PM",
+      "Saturday: 10:00 AM – 4:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Bhavesh Dhananjay",
+        "author_url": "https://www.google.com/maps/contrib/114381733778137043230/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTALKC8pLOJ21mNBEuyJYka0dkisyto8ElCiDibHeb5VI_PLE=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "Union Bank of India is one of the largest government-owned banks of India. Passbook printing machine, cash deposit machine, cash withdrawal facility is present at the outside of the branch. Some of the staffs are here is rude and unprofessional but some are polite. That’s why i give 4 stars instead of 5.",
+        "time": 1709284169,
+        "translated": false
+      },
+      {
+        "author_name": "Chetan Pendharkar",
+        "author_url": "https://www.google.com/maps/contrib/101164894588451238451/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmUtrPvbGgVjLrFhrOA3-nJYeKJOQy3yjrNDsjystuWpnkY5aJ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Very good service.\n\nI have account at this branch from past 13 years. Staff behaviour is very good and they are very helpful.",
+        "time": 1684584565,
+        "translated": false
+      },
+      {
+        "author_name": "kapil jadav",
+        "author_url": "https://www.google.com/maps/contrib/103301802328711160834/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXmOlw9wwWaAcAxlcg2kRLxvnr_SsArB_5PQVQtXrvwUw_Cutf=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "Branch is here. Passbook machine+cash deposit machine+ atm present outside branch.",
+        "time": 1626358295,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:59.765776",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Karnataka Bank - Ujjain Branch",
+    "address": "22, Shanku Marg, near Capri Gold Loan, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJewxbdWx0YzkR0K1co3sKWts",
+    "rating": 4.2,
+    "user_ratings_total": 9,
+    "price_level": null,
+    "types": [
+      "bank",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1769753,
+    "longitude": 75.78955289999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdSzAt4xbM-bOmgS9Lds0PZ_eOTLFvtvYGM4Ym6l3gheVLEqcBqi8T8j-7_gpEFwbHRh7-D23eH9J6npxxs0nqNVlqehkEXu_ENMsBtWe4q3epRD2iVhb7M_Bl6YkTpKWH2eVPqHSwCB83Ep41CMCYp-ym3A_T9O5X6CjavPQjD4xjPcM7hqQOkiCSgGsYO501lN84AH5pI8C7CMn_b4_po7l7EEeu-O6ToaAXPYnHzj3I5ZA-vy7EJoRdFfyubN-r-_o4pFadpj183pcgVNhCA_olkgUH5Bt8QpCg0u_k-Sx4hR_4&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "080 4456 6266",
+    "website": "https://locations.karnatakabank.com/bank-near-madhav-nagar-ujjain-madhya-pradesh",
+    "opening_hours": [
+      "Monday: 10:00 AM – 5:00 PM",
+      "Tuesday: 10:00 AM – 5:00 PM",
+      "Wednesday: 10:00 AM – 5:00 PM",
+      "Thursday: 10:00 AM – 5:00 PM",
+      "Friday: 10:00 AM – 5:00 PM",
+      "Saturday: 10:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Surya Naik",
+        "author_url": "https://www.google.com/maps/contrib/104413131342748068052/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLsy8a2Ul8EjDy0NGG8vPZfORBBWovW-UuMJ9THP-lhYHRFDQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Best bank in the city….superb service by the staff….",
+        "time": 1707030580,
+        "translated": false
+      },
+      {
+        "author_name": "tapas nath",
+        "author_url": "https://www.google.com/maps/contrib/105069768439691418296/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBbXsDOvVlXe-wipkbhiSZBbmJdZ3c9mN2NV0LUta3BfXvXg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Good service compare to other bank",
+        "time": 1653446577,
+        "translated": false
+      },
+      {
+        "author_name": "sandeep kumar",
+        "author_url": "https://www.google.com/maps/contrib/116520458158832351710/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhcIVDrWQh6fIQga3f1l45uBliEAZzbn0SrSmpmHNtqSa5YydM=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Best bank with best service and very cooperative staff members",
+        "time": 1664735254,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:59.859902",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Kotak Mahindra Bank",
+    "address": "Aditya Plaza, 34 & 35, Kamla Nehru Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ0V-v5EB0YzkR9Mh-sEjzhV4",
+    "rating": 3,
+    "user_ratings_total": 47,
+    "price_level": null,
+    "types": [
+      "bank",
+      "insurance_agency",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.175838,
+    "longitude": 75.79099099999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdFbFk00Gg75SljYPZ1irOe6oFX0HFDby5NO0upILOA6FP9iF-EgwyR8xWH33Y6eMsrerqs9VkShHSkvuNvJtaZgCHgyiZQ6lXUsRyW9qTCJotld1RZtcRULucBZmFNpmhGKxRozZ_IsNrpTmiLsVi8I61Be3D4x2MrNHUIatvtsSx7e05vCoUq-_FLWe95BxCoDUuwhWSR8bthp-c-FUhGFikxtlgee4ZtS07KOz8-i6uC1HrdWDSSxTBm6yChwmgnLJgD2Hl0rPyXC5uVtSOdNvQQmFwdlBUvIy1rnmrGuaAzJNkAlqt01VWnXQCVsB5bio7HUotGLpZjFPJgp8n93i6wdlrswkLMRP2QHhsXPMvZAuC5J8l03hkq0bMRz7gPdrDpCKnMe0wcnISX0bAiYNfsoX3btowjDP53ctxCeukHhr5lQFO3uIacLcRrsTAl4c3GGzCmPBpBUvB3MT7HFyMZ9sKN0cUezM8kS-FQWx8Au8AyXZG4WvHUaS_4iuALRw0c1XnFG4KE2THfm9eizjReJT0R7PwNUjQi0ncNB3FFWDAcG_0608o4eDvLV4JGLtwB&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "1860 266 2666",
+    "website": "https://www.kotak.com/en/home.html",
+    "opening_hours": [
+      "Monday: 10:00 AM – 4:00 PM",
+      "Tuesday: 10:00 AM – 4:00 PM",
+      "Wednesday: 10:00 AM – 4:00 PM",
+      "Thursday: 10:00 AM – 4:00 PM",
+      "Friday: 10:00 AM – 4:00 PM",
+      "Saturday: 10:00 AM – 4:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Subhash Parmar",
+        "author_url": "https://www.google.com/maps/contrib/100810237214995276503/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxjxx9pVnky6z_H64v2nlMYcyYKQAcrUUX7l95iKypgyfP4DjbsA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "a week ago",
+        "text": "Kotak Mahindra Bank Free ganj staff is very poor performance and customer service is not responding\nWhen I opened my account, KYC was done at home and now I have been defrauded, money has suddenly stopped showing in my account, so anyone is available to listen to my problem and resolve it They are not ready for this and the bank staff attitude is as if they don't care about any Kotak Bank customer 😡😡",
+        "time": 1751021310,
+        "translated": false
+      },
+      {
+        "author_name": "Amisha Dass",
+        "author_url": "https://www.google.com/maps/contrib/101243240174832118708/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzzbNa_FrmUMsfJt36VCCemEutHRF_firwUt8Tvw5hBOsLaXbB=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Worst staff I have ever seen. I visited the bank on Monday morning. I wanted to update my kyc. The staff who attended me didn't have any idea about the process. He was calling someone to understand the process. After staying there for more than 45 minutes, he shared his mobile number saying that he will update the process on mobile by giving the PDF. He didn't call at all. I'm calling from last 3 days but he is not picking up the call.",
+        "time": 1715235136,
+        "translated": false
+      },
+      {
+        "author_name": "Shatakshi Goyal",
+        "author_url": "https://www.google.com/maps/contrib/112386932464685328553/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYW7rlrbiQoHvqBRkOW-4Uzeh_H720Qps2CwShotzTbnPApA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 years ago",
+        "text": "The worst bank branch ever. They just want the number of accounts. After the customer opens ts accounts. No one is available to resolve any kind o of matter.",
+        "time": 1594708895,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:59.964645",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Indian Bank Ujjain",
+    "address": "16, Tatya Tope Marg, Ashok Nagar, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ5zb569t1YzkRC6upbKLSlYw",
+    "rating": 4.4,
+    "user_ratings_total": 10,
+    "price_level": null,
+    "types": [
+      "bank",
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1806367,
+    "longitude": 75.7930326,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpd6Sdith1reQPDcr9lajt20X8vPlJQu-PBQedEV4INaVd2ub_XLIGsFafJ2HKmFKZ94g_iord9PExkSD4WJ3fccBKEJAypP4OzpQoj-KvNhUiosgZKjbqgwELHlCyzU1PDnjTHtrlT4Y7Bs9FYNHMpfKGYFtvIg06IXUEgijnWQ3W-QiYTsSI-Ydr-wZdsiLanLhpxtp7sm_QfLEDeT75T74OJrh8xrxamyRqcfbZrmsAiXIxgXVkQMEAB-IITnCDtBknlXnM911HEznXHWTSCNL79kAY4NpHs9k3gLzOHv-ZthW4I&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 255 6341",
+    "reviews": [
+      {
+        "author_name": "kapil jadav",
+        "author_url": "https://www.google.com/maps/contrib/103301802328711160834/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXmOlw9wwWaAcAxlcg2kRLxvnr_SsArB_5PQVQtXrvwUw_Cutf=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "6 years ago",
+        "text": "Atm+ cash deposit machine available outside branch",
+        "time": 1554199294,
+        "translated": false
+      },
+      {
+        "author_name": "Shubham Pal",
+        "author_url": "https://www.google.com/maps/contrib/109153232814011886833/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEEJF5IUV9y-bGApTyPfITJuFTl0NCWOaUcVNVIw0AO5oYC3jk=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Great service",
+        "time": 1582788552,
+        "translated": false
+      },
+      {
+        "author_name": "bittu panwar 137 Bittu panwar",
+        "author_url": "https://www.google.com/maps/contrib/111642205329287966958/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtRkB0TCFGNOIeeMMCw8SOdZgweqw6N8tIGUJLHIQS4y1p5B_kdw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "11 months ago",
+        "text": "",
+        "time": 1720597530,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:00.052296",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Bank Of Baroda",
+    "address": "5QJR+78J, 90, Tatya Tope Marg, Ashok Nagar, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJef37YWx0YzkRGTZY0UmPPx0",
+    "rating": 4,
+    "user_ratings_total": 36,
+    "price_level": null,
+    "types": [
+      "bank",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.180558,
+    "longitude": 75.790584,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdI5KgblN81_p4U1_hOwL_eY7DSR2EOeX7vHdbqd9D0kEonVheUoU9EyMfKgZoHgKYqWnphCVhsTdOKgOgDzwQ7Y-tKV5CvcyEte77VG8IfP6HTqB2kVQd3hgWBwIlJcAM_1Wd-GINJhOZUixmrJru58Hll1EHaDAK7FsDWgRhNPmDaUWmo4t8olDnLDmDuBk8aV8VcX9CdprNS4g0nYdvijRqs6y9ojZO7mzVcQ51CTIkFqU_hcs6ZllscB7TcGOUw4bar7HO4MKqS7bbnFGC9ZetAkxp81QaDiIFeyZvFIKSPTvNvCrSA8b2h2ZbH42y3I1-L6COkGdcrln4gJIXGIfuS_Sh7NYPOGBxPfTYQHCOYCQOPaMY_Yiebk8ojJuhnqRB1Om9FzK2Z75myIIgjDF_v2zhGWs0vrxF7eLSixRKFX8B1H4xNjX1avRtFCKAkn6cMTeHYPI5pD6jO2VKwxgQ_Cm0eud491HICg5h5xze-BZvRaHjzqyQgc6bMqmEtdkDKm1-7YIUPfDY0rUr_ybHhWyQAaaRQM6Sx7CNJfM6wppOM7Grgxsz6dlNhlEwv3vL_&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "1800 258 4455",
+    "website": "https://www.bankofbaroda.in/",
+    "opening_hours": [
+      "Monday: 10:00 AM – 4:00 PM",
+      "Tuesday: 10:00 AM – 4:00 PM",
+      "Wednesday: 10:00 AM – 4:00 PM",
+      "Thursday: 10:00 AM – 4:00 PM",
+      "Friday: 10:00 AM – 4:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Manish Badkas",
+        "author_url": "https://www.google.com/maps/contrib/106118561651696389433/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8nvN5c2w_77Gc1fLry_-rnWRMJDwG7kUxHWpjY47ZgxuWgZIu=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Helpful, polite and understanding staff ornates the beauty of this place.",
+        "time": 1710303532,
+        "translated": false
+      },
+      {
+        "author_name": "Ankit Sharma",
+        "author_url": "https://www.google.com/maps/contrib/113652081517497614541/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXomMHVxQqPPvOL6PVrtvYRusp1hJ0UYKV2HSNbJWoT4Ta11RLZ=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "11 months ago",
+        "text": "Awesome",
+        "time": 1722843300,
+        "translated": false
+      },
+      {
+        "author_name": "Sahil M",
+        "author_url": "https://www.google.com/maps/contrib/115908707918711314745/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIoD6gja66cF9jXcu_NB_fGLobAt5MYgKm7kKH4H2uYXUjuyqP3=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Rude behaviour",
+        "time": 1705402496,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:00.135895",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "State Bank of India FREEGANJ UJJAIN",
+    "address": "6, VARAH MIHIR MARG FREEGANJ UJJAIN - 456 001, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJW9t7j2t0YzkR5AEMySZjqQE",
+    "rating": 3,
+    "user_ratings_total": 46,
+    "price_level": null,
+    "types": [
+      "bank",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.17957,
+    "longitude": 75.789305,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpc9_dKTv7FJy4TE5REqspil7Ow-NEF1Pje4JgEQY4CF8QeKp-QEvit22E0AMo-m9Zqflx9m09lXEc-tK4BTXbycSZurs-brwFIb-8F9TeOdlew_dcu99ZuOmgEO_STz3sE9mccqopeG2bKgSnBk7vg9_GJ6aHBBLvdt8AfkxS28Da0IUE40NQCuGhzug8VLuX2hGXIEZxmKV18Up09XRteFPwJwKruqr08JnYLLj7gPLJjM5sIrB-9BAzFnflKbu_LqGHp7zJo8k3VB0R9ft3MddlUpok_2EOqKu_lrxVwGE_vxG2pMUlNts6xRJ0iP_FEFgkhaNI_UtOELznwlnsFlgJQcAWSCfqegV8jpB3GRnUWpiPE-6zQpSOhNjmX-FCq2A83lOwmqH9yeiOqUcW0jIAfwNUT2iidP7wQN3ANl38BoPxBqOV0I1KCJgHNB_9cNWBtKr23YIxMhh05JRkHfddZTaKO4Sa8Fl6sqdvBjpCBMxzWZYV7YjBj2_Y5PcGed8fyMO4fyL-34-PNU3sMi42yBs8rrJPnHbIf5sECMkb0OOiV2D-lCvpHP9-2Sh5ac6VVK&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 256 0429",
+    "website": "https://www.sbi.co.in/",
+    "opening_hours": [
+      "Monday: 10:30 AM – 4:30 PM",
+      "Tuesday: 10:30 AM – 4:30 PM",
+      "Wednesday: 10:30 AM – 4:30 PM",
+      "Thursday: 10:30 AM – 4:30 PM",
+      "Friday: 10:30 AM – 4:30 PM",
+      "Saturday: 10:30 AM – 4:30 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Ishan Malviya",
+        "author_url": "https://www.google.com/maps/contrib/113287851126180227986/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUP_t-iQ_zTnsGHpj9sRwk2XT6tjATBlMzUsscLWFDZxDn-tcJoqA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "5 years ago",
+        "text": "Would have given negative but one star is least, should be ashamed that SBI hires such people who doesn’t know their work properly specially management staff. It is disgrace that a work that could have been done in one time, but due to inefficient and lack of logical thinking they take days to proceed and doesn’t give a damn about customers. Highly disappointed and have discontinued my relationship with the bank, highly encourage other people to do so for their own good",
+        "time": 1578133608,
+        "translated": false
+      },
+      {
+        "author_name": "vinod solanki",
+        "author_url": "https://www.google.com/maps/contrib/118209263267745988170/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSh5GDbR0_fwVxDk3JGx_5pnmTVQKnGG6EmM8tmPj-LLIUbIJHHA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "worst management. Employees dont care even a little bit of customer and Staff not having good behaviour, not having proper knowledge of their work , SBI ka perfect example dekhna jo to is branch me aa jaye , bhot chakar lagwae jate he ........",
+        "time": 1689936609,
+        "translated": false
+      },
+      {
+        "author_name": "RONAK SEN",
+        "author_url": "https://www.google.com/maps/contrib/112805399670956481504/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtNR78yq3I9g1E9j9fnMxPe70bT5foHFelCo6oxDdyihkj1JLwDQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "5 years ago",
+        "text": "State Bank of India is oldest bank or lots of branches covered in Ujjain the facility is only the the famous person to cover this area show the all candidates and workers are available in this Bank so show time management not proper and lots of work in this Bank management is good but still at a very time clearing",
+        "time": 1564680530,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:00.228762",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Bank Of Baroda",
+    "address": "15, kshir sagar, Tilak Marg, Malipura, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJy0KGxj50YzkR5Gt3eIePNyA",
+    "rating": 3,
+    "user_ratings_total": 26,
+    "price_level": null,
+    "types": [
+      "bank",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.186471,
+    "longitude": 75.778927,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcqR6acWGQfuJ04aaJInNPKba-d4wQ6BFd66Nahk1W82GNU6rN_fhZ1K4RsL8ThfcFcVDLlhS6LSDfiRtP7XfCnzMMvgD9qHvpGcsGHv5OdA24d0UMmetyUqJZVgXSRJgLURGPXttj_V66oFGA5Gu5PmDbaQz-qDLaig_NGpneywnokrk_rMu4It5rd5i30ZEdh1OdRkPWw1C7Ob-mV9UCiKN4o6lzIGAt9cyFkyyNc1oL5YU2dJHc-vc8i4nRJIwkd9cLALom_mnQqt5T1loSnlTvhMEHAWWZ8E-Mnhfznjyf2KPo&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "1800 258 4455",
+    "website": "https://www.bankofbaroda.in/",
+    "opening_hours": [
+      "Monday: 10:00 AM – 5:00 PM",
+      "Tuesday: 10:00 AM – 5:00 PM",
+      "Wednesday: 10:00 AM – 5:00 PM",
+      "Thursday: 10:00 AM – 5:00 PM",
+      "Friday: 10:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Moiz Kanchwala",
+        "author_url": "https://www.google.com/maps/contrib/114993747384228047538/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUuEwhPhcBs2uqXUSMO1yNQ_gAQiXiYCORIs2OMiglAD5GQqj-Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "Would have happily given 0 rating if there is an option. The attitude and way there employees talk to customers is really very rude. They feel that they are sitting there to do just nothing, and actually we are paying them for that. Extremely unsatisfied with (Kshir sagar branch ujjain)",
+        "time": 1648034980,
+        "translated": false
+      },
+      {
+        "author_name": "Ashish Dhanwani",
+        "author_url": "https://www.google.com/maps/contrib/108508778003751838099/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7F98kxiRUREUocEpd8H-fGVPp0GjyegXVtJcqGOf5zsOojCeF=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "Very poor service. Their systems always seem to be down.  Either this is an excuse or something terribly wrong the the bank itself.  A 10 min job takes them whole day to process.  You guys are the reason why the younger generation is moving to private banks. Terrible customer support.",
+        "time": 1658139497,
+        "translated": false
+      },
+      {
+        "author_name": "Avinash Meena",
+        "author_url": "https://www.google.com/maps/contrib/108530411177225896827/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKjk6BEXsTwKCFgPs0ZVWRgEZlLMzUfN_zlz1vlvUiNhiwqyM-b=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "5 years ago",
+        "text": "opened account after getting frustrated with SBI Budhwaria Branch Service, it is better than SBI Budhwaria but not the best, i have not got my passbook till 3 months after complaint on BOB portal i got it next  day, BOB merger with vijaya and dena might affected these services , Good service overall, but staff not so much helpful, AUTOMATIC PASSBOOK PRINTER IMPRESSED ME SO MUCH JUST INSERT PASSBOOK REST WILL BE DONE BY PRINTER,  NO NEED TO TURN PAGE, GO TO BOB if you want good service in a PSU bank at least.",
+        "time": 1569173677,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:00.320225",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Andhra Bank",
+    "address": "22, Kamla Nehru Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJF7E3l250YzkRzVgWBW791t4",
+    "rating": 3.7,
+    "user_ratings_total": 3,
+    "price_level": null,
+    "types": [
+      "bank",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1769054,
+    "longitude": 75.79124089999999,
+    "phone_number": "0734 251 3032",
+    "opening_hours": [
+      "Monday: 10:00 AM – 5:00 PM",
+      "Tuesday: 10:00 AM – 5:00 PM",
+      "Wednesday: 10:00 AM – 5:00 PM",
+      "Thursday: 10:00 AM – 5:00 PM",
+      "Friday: 10:00 AM – 5:00 PM",
+      "Saturday: 10:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "vijaya kumar yarlagadda",
+        "author_url": "https://www.google.com/maps/contrib/109408026941996711970/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXShl_y_bOmZSu7t-d2_EmsWEScdpwYVe7UyVrK0aHAJ3MzBb3h=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "7 years ago",
+        "text": "The people who are managing here full commercial. They don't have any sympathy on Telugu community. The rooms they are provided are very dirty. And always gober smell.\nThe owner tries to retain us at least three days for his personal benefits. Like usage of his vehicles.\nOverall performance is not advisable to stay",
+        "time": 1507364684,
+        "translated": false
+      },
+      {
+        "author_name": "Chandan Sah",
+        "author_url": "https://www.google.com/maps/contrib/112668338544163967778/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmRsHiYlXVT0dDIU5gqLCodgyIkpEPUOfowJaRwQBC5Cc6LQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "Fast service provider branch",
+        "time": 1491049457,
+        "translated": false
+      },
+      {
+        "author_name": "reddy b",
+        "author_url": "https://www.google.com/maps/contrib/100072984817113342566/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUPza2Ai5dev1OsaRBexq1zqY9PnHfuY_Eh9TbM3pcIxoKRlBfI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "",
+        "time": 1497646496,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:00.401186",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "CSB BANK LTD",
+    "address": "Ground Floor, No 37, Amar Singh Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJC4aFr250YzkRiPIQM4iCabI",
+    "rating": 4.4,
+    "user_ratings_total": 19,
+    "price_level": null,
+    "types": [
+      "bank",
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.177031,
+    "longitude": 75.7901973,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeB3fdhRc4w4X7ApG6nRKoo4BFANqGp4ERuood2HtsvD1pkhd2-z56LoJK_cN7K9Uk8jmqgjq-L_iVv8DiH5gOiRT1QBKGFu8EwDblkFaH6MOasysJ1yi-TXroNG55BFFwRnwLduRl-HtSdirsmF-WaMnJ42eERQf8ubzQn-8yqfqtLn34QFLLgf_32fwnPZ09nKulKIQosEPwSMmjszB9tvH94CD3e7AXUWYOXWgLG3MKs79MvDUk3wMPG9RIPG1KXTD0f1tHIV3t_caZCXKz3-XD__TgOvf3RfASC0I3sfi3Zqts&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "090726 01404",
+    "website": "https://branch.csb.co.in/csb-bank-ltd-banks-freeganj-ujjain-299411/Home?utm_source=locator&utm_medium=googleplaces",
+    "opening_hours": [
+      "Monday: 9:30 AM – 4:00 PM",
+      "Tuesday: 9:30 AM – 4:00 PM",
+      "Wednesday: 9:30 AM – 4:00 PM",
+      "Thursday: 9:30 AM – 4:00 PM",
+      "Friday: 9:30 AM – 4:00 PM",
+      "Saturday: 9:30 AM – 4:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "shivani jat",
+        "author_url": "https://www.google.com/maps/contrib/100875240530966349650/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQSYnOK0K0l5GA9pXmsg67l8DSDwr2S2ttbRM8xtTEy2yFnZc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Good service given by branch staff",
+        "time": 1741589622,
+        "translated": false
+      },
+      {
+        "author_name": "Ritesh Sangte",
+        "author_url": "https://www.google.com/maps/contrib/105278620000384859296/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKSCxuSeLx8p15i2CCzDpNJRyRe7MVQEQT9W9eITihciETirQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "best service given by branch staff",
+        "time": 1740467479,
+        "translated": false
+      },
+      {
+        "author_name": "Ishita Jain",
+        "author_url": "https://www.google.com/maps/contrib/112705706037817852537/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6CP1QxVKcZU799CJAdVcrt_eBf6e3PWPEeQfY-hHuVwqa=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Best service given by branch CRO",
+        "time": 1740458797,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:00.484389",
+    "source": "google_maps_api",
+    "data_type": "real"
+  }
+]

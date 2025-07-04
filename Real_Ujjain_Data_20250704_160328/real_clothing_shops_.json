@@ -1,0 +1,1415 @@
+[
+  {
+    "name": "V-Mart - Ujjain",
+    "address": "5QHR+9MR Shaheed Park, Betal Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJlRWcaWx0YzkRHRnfDee6A6Q",
+    "rating": 4.6,
+    "user_ratings_total": 8033,
+    "price_level": null,
+    "types": [
+      "clothing_store",
+      "convenience_store",
+      "department_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.179585,
+    "longitude": 75.7914108,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfm-vnyzQeUewDanhELpZ-cttwl5qS9SPVhuCfZcao6YdxGagdOvx794le55gnzVO9hoCFWfnNX6m8Tbv-48hk-vVRC8GNpADh1X-C7EWGsLEKaUo1CdiD6D2eJBwPbbpKVuqYvSUN1mBrVJlR7J-p8SqIov7dPIaEcaSiK35rcArlf3kxlpwFBpKeDnt53JD8XJ7CCjYNAiyZfLG7tCMQKoRzp1x5effAfNz2mnIUmGJKuwJjJKwwLV4TzIIb7gAvsdhgC-Qt_vyRTp__VOiyXD8WsrJ5m8nVXrDsZZSeLh06Xy-xvwywp7gzDAqWozGxKaVG1r4OJVGo5xe3N-M_1ls4LgqA8I1J8NOs8JgW_hX1slA-tqp2i7Q3RDpAsuKWCxBxiYsM01TY_xk_HM24PhGoK37Kz37cvT5mga5-g1D0hXngJj4HpWF7bzmqOlOLuYeyjvYC424arrphXQ7E_Wvt_qXctqKZWqDjndp9dhOLoV1b8AZCnutC-rHXVeL82CMSiZNI0pNfsJVdRR1tEXKjSqPYWAb0Ut0MibVu9g3cRxIBLhXQq5ruJ0CtXBL0qp3ZOhCo1PQ&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "084480 85177",
+    "website": "https://stores.vmartretail.com/clothing-mart-freeganj-ujjain-30706/home",
+    "opening_hours": [
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Aryan Jain",
+        "author_url": "https://www.google.com/maps/contrib/113304436210016347648/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQQCNTK2oGCF2Z56R5YSKz2WtHTV4HaCfUj5wW-9EWBO5-nVnk=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 weeks ago",
+        "text": "Apne custumer ke samne manager staff ko chilla raha h this is not the right behaviour of the manager in vmart.",
+        "time": 1749303400,
+        "translated": false
+      },
+      {
+        "author_name": "Alfi Khan",
+        "author_url": "https://www.google.com/maps/contrib/116047231905335263182/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLV60zyIck0stxEQ4bl7n2q40Z3r-v65MWLBGsbi6sRTG_P5A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "Good service polite, cooperative staff. Aman malvi is nice and polite .handle costumers well.",
+        "time": 1749572124,
+        "translated": false
+      },
+      {
+        "author_name": "Bhavesh Dhananjay",
+        "author_url": "https://www.google.com/maps/contrib/114381733778137043230/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTALKC8pLOJ21mNBEuyJYka0dkisyto8ElCiDibHeb5VI_PLE=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "The experience was good. Staff are so polite and cooperative in nature.",
+        "time": 1745678723,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:50.416702",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Pantaloons (Vishwavidhayay Marg, Ujjain)",
+    "address": "Shop No 87/1&87/2, Teen Batti Square, Giriraj Heritage, nearby Tejankar Hospital, Sindhi Colony, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJF6ZfPO91YzkRQNitAwklJmg",
+    "rating": 3.9,
+    "user_ratings_total": 243,
+    "price_level": null,
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1774049,
+    "longitude": 75.7867843,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpecK3cJsQ0Vu7Yd__oa067dwyrWQOCXjdI-RmY44RNDo85VG5IX9BO44uqDCxWQ7VRZID_LRtHXZMX4mzPL_uu33xgJLIZwAu5gjgrLaAh9U834pXtQSGQaQKx5B4a0hMkz4rBolxHJieZewDj-oc-GFOHyFtmWwcorJUuEQTXu0n_aj-m_1nsxsAHx63hmO4GiqRebpxBScS88ELLuL5wVA2g4v46mYjSNIwWEzPqcL28XTeSzbtoh973WuhnG8Qrt839Q3Uv5BGLFvvqTPuQ47L7_czTGFOhS28f5V3v9T_5KI7nLCjIm9fuNcuKcp2hPZVT9cg8cUcwIacI8jhNRyNTOmQ3sX5QggeuLshj--uZdaQ7ayEFZsEO4ikzd5mpZuOKLHCcKdPCZA-NkmNe_GDJpqIIG6HvTZSTEGZ6vG-vN-C9kU9BZCgKQSti_BJYF4YfT6cc_2XFUy_xuE9TlxqxYbibIjuVMOaR8w68MC9HRbLVmiPWuClAgKswDTvYN2jpDrH3_EePkMASyQ8iltuJqkjJ6T95H9Zj3ZmLny6MkloRUJ_HTPAzU1wCw6cn8eJgsJcTm7g&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "086579 59776",
+    "website": "https://stores.pantaloons.com/pantaloons/stores-in-ujjain/stores-in-freeganj/pantaloons-in-freeganj-ujjain--24e5a0bc-0b32-443d-96b2-2883578dd3e9/home",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Durgesh Singh Tomar",
+        "author_url": "https://www.google.com/maps/contrib/114227503746588527434/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcra5KJZBJcNeUQoaC0FUoz4aKNiC53wXFQS7x8az-kJ9Ii2Q=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Good place to shop, there are different brands available here. Had a good experience.",
+        "time": 1575124096,
+        "translated": false
+      },
+      {
+        "author_name": "Sush L",
+        "author_url": "https://www.google.com/maps/contrib/112892711934157214634/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1BaMsQkBQLD_PYUDSwTAXr2ubwttfjLI6ChPLASRyiCZZRU8-JQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Nice experience with shopping and all sorted and arranged materials sections",
+        "time": 1713630448,
+        "translated": false
+      },
+      {
+        "author_name": "Girish Saxena",
+        "author_url": "https://www.google.com/maps/contrib/103684285403960008962/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVx61A0Xv6mfXkrL5PzTBZkHleMVxk05YXMI2j1_GbbP7UXqEL-=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 weeks ago",
+        "text": "Your desire to buy branded clothes ends here.",
+        "time": 1750236463,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:50.518361",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Your Fashion Store",
+    "address": "wali gali, Your fashion store, Mini Chopati, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJbQ4T1NF1YzkRShLZszmiI6M",
+    "rating": 4.9,
+    "user_ratings_total": 67,
+    "price_level": null,
+    "types": [
+      "shoe_store",
+      "shopping_mall",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1766076,
+    "longitude": 75.79157339999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdUL4SJesiFPvj1JOT4lPkca6q3xebMADkzgx4I46-c524nE-ADUOLIbevjekhCF5xyCjoo8WmsIQN_NIv47CBwvQ_U6sgwVpCa3RI4lhTOqXC_tf3fPEbpyS8TG33HEthZqH6CVgmHqMxjm8xqHZotpy4BDISSUtVqox9JvrLY2GoS_vkrkTH1uZEKMgOgI7AS3WZQMcyfF0RgTPaNxmKR0_A6POunVxqWRvEruAR3xNNZxrNIR76XxRiPoHPMw7xGJEEha-EBsErzjhlabn2C5m_xPiVXX_cL3w438Y13SEfe1zs&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "077719 62341",
+    "opening_hours": [
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Aman Shaikh",
+        "author_url": "https://www.google.com/maps/contrib/104088033725884650023/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmsDsZTcWQSgvzBxfQUuWYNdacDgx9qGOhBXfPudalr4YIWQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Best Sneakers Shop in Ujjain 💝💝💝",
+        "time": 1729526517,
+        "translated": false
+      },
+      {
+        "author_name": "Srk Shahrukh mansuri",
+        "author_url": "https://www.google.com/maps/contrib/104902188417107018861/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWd-EB8PwN47AZaz1KtEXe0J9DnuoJwqpNYaAxR_0c0ozQJCSkO=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Top quality products with best price",
+        "time": 1727777355,
+        "translated": false
+      },
+      {
+        "author_name": "Arslan Pathan",
+        "author_url": "https://www.google.com/maps/contrib/112986924375977227090/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNKK5F9-gimTkReLXYv3BLBxDtHrEuomb7UQlzpzL4nB0Lww=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Top quality products with affordable price",
+        "time": 1727860670,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:50.618513",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Fashion Factory",
+    "address": "Bus Stand, D/9, Cosmos Mall Dhanvantri Chikitsa Yojana Kendra, near Nankheda, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ52TfI-J1YzkR1tcfbVfYwdg",
+    "rating": 4.9,
+    "user_ratings_total": 1396,
+    "price_level": null,
+    "types": [
+      "clothing_store",
+      "shopping_mall",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1570127,
+    "longitude": 75.7947171,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfgRQDFYzQbE1paflHdwVsvDEbScNNP2jNLlplbExVR-huv46-iF86k7J_DtJ2PzjQWFYtJkHLGwLVcc_T2yTsoHKANq7pc5WoZeEAaFNVfAXwgfjKF3YGOvRodyVqUpoWkGxn_WFXCcWu0ulBq3wvuy4wUlfLhq-XIgxOE0pnsSU4iBUiX7ef7djKuvNWWTa3KV5ISIzfW7IJMB3-Q_c7HhGMs_op6l-0gTWwuoYZNUTDxAvVJVn9NAhl6c-VSAdbmesmZM_TXSemcv-gA_YqBjxKhd2PT_xhQqA0Btk4wXLCy9RvtobabW221sPMgeFpA8gS4TpTNn_rbb02ofZJZbj-5YsI6oxy5jBQQ3ar4KThv7usFaJ5nbZpu4N0LNcsJxQ2cSnPTG5EqUeNZrm67_aMm3kAX8fWhArUxJ_ZOG7Ombs-WaIQUu_zwtW-3bAnMjZyls4qg-2CxjspkAyjbTfuZG8g5XWogDWk2S2bHr1Xag14rJnp1WDOHB8BC2DFiHAip0BaDkxq6BGTEygudk9bsGvX3fr-TTEAp0U9r5MX9Ayrz03bBOalfjp0ZUIBmYZ7y&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "1800 891 0001",
+    "website": "https://location.reliancefashionfactorystores.com/fashion-factory-ff-ujjain-cosmos-clothing-shop-dhanvantri-chikitsa-yojana-kendra-ujjain-286976/Home",
+    "opening_hours": [
+      "Monday: 11:00 AM – 9:30 PM",
+      "Tuesday: 11:00 AM – 9:30 PM",
+      "Wednesday: 11:00 AM – 9:30 PM",
+      "Thursday: 11:00 AM – 9:30 PM",
+      "Friday: 11:00 AM – 9:30 PM",
+      "Saturday: 11:00 AM – 9:30 PM",
+      "Sunday: 11:00 AM – 9:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Vikas Srivastava",
+        "author_url": "https://www.google.com/maps/contrib/117072789094159074530/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6Z_YBmWHOvE5hXBFlJ_PGmKn2BUi6EX4OmS57-9jcdzqgDBQJBQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Gaurav Vishwakarma is good improve and very humble person full sporte for any solution and good feed back am abjection and am i am very happy for your employee",
+        "time": 1750591363,
+        "translated": false
+      },
+      {
+        "author_name": "Abhishek Chouhan",
+        "author_url": "https://www.google.com/maps/contrib/106129389301455913937/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlNdQzH-amsCpp0NX3ckGbOCItMX6F_d26yw8NlhqUpKZ7=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Nice offer and best sttaf sarvice Bihari parmar",
+        "time": 1750587324,
+        "translated": false
+      },
+      {
+        "author_name": "bhupendra singh Tomar",
+        "author_url": "https://www.google.com/maps/contrib/107185555830425124139/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKe0_7ZAe3u06aKIwTV4J8Voj5aN1ZL_V_JxmuRwIYEGlrEHA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Amanzing place to shop... I am a regular purchaser just because of Lakhan Kataria as he suggest me good deals aleays!!",
+        "time": 1750578770,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:50.703873",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Ratti fashion",
+    "address": "49, Kamla Nehru Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJdwulmG50YzkRqYo_0ei0U48",
+    "rating": 4.2,
+    "user_ratings_total": 49,
+    "price_level": null,
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1773935,
+    "longitude": 75.7910642,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpexhSDh26kuqtQv08Oe9aI4LfW6kSZcUct0-OI5JGfkuzJo3EIDDvYbHm7pYDgFbD5hnk2WSdUmnTDwA7d0I2eN00sr5ikjgBPQZqZaI6PG0yhbjM2usQrAqNDN_S55LpJ66JwMljiXuVM4ndYRTsq6Cz5ZxdSRWeNd7lchfAeWyJjAK_GCNY4Mv-gC0nDxQzIOjI1PQ_kn1i6KVWkzqfJb1eEhRIYGrUlcMzqMUHjmppmuLfVEdOrifJLVaiC3j4L25-T3zsr8XHlHCvjsMX4RbhejxBhBYc24clUKXyCBT2zmflDXrQ8n2KW5EXXUixaiAa1Zyty89mkKV-smGbLDP5D-D1mxBKq3K952g6S9DCW8_J3JI8Dxh46p1xh0tWacUt-o55621yMS0WOu_2GzetRZ9-6VvwMglwhI8y3tg8i1xBBGkMaTGfajTKqHmx2Md6ZindU-9sXLXXPsopajGE5S47FEdqxmDoT57lqNpwuw_HWzCjpixuc01noXhNqq15cPVXgw667M1Aaxb4rcVP5gGiWikAKnnj1SJTrCrPjh3LhBcfZQYLZNfjcBf9IA0S0qM6Q9Mg&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "062600 99028",
+    "opening_hours": [
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 9:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: 3:00 – 9:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Arpita Mishra",
+        "author_url": "https://www.google.com/maps/contrib/115043274143771338790/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdc8biva5fkrJeRin8Hi9HorfAifJjaNvzzPt4m4J7HLzvrjGN5g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "It's the best shop in Ujjain.....Amazing designs and unique collection. The best part is You will get best Western as well as Indian Collection.A must Visit shop.👍👍",
+        "time": 1714140917,
+        "translated": false
+      },
+      {
+        "author_name": "Priyesh Yadav",
+        "author_url": "https://www.google.com/maps/contrib/107636245412991730942/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvUU_p9gbj968qPLHpwHH-riA6C1wKoUfz957aMkfePvM1qjRz=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "A very good shop for female clothing.\nWe purchased diwali outfit and it was appreciated by a lot of people.\n\nOne Thing which I will liked most is the shop owner attitude towards providing the service. That spirit keep the customer attracted.",
+        "time": 1636691612,
+        "translated": false
+      },
+      {
+        "author_name": "Khushi Uttmani",
+        "author_url": "https://www.google.com/maps/contrib/102142413176643875486/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKhqNMdI5OaRpmBNS37uCnABfdvvomDK0vIRg0fWon6o9Q9sw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Awsome collection ...the best collection for desighner dresses....i m from indore but specially came here and after visiting the shop i thought it was the good decision.",
+        "time": 1543599548,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:50.803685",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Parilok Garments ujjain",
+    "address": "Manik Bhawan, Old Fruit Market, Freeganj, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJcdddbGx0YzkRMHXLmlvQCUQ",
+    "rating": 3.6,
+    "user_ratings_total": 36,
+    "price_level": null,
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1793198,
+    "longitude": 75.79049289999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpey9Wxy-swCTe9au7xgLIuObXXK_nyCHFDZKU_M5oCwu3EVkInILQIZe6l3AzvEds0JdNhKODp5WePY2MdHbO8K_2V7CsS0iMJUAzr4sj8P-gGM_N5gLuyRmfSr_m7KM-QhUfLYiCUt0vkykvd64TLh9TDpmMp0ZZsdGx5Ir0cUNhL3qZvkQdhWDsxQUnb2bWsyNgcpuo_cO2oY0qxQckqBfcI2-f_LrMy09N1gvhp1kyfXMt_TjvyXdiiFfCB-zSwQAwnTLpY3Am1yKqAQ0zvgxF0xsbZDf0k8U-qFknSislx_TpM&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "098934 00440",
+    "opening_hours": [
+      "Monday: 10:00 AM – 9:30 PM",
+      "Tuesday: 10:00 AM – 9:30 PM",
+      "Wednesday: 10:00 AM – 9:30 PM",
+      "Thursday: 10:00 AM – 9:30 PM",
+      "Friday: 10:00 AM – 9:30 PM",
+      "Saturday: 10:00 AM – 9:30 PM",
+      "Sunday: 10:00 AM – 9:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Rohit Mali",
+        "author_url": "https://www.google.com/maps/contrib/113470626143817299422/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxAN4DGLq8OAceGP6eMqBDbVEersS4UfKFtTnEeptUGuAhlBw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 months ago",
+        "text": "Behaviour of the staff is worst i went to the shop and he said come after 8 days and I sad him that please give me high range quality jacket but he denies he think that we are doing time pass but I genuinely go to buy",
+        "time": 1735748831,
+        "translated": false
+      },
+      {
+        "author_name": "shreyans jain",
+        "author_url": "https://www.google.com/maps/contrib/112498474483204129465/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWshFVZ8B1FQbUWCHfSxzVRm0dgW0Fvj5XDeWyCjqhXVZUvH3kZgg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "Wide Range for each customer; two floors are here....with full of casuals; formal....n range for men & women....",
+        "time": 1499336996,
+        "translated": false
+      },
+      {
+        "author_name": "ayushi pawar",
+        "author_url": "https://www.google.com/maps/contrib/114317087651142243455/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXF3wk_k00QPXG-_3Ve-jgoQ_iZsrK9g6T2Hi70Yzzw5_IWVIE=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 years ago",
+        "text": "Lazy sales person, no atticates to talk, no variety nothing..just high cost",
+        "time": 1607617436,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:50.896927",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "poshaak",
+    "address": "chatri chowk gopal mandir, 23, chatri chowk, Kamri Marg, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJy9s4BTp0YzkRDlwaZF1r5sQ",
+    "rating": 3.7,
+    "user_ratings_total": 195,
+    "price_level": null,
+    "types": [
+      "shopping_mall",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1884013,
+    "longitude": 75.7723355,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpesinv0-SaY2tDm2Tk1r3481o1g2RyD-FwIx099jYuGJCutBbDyP2CZUBB1-6_udsUFI7FJeQHYqZOMSXp5C_Tg0DI2bRFOa8aQyocYFM-IbafLrrH85McRK0VVJWAc__81IJN2Vhj5igQ6zxzEn6htxr-pOTGM5Csn26Jzyimz0ZJFKEP3QAxc2BDlSViQMdTfRnV_jc-cHyLv9qaGESbhf2XI9chh1eQKbEJ01f2LZR_kLYAztG62a-IkQ2AZe77NAPCHOwbopMbQa-sgmGjkK7hXPcbPZilY1ALb9eQqprvPUUtBhChIo5okKlsrbjTy3xUBEvjWwY-_5eBF_RCxrg1QkiswS-TvgamSsm1RDJ22rs3b5vIgQviL-H5Uxd8jXDcGdy1gEobTKWxTvlXSZ3PB3X5vD8zijc1t64iBd6kPoTfKuxIPw8Mjq2ziZYgdpcl1sSDtQBCn_UklHHRySrcq_N7V2Ik2kQ16VoYVkM1gxOBjbNSg6_7TourlWATx8N-BUOfhhf5E1OuBixzr2tCJB4jAz5eqeOyevcFV0IfPCRulHqX3IlHKGidqTMfj-A&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "097131 31331",
+    "opening_hours": [
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Ayan Khan",
+        "author_url": "https://www.google.com/maps/contrib/113840618571289005962/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKl4Jyn4SAe7GA93I8mPwVCZIukGGK9PqOZzXtar6C977kboQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Very good Shop\nFixed rates shop nice collection",
+        "time": 1750241822,
+        "translated": false
+      },
+      {
+        "author_name": "Gaurav Saini",
+        "author_url": "https://www.google.com/maps/contrib/100433795918458438313/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZ_oRtZFny1U8iEMFp5jFGpyBM6iwWsT3P6828lfJjCpj1VT4=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Good collection of Batik prints & the ingenuous Bandhavgarh print found & developed by artist of this region only. A must visit place for art collectors, women's & any other enthusiast.",
+        "time": 1566277160,
+        "translated": false
+      },
+      {
+        "author_name": "Tanmay Sharma",
+        "author_url": "https://www.google.com/maps/contrib/114051970487318288399/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW69VgfWIaT-x83yMhQewb8g7dasLxx8Lo4bVrvoLj5L7xJpV6A=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "7 years ago",
+        "text": "The place is of historic importance and is surely an acquired taste. Not much though to have a look at yet a visit would suffice the traveller's thirst!",
+        "time": 1518361779,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:50.974929",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Prakash Paridhan",
+    "address": "84/15/1, Vikram Marg, Freeganj, Shaheed Park, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ8_X-lmt0YzkRXgLXrVaW5z8",
+    "rating": 3.9,
+    "user_ratings_total": 45,
+    "price_level": null,
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1786499,
+    "longitude": 75.7907506,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeeLs_gkavBmSvlkEPf_FC8f7Mw_jghTrVmhJ5mFztguT2J3CQjaXPZRhDHJNlW-kRZVzJIJM33uTzuu_JDCzaacqHGeZbFSmAIcZYcFoS7VpMjwdd7IFikubYjcwDr8BuyXmOuvLcEH9vwnpO7lagjTc16p6teYHgzVL8Qvl2J8vkt2CMghZtMYdkc1uNW16G9ejCpHofPrdfApAMb9bGS_sIZ0OkMWgO8DOUhdLonBjBtYB-uuEyp1TDdYl9VYUFTSzCXggGmxX20SSv4QVnfELXXbgvRPQmdOGCaev56nWLA&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "096300 75300",
+    "website": "http://peterengland.com/",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Arpit Panchal",
+        "author_url": "https://www.google.com/maps/contrib/111707765972488601280/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWBiAWGoJ5_VOQqB4GvzqrQ7Sdy7FskWjg_sOZ7j9TeBGVCSp1f=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "Nice story and good collection",
+        "time": 1514999245,
+        "translated": false
+      },
+      {
+        "author_name": "Swasti Sharma",
+        "author_url": "https://www.google.com/maps/contrib/116294191864727520899/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTh7j9Wmnubaa-sWahanacLrwXrnRNTWuJAkHoLfq9pKs4fCZN=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Nice collection",
+        "time": 1643730975,
+        "translated": false
+      },
+      {
+        "author_name": "VIKASH PAL",
+        "author_url": "https://www.google.com/maps/contrib/117399911056501041260/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWWJDNwL7igl0k_LhYtbjf5hgQeStawDM-lt1FqIjKM2e8OWlYHAQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 years ago",
+        "text": "Best prise best deals.",
+        "time": 1671704004,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:51.065562",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Anokhi Fashion",
+    "address": "Shripal Plaza, Balveer Hanuman Ki Gali, Nai Peth, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJFTJ57Tl0YzkReWqMd-vsFnE",
+    "rating": 3.6,
+    "user_ratings_total": 21,
+    "price_level": null,
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1874206,
+    "longitude": 75.7738495,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcUstyi4yY7iutVcvcWak8PITbP-8E020ZkR3_d8LESF9gJ5JvnPZW7FuWqXQnOwZdE82q2XpDxgKxwpnFPXzbQqJNzsT_r2NtF_R75mqlI3V8FRQU7pleFz5zoIv30rf87-8WrdYPhkGwG-pC6HwI75vE6wK8Nqk8-cGG8omSKAVz0rAiKTYPEOUN5DlQJtAPMLgGEszwowIE3sZnEDRPZq0Gle33kNwGwAuSZUC9GvqutaW3f2t1iP17yGskStUuP814cjmQ1gygqxxidRjOLPxodMRCUaiiMzNmu2ekxLLJIUtv7J5KMBkPtXPri1_cgHL6RcKT2KtsJLUT3tCXxg1ldK3g4TiKhar0lcOoQKZXkdBul-6mpUjr8NcxDS7WN9oVj2Ek2Wvswvv4LBFWuQsf1VEMRXoQhQXQ3Zvitc0QgJQ-TiIXwCUzXdVCv104xKUtICaNc9WqOfa5o91hqzQPGUS01mWtCQ39TxbP-GlP9FHOiwkDaSALHVmceITVRibMyKH0ZMZTNJ9VH0mTxJDOAeMPpAT4yLhmYqlVlSAygkg_bHLWGxrFeq1jIc9iOhjL66cybNg&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "090395 13149",
+    "opening_hours": [
+      "Monday: 11:00 AM – 9:30 PM",
+      "Tuesday: 11:00 AM – 9:30 PM",
+      "Wednesday: 11:00 AM – 9:30 PM",
+      "Thursday: 11:00 AM – 9:30 PM",
+      "Friday: 11:00 AM – 9:30 PM",
+      "Saturday: 11:00 AM – 9:30 PM",
+      "Sunday: 11:00 AM – 7:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Riddhi Pandey",
+        "author_url": "https://www.google.com/maps/contrib/102411199711692429134/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4S9JXvJzGOQo_JEmC7cExmy5GG0UTk0SVH-myGFywra_yeg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "One of the sales persons (who was showing stuff )his behaviour was very rude...I didn't like the service there.",
+        "time": 1744915022,
+        "translated": false
+      },
+      {
+        "author_name": "Lavanya Sharma",
+        "author_url": "https://www.google.com/maps/contrib/102591309956903365426/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJk4YJR-rgNcZxM6kRV-CFYI9hY3Lbe8ssPemYCSvTQBfAbDQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Reasonable price!! 👌",
+        "time": 1603541038,
+        "translated": false
+      },
+      {
+        "author_name": "Sandeep yogi",
+        "author_url": "https://www.google.com/maps/contrib/117939591883302357217/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0EFaCkMWm0pJzfTYe0jFjOErC3XMzoFDbfJr-TNx6JkR8Y_AS=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "2 years ago",
+        "text": "Best place",
+        "time": 1672832683,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:51.149820",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Kumar Cloth House | Maheshwari sarees | Silk Sarees Ujjain",
+    "address": "Shaheed Park, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJUQNDa2x0YzkRzMzqwnw3JNE",
+    "rating": 4.7,
+    "user_ratings_total": 68,
+    "price_level": null,
+    "types": [
+      "clothing_store",
+      "shopping_mall",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1789397,
+    "longitude": 75.7906623,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpd-NlkrRRiw_Epo3OrA_ROY31THdEjKv3AoRWOja1LRF072h1tE7mIVJI9IqgIRIS9OE596CKzYgi3E56wB-cFpySd2ikDRZbK0uSfUWvRTFSmwZYVu7Vo1Bh2392Ho1oT-wYNYYHyJTbZ-XlX3_1YkHuxGKj-GM8rcM-WiWubq6hEt8waEnZ6ka0Rx6mdxQXa57tv9X5bzuv8B2NqRQVXuz17VvzcbelrrC-L_XlI4qO67uqVtd-jLfoXbrYO9s-tWnRd7d6JQhX6Udil4M3Y5flnBvKtN8xgNGkNv8Z5Zpxy-jdc&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "094250 91928",
+    "website": "https://kumarclothhouse.com/",
+    "opening_hours": [
+      "Monday: 10:30 AM – 9:00 PM",
+      "Tuesday: 10:30 AM – 9:00 PM",
+      "Wednesday: 10:30 AM – 9:00 PM",
+      "Thursday: 10:30 AM – 9:00 PM",
+      "Friday: 10:30 AM – 9:00 PM",
+      "Saturday: 10:30 AM – 9:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Nitin Upadhyay",
+        "author_url": "https://www.google.com/maps/contrib/105724730749411896218/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfZRF2Bxl21xe5ucXH7gLIc89XHSClvEl6DldKfc4L32XlJ1_MwA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Why is Kumar Cloth House considered the best sarees shop in Ujjain?\n\nKumar Cloth House is renowned for its wide collection of Maheshwari and Silk sarees, premium quality fabrics, and affordable prices. Our traditional designs and modern touch make us the best sarees shop in Ujjain.",
+        "time": 1745234449,
+        "translated": false
+      },
+      {
+        "author_name": "Ashish Tomar",
+        "author_url": "https://www.google.com/maps/contrib/108646905940883518350/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvUb5GL2Id8bB3-5i0CNnRvEHE1CA0RQFejp8mfje20vFdKA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "3 months ago",
+        "text": "Kumar cloth house, is a vast and large 3 storey shop for women clothing regarding sarees and suits, offers lots of variety and range of product, customer friendly, better than before. Sufficient quantities and display of items to choose from. Accepts all kind of payment methods. Worth to visit.",
+        "time": 1742824143,
+        "translated": false
+      },
+      {
+        "author_name": "Ajay_ Sharma",
+        "author_url": "https://www.google.com/maps/contrib/103952268441453247882/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEduGMsdVIfXuYx0PQ4E0HGb8sRmc_8ETsdHlhEoFpfEd46oA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Best quality collection shop in ujjain nicely done and osm fabric quality ♥️😍 visit all guys as soon as",
+        "time": 1742992915,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:51.231165",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Young boys Mens Wear",
+    "address": "46/47 at, ksheer sagar stadium, Ksheer sagar stadium ujjain kund knpas, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJCRH19fl1YzkRFqmyY4XDHrY",
+    "rating": 4.2,
+    "user_ratings_total": 91,
+    "price_level": null,
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1872064,
+    "longitude": 75.7796156,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpd8RF9PpUWLZCPHXd2bhlfPFdChgD-ZsWhcOtt-LPEKKefINR6H_wHi1M3lzxS_eWagn8IJYLPc0Yx60Ih2ruGMwiygEN5rfUyOtupYqvHGeClZSQhK7tmRBA6gY1_fr65luCwVcQxeb0eKvTZT8tisKsH2kQIPGc8r63oSUU2VsOIPu_x_FswlqbMi7OqHkhcd8NN4XTON71vRLWFF5C8Iqrs1W-Vxhq5GRjoW_oTFq-E2Ga2MeNAg_noezzbHO9cgypmy7IgRc0AkdnY56IIWbwKU-QoSt-J1BZ5_9hrYa4vLvwk&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "088394 45883",
+    "opening_hours": [
+      "Monday: 9:00 AM – 10:00 PM",
+      "Tuesday: 9:00 AM – 10:30 PM",
+      "Wednesday: 9:00 AM – 10:30 PM",
+      "Thursday: 9:00 AM – 10:30 PM",
+      "Friday: 9:00 AM – 10:30 PM",
+      "Saturday: 9:00 AM – 10:30 PM",
+      "Sunday: 9:00 AM – 10:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Bablu Dodiya",
+        "author_url": "https://www.google.com/maps/contrib/111997015907690753612/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbP6wnIEe2RiNVD8G_7ranO5fVJMF4H6PHffUMP6rYwWYXEg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Good collection baggy in just 350 quality with rates is best and dowonsholder shirt and shirt  combo in just 600 that was awesome collection he have",
+        "time": 1750346103,
+        "translated": false
+      },
+      {
+        "author_name": "Hemant Saini",
+        "author_url": "https://www.google.com/maps/contrib/114532869725375343601/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwujsuszy4Y5QspxmNmJvqYZNPn5q4H4toZJ8-wEpQp-i_aHVp=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Best collection at affordable rates quality. Is good",
+        "time": 1750345302,
+        "translated": false
+      },
+      {
+        "author_name": "Kanik Jain",
+        "author_url": "https://www.google.com/maps/contrib/112660657925119191080/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqZ-l6O7L9IOJS7lPyw356BhF08n6mXPlFSebxFmFubspKaUs=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "don't shoping hear staff is very badd 500 ka mal 800 me de rahe he don't West your time",
+        "time": 1747719261,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:51.343891",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "MP 13 Fashion",
+    "address": "5QQH+542, Nazar Ali Marg, Kotwali Road, near Bank of Maharashtra, Madhya Pradesh 456001, India",
+    "place_id": "ChIJHRbDHDx1YzkRcwOi1Clw9Qw",
+    "rating": 3.8,
+    "user_ratings_total": 32,
+    "price_level": null,
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1878914,
+    "longitude": 75.7777547,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcQ8wdJM5HCncJsk-fce9lNvPWNbmwSc6seolKi8wkQ_Q18IHDvVMmY095ywm_oZwE7n3_eSZJq99qdM4mz1vvzuKbHZoEas8wfo0azEqk16_7B2mIk6QVR2g9Tghrrwv2_ETNPWfev8V7ZmBvwhZsQWQRgVSkLYWo9dNGmkQtm_e7csixFeRtxYqgrts_d-JgAfR5PuZJrkjrBWdPKeh92hNnpCzwlHTPkmOKFSglVNvurJQ4HxzIojr6fQVH4UoNBuz0x7PhIeDBmBXr0-sJe2CuVkFpzkh27KMW6UQ9zwY_ewIoHfB-wiMQOT4xpvEnnY7e2m7Q01sQS-56KgrNOYT3QJ8djMfpM0tw6_qLfPvRLqGnBjBFwEbk3MChsRPFgd_enilq1sGsHfGtKPo_dKGNCWnuKJuk4wBJ4sL724P16YBkrJWeXFoZ8X7xVsI-262qN6l5hXS-KVnYthFVsIyDLtJiPTNXoD6SQgTo9JfdtVY3EZmLw2wevGE8wf2RhLxmSr7_GYnb6UlDmE0MoNSBtzWqaw0PlKcRb_IqLYszDRiMZViYEfH4RYfimLz-qiQBmNxGfuw&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "088151 77444",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Shubham Dodiya",
+        "author_url": "https://www.google.com/maps/contrib/101001881910439682138/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHm4_hRQ4YbVp_1CTA7Ojjh9Xq_va8ucFXtYiUjbsG5LH8cljj=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Good service",
+        "time": 1627922693,
+        "translated": false
+      },
+      {
+        "author_name": "Nikita Sharma",
+        "author_url": "https://www.google.com/maps/contrib/114756829633830169291/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLfFt_cEX3BmpeU5JPAX5lAajAeeCSUfWydGasFL6gTYE4lwQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "2 years ago",
+        "text": "Nice place for women clothing.. Budget friendly, nice collection, & staff is also good👌👌",
+        "time": 1682504942,
+        "translated": false
+      },
+      {
+        "author_name": "Priyanshu (Śhwetketù)",
+        "author_url": "https://www.google.com/maps/contrib/116454175552604230078/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWor5cxJkH0qrgq6r8jae-c9eAnxz1j8zqQHbH023zDpF6HvUed=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Good quality products",
+        "time": 1712824582,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:51.446497",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Trends",
+    "address": "Shubham Laxmi Solitair, Plot No. 46-50, Kamla Nehru Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJA58UiMZ1YzkRTB7rdQk3PtE",
+    "rating": 3.9,
+    "user_ratings_total": 504,
+    "price_level": null,
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1789758,
+    "longitude": 75.786665,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpd2FBeDVSDyv6KBtpN6AYfmn3jQ_GAae94PjPG_s9dL8Z_p-4RUXcxKNksnY-ZF1wLcYUg-H9yN21NkyrCdsmgFEGiu9yvDEuwf2L5gl3ZOSu5P7niQTNbcZT_G1O161pxHWstsqfel2r5g7RA0om9R8JKvaQuIhV2q_-NErpYc5w1R5n581G-TzT-mf14RmaZh3dMh57Yq_qQ8jifYiOfThM_9ZVwR2maZ92_wMyJEgJILexDTNR4dmP8H8MPFT6u9icXfnh6o86beb4n-Rp6b1T1PWLbVVz8WBF7Pc69Tpg6uGMU&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "website": "https://reliancetrends.com/page/trends-dhanvantri-marg-freeganj-ujjain-madhya-pradesh",
+    "opening_hours": [
+      "Monday: 11:00 AM – 9:30 PM",
+      "Tuesday: 11:00 AM – 9:30 PM",
+      "Wednesday: 11:00 AM – 9:30 PM",
+      "Thursday: 11:00 AM – 9:30 PM",
+      "Friday: 11:00 AM – 9:30 PM",
+      "Saturday: 11:00 AM – 9:30 PM",
+      "Sunday: 11:00 AM – 9:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Surendra Rajput",
+        "author_url": "https://www.google.com/maps/contrib/109114968628809551513/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXF1Fvur3PQ9wQQpZkNodTofgmLuTlzhXCLTvCfWkMIuXzwQXqJ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Good collection of mens , women & child wear. All popular brands available.",
+        "time": 1750250841,
+        "translated": false
+      },
+      {
+        "author_name": "Dr. Anjali jain",
+        "author_url": "https://www.google.com/maps/contrib/107001465652876383464/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKiGeuUJFn6073h5C179kZwjTHFpdGmMUacoOulOR2iEfWi5A=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Trends is one of the\nIndia’s largest\nfashion retail chain\nacross India.\nTrends store is designed\nto offer a unique shopping experience\nfor the entire family\nthrough wide aisles,\ncoordinated displays.\nStaff helps you to find out\nWhat you are looking for.\nAll Covid measures are taken\nAnd safety of customers\nis maintained.\n👍👍👍👍",
+        "time": 1627066008,
+        "translated": false
+      },
+      {
+        "author_name": "Ritik Krishnan",
+        "author_url": "https://www.google.com/maps/contrib/112689862132136671130/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUDBdRwvlxwvZ38tw_RPN9zLO_nq92e69MARIIKiCEH2GIUxTK=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Giving it full #stars because I loved the experience of being at Ujjain's #reliance #trends. Everything was just as it should be nothint extra.\n#review #foodreview #travel #blogger #blog #offbeatfoodie #kanpur",
+        "time": 1630782636,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:51.537011",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Ahana Boutique & Fashion",
+    "address": "227, Laxmi Nagar udyan, Ujjain - Maksi Rd, Ganga Singh Colony, Desai Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJnZndXpd1YzkRyuWVKLRsIG4",
+    "rating": 4.6,
+    "user_ratings_total": 11,
+    "price_level": null,
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1812023,
+    "longitude": 75.8026091,
+    "phone_number": "091653 75267",
+    "opening_hours": [
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "kavindra jain",
+        "author_url": "https://www.google.com/maps/contrib/107482848413694544154/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhLBRsz49P_Vs7KN37JVMcqD7D12gPegik9yQMirmmw8Eum18=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Great designing for marriage bride , and grooms. Have a nice fitting with gorgious gation design. It is so economy and emerging deginer.\nThanks for great  dress design.",
+        "time": 1597247684,
+        "translated": false
+      },
+      {
+        "author_name": "Prachi Sourabh Jain",
+        "author_url": "https://www.google.com/maps/contrib/105835406467479778096/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjIHI-Gsop1VPPLN9DQ5ruF9Vpbjk6yGN1zJA29Oc7pegNKA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Great work with latest designs.",
+        "time": 1597333772,
+        "translated": false
+      },
+      {
+        "author_name": "Arham Jain",
+        "author_url": "https://www.google.com/maps/contrib/110701687066110395090/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX821i8F_i6SvjjfMBBKWM00QUUhxzYsDu8kQ-nY-F6QA1SKap_=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "",
+        "time": 1710569767,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:51.624579",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Gaurav Paridhan NX",
+    "address": "82, 83, Vikram Marg, near Shaheed Park, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ9-vqFWx0YzkRWlM4p_LR8Kw",
+    "rating": 3.6,
+    "user_ratings_total": 210,
+    "price_level": null,
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1787552,
+    "longitude": 75.7908423,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcv9J8UEB1rq5bcb8MLFtPnnX0MihWNWMpuDC07G1-liaNB3x3twQk0kmED8NE-do5rr2d1QMx0s0OLu2ejVn8jH1RTlbMdNbZrTWPM6w9a_GQbhrRSaVAe_6UGB9KYNsJR1xZ6aF5eV_MW7KTCzDTv-mMew7xTOlNTsbJAaGvzxpxPqWkBxnbA299J532igFch4UmGg8BX5DJsAOQ1TTJcrg9M-l9LsLoUYWJ6jgQCKz_OQ5zmsDTBasvsUm338Xg2vXbo7VZRPTGG3HqmMx_xSn8FqDponOPPPYMgplufVw2L5dyipRVL4ovqhpZDbYmw4p5bxQ-BuBpIL6FAm50Rd5Pj02V4ksCktSe2R6PyGY3-fvmEMZwsYItZRHDRB-Zn8uG0o2GUo35a2lKXa0GuYwzqnBlFaSMEiMRIozcTxOgGar3d_R_y4LNy4T-VyZXs2mcfX0B6d9ebuU17N9X6-a0kzEULY2v5k6qYTPOgf8uuTP2cZh_twKsovtIOqON2DlVgDiCpPMkN6og_ttKI2g41UOSv2lzBE22au0KkbLHVswIvVd0D-cpP8YtCmrtq3J3Q&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: 10:30 AM – 10:00 PM",
+      "Tuesday: 10:30 AM – 9:30 PM",
+      "Wednesday: 10:30 AM – 9:30 PM",
+      "Thursday: 10:30 AM – 9:30 PM",
+      "Friday: 10:30 AM – 9:30 PM",
+      "Saturday: 10:30 AM – 9:30 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Kisan Klick",
+        "author_url": "https://www.google.com/maps/contrib/111312992309697637928/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRkBsHmkbkBSLE12dOVTb9P2yDGYkTKqszW6-g5nNsMNCxrFi2=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "6 years ago",
+        "text": "A lot of variety in clothing is available from infants to adults.\nBut prices a bit high. Bargaining not at all possible. Run by employees mostly. Owner is always busy doing something else and dosen't pay attention to customers neither talks to them which seems a bit odd given the nature of business.",
+        "time": 1555167342,
+        "translated": false
+      },
+      {
+        "author_name": "Siddhant Chopra",
+        "author_url": "https://www.google.com/maps/contrib/111605917039137933055/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_J40zIMuTzSjUzMN59MdLXkbzdWQnud9T7MsQ30WxA2VVWnKN=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "This is my favourite outlet for shopping clothes specially for Male wearing. You will get all the varieties from casual to parties to weddings with price range from cheap to expensive. They are keeping most of the good brands with them.\nThe shop is situated at freeganj",
+        "time": 1637488759,
+        "translated": false
+      },
+      {
+        "author_name": "Gaurav Dixit",
+        "author_url": "https://www.google.com/maps/contrib/110665208482093529262/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9BXHFZtaRl4AyuHookCnbVThh2F-v3BNAzcQPp8DS4n2pSTt7=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "7 years ago",
+        "text": "It's an OK kind of place for clothes. Good as per variety. They keep a lot of variety but the prices are also around 20 percent higher than the market.\n\nI would suggest to go there only if you are not getting a particular item anywhere else. Keep it as your last resort. - Gaurav Dixit",
+        "time": 1522510394,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:51.719119",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Max",
+    "address": "No 5Q4V/MR7, Ground Floor, Cosmos Mall Rd, Nanakheda, Jawahar Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJL8MJUul1YzkRkk84Ij0b2B0",
+    "rating": 4.6,
+    "user_ratings_total": 138,
+    "price_level": null,
+    "types": [
+      "shopping_mall",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1566368,
+    "longitude": 75.7940636,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcpo03DNmbu-rGaGapm3kw9lYITTOR_x8cKfYBqqmPW1TXmO1C37IhCNC5LZkhUNO9wj3rV534hKhMSvrsHX_i7JCiRJRbr3uZkBNEsfQqdHI0JAYTyhgsJwW-cPj7BeH2yGJTd-hq9_-d_fRVNsqHheBJyf8kma0l9SX0ZMokF3a42aQz_OV_k1kG7VJfazWmll_AZVNH-NX-rE9kGmBjjcZ6H2-HMqog3YwrD_cQF5xmhiksXxOOv2a68qqi4uPOL5utXQ_9_S2qvCHE1c-rPQADOHdzRAcL11ERdZNb6srLfRh4&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "081203 43572",
+    "website": "https://stores.maxfashion.in/max-nanakheda-shopping-centre-nanakheda-ujjain-281866/Home?utm_source=locator&utm_medium=googleplaces",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "sunil verma",
+        "author_url": "https://www.google.com/maps/contrib/100782927725695483668/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUONw2JisN7aDtqedOewWv7VyzoT6rkSF8ydIsGlbvJt38Fc9NG=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "It’s very good service and good staff with service",
+        "time": 1712416334,
+        "translated": false
+      },
+      {
+        "author_name": "Abhishek Chouhan Ac 4242",
+        "author_url": "https://www.google.com/maps/contrib/106859152844813053940/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1RR4x6biY0afG-UrJytrb8b-m1RQM_fW625cAe8Pxv2vFZUeg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Best offer and best quality",
+        "time": 1738582264,
+        "translated": false
+      },
+      {
+        "author_name": "अर्जुन सिंह सोनगरा",
+        "author_url": "https://www.google.com/maps/contrib/108043229451918578581/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQN3raKcvQaYcPR-R8wyCozOythl4S6-EmCWh6OadCr7r9TaUW=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "Product quality is best and staf behaviour is good 👍",
+        "time": 1722104557,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:51.800279",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Rajdarbar Kurta Showroom",
+    "address": "1st Floor, Ora Chambers, Koyla Fatak Square, above Maruti Showroom, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJ1wksZMx1YzkRhZDbc3O2n_U",
+    "rating": 4.5,
+    "user_ratings_total": 30,
+    "price_level": null,
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1892314,
+    "longitude": 75.7851044,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcQeTA3lKolqYQIeVkFK2nz1bif8FZbU2jxTlp4uSi40lwTX2kdFQqiOs9DdopQ53XiDLefRblb7ru4kdejaVVo6937d_qQpruCja1JX22lZwvIAbUmMNIbIN4XnGDPi8OoSAzY1BN22B1hpRPxDVuTNjVrTgbPwTruSoULJ4XvMA4BiCJcUr-ymtlwVmkqeOeSIEhfK9Advy0iUVzvNil3g1afv0jGXO6V815tCdUGrjhcHepIdP_es6rHR8xcwS2qnX16Room1pJYQ9oZ4OE3sg9PyQmqP_IJ4Qcb2sJcQ0vXt31uDaN0YKIVWeCiloJQUH4c0vi1oB1XKTc-YzhA3oNyK4M2R47beQph6XxBFiy0BTnAWbGlrrQSomAehFWL__02VgB74pLFAVzk3oCgd-qEU0opM6a3MtfTFvRuYLUk9buRgmdbDDwaKwgODk1dHvZqtEWEj8RebrquKVQYk_l0CAI2iWl4JOAccaoeYfdDJVmETKl3cU-fAyMLV-JhzUVPabtVVpNRdiRAAhjSPoA5vcTJ_3HHYEpr3t3ZUumsvI0wxKodnE7GLSZZxenlr-I7ar40fQ&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 490 2051",
+    "opening_hours": [
+      "Monday: 9:30 AM – 9:00 PM",
+      "Tuesday: 9:30 AM – 9:00 PM",
+      "Wednesday: 9:30 AM – 9:00 PM",
+      "Thursday: 9:30 AM – 9:00 PM",
+      "Friday: 9:30 AM – 9:00 PM",
+      "Saturday: 9:30 AM – 9:00 PM",
+      "Sunday: 9:30 AM – 7:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Vivek Bhargava",
+        "author_url": "https://www.google.com/maps/contrib/101459638154787478175/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxkaxc2HWN4mGPlpzkdByPo7tj0FF5Ak465zTQP5J_DnCx5lY-=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "They do not mention price on product and their prices differs for same product for different customers; i.e. for a kurta set I paid 1350/- for same kurta set they charged more from other customer.\nThe colour of Kurta and Payjama is fading from first washing.",
+        "time": 1668992382,
+        "translated": false
+      },
+      {
+        "author_name": "Parth Jain Creation",
+        "author_url": "https://www.google.com/maps/contrib/108514464264736840780/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWeA81OiDwthoOeMI1QUZDQm2u58CJH9lFZfDmvurhECceFuQZj=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Best place in ujjain for mens cloths visit once for shopping and if u looking for best groom dress must visit here price is reasonable and the behaviour is awesome and collection and quality both are awesome\nAnd their behaviour is very kind and heart touching\nKeep going❤️❤️❤️❤️❤️",
+        "time": 1671562641,
+        "translated": false
+      },
+      {
+        "author_name": "Ratnakirti Vijay",
+        "author_url": "https://www.google.com/maps/contrib/108196984634312553741/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDNkBb46p2rz0hE4fxKjKwmIMmW0CzOZJeRn2Q0rn3ccPHkg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Amazing collection\nGreat quality at reasonable price\nProudly made in ujjain,wide range of all menswear and kids ethnic wear\nGreat experience\nEvery time when i visit get\nSome new range,with superb quality",
+        "time": 1676129088,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:51.880481",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Aanchal Selection",
+    "address": "near Shani mandir, Nai Peth, lakherwari, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJJTHP8Dl0YzkRR_64AsFLxDU",
+    "rating": 4.1,
+    "user_ratings_total": 53,
+    "price_level": null,
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1875213,
+    "longitude": 75.7728573,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfgWj4F9q73IzT3yMzDVc0GRXZ9y-SJDd0xZMKvcjpSKMjSDzE1e14F3ZPWatRsaQhxsPIRRbtsCeNmc7C41vPgQ7Aox3a3vH5G3NmglY8EWIuWWk9PeC5E8bxYPFOiE6LtgYy_ICyFeNiCwd4GpQsCUUIl_KPshm5LVb3G7f8TcWbwxIqG4uJPc_tHV1YuxAgqZxSCmhEjx4oBlYDCvZUmGSKpCSuROhmGfOMSAS1XITrQCNDvwJrbp4chedTeL_hVEcDKuCP7-cC3v4qnHYn0F5mBPsxFMiYUBgUzYtxxLD9jThQBxip3GjRGh8St03MsCBJ7qwUxJw8q7c_XmPrDQfonApq_w1Aw31zcemS93NW8Tph6l9Sng3V8gjmHQhHOICVvZjcvRa8tbqjA_JKyUezONF4ENY0tVRzSNsH-54DanBEoLu7IUZshIbqvpBt4kB9fkfNbxOgw2CJ5x9IcQcBhzv2z35DHZT_-ZpGzr5G_0Xm6ITbelKjO_AU9ZJOarM5J7KHv8t9jqgMjYhlec4L0t4RAzElSFMC6bOk_hCXaRarXaIQjYjtGeD9CWrMg6gq9&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "099070 25750",
+    "opening_hours": [
+      "Monday: 11:15 AM – 10:00 PM",
+      "Tuesday: 11:15 AM – 10:00 PM",
+      "Wednesday: 11:15 AM – 10:00 PM",
+      "Thursday: 11:15 AM – 10:00 PM",
+      "Friday: 11:15 AM – 10:00 PM",
+      "Saturday: 11:15 AM – 10:00 PM",
+      "Sunday: 11:15 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Anuj Katiyar",
+        "author_url": "https://www.google.com/maps/contrib/106282772995031355864/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWV3bEOzPOFQTvgYC1oHr5MICRfjZG6KezQajVe2ZX3xV_3E1Ym=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Best trendy clothes fashion found here",
+        "time": 1731817357,
+        "translated": false
+      },
+      {
+        "author_name": "Aanchal Chhabra",
+        "author_url": "https://www.google.com/maps/contrib/105361085512648982047/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxHPrEnOPJBMxNKSojQP6vWz3Fl23ozxswcNBu7BYC-ZYY5Ljf=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "The staff is very humble with great value of products....   very nice experience of shopping everything is in one place.",
+        "time": 1628444267,
+        "translated": false
+      },
+      {
+        "author_name": "GUPTA bas kaafi he",
+        "author_url": "https://www.google.com/maps/contrib/116385012778647363142/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3ssDFuM9OTUHNesiddtyM2x7A12ljL9p-OuT2sxmxhb3V_CYo=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Reasonable price shop\nOwner attend coustomer as family members",
+        "time": 1650514933,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:51.959724",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Universal The Store Best Men's mens wear in ujjain, best kids wear ,clothes shop near me in ujjain",
+    "address": "Shanku Marg, near Alakhdham dharmshala, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJs54lXfN1YzkRjAWjalILm8I",
+    "rating": 4.6,
+    "user_ratings_total": 11,
+    "price_level": null,
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1803607,
+    "longitude": 75.7897611,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpex8CksbGN0DxiF_9r16tlLIX02CfFWqGaKs511ySfiiF0HsOdS-Q-NeaJ9Jzfw-xi8WUtB721GYZssRDaUHouTqL-HitW0iX2zAJRBZD1V5BmNCiAtAgftEO4z_C5O59cs2W5cgII7aU4aVZN-z2yMwWS5SO0O_NhywhzVuF4-SYjAxj-AsxQwdoF6-a8BGIaypr01agtH99Fr9sc-JCfWHMnRf-3QUHtnfxQp0I5qf96HA9BcMQK0zJsdVuI1KOmcHe0w4SMQtt02cEieEQOUz6T53NRorqsD3d4PIT_IWpTY_GU&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "097558 65659",
+    "website": "https://universalinformatics.com/",
+    "opening_hours": [
+      "Monday: 10:00 AM – 9:29 PM",
+      "Tuesday: 10:00 AM – 9:30 PM",
+      "Wednesday: 10:00 AM – 9:30 PM",
+      "Thursday: 10:00 AM – 9:30 PM",
+      "Friday: 10:00 AM – 9:30 PM",
+      "Saturday: 10:00 AM – 9:30 PM",
+      "Sunday: 10:00 AM – 9:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Jamna Aswani",
+        "author_url": "https://www.google.com/maps/contrib/106736517616385425315/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrPPQEaaDiyvl2fg7M8s9rw-iG5ZduFK_cwuJ7g3yadBZZKw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Both kids & mens wear collection is excellent.\nHappy shopping always.",
+        "time": 1742323194,
+        "translated": false
+      },
+      {
+        "author_name": "ASHU JAIN",
+        "author_url": "https://www.google.com/maps/contrib/102151655078960905526/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEE-VxmFKpIUx_kBnwtRX5Kc4YGqwVNrbvuwM-XmHFTAjIsqYA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Ujjains only shop with trending articles and great collection",
+        "time": 1742558149,
+        "translated": false
+      },
+      {
+        "author_name": "raviraj panwar",
+        "author_url": "https://www.google.com/maps/contrib/116079382096780891594/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOuPXUFf1F_In6slqDA_gnUGrgt3FqBVKTgHNIuMpMH4gjG0c=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "It is a very good shop for kids and mens wear with reasonable rate ....and variety of stock available... Must visit",
+        "time": 1689160522,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:52.031242",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Jockey Exclusive Store",
+    "address": "Shop No 34-35, Aditya Plaza, Kamla Nehru Marg, beside Kotak Mahindra Bank, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJg6glvBB1YzkRCWeoesKxPOk",
+    "rating": 4.8,
+    "user_ratings_total": 686,
+    "price_level": null,
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1757466,
+    "longitude": 75.7909268,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfRmPHXF1iySPMD2-qQlzAqJg8mAX-TDodyTrk0Bv61-cxYKKUYCA6RA5SKZBaDuG43GT_icSOv7_Ys8H4S4ynzbcFlTETf-5pLkKTd6uamTDWkxHgmahUcASBbqQlvl4vud3E8pYXsN6ue4TwQU3bageH3pa4BRuaCvPZLfCvlDgzraA_2ACXKzZBc0FSGsQeBg36ldYVyQON6WqQcpi27yi9YLGrSFPk2E3AeQM8jBysrJwx4pLOsRbp0u7Zb_6SJDocXkth78wpOBCq2jXtTVua_8KNUWgioCpk-bKkuplWqGZgu0yqwhftB9WrdohJP1WItfgjqLcoUov07mZ4g_tXI_-XmCu_hy-M81pOSUPLF0Rg-yrT8Ck1Cy7-ug0EAu75PM54p6TGNsQnxGpf7nhYCNV5iLGWVuuv44rZncoMPcYbRpwUrL8XBLWoBnwesU_zwB3TXO3D6zjRYu6oHWBtD-08q8hIHeoHG98nbDJo2J1XgbJO7JkTUUGtldCoHFTDrbkK96JCdc6jh9mUAHdqwNp2jzGV1WjT_oI5Ddtl3Gh8xmCN9qJ78W_jyQuPcVhkibUCkpw&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 350 0383",
+    "website": "https://stores.jockey.in/jockey-exclusive-store-freeganj-ujjain-31107/home",
+    "opening_hours": [
+      "Monday: 11:30 AM – 9:30 PM",
+      "Tuesday: 11:30 AM – 9:30 PM",
+      "Wednesday: 11:30 AM – 9:30 PM",
+      "Thursday: 11:30 AM – 9:30 PM",
+      "Friday: 11:30 AM – 9:30 PM",
+      "Saturday: 11:30 AM – 9:30 PM",
+      "Sunday: 11:30 AM – 9:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Vanshika Pal",
+        "author_url": "https://www.google.com/maps/contrib/117885320494292640226/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-YDPRQH4PXXlru4wp1yaG88tsviQeaSBRvvD4yUI1QUu9EA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "It was a great experience with the ujjain store and the staff Mr. Nilesh was very helpful and he has suggested us some good products to purchase.",
+        "time": 1736945538,
+        "translated": false
+      },
+      {
+        "author_name": "Jagdish Nayak",
+        "author_url": "https://www.google.com/maps/contrib/100944492275749424545/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfGAy-KVcEJ9tXLCwWvjMjstHjUL7uArcnBwcXMUQQzBwl9Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Great staff and good product quality great customer service customer service jockey Naam hi kafi hai 👍🏻👍🏻👍🏻",
+        "time": 1741184663,
+        "translated": false
+      },
+      {
+        "author_name": "Ritika Chouhan",
+        "author_url": "https://www.google.com/maps/contrib/116277886510713856600/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxZu7a5yh46SJ8ldpwFy6zOzfS_u7tH1JmL8m0GCfF9A2Zqbk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Coolest showroom in town!! Super sweet representatives. The best one for women is Shivani.. just loved her. She made us choose the best things we had in mind. Totally coming back for more.!!",
+        "time": 1739027430,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:52.125327",
+    "source": "google_maps_api",
+    "data_type": "real"
+  }
+]

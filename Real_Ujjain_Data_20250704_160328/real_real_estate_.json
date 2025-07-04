@@ -1,0 +1,1202 @@
+[
+  {
+    "name": "Ujjain Real Estate | RK Realties",
+    "address": "A-14/16, Mahakal vanijya kendra, Nanakheda, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJg7NucWZ0YzkRlZ2AUSGnU6U",
+    "rating": 4.5,
+    "user_ratings_total": 22,
+    "price_level": null,
+    "types": [
+      "real_estate_agency",
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1590445,
+    "longitude": 75.7909652,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdSz3fg4h5FsFbYHNX9kVfqRp37YhvxVNl9soKwcchQHoyyiqVx0QQrTCtV8w8WvS26o5N-1mdTx73OgK97YKkXZDBzFFZkKPErM3Uae3fnR1de4l3_c9plBx3P7CWM2gt8uL1AI27pZFrNYkr-5flCvMEygLeYjz2rF7IVxpYOqhZs4US310M88TB27E9cYgI59lQKOIbi6ASqty6M1hY16cubnFGhHOvFMs83pIDsc0vT6QP9_OliPuphTtQyaS1Sncc1BzVC38kK6Ji-OhOBFYvuF-A-KgIsXhLur6P9iLnU&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "099931 21900",
+    "website": "http://ujjainrealestate.com/",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Vanshika Rajpal",
+        "author_url": "https://www.google.com/maps/contrib/107348787794691437793/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdN_CIyssIbRt7wNSo7GQptdEH2IuwCbD_9UkAYlOvmGQPljmG=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Total satisfaction.",
+        "time": 1558679500,
+        "translated": false
+      },
+      {
+        "author_name": "Yatindra Singh",
+        "author_url": "https://www.google.com/maps/contrib/104516337313429695593/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYuj5kdqvflyM5QJUijw4Eb1H2xLTkLxBf0G6pbXtDBr7zYg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Got solution",
+        "time": 1628086361,
+        "translated": false
+      },
+      {
+        "author_name": "Anil Anjana",
+        "author_url": "https://www.google.com/maps/contrib/109956695825940115578/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWs41zzVGPvIl4k9H8dstkdR79U-7tBSyoZTkCks1ahcMjh2qg2SA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Thank",
+        "time": 1652075002,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:04.620799",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Property Zone Ujjain",
+    "address": "Munj Marg, Shahid Park, 6, 5/2, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJkUHmSGx0YzkRCf8wmr6FGFM",
+    "rating": 5,
+    "user_ratings_total": 155,
+    "price_level": null,
+    "types": [
+      "real_estate_agency",
+      "general_contractor",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1799771,
+    "longitude": 75.791674,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcYFRxL1iXTYYh09HL0Rja9tncvEk5LMNRHKE5-Ml_ZeI_kIwyXcd0MmL7fjQs5LX6X95A6CtFE2QMyvKjdywlOQjTEFY4Sj-cRU0TQQkgKFGIgTRqj6PADXxvI_P6V3WM9L1s_CVafwMNJhDpPQ0BJK0IXOUsDN-GIV_ZjfL5CAm1kqTsxNwPN6Nb77EfRwG78qpAe_W4QK467al_QDj1Z_iLwnlOEc5Atk4G2yfZqEDQ7YofYn-K-EJDNCTkEILSjYumBhKtSMC7YXhvL7W5Vtm2ThHxjQjLO2mnl_z6fb16bp8E&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "097555 21300",
+    "opening_hours": [
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM – 8:00 PM",
+      "Friday: 10:00 AM – 8:00 PM",
+      "Saturday: 10:00 AM – 8:00 PM",
+      "Sunday: 9:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Bharat Lal",
+        "author_url": "https://www.google.com/maps/contrib/101430660972627207341/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKY_kKpmyVJqjuzBQ_jTHW1Lami1qAHCSDNsJAuURErHYzpsg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "I had a fantastic experience working with property zone as my property broker. From the very beginning, they were professional, knowledgeable, and incredibly responsive. Whether it was answering my questions, coordinating property viewings, or handling negotiations, he went above and beyond to make the process smooth and stress-free.\n\nWhat impressed me most was his deep understanding of the local market and honest advice throughout. I never felt pressured, and he always had my best interests at heart. Thanks to Ajay ji, I found the perfect property at a great price!\n\nI would highly recommend him to anyone looking to buy, sell, or rent. Truly a top-notch professional who delivers results with integrity and care.",
+        "time": 1749801740,
+        "translated": false
+      },
+      {
+        "author_name": "rupesh sen",
+        "author_url": "https://www.google.com/maps/contrib/109102961864617569715/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUP_voiOasNgqA3mjKaXnib8UxqGRqoiBb2WY5NdlpT9VDPxoIBuQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "\"I recently worked with Ajay Verma when buying my first home, and the experience was fantastic. From the very first meeting, they took the time to understand my needs and budget. They were incredibly responsive, answering my emails and texts within hours. I was new to the area, so their knowledge of local neighborhoods and property values was invaluable. They also guided me through the offer process with great negotiation skills, securing a great deal under the asking price. What stood out most was their professionalism—never pushy, always patient, and totally transparent about the pros and cons of each property. I felt completely supported every step of the way. I highly recommend Ajay Verna to anyone looking for a reliable, knowledgeable, and dedicated broker.”",
+        "time": 1750490428,
+        "translated": false
+      },
+      {
+        "author_name": "Shubhendra Singh Chouhan",
+        "author_url": "https://www.google.com/maps/contrib/118246897667678569913/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSxV9j_jLH_IDdoAh_Fo3veXZTWEgQjHq-N1tQQe8t_BGF5uTdhw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "\"I had a fantastic experience working with my property agent. They were professional, knowledgeable, and always available to answer my questions. Their guidance made the whole process smooth and stress-free. I highly recommend their services to anyone looking for a reliable and dedicated agent!\"",
+        "time": 1746017342,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:04.703599",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Ujjain property brokers",
+    "address": "104 mahakaal tarase, Freeganj, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJWfTl4XJ1YzkRCFisuFedf-E",
+    "rating": 4.4,
+    "user_ratings_total": 30,
+    "price_level": null,
+    "types": [
+      "real_estate_agency",
+      "general_contractor",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1702689,
+    "longitude": 75.7904241,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdRYvhy2NDp_hsv0yidKY4CO7Psl-IODDs9q9riUlgXK9ytJ9HWg1adbdT3uVLZL7U0f-lscPyFs0FirWOxVMErU5dOFvrqmtiWQTYJsbOauClhIImeDQGA7jAaRNLZok1-TLV8r2JFJmfgWiKl_0ecozGG2WsHOLDJ7XjC2QZZAuYVeeF2kWrCI_sR6cS3ZhTs629C_R3D_UgeefxMXRrrgltIXjnaDPEdzKUlCyIED8JBvvoIKgrsdJeibmcH75KrTjT7e6Q_CJhrex72lrOQaGTbIXtC-b3JNPwJ0nNA6bOH4W0&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "099936 66218",
+    "website": "http://www.ujjainproperyujjainproperybrokers.com/",
+    "opening_hours": [
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM – 8:00 PM",
+      "Friday: 10:00 AM – 8:00 PM",
+      "Saturday: 10:00 AM – 8:00 PM",
+      "Sunday: 10:00 AM – 8:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Sourabh Gupta",
+        "author_url": "https://www.google.com/maps/contrib/108784206444825294741/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDOR7QBebIN1mPPqkfcXumv1F_eHICGjQsp_CfU50J82wHIA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Gr8 support and responsive person I haven't met such kinda broker....I wud say best option to choose them for my needs.....gr8 going keep good work.",
+        "time": 1676715332,
+        "translated": false
+      },
+      {
+        "author_name": "Ayushi Sanwar",
+        "author_url": "https://www.google.com/maps/contrib/101846048790904229246/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsFOeHpDwQM4y2nv-C4_dEclItyQCG9u-Z3HcmlQmecZPzQHY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "My experience is good with the service,\nI got my dream house in a single visit.",
+        "time": 1660986491,
+        "translated": false
+      },
+      {
+        "author_name": "Sarita Soni",
+        "author_url": "https://www.google.com/maps/contrib/115362108225018816981/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJaaD7RQrCIXkoWX62_7TGUOukdaXysHi3CWUdbnHfp-u4xfQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Very good and quick service",
+        "time": 1698123559,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:04.808675",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Subheksha Infrabulls",
+    "address": "1st Floor, Cosmos Mall Rd, Jawahar Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJYXQ4e0R1YzkRc4G0AqstomM",
+    "rating": 5,
+    "user_ratings_total": 46,
+    "price_level": null,
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1568709,
+    "longitude": 75.795107,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpclhAR2Rdb1HIhqAB6YIlSQzCpxXIdKyejjGqxUQFoqgM-Z7VMLlJL1QZyhjxErkDEq_EcSiFqnP3xeDYi_49w4Q7NaId82YskEm9-oW8YKbh1PTCULfegGZognqT430BWFMLatQn2BLWjKO0dLwBu-Gc3bpiwVvv4j_HLEsaXbiFQR6l_wc9RSJjSixk0cmnkNtX8PwuJkrw6HPYjnG5jcOU2SzGNh5sENNvu6CyRib6I6ASHI7IitkFCg-PxhynKYDwujkY_FY6OyKGUNODFilCEu-5b7n0pztZsMtyf27T8qCNKwP7LrZE5a6Se7F_PMCEGPy2O03OCzpea9Pf42WtwnXiSjzEJoHYtyhiPphv8FOOBzqI89fy1yCC2snbDChzdjgSuiXQXzWA9p3r4ge8uHIK1j1Z4UHYycbhctjMVPRJSsJabb7AWJ-A7HsmiCLiXtu-CbFNTrvBpv9564B5bahNl-Dd7CQfJfRk_abun3g-qIqvQ8yMU5LjpMRA4RBC2tTqQUW2F9A9ASd0fF4cf81q-MowhlXzxUS5WYGISZFMJOxCrEbYbY3uUmbvEWk_sdIYFfWPSGZsGUpa133pSVhg&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: 10:30 AM – 8:30 PM",
+      "Tuesday: 10:30 AM – 8:30 PM",
+      "Wednesday: 10:30 AM – 8:30 PM",
+      "Thursday: 10:30 AM – 8:30 PM",
+      "Friday: 10:30 AM – 8:30 PM",
+      "Saturday: 10:30 AM – 8:30 PM",
+      "Sunday: 10:30 AM – 8:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Roshini Karaiya",
+        "author_url": "https://www.google.com/maps/contrib/104639258541840128538/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEbAQ8fZpuvf0ArNfmiWKItYP5XytTUY-oY7gUiYjIF3tQlA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "The best platform for real estate is Shubhechha Infrabulls because not only earning is done here, learning is also important here which makes you a good advisor",
+        "time": 1750679404,
+        "translated": false
+      },
+      {
+        "author_name": "Harshita Karaiya",
+        "author_url": "https://www.google.com/maps/contrib/111252092764290752974/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvWrXlUwvJHCSO0Kju3Qd5EefjRZpCl8MB_GXUV0cVYZdhUA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Real-estate best platform for one stop solution any kind of property need",
+        "time": 1750596531,
+        "translated": false
+      },
+      {
+        "author_name": "Ghanshyam Dewda",
+        "author_url": "https://www.google.com/maps/contrib/106527000612718845949/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKRpLVRBLAYsEwdPID-OVtpp8SoJd52ySWXRbpKTNSYMGp6g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Subheksha Infrabulls is one and only one name in the field of real estate  upon which we can rely on.....\nAs far as managing director of Subheksha is concerned\nMr. Akash Lashkari sir is a reliable & trustworthy person, he always keeps his words......\nSubheksha Infrabulls makes the dream come true......",
+        "time": 1750616292,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:04.893607",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Nanak Property Broker’S & Construction",
+    "address": "4, Ujjain - Indore Rd, Nanakheda, Dipti Parisar, Ujjain, Jiwankhedi, Madhya Pradesh 456010, India",
+    "place_id": "ChIJafWQ_8J1YzkRs1tT5aghhp4",
+    "rating": 4.9,
+    "user_ratings_total": 40,
+    "price_level": null,
+    "types": [
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1513364,
+    "longitude": 75.787864,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfeDDI7fSpIG4ryvEsm2EK3Psnnz4a3vv7T2ab9qKM4mahFCctTg5idMoRt2GMATkgSbXz8EYU-C5sdSRvSEs01Yg6HlVEJMrESMomjzY3ZvAiYB4id0pwjglwtGH4YKVRN6YWiPSML-yIHu4B2iWJA2PJV6vU6KTAGDdsAh8MDNuyRTMAXqTsahmpriFZGmg4CfniERfSrVLvAkM-2tLJPzRoCAIjccktMqN7RQh4Gs5cDbkHazaQMjKXpVzE2YZBc2YdFE4MzydC0pwfijaBe1f7bVs8BvF1Ud8fzWdJmzecgIqo&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "081035 14443",
+    "website": "http://www.nanakproperty.com/",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Radhika Bethera",
+        "author_url": "https://www.google.com/maps/contrib/101767577054631890467/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVOSV6SbclFIUGc20BFmKz3on6v4-ozBrvDD4s-iEWhj6eYA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "i have a great experience with them . gives you all the benefits of your choice . have a wonderful experience to work with them",
+        "time": 1690626016,
+        "translated": false
+      },
+      {
+        "author_name": "Divya Saluja",
+        "author_url": "https://www.google.com/maps/contrib/116077803749040149851/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIDLkpQpieZ8-b3HY2H9_S06TF-BSJaPlwSVXm1Hgfc0NLK3w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I want to thank nanak property brokers ujjain properties for all of their time and efforts in helping gets us into our new home. You made this whole process much easier and smooth than it could have been . You understood our requirements very well and helped us in finding a spacious and decent flat at affordable price",
+        "time": 1660894143,
+        "translated": false
+      },
+      {
+        "author_name": "Divya bhawsar",
+        "author_url": "https://www.google.com/maps/contrib/107224370990232460823/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKb_nCeXh9rNs1cU53qYVLt5_qt9aXxvX4YDVZZoe08SZKiCQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Thank you for being so responsive and communicative throughout the entire process. Your timely updates and clear explanations made everything so much easier.",
+        "time": 1693996051,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:04.991679",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Tirupati Dreams",
+    "address": "Tirupati Dreams Shanti palace, bypass, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJa4HbSE91YzkRerQ3ZY_WhQM",
+    "rating": 4,
+    "user_ratings_total": 84,
+    "price_level": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1545446,
+    "longitude": 75.7685274,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeH-uTO7_4XhTQRwUWg8dURgihmHnK1jZFpaWHr7sIQQz0MwSLtQqj7gjAbalOJkpuTMd5g0rarHazHoIIf8g1XrAUHwbOejXe7qtUdRRff24Giks0WnCeyrcuPXBNm3xtfw7ReTuJMjf2u8GkOd-IsF7I8AmrxNJkvWEXABqHHqwzzOdzFraQYGWyF1cqzErI54PpMHKyxvHhJ8Zw-zt4JLuQVKD7vsZ9JZ1nCB362i6PVSobsFt6r_r93kgkb3tX9dttXqx0IBOBoK94nuezGdbc46q02xJHtFMoOflRtZ08a_qx6_ncsP0e1iKQ8R1QHfFQTclIX9tRCdRCD_hMoVJqFalWblaqvAP5oydIvckvuG3kbgRWUBSMWrUXVPPZcZRl3-n056aT-5t9hOg8doOEwKuk-1_K8t4sz1SdwqOwod2jVbn0BIGQlJdHlKevK1pcps_qk930X9NWaQF67BHzNIgKrOY_bwAA4-sTrjlNt6O_ecHyjtU8yOGtQwfQvrB8BU5cxDyMFsxL9XWCSyYxS7b8WU-F3vGv2PL4jhcTjiEIKwImq72WbFW_80t5m9VeKvJsI3Q&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "website": "https://ujjainrealestate.com/",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Harendra Singh",
+        "author_url": "https://www.google.com/maps/contrib/105326714459405073669/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSaeNRKVQsyVUYxXNgP4E-C44Xroi_okoUKpYLUdByLlmo8Sa1kw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "3 years ago",
+        "text": "Main Road of Colony is damaged, Iron on road may harm people and Vehicles",
+        "time": 1647682557,
+        "translated": false
+      },
+      {
+        "author_name": "pandit jitendra bhai tiwari",
+        "author_url": "https://www.google.com/maps/contrib/101620285702101649911/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHio7JUEV8VVasknnlgs8YyN8U0FHzlbPTHULInwUPyswRMOVx=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "My home also in tirupati dreams it's really very peaceful place",
+        "time": 1583501314,
+        "translated": false
+      },
+      {
+        "author_name": "Nitin Upadhyay",
+        "author_url": "https://www.google.com/maps/contrib/117088847458800624577/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFKSf6z0Xpiqg-ajhbrOjkOUkwTnhoKTxXuADASyL2qroInPJD=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "if you are not going for personal boring , you will have to rely on common boring which will be shared by more that 10  families as builder never committed on this. So, before purchase take everything in written from water supply to diversion and etc...!!",
+        "time": 1633588182,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:05.077552",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Solanki property broker",
+    "address": "4QXQ+H92 A sector sanchi point, Vasant Vihar, Ujjain, Jiwankhedi, Madhya Pradesh 456010, India",
+    "place_id": "ChIJAfdxs1F1YzkRWAPTi51UwTU",
+    "rating": 4.4,
+    "user_ratings_total": 51,
+    "price_level": null,
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.148884,
+    "longitude": 75.7883885,
+    "phone_number": "099934 25486",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Abha Rajput",
+        "author_url": "https://www.google.com/maps/contrib/111873888523702268601/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxoDoW2-3OoWd3MEMFz0072__Vb3VKJ1TrNYEdUGFPXb97Jg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Best dealer and broker in ujjain",
+        "time": 1735025809,
+        "translated": false
+      },
+      {
+        "author_name": "Ashwdhi Nair",
+        "author_url": "https://www.google.com/maps/contrib/117283293749433001466/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocISzrBdgBGmDGyxJ2JqzvhdRU_9ml3p-gjntVqmThaXaebBdS9Y=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Mr. Rajesh Solanki is very responsive, active and helpful throughout the process. We found the right place for us with his help, kudos!",
+        "time": 1673238422,
+        "translated": false
+      },
+      {
+        "author_name": "Manoj Jangle",
+        "author_url": "https://www.google.com/maps/contrib/100740105553964504438/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6OXyzQtderEcKyZ7dKJpV6MLTyuVnUfjRYL3ea44khV0VnGw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Great dealer in ujjain",
+        "time": 1734760772,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:05.135886",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Shivansh Valley",
+    "address": "4RHM+2HP, Shivansh Valley, chandesari, Ujjain Dewas Rd, near prince Hyundai showroom, Ujjain, Madhya Pradesh 45601, India",
+    "place_id": "ChIJqZ_DUIhzYzkRWfXXUDbUS64",
+    "rating": 4.4,
+    "user_ratings_total": 78,
+    "price_level": null,
+    "types": [
+      "real_estate_agency",
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1275957,
+    "longitude": 75.8339518,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfbFzsk4-LopZmzoIB_ipMhljBBoZLIIpjjvq062Z8mkYCr0LKr4S7Ko1zGOd1llg19sUvUQWAKfLavE0BYIn8kMyJHm1VblbJ4kVn_CiF_JVozmvmrAuL6aCzJCu24LcPYv73x8Uy0nSD86h3YbWsvxIM23GJzvlZBuELT5xkzGWdK82de_uNyIZXS9p38CeD0X70veW42yolCM929_mtGypwQzGs-l32IPwEsQJDp7vjWQZHiBq8bK9RPsV89AwYv8YhhxVdpNZ_eODnXC9c4TRx3vNp1zWG1DTs_1YYUCQm7NpgOaojNueUWioSNUoQgFcKsQ659mue_F5IUWOBMafiyYpBaFsPFMWP0MUStgLO-twyQBjnOqtowl0MeVHY1o_qLTkkE_I81Ot8f6dP-czKOD-luo8EbAeOFzv7tyqr20X9phF83It3d_Nsu1Q-P4-I0M0doE-TNxCIC3I_D1f0A0ddJh5j8MwoXi5YcrnPeO8v3AHAfu-AqXEY2alKgtJyO9Np5LGebrq5bfjkD5z67F7ZXNz9esmkvE4O1uZ-NZXGBcjiTjwN7f3BghxpeVqoVmE55eg&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "096177 77735",
+    "opening_hours": [
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Jai Ho",
+        "author_url": "https://www.google.com/maps/contrib/101363325100796371454/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtjSKOA3ngkfNtUsHwg0dVkDIvl9jdjs80bWA5rfYHkGrrWCMP=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "Nice place..... . Well organised Colony . One demerit is that high tension wire is there....",
+        "time": 1632850939,
+        "translated": false
+      },
+      {
+        "author_name": "SHUBHAM JADHAV",
+        "author_url": "https://www.google.com/maps/contrib/102078637464087821671/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5FzQzY5VxWFQ-xTfm8d3sioCIkIPTvJqsfgUB-9E1x66WIeU=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Very nice palace",
+        "time": 1737624698,
+        "translated": false
+      },
+      {
+        "author_name": "Raj Parmar",
+        "author_url": "https://www.google.com/maps/contrib/114451801526471176566/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU73nCj04QFMl92AUiLKgV-sdBP5vNNlZThZaQ0s6kHNfgwTImWhw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Most clean, beautiful and peaceful colony of the city... ❤️",
+        "time": 1646718060,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:05.227636",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "SAMADHAN PROPERTY BROKER",
+    "address": "A 2/13, Mahananda Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJYwENXYF0YzkR8EEqaXwihlw",
+    "rating": 5,
+    "user_ratings_total": 41,
+    "price_level": null,
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1570264,
+    "longitude": 75.8010003,
+    "phone_number": "098270 06698",
+    "opening_hours": [
+      "Monday: 9:00 AM – 9:00 PM",
+      "Tuesday: 9:00 AM – 9:00 PM",
+      "Wednesday: 9:00 AM – 9:00 PM",
+      "Thursday: 9:00 AM – 9:00 PM",
+      "Friday: 9:00 AM – 9:00 PM",
+      "Saturday: 9:00 AM – 9:00 PM",
+      "Sunday: 9:00 AM – 9:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Ranaditya Singh",
+        "author_url": "https://www.google.com/maps/contrib/104833876483991728162/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgvo31ZElgRmAt0M8tt3TP5XDVNZC9Y02jzJ6q5Go7p9o-LP9r=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Great & professional work .I recommend Samadhan Property Brokers  to anyone looking to do any Real estate Transaction.",
+        "time": 1638552059,
+        "translated": false
+      },
+      {
+        "author_name": "Piyush Sakorikar",
+        "author_url": "https://www.google.com/maps/contrib/105858082870103185768/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWwcpTqr6-6i-6Batx3j3L-wHeHBBY_-gvBFIuwNAvQee_EhUAC=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Perfect place for honest feedback on each property",
+        "time": 1692203025,
+        "translated": false
+      },
+      {
+        "author_name": "Avichal Trivedi",
+        "author_url": "https://www.google.com/maps/contrib/106018853967188748396/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdrC6WBb_wH1TpVf61hNW8NF_cFTBCb2p-uZDRaXUZtpZqRx4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "One of the most genuine property broker in ujjain",
+        "time": 1656397112,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:05.320275",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Shree Maa Property & Constructions.",
+    "address": "6, Munj Marg, Shahid Park, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ083nSGx0YzkRuR6Vb_aowXQ",
+    "rating": 4.3,
+    "user_ratings_total": 6,
+    "price_level": null,
+    "types": [
+      "real_estate_agency",
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1790721,
+    "longitude": 75.79103359999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdEg0noKmQk5OoyE_G-Ex4weYFjqI4xO1qhWBWVmvQMeg4dp03U5NRbvyn6CffA7PvbzuI0QTIr1wMFlh227My1JDjTuihVApw21dai9aq4Pl15TOHN5rzjE4tvLBjzXFHf_y7l9xpGkqqqrDyv7lCBQ85l4qnh2r3nQmS9Hv6U8ZNsXHCtxFzrRCLTjKGcsRaX2wwDN1Z47t6AGNoJ6B7FcN_N9_WfIO1E5bERA5bXW9FsraKUAeVwnDVxQjJN7RUcY47NxaIzhc5YeRhhSRlkMzsJTGYlQnxgM8g48A6xiuHlItA&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "094251 95688",
+    "opening_hours": [
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM – 8:00 PM",
+      "Friday: 10:00 AM – 8:00 PM",
+      "Saturday: 10:00 AM – 8:00 PM",
+      "Sunday: 10:00 AM – 8:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "IMRAN KHAN",
+        "author_url": "https://www.google.com/maps/contrib/115141991224019613384/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIGxJ5kD5qMpavtLyvsmCZBHCBQjzL8T9gPJjm_776E8rx6OAc=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "Very bad experience with this man",
+        "time": 1748719277,
+        "translated": false
+      },
+      {
+        "author_name": "Vijay Pandya",
+        "author_url": "https://www.google.com/maps/contrib/104829207056097867382/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJ8hS4nRKg-NxkhYUlWDloZPxuNDsZFnFSlFVkz7gwEboGWg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Good quality best location",
+        "time": 1707369606,
+        "translated": false
+      },
+      {
+        "author_name": "G S P",
+        "author_url": "https://www.google.com/maps/contrib/118303313926095582142/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCF0XVFTI3cpJVWl9ct6ibbJBCVmwJk1PCQUEqasisHqOlYQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "Fabulous and timely service by ajayji",
+        "time": 1501748367,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:05.397584",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Tirupati Saffron",
+    "address": "5QVW+QWH, Vishwa Bank Colony, Dhancha Bhavan Colony, Sandipani Nagar, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJESe1sA90YzkRzQHQbaYhQdo",
+    "rating": 4.3,
+    "user_ratings_total": 78,
+    "price_level": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1947593,
+    "longitude": 75.7946767,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpd94wdOBcTT8xiQ6ZE_w3yr1SW4F7S7J8Za7ncRcJYH-PXQJ02SdSWWwbPIQAv8VE4s_ADi2gB92m_GtoLTN70xZXjqU9egIf8KkX0GK7soGsijYBjs6aGaoAgsgCpK8W13YXArKRWjOiGw5QUzNon4GrzwMOGIy_5ztotna2ZCrLaQU6MfHvnWfresk8bB7csF2J_omEuc9xVtoRhMtM-H2WwVgLAE187Mb_IGcGsVTvb0KU4hikEvh0MexzWyWMg_uri-sDR0_MQXRQre-Z8loulfD-pmVt2QZXLCyvNxo4RqR8kv4KgEr5Y5PkC3bqiDAo6gMS1wucn1A4HcrkAql-fhyDrKqUprs9J6r2llKaHArK6SQRIWStp0h9XjIo_r62A6hN7FUCZMEi6vbXzL_nyudsZO9BQYAglfY69ISDIYHajZr7-14S7LccSi6h7sAq2yOZY5aivgD8izsqVMsH5GaOGHAvlXnpQtWD1JTGFOE3CY_RPKa0-ichvh5IWWKUOyywMiRDO0biPAmhnKhRRF60LF7_enrtyVibkq6xTgCgnZh_UeR9-MKICuc595YuTm&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "reviews": [
+      {
+        "author_name": "jateen 1137",
+        "author_url": "https://www.google.com/maps/contrib/108061285981992708116/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtReES5jKVrn78rjiIepUI5yfFRN2BLTJY7BHaLJItjGEYKs5EoQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Very good society 👍👍",
+        "time": 1735041808,
+        "translated": false
+      },
+      {
+        "author_name": "Anil kumar sharma",
+        "author_url": "https://www.google.com/maps/contrib/105837438206241539369/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWeZvXob74Ky3Y-mOQN_ceq0DE-4OS4XU-gE6DlZMHJNOhJEA2_tQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "6 years ago",
+        "text": "Best location, small plots with well planing",
+        "time": 1552705268,
+        "translated": false
+      },
+      {
+        "author_name": "Anil Kumar Sharma",
+        "author_url": "https://www.google.com/maps/contrib/114700524781882008655/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7HR3gkW335ae0qBeaLs_OV5EEplhEN9kIJMzknUvqGMm5UjEl=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "6 years ago",
+        "text": "Nice  n wel planned colony",
+        "time": 1559918063,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:05.479194",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "SK REAL ESTATE",
+    "address": "88, Shivansh Avenue, behind Suman Garden, Part 2, Abhilasha Colony, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJLexdUw1zYzkRZFCQULVojuQ",
+    "rating": 5,
+    "user_ratings_total": 1,
+    "price_level": null,
+    "types": [
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1301762,
+    "longitude": 75.8124524,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpegrtkIaa0CVfzK3ZlrIkNspbqvjjEQIUovjdUDyz0pCPLoVSm95e8rjg_phFGqtYkVdrmwi3-0B4uMRYWJ65K3JoqHhQv4uiIn1KzmdzD-LFSkVrbcwrAkYU8mlHqAaRo7HYtcJVhobjXO73nwXpEtSS8u5IjBtqrVUpnRFFyg_DJwKvziQ8SL5ZvA1cUZm1_5k5LFiEXox_Vedr7-cIYM_c65--o3Yx9xe2j_me3jRJSx7AuvuvyAJSjUKFwr8-SbFkgqw2xmlyduK0UvmGNXrBwIXjc27aast7-vktBOrTKwNIk&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: 9:00 AM – 8:00 PM",
+      "Tuesday: 9:00 AM – 8:00 PM",
+      "Wednesday: 9:00 AM – 8:00 PM",
+      "Thursday: 9:00 AM – 8:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: 10:00 AM – 5:30 PM",
+      "Sunday: 10:00 AM – 5:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "KHUSHBU Yaduwanshi",
+        "author_url": "https://www.google.com/maps/contrib/104951222302993233344/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHFh25FJcQORMHy2qikzIgnDw6FZ7c_Ej8iAWV7TDeUBCgrOpq=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "",
+        "time": 1737022461,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:05.559220",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Vinayak green City",
+    "address": "Agar - Ujjain Rd, Ujjain, Kamed, Madhya Pradesh 456010, India",
+    "place_id": "ChIJwSd2LqN3YzkRHaOAiYgw76I",
+    "rating": 4.2,
+    "user_ratings_total": 73,
+    "price_level": null,
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.2311698,
+    "longitude": 75.80077779999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpd1qPgk5Wuz7pkjA4uRLGIIPMw21z20wVcX51mZZGYlwHaHinOfck_seDnfV57KgxlZjJWSbbDqhiZT5SIcpYCoq6Vrv0IASdnbiG0OvomDG-FTQL9CY_kvv-cVDHAaTZPQn4C5Ndn2lj2_Ojyl88uHmVF37k1Zvpx4b45a-mIWeheRnFXc29xfDBwvMbaZcovRPn67bWQWTLGwujQ0FGZ9EolzKyD0TeV-UidMRB7QpxOE2pRWq71ZsX7-Sf6CWMrFVTbazmh96YHt-dAO2oWVXl1dbd2xdIkaZ10Uza9hIjZxD6FOaeciFKVZ3FN6SHywLcyn-CDJ822XVdQMK4mc13rUkJQ3ILJdtoqMT5o7vhWHtsW2oT6Mox8u7d9zB1Pi_-3TldjG8oCfk6sfuhh4-1K_L3iENHJRewXqVjADxIj8Qr4vx32S6BA4FGJ69RbfAXxy033K9LwAwMKQzVF-hg0N3eUw5Sx9zDAOdK8g50kYZH7YvJbBamvPJ7hwh5l9uaBXXzy9ajIdNWWuLVf7YAkcgiHhDBMTx7FxnRX5CxTi0z-yrROuwt9lO-Et7BFsEMNG&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "094793 70421",
+    "opening_hours": [
+      "Monday: 10:00 AM – 7:00 PM",
+      "Tuesday: 10:00 AM – 7:00 PM",
+      "Wednesday: 10:00 AM – 7:00 PM",
+      "Thursday: 10:00 AM – 7:00 PM",
+      "Friday: 10:00 AM – 7:00 PM",
+      "Saturday: 10:00 AM – 7:00 PM",
+      "Sunday: 10:00 AM – 7:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Nikita Jain",
+        "author_url": "https://www.google.com/maps/contrib/106646763057884858984/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6Gy0bmk5FGr6Q9wT_JYKPEiVEcKLbLBTas2F2-RkpRAYkpQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 years ago",
+        "text": "i want 2 -2 bhk flat for rent . we r 4 girls from.r.d gardi college but in your city no flat are available for rent",
+        "time": 1598000396,
+        "translated": false
+      },
+      {
+        "author_name": "S. K. Sharma",
+        "author_url": "https://www.google.com/maps/contrib/109465757630629195852/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCeaJZsaCxDqKxYzZ3LFg9PM7eFDr5D7WRLkxmFrtea6PISxBVuA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "This colony is the best location on Agar Road, Ujjain in front of Gardee Medical College.",
+        "time": 1643518501,
+        "translated": false
+      },
+      {
+        "author_name": "sundaram iyer",
+        "author_url": "https://www.google.com/maps/contrib/109137972266150236665/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLS8oehxYcSp9RCrYqx5p7248XcrsvlPkTonEDMeIXu61BW7A=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "Planned plotted project at main Agar road , opp RD Gardi Hospital",
+        "time": 1642090116,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:05.643987",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "TIRUPATI UJJAIN",
+    "address": "C21- commercial mall, Dipti Parisar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJyx4VwGt1YzkRvHn_CwI_YPw",
+    "rating": 5,
+    "user_ratings_total": 1,
+    "price_level": null,
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1566552,
+    "longitude": 75.7865592,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdbH7NuIiOjrsq1WN6ZP5QiTe7dgjEQkTQShqWisxBDYuP7ep1VG8MxxJiyiap1Lzmt8x_5mv-f5otqL1zI0IVKk1t2icIOvy5BQwaMQF8jnFhrph96EO13Zz8GIqwyJGVwxzbRdXPKzpdFKzIpJAj3dY4Lz4_yTt6FMi0MBD41-XleKJ-sFpGhFl7K0UPZt50FEKZgter7R27T9px9BXQAT_sZk_TFg3GBQomFu9suB7GMuZJFSUSm9AFmuC8Br6jQzPM1JoSbcXoZRQyq6c1X7QA4PKJYQwBdt3_-9jVQYFX5PFE&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "079870 57789",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Varsha “Rajput” Mandloi",
+        "author_url": "https://www.google.com/maps/contrib/114382976543698835995/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJI37VUirHdJixn3hBV1Lqaoj4cRFQSwCN15k2Eq1sF5B36Xg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "",
+        "time": 1724391017,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:05.724918",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "YDA REAL ESTATE",
+    "address": "TIRUPATI INFINITY COLONY, New RTO, Simhasth bypass, in front of new RTO, Ujjain, Chintaman Jawasiya, Madhya Pradesh 456006, India",
+    "place_id": "ChIJD9CVLAB1YzkR_C_efCbQnSg",
+    "rating": 5,
+    "user_ratings_total": 1,
+    "price_level": null,
+    "types": [
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1484855,
+    "longitude": 75.75083529999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpc0UOInuM7agBtXE1DC5vlhiAixpDy6_YJVNCc56Y7O9IjbW48LDPul1sNrW-VUkfY42MVCeyNjxyFC1p5OyyHLHFpS63MOwjSukDW2F2XhwneINgD8XU4TSd7Rgf2DMPOvhr8ZNJN5kg_yMAJWmThAyTSZToq13fHh0elC95zjNLn7sh3ZdMdoM1p427RoaJdqngns77D73zHdIdAsJGCnMIOO9dhX2xTQ0sw0fOVkCZ-3gwootK9xeiq9_oDlCsQdzHgQG0AEW85fRHGLl7qJrSzvnxJ86eNlV1LiAZpWXfAWI6XVV47afPzVDVb0rSmtYAw7sJLKGLFZ-sVxFLe8Fu5b3EJ5OZMlBvy5mmzfGs0jmHudtoqOXn3lfHW5Qv4QuPym871VltIe46KN_Z-pIio4vGqCWdDy-F6TQ5a6SLTqY5Y1bve-8LtnuAGuB-KwxYWuDPNvvmgBzvSRKT_ZNWI45e6hVjBSbgmIngy8heMEyGqeJxRAwy3UupWkspL3d3D5oqlVzmRdsOylCf-psLNiVwUjTB-x9UsOD4lPenfWnQNhDyGRYNJ_vYS9poLfjz9j29pGEdlVC6FskNsX7ziIQw&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "070005 81656",
+    "website": "https://www.ujjainproperty.com/",
+    "opening_hours": [
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM – 8:00 PM",
+      "Friday: 10:00 AM – 8:00 PM",
+      "Saturday: 10:00 AM – 8:00 PM",
+      "Sunday: 10:00 AM – 8:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Manish Tech and Travel",
+        "author_url": "https://www.google.com/maps/contrib/114650682728826997775/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAGfL7FbB87KQVN1BiGcAl9fjQLM4Ojv12MMFqwSW58XsGmP8p=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Ujjain number one colony",
+        "time": 1746451867,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:05.797675",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Annapurna Property & Construction",
+    "address": "14/2, Main Road, Desai Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ3RVv3HN0YzkRKZuoXvAx9yo",
+    "rating": 4,
+    "user_ratings_total": 6,
+    "price_level": null,
+    "types": [
+      "real_estate_agency",
+      "car_dealer",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1789347,
+    "longitude": 75.79934109999999,
+    "phone_number": "093022 38154",
+    "opening_hours": [
+      "Monday: 11:00 AM – 7:00 PM",
+      "Tuesday: 11:00 AM – 7:00 PM",
+      "Wednesday: 11:00 AM – 7:00 PM",
+      "Thursday: 11:00 AM – 7:00 PM",
+      "Friday: 11:00 AM – 7:00 PM",
+      "Saturday: 11:00 AM – 7:00 PM",
+      "Sunday: 11:00 AM – 7:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Pankaj Dabi",
+        "author_url": "https://www.google.com/maps/contrib/110899603394323289541/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYsMMrwLPwjnojVB5av9mRMJoheF9UrKpLqDzHFTgUhiqJ_A=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "Very good",
+        "time": 1486392269,
+        "translated": false
+      },
+      {
+        "author_name": "usman mansuri",
+        "author_url": "https://www.google.com/maps/contrib/113611593742963625607/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKxObHxgI6o1LGOVEKJKluLeMn0kYozoPcqWMUfnc7MFabOjQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "6 months ago",
+        "text": "",
+        "time": 1736051415,
+        "translated": false
+      },
+      {
+        "author_name": "neeraj tomar",
+        "author_url": "https://www.google.com/maps/contrib/114602319972278888531/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUB4XE68K47StdyLR8FNExBGN7T0nKBw0qUFpdKRdz6jUixzIvJ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "",
+        "time": 1645529770,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:05.871536",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Nirvana construction and real estate",
+    "address": "C/5/17, mahakal vanijya kendra, Nanakheda, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ8VGUCMF1YzkRFa6n3t1cGE8",
+    "rating": 5,
+    "user_ratings_total": 1,
+    "price_level": null,
+    "types": [
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1606548,
+    "longitude": 75.7933378,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcVWmbJ2sO2vltYvLw6zzjVFVh5klEaFBGhFR4IQw6-OI8VjqXE3X026mBd0o6jXrKEzPveDLOLuQwmDQkDfVuILG4wyeW5ZcVrgXp0Tjd1XDROueFOx6PrwrNUWwpn6gHUKeMRrvkAN6SMZTthZ9z0QWOE5Krw6TW_hy8rRCrZharP9xoBxqlJjOjhWr5bKOhNBMTFpYOl1rEsB28-UEyl5haitEpq7Ba0e_VFH0B3_hXOENyyG6UnZMmU48Vdlv4F2_O5BAGcaYImOhzmC2b3q4wJ3M4-Z8aALYuQBYmtEOYxA-s&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "website": "https://www.instagram.com/nirvana.construction_?igsh=MTgxZ3YyZmR5b3cwOQ==",
+    "reviews": [
+      {
+        "author_name": "Rohit Anjana",
+        "author_url": "https://www.google.com/maps/contrib/114976158200376902816/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIyeFKa_CRQWtarr2nm5j5JVmlR3pzJvL58Teon42s8Ax2PTQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Best service",
+        "time": 1748606012,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:05.953411",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Porwal Property Brokers",
+    "address": "B-8/35, Vasant Vihar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJMSqF9Y50YzkRy2vYR6Fr6SA",
+    "rating": 5,
+    "user_ratings_total": 32,
+    "price_level": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1489626,
+    "longitude": 75.7907378,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpclhNBMlyIYUZiIyexkHl7MKpa6jTdJDqxPT4stD0ylNJQ77aad31LYyw7YVzNJPLHuNdscEqLeF3g6jNmflsl8IRilS2lRka4uOP_TM4mqop99FEdBy4f-s0wYD4f45PPfyoraWpjHnkQcrDFpsn4geGlU49hGh9ng9ZKpJZwy_8YlEYL6MrTSPCCVZn3kF1j7pt49vf4UpNWNygui-4rDdbXZG3xsda7dRAl1f6NbpkpTnGTkjHOwBdOL9P3KaJIEFWOZbAIVDqyFubddBPjPp3uXPz6pl4tcSR3DujWLlrC8Gls&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "098260 53648",
+    "opening_hours": [
+      "Monday: 7:00 AM – 8:00 PM",
+      "Tuesday: 7:00 AM – 8:00 PM",
+      "Wednesday: 7:00 AM – 8:00 PM",
+      "Thursday: 7:00 AM – 8:00 PM",
+      "Friday: 7:00 AM – 8:00 PM",
+      "Saturday: 7:00 AM – 8:00 PM",
+      "Sunday: 7:00 AM – 8:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Snehashrivastava 896",
+        "author_url": "https://www.google.com/maps/contrib/104304399465166409777/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKtjcmgAPVXWVQ-c3zfmPMZkStb--p3hGT-pwwukBiYYkRi0YU=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Very excellent property broker in ujjain and  most trustfully also 👍🏻👍🏻",
+        "time": 1705683193,
+        "translated": false
+      },
+      {
+        "author_name": "Rahul Choudhary",
+        "author_url": "https://www.google.com/maps/contrib/110543391778630883517/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNgoShROtVmsylE0T5KHzI7eDHvFqhVCd7oQ8-U6t5nIbgEhpl=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "This is a Good property  broker 👍If you want to buy a property then my opinion It will remain that you must contact them once.",
+        "time": 1680968052,
+        "translated": false
+      },
+      {
+        "author_name": "Rahul Patel",
+        "author_url": "https://www.google.com/maps/contrib/112943922503131223553/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKXboGVER5obdZRQ9sFDntGsnuftzgFiojC1BowElx_vjdGLA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "very good property broker get good property",
+        "time": 1680964458,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:06.057620",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Sukoon Property",
+    "address": "1st floor, 18, Shanku Marg, above SBI Bank SME Branch, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ2yITGOl1YzkRVJZC5-KCVKQ",
+    "rating": 5,
+    "user_ratings_total": 1,
+    "price_level": null,
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1785692,
+    "longitude": 75.78901739999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpexpR88E9tycvhlYF74iX01MR9TubjPPAo-v4n2r3Ngz0GiqujAIzTnCiCfmYOucbp4AK39lQlQ0lKsVJVdmpypkRh1Y7hXfw_eBIZ-3sWL_46AKpvUYrcYeMicgwi586ViUMQmMsviAYpjM2lcAa-ZKLb6U_a-EJ1n-TiKUiJ2xNniQ18J_Wdz4sDVgIEN-udxIxcBJKZ7rbzjoF5cDt8JSGHwSabXDZAxYP9EgWLmg3Q5XcZ1-x7oaor7VmmqyXw4mVjUwQyHIr7gZ81kN5g8yExhOo-qpYnAzB0yajJvwr8zs_w&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "092014 56001",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Sukoon Property",
+        "author_url": "https://www.google.com/maps/contrib/107872167760932406340/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLsL1cRpfdFR6YPFnsmFFzrDdXHSEQeytatuAzzxp0fpJi_iw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Ujjain No. 1 Property Dealer",
+        "time": 1743692199,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:06.166915",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Tirupati Real Estate Ujjain & Shree Shyam Real Estat",
+    "address": "Mahakal Vanijya Kendra, Nana Kheda, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJtd6qwTF1YzkRHxPQ8vcIfpc",
+    "rating": null,
+    "user_ratings_total": null,
+    "price_level": null,
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1609981,
+    "longitude": 75.7939262,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfh2ANKBPpxVGWZ--e_MzUcE5Zz4r4nRhgNtzUqDSv-5bxuu1O4QtcURAVlcVzPxaWysVz0VERaXRwy5HsKo12gn4SIMKuPxGSIpiW5a-hDuUw0rvk-oqdsT_3g11A4Pudm9foQ4IlfP9cTELJcT9ENEaSBAe2zB8WIDXPmQUpekmlg3VV19b3hTh-6vM8Hh9RB16XtU_r3djSInV6h5PVbAZbxgoBbA1VRnrw0_GkM8ka6G7Yg2dgD-Cx2kKfli9WYjfYVR5pwjSJ-MmAfjYpCm3QprmizpOy8mrpq-2754ABBu1o&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "078040 99835",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: 9:00 AM – 5:00 PM",
+      "Sunday: 9:00 AM – 5:00 PM"
+    ],
+    "scraped_at": "2025-07-04T16:05:06.244783",
+    "source": "google_maps_api",
+    "data_type": "real"
+  }
+]

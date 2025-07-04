@@ -1,0 +1,1370 @@
+[
+  {
+    "name": "Ujjain Taxi",
+    "address": "2nd Floor SB-3, C-Block Station Road Freeganj Dawa Bazar, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ1cV_Wm90YzkRmcgTD9T0iaw",
+    "rating": 4.8,
+    "user_ratings_total": 347,
+    "price_level": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.176745,
+    "longitude": 75.786275,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeUjNAfJFaKuLh4xdjqsuAAwIP1Cm6q2mxuWzVMZS2Co89Us3mT8usF7FefxcMdNZS_N8mKLm_OYBhU7iFNu4mG7sA_egWD8yVTcNvxhgEXMRXEyRQkIKuxdR9NhNxDtHeWEahz0F8aD4LrRgDoxEIU47B3Dzo9M_Bzb4h-kTP0F3JnlND3c1pNJmSfWEnabAbE_47v6DcFVNtU0vT0uRRhMy_K2xYEGJi2R86UA-On5Jbr5nODJlZIHbaLs22pBZMT3y1AMxUu7oSDnXTVJG388CUKbZwc1Ce4ptgXWfHWl4Vg4-EpvLqG9pntJ8qtbfUNipcpsOvbYMrFnpBqxaDVPGLSGxEa_aVikEbm1_N9QUJCIbxcu118dmCD0CPlaTcceHf__wHh0rvNbFQ4nH5TrP50N7ljWNMJZ9CCYNQdxVwJS5tnuJc_SEnYlTU6k1yjC0-HnjqoDecYfq8QPYMoZ3mfguHgBbrP-hsd7yCUikgy5_IncWmGbh8GX5EZ4skCQCP9uAeWgKUIZGEFYBICTcZ4Guve4N1bjXIcoQG1CBItVKuAlt-vsC5m-AoSISoyscr3dRsdiQ&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "1800 889 7881",
+    "website": "http://ujjaintaxi.in/",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Dasharath K",
+        "author_url": "https://www.google.com/maps/contrib/111493948150274466296/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1BFm7dFLHPwVLp91XoH4S3ZWxB4DpJlSHCEbf8_P8u56KP2Zmaw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I had booked cab with Shri.Sourabh ji Ujjain Taxi from 24th-26th and pick up from Ujjain railway station on 23 rd February 2025 .I had also requested him to arrange my accomdation @ Ujjain and Maheshwar.\nI found Sourabh ji extremely dependable trustful and punctual as he took good care of us right from our pickup to the last drop off for three days.\nWe found him very polite , well mannered and pleasing .\nAs we were senior citizens he has good knowledge of local places hence guided us to best  hygienic restaurants and planned all the iternierary to visit Mahakaleshwar with all temples in Ujjain , Omkareshwar , Maheshwar and Indore .\nHis pricing was highly reasonable and no bargain was needed for his\nquality service.\nHis vehicle was very clean and well maintained.\nThanks to Sourabh ji Ujjain Taxi for making our trip truly memorable.",
+        "time": 1740554669,
+        "translated": false
+      },
+      {
+        "author_name": "ashu yadav",
+        "author_url": "https://www.google.com/maps/contrib/104198428932809563369/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWm3xL7PqHIwYjcS9KQPhglijJU8Acp5gHpBDNg1dA7WDEjOJaK=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "We had a wonderful experience with our driver Saurabh during our trip to Ujjain. He was friendly, professional, and made us feel comfortable throughout the journey. What truly stood out was his effort to go the extra mile—he took us to some beautiful and temples that we would have otherwise missed. His local knowledge and warm nature made our trip even more special. Highly recommended!",
+        "time": 1746550609,
+        "translated": false
+      },
+      {
+        "author_name": "Amrita Chakraborty",
+        "author_url": "https://www.google.com/maps/contrib/117503680198346709596/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2CIVxPR4ZDu4X4aPn0jvtRIhOnv-8LKELNscACmPcmcLqzg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I had an excellent experience with this cab service! From start to finish, everything was seamless. The booking process was quick and easy, and the driver arrived right on time. The car was clean, comfortable, and well-maintained. The driver was professional, friendly, and ensured a smooth ride. I also appreciated that they offered great communication throughout the journey, keeping me updated on their arrival. I felt safe and relaxed the entire time. I highly recommend this cab service for anyone in need of reliable and efficient transportation!",
+        "time": 1739042942,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:00.461860",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Taxi In Ujjain (Satya Soni)",
+    "address": "67B, Atharva Vihar Colony, Ujjain - Indore Rd, near Hotel Shanti Palace, Nanakheda, Vrandawan Dham Colony, Ujjain, Jiwankhedi, Madhya Pradesh 456010, India",
+    "place_id": "ChIJa3yn3Ed1YzkRm0OJZY7HlZ4",
+    "rating": 4.9,
+    "user_ratings_total": 343,
+    "price_level": null,
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1533366,
+    "longitude": 75.78295829999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfyMymfOPNDqeMth19D72uodTFOsWFxzdMcaitqjFkQI5j0kZY26wTlDprGt2cKTYikkoaxScbmBsIWw-K-7wAd2QXUvuiJUeBf7NeUuIhIZDltvvu8K3Ej2iUXcLQy1Zy9DsjZMTkbyPUZZBzozm6KDBE2b0t6euX9viCml-FJr8x_SKt9lnQB8sPPwohT3OfQJyGgkjUXbDvHlvvusHYo8eBHXMg9qhV06tMCIs_NtzmZjhHlq4dmsSKocu0csda4IabL440a41rmcZ6s67ILJhoG6vvaE1ApbFr1tvmeWmhTkCw&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "098261 57552",
+    "website": "https://www.taxiinujjain.in/",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "vinod's lobby",
+        "author_url": "https://www.google.com/maps/contrib/112147218632895449559/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKc5-Q3zftZJk5VhmkI8lCX5HIJNbP3YHRRcTo502E-CrosBJY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "I recently used thier taxi service for a trip within Ujjain town, and overall, it was a solid experience. Booking was straightforward through call, which is user-friendly and super easy. The car arrived within 10 minutes, which was impressive given the busy hour.\nThe driver was polite and professional, though not overly chatty, which I appreciated. The vehicle was clean, comfortable, and well-maintained, with no weird odors or clutter. The ride was smooth, and the driver took the most efficient route, getting me to my selected tourist locations within time.\nPricing was reasonable and transparent—no surprise fees, which is a big plus.\n\nOverall, Mr Satya Soni delivered reliable, hassle-free service. I’d give them 5 out of 5 stars and will definitely use them again for my next trip.",
+        "time": 1750495933,
+        "translated": false
+      },
+      {
+        "author_name": "sowjanya sowjanya",
+        "author_url": "https://www.google.com/maps/contrib/113236741151113248071/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMQWYSus4HITVb0vvBl3d_dpdIROyiaDKWUz4oAF4aQFhQ7b2H=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Memorable Trip Experience: I truly recommend this taxi services whenever you visit Ujjain. Last week (3rd April 2025) there was a sudden plan to visit two Jyotirlingas in Madhya Pradesh in one day. I was searching for taxi services and found this in Google page with high ratings. I contacted Soni/Sandeep and shared my travel date. It was just one day visit and he suggested us best plan and arranged cab/taxi on time. The charges were reasonable and the driver (Pratik Rathore) he arranged was very kind person. He showed all nearby temples and dropped us at airport on time. Thank you very much for making our trip memorable.",
+        "time": 1744012590,
+        "translated": false
+      },
+      {
+        "author_name": "Sridharam Srikanth",
+        "author_url": "https://www.google.com/maps/contrib/106176765261406165717/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXozFpxIZfxYRonTPSXCZzh4HKN5LwDZKcxw3vlMqigOSDdUAQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Excellent service, and Driver along with car are on time always. Well mannered and friendly.\nSatya soni ji is also very supportive and well behaved person.\nI will suggest selecting “Taxi in Ujjain” as your preferred option for a blissful  and hassle free trip to Ujjain or surroundings.\nJai shri Mahakal",
+        "time": 1742651964,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:00.546961",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Ujjain taxi Service",
+    "address": "Shop 02 On, Sanvariya Mobile, Mahakal Marg, near Malipura, Daulat Ganj, Choraha, Malipura, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJG5wjP353YzkRGyRBi1u8qP0",
+    "rating": 5,
+    "user_ratings_total": 271,
+    "price_level": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1820156,
+    "longitude": 75.7799862,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpf3LUxs8dhs3TNL9ZfYtVC91-8RWLjpgIzevY6KSiYM5ok0BGr0FlKolEXwm1fqb8GXTKuhzmknlSKEFs9APdh-JF6S-rt0W3RbJJ0Nx0Euc5ijWQkvXai-32fiu9_M4WVSMgJbKjY5dr3P0uMvsQg1UJCOJkmh2TBqXxxPJfJ51aq9frbwRpJipWvdNXiZNzCSofuJ4BMm33_58KLkbxIwvIMbiiv7jEubvWQQW7BzN7Qq9DVxUvJkHsyq7mD9UDPHIigv7sGNthikT88heXDnnvro40eS2QeIDStphtZ0fHe87mo&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "099770 60084",
+    "website": "https://www.ujjaintaxiservice.in/",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "lucky singh rajput",
+        "author_url": "https://www.google.com/maps/contrib/101719577914076386191/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocILn85ECVmStyy5i87SbwcsjNXhZqcqIr3quciMeFF7BZFcOQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "\"I recently used Ujjain taxi service, and I was thoroughly impressed. The driver arrived on time, was courteous, and maintained a clean and comfortable vehicle. The ride was smooth, and I reached my destination promptly. Their booking process was easy and efficient, and the fare was reasonable. I highly recommend this taxi service for anyone looking for a reliable and professional ride.\"",
+        "time": 1748161480,
+        "translated": false
+      },
+      {
+        "author_name": "shiv kumar",
+        "author_url": "https://www.google.com/maps/contrib/102624731973153347321/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKbpeacBIspWfjXynKKmnLx-iwgBVsaSqKFT02NYjc8vngsHg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "My recent ride Ujjain to Omkareshwar with Ujjain Taxi service  was excellent, especially thanks to the driver, Jitu. He was incredibly punctual, arriving exactly on time,  ensuring a smooth and quick journey. He was also very friendly and helpful, making the ride a pleasant experience.\"",
+        "time": 1742641208,
+        "translated": false
+      },
+      {
+        "author_name": "arjun thakur",
+        "author_url": "https://www.google.com/maps/contrib/106712997153657831988/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCKxYfHvqV4ULSMC_9pbIhYNcUmT-gNJq5FgkEREWC2VW-Frw-Cw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Ujjain Taxi Service is an excellent choice 🙂for within and out city travel. I booked my taxi at the last minute and still received it on time. The drivers are highly professional and well-versed in the routes. I booked a taxi from Ujjain to Omkareshwar, and my driver not only guided me well but also provided valuable local insights, making it a truly unforgettable experience. 👍",
+        "time": 1738585530,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:00.627999",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Cab Taxi Services Ujjain",
+    "address": "Agar - Ujjain Rd, Pushpanjali Nagar, Rajendra Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJixWMSIF1YzkRaHjE0W8sTno",
+    "rating": 4.9,
+    "user_ratings_total": 119,
+    "price_level": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.2007558,
+    "longitude": 75.79190109999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcTPizc1cQ6bx2Ct7mxuC-zkkIRK4jn9r--SvOprJMJBgeElJPUOcT0XIfUOGG8p2PuxAyzfMpOi5LDiOI150hx3imUsG-CyCf7Q_IlqZcRrLh0SU_Wl4uuPVa7oy1M450mcB5WABS-vdJAih1uxZpLu4xZVSOrJzSQMDMDbeHslvcgQsgeRvRnCBkUf7IyMVS-UtJFGDbgcnKycag0D2owytsUQU9vTFQLvpWyiWn9YdQpwtS3-HS_HESHyo_8ijvJlQbMzq5Kqew6dwNZpxE02V7or_1yXuecJo1ftAjFCy7Fvp4&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "062641 06001",
+    "website": "https://www.cabtaxiujjain.com/",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "M S",
+        "author_url": "https://www.google.com/maps/contrib/108824907268972966561/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVI4jTwAdxSBDKGSWKeoXXzd6LrojPtpTzomHJ3j_0iF0lwsgOv=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "a year ago",
+        "text": "Boot of Cab was 60% occupied by CNG kit. Only 1 bag space left then too came to indore airport to pickup 3 passengers with luggage. Had to keep luggage on  passenger seats. Aircondition not working properly rear seat passengers sweating.",
+        "time": 1708706060,
+        "translated": false
+      },
+      {
+        "author_name": "Shruti Sharma",
+        "author_url": "https://www.google.com/maps/contrib/105606632900152109446/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1cZng4wbmbeat3CbK-6Q8FnyPDGNgqwR9ETrLMqOZtnhURf8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Mr. Tarun Bairagi has a very good sense of business ethics and trustworthy. His team has provided us great assistance during our visit to Ujjain and Omkareshwar. Best Cab services ✨👍🏻",
+        "time": 1696485038,
+        "translated": false
+      },
+      {
+        "author_name": "Ishika Gupta",
+        "author_url": "https://www.google.com/maps/contrib/102469874902439737335/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdPe9upEbfvswLjDKGgbMQZKcf3KDaKlYzBWUxPWDHlRSdPZ2utg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I had a fantastic experience with the cab service in Ujjain! The drivers were punctual and polite, making my journey smooth and comfortable. The cars were clean and well-maintained, ensuring a safe ride. I'm grateful for their excellent service, which made my trip enjoyable. Highly recommend this cab service to anyone visiting Ujjain!",
+        "time": 1714928855,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:00.710965",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Ujjain Taxi Service",
+    "address": "Shop no 13, Harsiddhi Chauraha, Jaisinghpura, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJP3mDiTt1YzkRvnLYS6S0bJk",
+    "rating": 4.5,
+    "user_ratings_total": 88,
+    "price_level": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.184181,
+    "longitude": 75.76503799999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdeoUzaSJNUXycBC5xnmjuzDkS-BIDoDAA-g6Caiya7GYxffWnIT0VZN58qsX8W5PNGlfqx62yx2vIEfltvuUYlTvY-fz0jrB0mvfxkCkStvwbtYfjZJwpFP6m8Fj_c8k0pO_80Yu6Kh1wTJDhXK4_dfb5C_poUZcfWXNA90xgm6t3zZq7ILpxXNwjeYAYFT4YcwR-oBND_hteE4jjbpHvBngqDRJqlIf9wtanH60GTi2hM16Hmq1ElcoAf5lmoA3Eyb8RTqEonPMU0ush6TXP6rjH0lngYZP_S9rd_qYdPuaOVpdA&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "075828 58585",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "sonu kahar",
+        "author_url": "https://www.google.com/maps/contrib/110462992635947847565/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOM4bjyTBudJEn0T7GpC-wNIw7L70fdDIREerTe8OdTIl2HyRR=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Driver service is good and all on Time driver is known about the roads and local place.i don't feel any problem my journey.",
+        "time": 1748019972,
+        "translated": false
+      },
+      {
+        "author_name": "prajesh vegad",
+        "author_url": "https://www.google.com/maps/contrib/117814588642678348792/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURysvXu1YotR1YkKmaoCDdfcnLksfm_2xxj3h6Tntj7hzeVFdF=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Nice taxi service and good experience...\nTaxi condition very good and neat & clean. Driving is good through out the root from Ujjain to omkareshwar.",
+        "time": 1734765835,
+        "translated": false
+      },
+      {
+        "author_name": "Sunil Sharma",
+        "author_url": "https://www.google.com/maps/contrib/111159983157499729010/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrmDjMlS7l6P3bZvK1ia8IUob_XMd4p1gawqPvK__gkIqDhWk=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Jiten Bhai can service is really awesome , all cabs were on time , driver were friendly.\nHighly recommended.",
+        "time": 1731859638,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:00.796406",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Chajju Taxi",
+    "address": "Shop No.2, Dewas Gate Bus Stand Parisar, Madhya Pradesh 456010, India",
+    "place_id": "ChIJjb2hXcZ1YzkRpF95jd0jmqU",
+    "rating": 4.4,
+    "user_ratings_total": 370,
+    "price_level": null,
+    "types": [
+      "car_rental",
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1812081,
+    "longitude": 75.7822235,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcyox3ckqE9Ke2K3mo_5MuKMYlBbfcg0CXxgTComgDDdeM3MCCJ6-6JcAhGN-p72AsiPVhGPh2mslcNhMB3_y2U7P6pgwyxqF_0zmBXoPQZ0trRUX0bs5TCPKN7tXH0KLLDuQsx4sy8IuYpLtY-Y8o0sSzdteh9AJPUyvPwrXzenCgQPO75f_ikIj__E4S8-LBtG75lGx1qtbVPxfQRsPCIc4g291UM4PDzIy1PCZPZmq3ahtvVwY9qUiwMUN8KsFdHWt8Yrw38mzj1xjwTD7KWyQm2wJOkKx1ITCVYnJi_b5S3VwM&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "095222 22208",
+    "website": "https://chajjutaxi.com/",
+    "opening_hours": [
+      "Monday: 6:00 AM – 11:30 PM",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "ranjana bawa",
+        "author_url": "https://www.google.com/maps/contrib/115782656111253025994/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6MUo2CXbzYkzaR2tRFtV_d0N0ycZjLy94EoaZ8g9mFVnXDw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Our experience with Chajju Taxi for our Ujjain to Omkareshwar trip was fantastic. Driver Dheeraj was a nice person. The entire service was reliable and exceeded our expectations. I've already recommended them to friends and family and wouldn't hesitate to use them again.",
+        "time": 1745488965,
+        "translated": false
+      },
+      {
+        "author_name": "Vandana Rathore",
+        "author_url": "https://www.google.com/maps/contrib/105129069434431103825/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcw9itgF8IbinrsCsn24lptb7g26voO3KpwsiH3dp42vQVIQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "We had wonderful time Mr. Rohit  from Great  cabs for last 3days. He was very co-operative and knowledgeable person. Given good food suggestions. He was very helpful in nature. His driving was also upto mark. Thanks once again for memorable trip\nBest Taxi service in Ujjain. highly recommended",
+        "time": 1745384557,
+        "translated": false
+      },
+      {
+        "author_name": "Vivek chouhan",
+        "author_url": "https://www.google.com/maps/contrib/115938410329212651582/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6gNTC26fNNhESvcTZSEqFjILIwriT8CvUdIBy1nt6afDDnGBV=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Nice taxi service and good experience...\nTaxi condition very good and neat & clean. Driving is good through out the root from Ujjain to omkareshwar.",
+        "time": 1745386180,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:00.875861",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Ujjain Taxi",
+    "address": "bus Stand, Dewas Gate, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJVVVVVUh0YzkRV996JZMAcHk",
+    "rating": 4.8,
+    "user_ratings_total": 67,
+    "price_level": null,
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.2115009,
+    "longitude": 75.7645323,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdR6OZ-iafrbNWdlBIOif3zyActy6Jca9yM_YrWACD_pqFV0bv4s5c3ZsH8rRj4ENRnU1vYmdvPLzDtL_lrAeNLpC1ZhdxoXwzBNJufXycSV51OHqApFg6YHLeIjlyyTN7gB4fb7v4ZsBnjDWhih7mgZCeWqTicW0L8g9KQXZzSWOE2J1F0HuFzxG_6GPJVpxXijS_8Bm7G1BLW8wUztj7J1Ib0FM0ocV34ZCsQqgeHBt0F7Tv5mJVVpnILeehlQ03ccvg_YE6wCSZSjmwvmJkP_6sf2njMK7t1zjOyz9sqjDCIi94&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "096699 64624",
+    "website": "http://www.ujjaintaxi.com/",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Varsha S Binu",
+        "author_url": "https://www.google.com/maps/contrib/110360534712520627715/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIsZkDoO4vTPL2yw2cup4xK9b61gP6gmZziSA-D4ciVeetcF_4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "The customer service at Ujjain Taxi Service is outstanding. I had to make some last-minute changes to my travel plans, and they were extremely accommodating and responsive. They went above and beyond to ensure my trip went smoothly. It's rare to find such dedication to customer satisfaction. I highly recommend Ujjain Taxi Service for their excellent service and commitment to their customers.",
+        "time": 1695664047,
+        "translated": false
+      },
+      {
+        "author_name": "Diya Jannath",
+        "author_url": "https://www.google.com/maps/contrib/105035752509920338978/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5-yJ9K6To71qlDQH_be2CILgSuKgx_GiWjDttZ4oQCLBXXssW=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Reliable and Affordable\n\nUjjain Taxi Service has become my go-to choice whenever I need a taxi in Ujjain. Their service is reliable, and the prices are reasonable. The drivers are courteous and professional, making the journey comfortable and stress-free. I appreciate their punctuality and well-maintained vehicles. A great option for local transportation.",
+        "time": 1695664068,
+        "translated": false
+      },
+      {
+        "author_name": "Janet Jazz",
+        "author_url": "https://www.google.com/maps/contrib/105805954460908091534/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLjZiGW36gBqGh-Y3zGkquzskWz9LfdRPeTYnEDwrYZ6xWiGg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Excellent Service!\n\nI recently used Ujjain Taxi Service for a trip in Ujjain, and I was thoroughly impressed. The driver arrived on time, the car was clean and comfortable, and the ride was smooth. The driver was also very knowledgeable about the city and its attractions, which added to the overall experience. I highly recommend Ujjain Taxi Service for anyone traveling in the area.",
+        "time": 1695663482,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:01.004590",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Jay Malhar taxi service Ujjain",
+    "address": "Shahid Nagar, Agar Rd, Rajendra Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJyU26RHd1YzkR9fM_nVhd13I",
+    "rating": 4.9,
+    "user_ratings_total": 162,
+    "price_level": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.202962,
+    "longitude": 75.7931717,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpezrtuwfmuEE-CI8pQHiOXokKuwzX2HM2Kc57xjA-NZ-ALtQ0ksxyiBXb7pHTm7XxeocpQZhMhpGhmax6UtxM5w-8dXqlFL0ZF4u4Bg5kURbSOJUvsp3plVcvW-jUD_BEUQy4DCTmwwd_ykQeoZDyneSXIvIA2DO_JY6Ud5jiRqgFkWyVIsd0eQY4TTqn7-bX18zZzrqc6d6AN6JyjZ8gmAx_ps3ZpImRczymU7J9yEbC5MZEOTyI0m1AECFhoK5XVo7pGh4XwqokYLIQ-vjP3IyP6szwJ_uzkIxpSgr4EsqllUE9k&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "099939 78812",
+    "website": "http://www.jaimalhartaxiservice.in/",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Dr Arjun Ganga",
+        "author_url": "https://www.google.com/maps/contrib/100149842007016253926/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKhnTLXx_F-5q21T8BCKdp34tyfj27W7JrGB5YKGGjSHLk7Hg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "I traveled Ujjain and Omkareshwar on 22-3-2025&23-3-2025. This is the second time I am traveling with Jay Malhar service Ujjain. Just I made a call to Pankaj ji ,given my schedule for two days, he offered a reasonable charge. Took us from airport shown all the places in Ujjain and Omkaareshwar\nOur tour was very successful I will give him 10/10 rating\nIf you travel with them we are safe",
+        "time": 1742806647,
+        "translated": false
+      },
+      {
+        "author_name": "Ved Prakash Dhiwar",
+        "author_url": "https://www.google.com/maps/contrib/106204394380486185933/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX41gK9qqnrl0mVi3gd-7l4R4AfvmrTWyMho2PwUGP1Tjb7XT_G=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Most Trustful person in Ujjain for sightseeing  with best driving  & communication skill. Price was also good. You must call him directly for current best price.",
+        "time": 1743597409,
+        "translated": false
+      },
+      {
+        "author_name": "Viren Katare",
+        "author_url": "https://www.google.com/maps/contrib/112567109149572022894/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8bJiDPajA1G0Emc22u5ROe5AiYpNxXtHLhF2xMRzhA9g5gg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Excellent service with low price in comparison. Car was good and the amenities were awesome. Everything was on time and well planned. Highly recommended the Jay Malhar taxi service.in Ujjain 💯👍🏻",
+        "time": 1736396485,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:01.093821",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Mahakal Taxi Ujjain",
+    "address": "Durga Plaza, Teen Batti Chauraha, Madhav Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJj69gGl91YzkR4NY5Om7PKaI",
+    "rating": 4.2,
+    "user_ratings_total": 46,
+    "price_level": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1757011,
+    "longitude": 75.790323,
+    "phone_number": "097524 24300",
+    "website": "http://mahakaltaxi.com/",
+    "reviews": [
+      {
+        "author_name": "Aman Soni",
+        "author_url": "https://www.google.com/maps/contrib/106577629352809271892/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFidCAV9KnB1DuLw9Vns7bQ8lD_M7MdfRjrpk5MeS0wTHW6VE=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Booked the cab on 11th June from Ujjain to Omkareshwar Jyotirling confirming the travel on 12th June. At the last moment they ditch me did not pick my call not replying to my message. Called them continuously for an hour but after plenty of attempts. I booked with the local cab driver. Please do not use there service. Very bad experience. Mahakal save my day. Jay Bholenath.",
+        "time": 1718155669,
+        "translated": false
+      },
+      {
+        "author_name": "Pratik Jagtap",
+        "author_url": "https://www.google.com/maps/contrib/101894045953212767755/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocItm_mZcATwoYx5c-pjsYwOR8mjNzACFXvEJ_HPYU1Hq-YXSQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Very nice service.. The owner is very grateful. The driver was very humble. Car was well maintained.. Punctuality were at its best.",
+        "time": 1685422487,
+        "translated": false
+      },
+      {
+        "author_name": "Kajal Bhome",
+        "author_url": "https://www.google.com/maps/contrib/107258929937783508266/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUz5Ohtg2ox7snBrjQtRB8pm5zUV-SeiAxhgYPnwBgq0XYznHK7=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "There service is best ...I used to travel many times in month and suddenly one of my friend gave me  this website owner no.he travelled many times by this taxi\nNice and very good taxi services",
+        "time": 1691483115,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:01.172432",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Taxi rent ujjain",
+    "address": "321, Tirupati sefron, Begampura, Bagambag Colony, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJBU34q791YzkRO8z6rJHr3OQ",
+    "rating": 4.9,
+    "user_ratings_total": 94,
+    "price_level": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1773967,
+    "longitude": 75.7712195,
+    "website": "https://taxirentujjain.com/",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Siddharth Pawar",
+        "author_url": "https://www.google.com/maps/contrib/116270189348210030358/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkYbId5RznOx203G6x8qNPO3x4Ca4g4mucz5Vrch9SkH0YM6Y=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Had a very great experience, everything was very perfect what said before booking👍",
+        "time": 1734526724,
+        "translated": false
+      },
+      {
+        "author_name": "Ravi Kumar S",
+        "author_url": "https://www.google.com/maps/contrib/116068163706706074191/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWm2pSZuzPb9CYdx5Uf3ojMsiDnA-TI5xNVFZGbHlkoY6gTPMeliQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Excellent cab services by nagesh thakur.\nWell experienced driver and very knowledge tour guide.\nWell maintained car like brand new.\n5/5 rating.",
+        "time": 1714138926,
+        "translated": false
+      },
+      {
+        "author_name": "Om Prakash Mamodia",
+        "author_url": "https://www.google.com/maps/contrib/117173479921963393364/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0lIO_Oqgcz-Dxkd7GQKg3fB-G2eh9wVGH_jwKcfNauBtvtA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Texi service is good and well behavied In nature",
+        "time": 1736087724,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:01.321978",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Ujjain taxi service and car rental",
+    "address": "above Indra nager, Gayatri Nagar, Rajendra Nagar, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJQZ-gnG11YzkR8DsVxcYAMIk",
+    "rating": 5,
+    "user_ratings_total": 52,
+    "price_level": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1990718,
+    "longitude": 75.78990689999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpciqRBQyZGjew_wuhDS1OhdKLiJELExl4NYIgMjVUXvzlbYaIBDkdsbUl1beZ0__tEZ0U2M8pNXm5Ir0EZM6JihqdZWc166sVAQyW7AeYb4R9OWEnz3-6kqK9YZGu6G24u1vXMBRT8gdYrfqyftn9neugqsh8xkO0ImBp7kj7QAfAOihQCwlXL67z2RogyIGZSmZbwvudfzHYOa0GH1zuBM2-Eluku_BA3Kz8dMej11J_IKCsLk3IWHx0OKP23wtHgnjcupOR4t3DM-UrpymibT0moOaHQawktqxylBXSfhZnPFotA&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "099817 46580",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Rahul Bheda",
+        "author_url": "https://www.google.com/maps/contrib/104220986109201961912/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJh1e4oZ4k2jGmCh08nMX2QtVb5f621e7AVhl5gqpeVhS5ArQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Extremely happy with the services provided by Ujjain taxi services . Professional drivers new and clean vehicle supportive behaviour and safe approach towards driving makes it happy and safe journey with memories of life time .You can trust them blindly to avail services in ujjain and near by locations.",
+        "time": 1739022934,
+        "translated": false
+      },
+      {
+        "author_name": "Rennu Kapur",
+        "author_url": "https://www.google.com/maps/contrib/110194856847963053055/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4pIJH1QQYDODdAZMUGGxkbpYgfYOL6Ih9nU3xoJtPQ92LVFXD=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Cab was in good condition also the driver was polite.\n\nTook us to more location as discussed before starting the journey.\nWill surely recommend him if you are planning for a trip to Ujjain",
+        "time": 1737610417,
+        "translated": false
+      },
+      {
+        "author_name": "Kalpesh Dilip Shirsekar",
+        "author_url": "https://www.google.com/maps/contrib/103360270978623406884/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUWTkrh8k_3GKpfSUurEKvAwhO71OBQ_TUzMxlr4xHN5mVu7eWJMQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "We had booked a Ertiga for 1 day trip from Ujjain to Omkareshwar and Mhow.\nRates are reasonable and the cab was clean\nDriver also co-operative and polite.\nWill surely recommend if your looking for cab service in ujjain!",
+        "time": 1739022846,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:01.408131",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Mahakal Taxi Cab",
+    "address": "Rudraksh Parisar, 7/1, Ravi Shankar Nagar, Suraj Nagar, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJt5e9wQw_XakRkFeD1joUIfw",
+    "rating": 5,
+    "user_ratings_total": 94,
+    "price_level": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1760306,
+    "longitude": 75.7737669,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdSrrnQcYzzvfh8qcXlwrzCHuz8zXoKsmst0O33g7_oNhR4MIDVFNhLDaEGcWa8bIvA07f8O8GLGfMgGPKnudtCEhPzL6Inb2oMCdwoLFtwBTj-qKgCDAkBZZode8Es6CLGVcIJ6GLMhDoBwqcL7FuM47CdDIj8ukS6XjSyfTRDAoZGICkdPZ8nO8lGYvD17x6HMfuXih98bXaNmDeTKK5oK3_679gDzHDB3Vv8A2aACY0e4zBns03bPZEFziule5EnZXytQ1sqPG-sB5nBEDOH1_hEknobfp0cVkEzdXtyCjn0fJk&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "070003 66496",
+    "website": "https://mahakaltaxicab.com/",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Rao Rajendra Kumar",
+        "author_url": "https://www.google.com/maps/contrib/108483192811491138657/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVB1ExTWQvAIKlg_qOaJhhZc3ptSY116THm_9jvupCE1GHoTkdZ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Good service, nice facilities, safe driving, no drink and drive cases, guide availability, safer travel, cleanliness and hygiene, along with AC and other facilities experience of drivers, along with many destinations, tour plans also available..",
+        "time": 1737091051,
+        "translated": false
+      },
+      {
+        "author_name": "Naman Rao",
+        "author_url": "https://www.google.com/maps/contrib/114902314499953289644/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8l4drK0MdT-T7clBMBE2EadLIHA9lWm8z3nLUvhPJnQZb9A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Good service, nice facilities, safe driving, no drink and drive cases, guide availability, safer travel, cleanliness and hygiene, along with AC and other facilities",
+        "time": 1737086984,
+        "translated": false
+      },
+      {
+        "author_name": "vasuki haravu",
+        "author_url": "https://www.google.com/maps/contrib/113368476935431680010/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJg1fPX5mKsBX2PL-za3m3-LsLwJG4fjHIb2lpLXD_YLIkOS5in=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "I travelled entire Madhya Pradesh with my wife in their cab. It was a 10 days tour. Mr Akash Rao took us in his car.\nHe is a very knowledgeable & experienced driver.\nHe also helped us to visit many important historical places. He is a well mannered gentleman.\nI strongly recommend their service.\nWish them all the best.",
+        "time": 1726832848,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:01.496435",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Taxi Ujjain",
+    "address": "Anand Ganj, Suraj Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJ-YyWg-B1YzkRul5HpUD9IAs",
+    "rating": 5,
+    "user_ratings_total": 393,
+    "price_level": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1798097,
+    "longitude": 75.7742128,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcRg_gq7Gmq2lf6i2N1xoALzBsr5mDsNLL4EqEjgEfDUj_fEzWYeaiq9qfhDAWQzNMBe6MJJsOplRK0gIylv86XCsqOwxcL0jinRHTeIFdPB-mCjuOJcc3o_4oVIP4bnGK73C2HHwX0TURTOAksf4W8JJuo3j98YICQ6yLA5mOCu3YU5Wc7pH5v47S3XGLzgM1O_DUivmxzaRvvGaJ_ZJ3M6i17pUe6x_9Tj13keFul3csq1_evKEirw2xQhmmy-nntikiKMPP04qgKY8_qSwixEK2kZRyU_EB0yrNI_GexabfR-QPLUJjR4zG4yMDCVyKCB5GisLN4hht-nKwWq2ZU8uX0wKBFpUqOYcbMCzliMgmidhW7_yZKiCZT3ybqmFKlN2KF13Rjz8rY33dya8lap79xG_MpevZtrqS3BG1MBVXdlSG4Csqk5cZxJflYx8g4V17FfuVp575YJm9CeS5HWQLtIuPCDK5AzimS20Shtu5LfeqOsp_3wB6EvmuQG4aSIH683dapImsvkjEwsJeLFXE1QSXeSXrloufT88Mkqynn3gAF9vzk-nhB5iXP6wxd4mMS&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "096692 03533",
+    "website": "http://www.taxiujjain.in/",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Chintaman Pachrngya",
+        "author_url": "https://www.google.com/maps/contrib/112347511354841898989/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHRjJ1du0VAXH2DkOQ4jkX04viKZ9DjmLduDaIVGYYHLgl2Sjs=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 weeks ago",
+        "text": "Hi sir We had very good experience of ujjain cab services for our 4 days tour of ujjain-Omkareshwar.Mr arpet who drew the cab has very efficient driving skills and is also calm and helpful with guests like us.Highly recommended Mr arpet and BCS to enjoy stress free tour in Ujjain.",
+        "time": 1749061226,
+        "translated": false
+      },
+      {
+        "author_name": "Astha Tawde",
+        "author_url": "https://www.google.com/maps/contrib/107291078351996677800/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvEg5t4_PwsqO0Qhf2RMdKzajI3XMEmxc-XMYMf75hEy1XpdVySA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "I have traveled multiple times on long tours with this cab service, and every time, the experience has been excellent. The driver is professional, punctual, and ensures a smooth and safe journey. The car is always clean and comfortable, making long trips stress-free. Highly recommended for anyone looking for reliable and comfortable travel!",
+        "time": 1742321407,
+        "translated": false
+      },
+      {
+        "author_name": "Puspendra Parmar",
+        "author_url": "https://www.google.com/maps/contrib/117165968214366531579/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW09SIpuj3UGDnrcpXhNdxPCHP2C3ZJkdjmPvdjJ2ePTbZ9c9M=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Very good Had a great experience with our taxi driver Darshan during our trip to Coorg. He was punctual, professional, and spoke English, which made communication smooth. He also suggested some lovely spots to visit, and the car was well-maintained and comfortable. Highly recommended! Taxi ujjain (tanks)",
+        "time": 1750140936,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:01.574191",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Agrawal Tour and Travels",
+    "address": "68 Atahrav Vihar, Nanakheda, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJjyycnTJ1YzkRCE-RX77NNMY",
+    "rating": 4.8,
+    "user_ratings_total": 95,
+    "price_level": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1531323,
+    "longitude": 75.7829984,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcCyO--W90vukZcchXvgaoiy9ji-Q95iEL6dsH0eObHAiYX3Ma1QsFWNvas23bXq6KQUhVeuFaLJ7507A6KnZ3qd3aYjdwVrywOphf1VQzYkEfp-cGjtfFX17YiKuEYtXwMZGryKEYuqWxuVLB-xQhU9p5onaXUGX31qzwJnt_7Akr027rPta6FYjbhNjiCa5-gzHu2Mo2hphikHT4TcpEnxdnmFTYOuP06O0vOEVbXExyjHqH7DSPW0MDW8nMWwhM3YfLcZxsYyh4bvCa5dxyfGsTJIUlM-xxxi3F3ImdWfg67pS4&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "089639 45555",
+    "website": "https://agrawaltourandtravels.in/index.php",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Sharmila Devi",
+        "author_url": "https://www.google.com/maps/contrib/116018281817012206612/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyCNbMg7CT7ELiuY26XNXDcOiZPcplZ4QPsFEqi1nY9QuqDy4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Trusted travel service, well-planned and executed seamlessly. The last-minute assistance for VIP darshan was exceptional, and the support provided to our group of six was fantastic. The Ertiga car was clean and comfortable, and the driver was excellent. Hotel suggested for us was too good.. Overall, an amazing trip!",
+        "time": 1740338773,
+        "translated": false
+      },
+      {
+        "author_name": "Jyoti Mittal",
+        "author_url": "https://www.google.com/maps/contrib/103605535130790226762/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4j3LWc9wtsVJ5RvpcNc9NEENqvnIC-QPTAEJPkoxSZNTAfw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Our two days trip  started on 25 th March from Indore airport and ended on 26 th March. Since two days I had a pleasure of being driven by Ankit ji. During our whole religious trip he guided us on each n every step of our journey. He was very eager to show all the places of Ujjain n Omkareshwar. As we both are senior citizen we felt very safe n comfortable with him. He drives carefully n smoothly. By his guidance we did the darshan at every mandir  and explored the  Indore city market very smoothly. We would highly recommend the  Ankit ji n Agarwal travels for other traveller also.",
+        "time": 1742993272,
+        "translated": false
+      },
+      {
+        "author_name": "Balraj Appu Pisharoty",
+        "author_url": "https://www.google.com/maps/contrib/103057826913783002605/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIl8Q0NiPaQMDoiApI6jvd4wR8DdxxRADzrAb7JNyUXZlk07Q=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "My trip to Indore, Ujjain , Mandu was an excellent one. The one who accompanied me was Mr. Ankit Thakur, who was exemplary with good knowledge of roads, roadside eateries etc. His behaviour too was very good. Agrawal Tours are quite lucky to have drivers like this. A big salute to Ankit.",
+        "time": 1743406169,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:01.646360",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Taxi service in Ujjain ( Sumit Vaishnav)",
+    "address": "128/B, Agar - Ujjain Rd, near Mathur Vaisya Dharmashala, Gayatri Nagar, Rajendra Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJYW6mweA0ToIR9pz2KgKw71I",
+    "rating": 5,
+    "user_ratings_total": 118,
+    "price_level": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1998901,
+    "longitude": 75.78942289999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfz5mKb54HUJO-Jmcchm_3PCJhgu_D8O06j_qM9mArX7PB28BTftPB-LJ3uGFtpvPXuUdmtGqBiHnQ53-Z6KYyMuf2uMjFgxB5TKz-HxPPUSOC-WPmIKAk1WwPzQX4Q6MURYaGpm0BwARpeM-_g2xnoUb3eZq7CgQvsce2XGkpy78nICiS8cvmdVnDVN86AxjMioPIpsT3ZbT5F8l_islteAkngIE2uRpqoTRGRdq-1QkLFkjLRrEhJ-5LupEqNneohV1UY4fBrmljHCHpcxPbUyOFmrVV2t5fnb64k9JSJUJzZxsE&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "062602 95241",
+    "website": "https://taxiserviceinujjain.in/",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Vinay Sharma",
+        "author_url": "https://www.google.com/maps/contrib/108324834830800020721/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWn5qscbPZwsf3wITJjj0Xu57gjus4RhzvQWxqMxOUgyYSXzdub=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "In Ujjain I have found this as a best taxi service, special thanks to Mr. Naval Ji and Mr. Gopal Ji for their support. Both of them are just not taxi service provider but complete Guide to the whole region. They arranged the best way to visit every temple and all the religious places. Highly recommend for this taxi service in Ujjain.......",
+        "time": 1751111879,
+        "translated": false
+      },
+      {
+        "author_name": "Deepesh",
+        "author_url": "https://www.google.com/maps/contrib/106403434945975496468/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhQBfxuBht--oJvbIB5ZNrVt6KlGj3wOCMDF8cBZZSdEnrPtY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "⭐️⭐️⭐️⭐️⭐️\nAbsolutely fantastic taxi service! The car was clean, arrived right on time, and the driver was professional, polite, and knew the best routes. Smooth ride, reasonable fare, and zero hassle. Highly recommend for anyone looking for reliable and safe travel. Will definitely book again!",
+        "time": 1750251243,
+        "translated": false
+      },
+      {
+        "author_name": "Chandan Saxena",
+        "author_url": "https://www.google.com/maps/contrib/104486123177399561662/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKN-qDa7Vyu2PQDWuBgytDmik7PK70oLcmI_bOBJNI7TZafHQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Thank you for the safe and smooth ride! You were very punctual, polite, and knowledgeable about the area, making my journey comfortable and stress free.\nI would definitely recommend your services to others.\nI appreciate your professionalism and dedication to providing excellent service.",
+        "time": 1742815997,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:01.735963",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Arun Cabs",
+    "address": "Gada Puliya, Mahakal Marg, Ambar Colony, Suraj Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJ91DSeNh1YzkRcfvdi88zxUI",
+    "rating": 4.7,
+    "user_ratings_total": 70,
+    "price_level": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.176612,
+    "longitude": 75.775401,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdnCdfxgPNgqsvsyj3zF9UPr__Ab_PmvUHk28Gg7qThao8WGyNOy2Gj7JC0NjTmLlU66YHJs7HaRm_rEsaJLIfoUvfcfyFd6azh-pXR-RQ9KmeaijXgLrXcFtSwLj7mfwS7mFP2YATxrqbJ4q_BDys8Y6qZ92j8erzdSzIj5IULy0hQ4UhZ9xCSNtXY0UMSWjahVkCvl3KfT1hfVNwn19hTfpEXSdbVfBnCiA4yGniF8aiYRc0sJNoTsDXtAkjFgCy_LUxtOYggLXs_U2OozrIv2rDrgdGjBNOFg2cltmj8yy-WbWs&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "093403 40200",
+    "website": "https://aruncabs.com/",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "dhavaj sironjiya",
+        "author_url": "https://www.google.com/maps/contrib/105321768903680414667/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUw7z-oPzAusC_YNXiOrdwsFDN1hqS3eXhPAeBO12z0ORwwds_NvQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "The cab facility is fabulous I loved the driving experience of arun cabs service.\nThe experience of driving skill is very good and skills are also very best.\nThey provide best experience drivers.",
+        "time": 1739975381,
+        "translated": false
+      },
+      {
+        "author_name": "PRAKHAR",
+        "author_url": "https://www.google.com/maps/contrib/112804818162663641497/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgRXz7lhOdFE5J5rqFPIc4ZGBkmEkblgcZryX72bycGxmOqrXI9Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "\"I used their taxi service for my trip from Ujjain to Indore.\n\nThe vehicle was clean, the driver was professional, and the journey was very comfortable. Highly recommended for a safe journey!\"",
+        "time": 1750682225,
+        "translated": false
+      },
+      {
+        "author_name": "Pradhumn Sharma",
+        "author_url": "https://www.google.com/maps/contrib/108668242874795670686/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV40zcxQfPAwoTWlGHT8xlVbKTtteE7yKuqdjN1-RRXyGeRkAom=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "We hired a 1*1 tempo traveller for 5 days. The vehicle was neat and clean as was shown. Service was prompt. The driver was very polite.\n\nOverall the experience was very good.",
+        "time": 1748318048,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:01.818846",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Solanki Travels | Car Rental | Cab Booking in Ujjain",
+    "address": "Tikeshwar Colony Badnagar, Ring Rd, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJ56PrVYh1YzkRGQJ6fLDdhz4",
+    "rating": 5,
+    "user_ratings_total": 138,
+    "price_level": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.2015867,
+    "longitude": 75.7714877,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpc5inxM_l6qDw3amfwtWTz1FZAvDfht6YZEjuTT8bbffwTqez3WZWdMKvABBh4mXqsTln7_MoHgpjd1V2xJM9OUpWytdNZ8ih_KnUzwVbAY-6vKBV2H-bAaO2M33pTdEdrHRx2Ti70a9OrM2ekIPalMggRezkSaw0lTnivSqOYNAY7CzNI52cPzuhF4dRPQJM_NMpFZqB81dSGPMBQPiWhNI_VaF56wZ9zWa0bMsM4LGf8iBTUd5nWw-qX-wDEViJdfyAJDSEyItg8D75wpC1t3E5ioRlCtcGB_sYr2okh3ImD3ToYVeLK8M-qjGNnOVd8MsW79jI2hS5cWjXr1tiotomkwjQe4BV3YF6pxzfiaU_1viLseQLThVm4wXOx3oFPvg41b_YYSzwaLaJPlsS8JslQj4XXkW5RexVWqDdZsrTiABD8SAQ3v--G0hdp6d-4PlyojPah2a3lVFJUBUPkAbYMWYt6Dhe2OMGRedQN8neqrtjgDi58t3GC72f5TeLgYxhqEzz9ghs3VQYgClh-BpQalRccAk9Nv739wmNRnmgSB0Ft2yzxRyphWWRDqowwQSA&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "099770 77029",
+    "website": "http://solankitravels.in/",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "PRAFULL HARNE",
+        "author_url": "https://www.google.com/maps/contrib/104059351826329960799/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQB1VyYAsCCxl6To0i6--kX6mE7_YdBorhRJLWGKBvi235pVW3=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I recently traveled from Ujjain to Bhopal in a car taxi with Solanki Travels, and I couldn’t be more impressed. The vehicle was clean, well-maintained, and very comfortable, making the journey smooth and enjoyable. The driver was professional, friendly, and ensured a safe, timely ride. I appreciated the punctuality and the smooth ride throughout the trip, and the pricing was very reasonable for the quality of service provided. I highly recommend Solanki Travels for anyone looking for reliable and comfortable taxi services for any journey.",
+        "time": 1740145321,
+        "translated": false
+      },
+      {
+        "author_name": "udayraj velinkar",
+        "author_url": "https://www.google.com/maps/contrib/107328783060016257260/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLntRHtPQNt6ge1UWwehCOybupdV4o_bcXzhDQlgGQ6z4JA9Q=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "We had booked the cab at last moment for our travel to Omkareshwar from Ujjain and had an awesome service provided by Mr Vishal Solanki. He was at our location before the scheduled time and the cab was very neat and clean.",
+        "time": 1745238154,
+        "translated": false
+      },
+      {
+        "author_name": "Ankur Sarkar",
+        "author_url": "https://www.google.com/maps/contrib/105102670967219963525/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-xbBG_Xrv7evfNiEhNH7TOlnmfAcVIhOFb-t2ANZL9BkQBQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Vishal Bhaiya is an excellent driver and a truly humble individual. We booked him for our journey from Ujjain to Indore and received prompt, no-nonsense service.",
+        "time": 1736164572,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:01.914095",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Ujjain k travels",
+    "address": "107, Neel Ganga, Shri Ram Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJS9XRHuxzYzkRbAAoBeafXnU",
+    "rating": 4.9,
+    "user_ratings_total": 57,
+    "price_level": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1665784,
+    "longitude": 75.7836464,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdrXRbjtSzh2SyhodvrTXoH39FpiXdWX6o9tqsROS2lhWWn1cSucY79kMKnqVGz4fXMITdDLYrxnpgaQ-D2txeJL171fGFcY-i0rH74meu6UKSz5-WdTprzaCAfpq4of4wLXzjdsKMGX_s-iII2es-L8iXrIdMDsECrfSC4T1MCrBBsz-tN2txOxO2J6wy4tr9t0T6FtaKNvkcRI_nDtCP8ZEmh-l7pCIJ1PZlaSznKa82sN3MYJm1rDk7JoboeDfDC9ZcH5RIo5qHHj-vz4PWhVxG5v15uVzwS7wRvOZnwGk9hDwc&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0788 022 1422",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "sulagna samal",
+        "author_url": "https://www.google.com/maps/contrib/111217762283326981128/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEu45eBRJuCZXW96OtU8NuFEZqXXRelGQX7_uj47Bg70X8ehtw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Today I hired a cab for my Omkareshwar trip from Ujjain, and it was an excellent experience! The driver bro (Gaurav) was very professional, friendly, and ensured a smooth and comfortable journey. The car was clean and well-maintained, and the whole trip went smoothly without any issues. Highly recommend this service for anyone planning a trip to Omkareshwar and Ujjain trip. Great experience overall!",
+        "time": 1736620718,
+        "translated": false
+      },
+      {
+        "author_name": "Krazzy 4",
+        "author_url": "https://www.google.com/maps/contrib/112120093797281423142/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIiX12SEjzjg9xW6m5tgsiu9Oy9p_tyXnJsKBQFZ-G-GLQU6g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Best taxi service and best price in ujjain\nThank you Gaurav",
+        "time": 1746712029,
+        "translated": false
+      },
+      {
+        "author_name": "Santosh Dubey",
+        "author_url": "https://www.google.com/maps/contrib/109481581940365665554/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEetuzeQ1PM1uGpEvkrrgGPbtKdKWR2v2dcDaKGYbO39ytpfgHuQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Ujjain K travels is an amazing cab provider. Their cars are in excellent condition driven by professional drivers. The owner Gaurav is such a helpful person. I have been hiring cabs from Gaurav for years and never had a single issue.",
+        "time": 1719982370,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:01.999305",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Ujjain Tours & Travels",
+    "address": "5, Kshir Sagar Complex, near congress office, Malipura, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJ5Y7SBi53YzkRVOASmUTX2Xk",
+    "rating": 4.3,
+    "user_ratings_total": 243,
+    "price_level": null,
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1864861,
+    "longitude": 75.7784246,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdIqslZeE-19iSOWCx-Dq6SRZTVtZoPS3r9thr-S6UtXxjDv2kXGByyPSnohkmtQQWz2K0fHvhD2kQ7vNrN7TH0GS7JLQ8KvkF2NMqi6jqYGD-efgKEH0AoDDzXdML23v-Q-Y4MkLfKRwyps1Xl5c-Wqm9cZcnZ8q9vDZ4CEvHb9sS-KxdLTL70X48jV73dIVBAKzd8dgEpyE5ReEMmgLsvb5zJgCtTZhQx3RqtnNgWSwRilqQHNgUGchdY0OwcAcIjgUTNnSWONVJ8Fd2wDQxd0F0toeN_42Nqe1MnHD_Ks3ue9_s&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "099811 95943",
+    "opening_hours": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 10:00 PM",
+      "Saturday: 7:00 AM – 10:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Vinod Malviya",
+        "author_url": "https://www.google.com/maps/contrib/100177137611810327352/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmv1BxPAqc3D-5er0c111WkP7yMDfnmSbSbxXLiMV7Yy8rxw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Whenever I need a ride, I always choose Ujjain Travels for the best cab services. Their drivers Ajay are punctual and knowledgeable about the area, making every journey smooth. It’s refreshing to find a reliable travel company that prioritizes customer satisfaction!",
+        "time": 1739440057,
+        "translated": false
+      },
+      {
+        "author_name": "Rakesh Kachneriya",
+        "author_url": "https://www.google.com/maps/contrib/111223240653293078614/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLFJaTh_PpMGawCM4FgD7-S1wnlt7th4VDxCEyLUq7nbNWE9w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Awesome service car was very neat and clean. And driver Ajay behaviour was also good. over all nice experience 👍👍",
+        "time": 1734350781,
+        "translated": false
+      },
+      {
+        "author_name": "Sashank Konete",
+        "author_url": "https://www.google.com/maps/contrib/112773149852691871080/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHRoUileWxT_u6_hJF5Ll12n5-AMNnF2q8CBMFogf0QIQUWXorIA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 months ago",
+        "text": "Terrible experience with non transparent pricing. They will take you on one price and increase price mid way once the trip has started. They will also not switch on AC and create a lot of problems on the way. Please avoid",
+        "time": 1734262896,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:02.087239",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "soni tour and travels",
+    "address": "Metro talkies road, Biyabani Chauraha, near Desi Boyz mens wear shop, Malipura, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJYZkq4vB1YzkRLsK1w2yBERM",
+    "rating": 4.9,
+    "user_ratings_total": 118,
+    "price_level": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1904691,
+    "longitude": 75.7800927,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcrO0NtytMosFVFgSvm8cbMEKxIvyTtmHAe5fj6kV352PoUkz2jTc53018v2LHtayfhmYcKzxQm8423qrgY01zOoZfYC7aEEaxhLK98eogfWE5_bJmI_8qugSL4t4i2jzHlr5v3dSP_PKJSfiXQhauIy7PgG7tBHC7rHuwbNjjhON1vyl2P54bjdxVyzEKTKLx2BwDGbS_9aEuAWrWdwbA2qZX9h5avUM5Lf8D-t2DlFGpAIwqLJ6_hxtmC-oJGrJhDDjsCfukYsQyeWqoUmPLy_19ry61piKJdqRVABL9HiUQcbwNNMwGcueV5km0xm7ZOYMkPmoA3G2S3t7gI5nrtWvScygTrEzKwFffluXHSz4VzzWEI6McxDX0RStsc0ECj4Rd-f8TfD6Y4y8UUGsnHx6P1f3icI9UUEiDbjwbAVWc1Y1sGPgOO5aZp4B1aEP-GdfQUxmvxd6ho9SoSa07JqBwR2mso0I1W4TxK_x8nR0hnxdgxzfrsDEGqE45nx_-7L9sg2H0qxA1NL7oRO1cUXc57JEjWvBys21FEVmSL4KpL3SbBncYQAioZ3RU-tHp93MTs&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "086024 08715",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "SUNIL kanojia",
+        "author_url": "https://www.google.com/maps/contrib/102561704650823086387/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0OOC1lvgoF-oPZ5F82mKZa9ypuj3TCwPdMOWgBRi_4xSrXwvS=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "It was overall a good traveling experience with Soni tour & Travelles. The CAB was really good, new. Driver Suraj is also a nice guy. Drives well also knows multiple places in the city to guide for other needs.\nOverall a Very nice experience.",
+        "time": 1750525534,
+        "translated": false
+      },
+      {
+        "author_name": "hasmukh patel",
+        "author_url": "https://www.google.com/maps/contrib/101378796703519627555/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNRSxLfKRv0rG3vKdsROsg9b1H6vRtyFVKkshCDvmgPUY9IGcPgQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 months ago",
+        "text": "Booked them as per their good ratings but worst experience for us.....\nBooked new traveller from ujjain to omkareshwar but got old and unclean traveller.\nBattery down 2 times pushed traveller to get it started.\nAC worked till approximately 30-35km after that it didn't worked.\nFans were there in traveller but the driver was not starting them.\nTotal messed my travel.\nBooking them is risky about what you will get...",
+        "time": 1732985465,
+        "translated": false
+      },
+      {
+        "author_name": "vijay natkar",
+        "author_url": "https://www.google.com/maps/contrib/115447479829421145866/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNrZKgGNodXyrRPt-GK69vb6oUce9QXX3brLddQtmUll-za1IAfA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "Best polite and prompt service. We had a memorable and enjoyable trip with them from Ujjain To Omkareshwar. Thanks Vikas Bhai",
+        "time": 1722674859,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:05:02.179910",
+    "source": "google_maps_api",
+    "data_type": "real"
+  }
+]

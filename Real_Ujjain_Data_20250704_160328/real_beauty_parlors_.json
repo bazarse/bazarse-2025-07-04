@@ -1,0 +1,1397 @@
+[
+  {
+    "name": "Monalisa Beauty Salon & Academy",
+    "address": "47, Amar Singh Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJr3kOUNh1YzkR3nAylRFw_8w",
+    "rating": 4.4,
+    "user_ratings_total": 555,
+    "price_level": null,
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1775621,
+    "longitude": 75.7900551,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfTRMn9231Jp614DuLdf5aW0XwKzIlL6YV3b_fld3wBXb0qtLb-__JroTQpRWowjRmHOUZ_8dWAn732kl2vHhlC3zc0EUocyD-16_1WXK1XTIuWENfuIR7gRyLcOhtk_gvim7nBiQlWLh1eH3kE2ebGRPjEQ2VTdzU6IK-rTDv8J0nNlxuhGX-0vUNAQndMUqG431gv6tgOncKHssp7KrdOTuUU28qHYDrgC1XtGO0bJYehqTIM4p2nZb6_TwHnM6yXnYBlpVpsOeKPy9bg9sp2nUYXiIbgMXWRWssQ3CD2PghwDjg&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "094248 62906",
+    "opening_hours": [
+      "Monday: 10:30 AM – 7:00 PM",
+      "Tuesday: 10:30 AM – 7:00 PM",
+      "Wednesday: 10:30 AM – 7:00 PM",
+      "Thursday: 10:30 AM – 7:00 PM",
+      "Friday: 10:30 AM – 7:00 PM",
+      "Saturday: 10:30 AM – 7:00 PM",
+      "Sunday: 10:30 AM – 7:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Astha Tawde",
+        "author_url": "https://www.google.com/maps/contrib/107291078351996677800/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvEg5t4_PwsqO0Qhf2RMdKzajI3XMEmxc-XMYMf75hEy1XpdVySA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I got my hair colored at Monalisa beauty salon and I must say, the work was absolutely amazing! The color turned out exactly how I wanted, and the team made sure every detail was perfect. Their expertise, patience, and dedication truly impressed me.\nNot only did I get my hair done here, but I also chose Monalisa beauty salon for all my pre-wedding and wedding looks, and I couldn't have made a better decision. From skincare treatments to bridal makeup and hairstyling, everything was handled with so much professionalism and care.\nThe staff was incredibly polite and welcoming, making sure I was comfortable at all times.\nWhat stood out the most was how they genuinely cared for me throughout the process.\nThey constantly checked in to see if I needed anything, whether it was water, a break, or even food when they noticed I hadn't eaten in a while. Their attention to detail and warm hospitality made the entire experience stress-free and enjoyable.\n\nIf you're looking for a salon that offers top-notch services with a personal touch, I highly recommend Monalisa beauty salon. They made my big day even more special, and I'm beyond grateful for their efforts. Definitely a 5-star experience!",
+        "time": 1739803579,
+        "translated": false
+      },
+      {
+        "author_name": "ASTHA PAWAR",
+        "author_url": "https://www.google.com/maps/contrib/101887733967227376706/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7PyvVT8xxtuibVFYjQGV-GVJccBhsRswAtX5p4ArjSmpT_NqC=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "I went to monalisa 1st time...i felt so relaxed and all staff is very experienced and well trained in all works... They give sufficient time and value to their clients... There is no hurry in any work.. They take their time to finish it... And also staff is very friendly they make you feel very comfortable... I don't know any other staff name but i know seema and pinki they were so well behaved they also answered my queries regarding to skin very patiently... Don't think even once... I would recommend monalisa to everyone... Thank you monalisa for treating me this way!!!!",
+        "time": 1742695883,
+        "translated": false
+      },
+      {
+        "author_name": "Pooja k",
+        "author_url": "https://www.google.com/maps/contrib/111310448935820290155/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1smW-so7AH7aay1YMOeeba0PthZvfno62tz0KFBNw72k_AK0=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "The experience was very good. They accommodated me as a last minute walk in. Although the lady manager told other people to do my hair wash, blow dry and ironing but those technicians left. There was Kausobsh, who agreed to do my work. She was very kind patient and gentle. She did her work to precision and did not cut corners because of late night. She finished her job with patience and then let me go.\nI felt bad because it seemed she was overworked and had her child sick at home but was so dedicated to work that she finished my work even till 10 PM.",
+        "time": 1738774794,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:15.157335",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Princys makeover beauty salon",
+    "address": "160, Agar Rd, LIG 2, Indira Nagar, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJDzh1RQl1YzkRFm6CXQFiUYE",
+    "rating": 5,
+    "user_ratings_total": 123,
+    "price_level": null,
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.2052706,
+    "longitude": 75.7838283,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdHvV4-Vm84yySLjQXDLzbH5f3Uu9IR31JUkoxrhYOZVYjP-0lRK8f4Du3EFwqzEEjDa9Jq8RobB8A9J2Yx2o5cyPbJPYmJ0lF-HBHjerNR1tykIc4uyYUvfQv_CveF5nbKXa56ScHBH3n6yKDIeaKJgyoy6qyPLcpytl44iO4pqaTLIKG0xfm7b5SFIecTeMkqlyyecLS20iStrS8AW8mEsMeH9l7oYPKd8stJ0z8Ol43uw8Nrnl40tehY_MTm8kdInzBQACJyfDLG2lYKOnmy0cSFY__h7SUdDKEj3Pi3C1tfWf4&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "087704 07233",
+    "opening_hours": [
+      "Monday: 8:00 AM – 10:00 PM",
+      "Tuesday: 8:00 AM – 10:00 PM",
+      "Wednesday: 8:00 AM – 10:00 PM",
+      "Thursday: 8:00 AM – 10:00 PM",
+      "Friday: 8:00 AM – 10:00 PM",
+      "Saturday: 8:00 AM – 10:00 PM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Rishi Khare",
+        "author_url": "https://www.google.com/maps/contrib/103562250886918566515/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDrIlSvGs-5MwSeiqKOTAMANKPd_HPY4GTni3hx6au9gEMEA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "The hairstyle was exactly how I wanted. Loved the work and would definitely take your service again!",
+        "time": 1744792878,
+        "translated": false
+      },
+      {
+        "author_name": "deepa bhagat",
+        "author_url": "https://www.google.com/maps/contrib/115144193629089777391/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzQQ4-IMVYalMpoqEhg5nNZsEfRzfBMu-ppHPpE4mUAA8vO30=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "A am impresd for this bridal makeup ad camical work",
+        "time": 1746262923,
+        "translated": false
+      },
+      {
+        "author_name": "Suresh Singh Poudel",
+        "author_url": "https://www.google.com/maps/contrib/101064677637732688319/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxNdi39su7RVdl50c6BF54NtSv_qKxtkbiGsvgHbpE1PNxTh8o=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "The best hair and beauty products and beautician facilities wow 😊🙌💛🙏🏼",
+        "time": 1741623009,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:15.238599",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Leucothea Unisex Salon Ujjain",
+    "address": "2/4, HIG, opposite Shuddh Shree Restaurant, Nanakheda, Jawahar Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ2XIZdNV1YzkRYBfMvGavSV8",
+    "rating": 4.7,
+    "user_ratings_total": 276,
+    "price_level": null,
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.156754,
+    "longitude": 75.79056829999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcNIZmtOfCn7xAQwt6qoGkwSuhnMyXllB6AgTyB2xCw9l1kfmMM68Fnq3G-2iO3qbuC-lZ5HRVXVVetv3dNvgVC2BSb244c219f-S__r7BZpXOM39ndZTc8Y-T4xpKptBSRQORmmaY6ndeTRBwfgv2O5O6VBApq8YbYNQSVIlcx_fvTbdn0IOrQK7g41NbPNRBJwgtujpkWWnlrc6jyLmS1Rh9jxYLcf84Vphelq_MQeychgcBp6d10ftWPi50_x7ewSWtJaqlMiZHMB92drgz-SyxbA2zrMrfru46ti9RHNCO8WAA&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "070240 72624",
+    "opening_hours": [
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM – 8:00 PM",
+      "Friday: 10:00 AM – 8:00 PM",
+      "Saturday: 10:00 AM – 8:00 PM",
+      "Sunday: 10:00 AM – 8:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "ParuL Sharma",
+        "author_url": "https://www.google.com/maps/contrib/109594579173598287473/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWId4tA8YMtpzfQ4vfH8b_GjQlku8l9pDEkSsaKELjhelUFVMH-=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "I had a terrible experience here last month during a facial session. The pressure applied during the facial was so harsh that my skin turned visibly darker and stayed that way for over a week. And a couple of months ago I went there for the clean-up, after applying the scrub, they literally left me unattended for almost an hour. Extremely unprofessional service.",
+        "time": 1747722083,
+        "translated": false
+      },
+      {
+        "author_name": "Sneha Mantri",
+        "author_url": "https://www.google.com/maps/contrib/115132925077291493006/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYEgTMR87A5k7cydWSZvdJjMdhnLuCgk4avIdmllaKLApZFl8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "The staff at Leucothea Unisex Salon is always friendly and helpful, and they make every effort to ensure that their customers are happy and it is the best unisex salon in Ujjain.",
+        "time": 1742637401,
+        "translated": false
+      },
+      {
+        "author_name": "pragya sharma",
+        "author_url": "https://www.google.com/maps/contrib/105658942094696414472/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV__s4WGG5yBhYFSMxo59llfZwuwGx6zh3qM1l16AbkJh1qlsRo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Overall service is amazing.. Staff here is very nice especially tanya is so so nice. They all give their best to make u feel better. 😊",
+        "time": 1740918834,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:15.351800",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Aliza beauty parlour",
+    "address": "62, Ujjain - Indore Rd, behind D Mart, Triveni Vihar, Pawapuri Colony, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ-1hvsGR1YzkRjcXYqKs0uXU",
+    "rating": 4.9,
+    "user_ratings_total": 348,
+    "price_level": null,
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1391853,
+    "longitude": 75.7916517,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdDw1S_RXHlVn6LINkF-9deA1H1eRuoQtx0EJK9BEf6BejrE9ewPGrXcq9aPeULZ7OFoKZV6OWDeZ2Tff43RlSpjXNsx5UUhnrSCnf-ESVC8wOA6alqNbmkWhJt4IZcDOraLQDxowPKwSqhKLzbRKXAFX09NqVofXwzaM3TPqsFNekJfQDd4CPaKwjgnlPtQDBYvFuo1WwS1J8xhT3ri-o4IQYzChNOzLx6JkuSwapwUamtBCbxvzv85MBq27l6b2HcWpGkg4ElRNeffOx3gT41Roc1E3aQ3g0nNdjOAns3dU7VDaU&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "095840 82488",
+    "opening_hours": [
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM – 8:00 PM",
+      "Friday: 10:00 AM – 8:00 PM",
+      "Saturday: 10:00 AM – 8:00 PM",
+      "Sunday: 10:00 AM – 8:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Kaynaat Baig",
+        "author_url": "https://www.google.com/maps/contrib/115381139791096403591/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_2i9lVfhSHrn45sK50nnRY1kyHv7TY_lmy9Cyc1fNj3DWgE4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Very good service from Eliza Salon, you all also come.❤️",
+        "time": 1747479484,
+        "translated": false
+      },
+      {
+        "author_name": "Priyankamodi Modi",
+        "author_url": "https://www.google.com/maps/contrib/101706919290710355701/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOjEiE0Xtb0B7-HkcgMLLS1xsHsDh5E7LTc5pZDeeuxMLA8mE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Excellent work amazingly done by the owner of the shop I am so satisfied with the look and very affordable and reasonable at the same time I really thank you the owners thank you so much for doing such a wonderful makeup of me so please contact to Eliza beauty parlour for more informations thanku",
+        "time": 1738776694,
+        "translated": false
+      },
+      {
+        "author_name": "Jagrati Tamboli",
+        "author_url": "https://www.google.com/maps/contrib/117491188623531578792/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLO0v8hIpVSuh40N0yY1tHR9yC2GP2YKT1lAw5zVZmahQXarIGL=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "I had an amazing experience getting beautified by Aliza ma’am , her makeup tactics are very professional and amazing.\n\nThank you for the beautiful look❤️\n\nUjjain people please go check out there salon for beautiful looks🥰",
+        "time": 1734269827,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:15.431868",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Sona Beauty Salon",
+    "address": "18, RAJASV COLONY, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJacJhpHF0YzkRHHkTKjP5wZ4",
+    "rating": 4.9,
+    "user_ratings_total": 68,
+    "price_level": null,
+    "types": [
+      "beauty_salon",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1763995,
+    "longitude": 75.797648,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdAIWgCUG-2GxpjAkb6SdKF8ae92a2cChoferj1pXkc8vTsNUDGuHw_9AibWnMXWLNpup8RPhL2eZ99lxc-f4gamKYFovZHSDnQhDz0XxgmUUv9SQg5Mqk1vhB3WuXUUhk0tXm4buSNjLFw37jZmcwhDlZNL5rM3GCGecKylxCemZfYfiHNOJOLhYss-kwRThVBHREeedn9tCuVD6_jp2gWQkbk9uiuFc-5PllYMyb8xDe1CJIgPiyzV_oQdDzC7-lLV46oTaJz2gkWQw7GufzsS4eFb99Rs2AJflhvlqW_ac2uVf0&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "089896 96737",
+    "opening_hours": [
+      "Monday: 11:00 AM – 8:30 PM",
+      "Tuesday: 11:00 AM – 8:30 PM",
+      "Wednesday: 11:00 AM – 8:30 PM",
+      "Thursday: 11:00 AM – 8:30 PM",
+      "Friday: 11:00 AM – 8:30 PM",
+      "Saturday: 11:00 AM – 8:30 PM",
+      "Sunday: 11:00 AM – 8:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Sadaf Aatif",
+        "author_url": "https://www.google.com/maps/contrib/105335011490212248371/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJP9jWdw8E_MnDefj8sYdXpdK988rOd9QYjXeeQHCVDuml58Gu=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "I did makeup today from Sona's Beauty parlour. They done commendable job. with superb makeup. I am really very happy. Highly recommended. Must visit. 👍👍👍",
+        "time": 1729610628,
+        "translated": false
+      },
+      {
+        "author_name": "Priyanka K",
+        "author_url": "https://www.google.com/maps/contrib/108129924728009343524/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhClSComS0nFw1p_rc9iETfiSht5beCj89aZnp68-9NNrmz121=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Awesome service.. Was searching for a salon as I had to attend a wedding , was new to the place  and At the last minute I saw this and called the parlour even though it was closing time they accepted my request and did a fantastic job of saree draping , hairstyle and Subtle makeup ... Highly recommended... Very polite owner and staff ... Love from Nagpur♥️",
+        "time": 1708405104,
+        "translated": false
+      },
+      {
+        "author_name": "Meera Kodnani",
+        "author_url": "https://www.google.com/maps/contrib/114785650413411314217/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKeXchzma7fQmCTEo_5B-mJsgEVPiYUjZsR9svFZkIMZrxnIA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "My nail extensions were breaking and causing me lot of pain. I looked up beauty parlors near me and Sona beauty parlor showed up as the top recommendation. I visited them and explained my situation.\n\nRashmi and her staff patiently listened to me and understood my needs. They removed my nail extensions, while carefully observing that it didn't cause me any pain. Their services were top-notch and I am happy to say they resolved my problem successfully!\n\nI recommend Sona beauty parlor to anyone looking for beauty and makeup services. 😊❤️",
+        "time": 1703864013,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:15.520789",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Pallika's Beauty Clinic",
+    "address": "26, Arihant Parisar, Arvind Nagar, Koyla Fatak, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJ0X1RrWp1YzkRqvPKQEXiMZw",
+    "rating": 4.9,
+    "user_ratings_total": 594,
+    "price_level": null,
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.189619,
+    "longitude": 75.7865312,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcODdywuZnwz_MXD5R53DEpa-I75UqESYdxYwg-mAf2Hoa_NumoSB__wJ91CPn2K7rlJ4tpT187RvAYe-1yZgFcxRR4BA-M3u4RmRwe0EpZJD6T9vp_Ew-DKnirMVcoBtcqIBoQ7-TRNSHtOSzbSpoyEsN4_3hSn0fAuOXLSUSLp1asDxpIERZxruekeOMUGhRhUdozMNGudE-vpIdcJ_rBPeYQCAXnODZmIL8snTSZff0GDYfXvs3MB-u9VPCpOgWgJ1_AYVsTdU65rs7MowFtV-JPvIBC_yAYDfMj72ESkmvU_bQ&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "099814 54700",
+    "website": "https://id.vyaparify.com/pallika's-beauty-clinic",
+    "opening_hours": [
+      "Monday: 10:00 AM – 7:30 PM",
+      "Tuesday: 10:00 AM – 7:30 PM",
+      "Wednesday: 10:00 AM – 7:30 PM",
+      "Thursday: 10:00 AM – 7:30 PM",
+      "Friday: 10:00 AM – 7:30 PM",
+      "Saturday: 10:00 AM – 7:30 PM",
+      "Sunday: 10:00 AM – 7:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Radhika Khandelwal",
+        "author_url": "https://www.google.com/maps/contrib/108342954521621322200/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxwhytLbn3a-MZgwGqPpa6582V-xvhxep8S3ma_hZI7G31GA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "I visited them for the first time for a haircut. They understood my needs and recommended several hairstyles. She did an excellent job and gave me a fresh, new look. Overall, it was a delightful experience. The establishment is well-organized, and the staff was very accommodating.",
+        "time": 1748773733,
+        "translated": false
+      },
+      {
+        "author_name": "Divya Lalvani",
+        "author_url": "https://www.google.com/maps/contrib/107416112761452976550/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0C6b-BzAjZgeOLuHdWqwJjTcvMBfy12SbG5Us4i037iR5dw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "This has been the best beauty parlour in Ujjain for over decades! They use top-quality products and consistently deliver excellent service. The staff is highly trained, professional, and always courteous. Highly recommended!",
+        "time": 1745918621,
+        "translated": false
+      },
+      {
+        "author_name": "Vinita Chaturvedi",
+        "author_url": "https://www.google.com/maps/contrib/117028786582680343760/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUU1jLBH9ArAgBQbUPsNBr53gN5JyVE-98SbL5HP5McffSLdlf0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I had an amazing experience at pallika. beauty parlour! The service was exceptional, and the makeup was flawless. A huge thank you to the entire team and ma’am for making my big day truly special. I highly recommend their services to anyone looking for the best beauty treatments. Keep up the great work!😊👍",
+        "time": 1739286306,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:15.607939",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Apsara Salon",
+    "address": "2 Nagarchi Bakhal Atlas Chouraha, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJv6RR6zh0YzkR9Vxh8rsbU_Y",
+    "rating": 4.4,
+    "user_ratings_total": 296,
+    "price_level": null,
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1836477,
+    "longitude": 75.7760866,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfP5QON4SkSlX13MR1VbQ6BEF7yWYsHIje4IfmUdyJr27Um8zMPJs7oTpXcRwmzAJFGkCo_9h9-eWoxhFiBQH0omlrd85HeZvOkwBz96I5ERFyjz_mzRwYfx6-m2CgvCVz6p1whQOtAT1wKl5r6ay57vpFA-Ucx72hcoydzxWVm4tdP4QKMtjiK1mFzhbCWI1J0xlt1W1WfOsuICtP4uftlBvFP75UbaLQvaDs8UyjADcZx57bsp7vZd8mS2rZ_irHX3oudKq4HJsyFvsrT5IorNL6GX3TRkqTP8IqBiLRa13gRzKw&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "098272 62508",
+    "opening_hours": [
+      "Monday: 10:15 AM – 11:00 PM",
+      "Tuesday: 10:15 AM – 11:00 PM",
+      "Wednesday: 10:15 AM – 11:00 PM",
+      "Thursday: 10:15 AM – 11:00 PM",
+      "Friday: 10:15 AM – 11:00 PM",
+      "Saturday: 10:15 AM – 11:00 PM",
+      "Sunday: 10:15 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "ADITYA NAVRANG",
+        "author_url": "https://www.google.com/maps/contrib/117678168862038655293/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVf6llRcch3tizzRk5VzgDKwImeBk4QJV_BcSB5R_N63fE9x__l1A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "I have seen such a salon for the first time in my life and their communication style is very good. I am very happy that I got good facilities and good brands. Thank you Apsara Salon.",
+        "time": 1748176328,
+        "translated": false
+      },
+      {
+        "author_name": "Ganesh Sharma",
+        "author_url": "https://www.google.com/maps/contrib/106825593859212837234/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGWkQBGHepg8NdWG9LxNHURO_0C1AzBkGYxFB0WohLaszozgI-=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "It is a good parlour and the staff and mam behaviour is also good\nThank you pallica's beauty clinic\n#ujjain",
+        "time": 1741249947,
+        "translated": false
+      },
+      {
+        "author_name": "Arun Bhalekar",
+        "author_url": "https://www.google.com/maps/contrib/112313015275783320939/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmLpkCh0QHpCwu7Gy3x__ZQ2eRHBa7ELInMusMPRpaleatRD8P=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "3 weeks ago",
+        "text": "How much the price of haircut?",
+        "time": 1749350369,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:15.686625",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Anay Unisex Salon",
+    "address": "social restaurant, Cosmos Mall Rd, near canera bank, Nanakheda, Mahakal Vanijya, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJCzvybRJ1YzkR_4_QUex9FDg",
+    "rating": 4.9,
+    "user_ratings_total": 1261,
+    "price_level": null,
+    "types": [
+      "hair_care",
+      "beauty_salon",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1573672,
+    "longitude": 75.7924654,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcGmk9tPdvVsv1VRknJkDlz3_N9vhIv4TzEXSgcCxvtXzWY6ECy7Rl9AprQluicew9Wrp60VvIYVDcjOP4um4jLtx1sBUXv1hMWtbce0QxhKzqUiF53d00MlEJrDv7J-oyIvVYBg_egx8_DQ6izsNsRYq242fMH8ehoCoAm1LnzXRpsEVqIrNDwgTikDVR0hetiR4yZHXCygFKuvAv8isstMoX9aVPY9XISw06QR63PLJXjSkmlqttzMF7xtssyQISzJ_evkMJs1f7VF6-EGh9zCaiZRVzHfyf55OKfzKKlZu1FIDg&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "076974 15896",
+    "website": "https://www.instagram.com/newanayunisexsalonujjain/",
+    "opening_hours": [
+      "Monday: 9:00 AM – 11:00 PM",
+      "Tuesday: 9:00 AM – 11:00 PM",
+      "Wednesday: 9:00 AM – 11:00 PM",
+      "Thursday: 9:00 AM – 11:00 PM",
+      "Friday: 9:00 AM – 11:00 PM",
+      "Saturday: 9:00 AM – 11:00 PM",
+      "Sunday: 9:00 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Arnav Sharma",
+        "author_url": "https://www.google.com/maps/contrib/110591652351088545528/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLHDBPuCi0HjixwPrbh3m-4oqdI-smx2nCaNfgAEfckNDOiKpY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "I had an amazing experience at the salon! The staff was professional and welcoming. I got a haircut and a facial, and both services were top-notch. The stylist really understood what I wanted and gave me a fresh and stylish look. The facial was super relaxing, and my skin feels so clean and refreshed now. Great ambiance, hygienic setup, and excellent service overall. Highly recommended best salon in ujjain",
+        "time": 1750924672,
+        "translated": false
+      },
+      {
+        "author_name": "Saniya khan",
+        "author_url": "https://www.google.com/maps/contrib/117668160355741568481/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJY073DtJYR8nsIGuCZPJIBzahQuOtceshTyfcr9lFR-OAK6w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "This is a very good salon! My hair was damaged a lot due to chemicals but after some treatments here, I saw a new life in my hair and also the staff here is also very good. If you are looking for a good and budget friendly salon in Ujjain, then you must come here. I am completely satisfied with his work.  Thankyou☺️",
+        "time": 1743273454,
+        "translated": false
+      },
+      {
+        "author_name": "Mahak Bhargava",
+        "author_url": "https://www.google.com/maps/contrib/104440232164658747848/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJ5h1ryoOnym9qqaTLEm__d8LyuKfzUBnBh9kp325qIL-ZNYdwWA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Absolutely loved the Kera Smoothing at Anay Unisex Salon! My hair feels super smooth, frizz-free, and healthy. The staff is professional, the service is top-notch, and the results are amazing. Highly recommended for anyone looking for a flawless hair transformation! ⭐️⭐️⭐️⭐️⭐️",
+        "time": 1751024441,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:15.774852",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Lakme Salon",
+    "address": "A-13/12, Delight Tower, ground floor, Mahakal Vanijya Kendra, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJVYld0SJ1YzkRda2QMtRQYMo",
+    "rating": 4.8,
+    "user_ratings_total": 1153,
+    "price_level": null,
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.158537,
+    "longitude": 75.79060969999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcxoq_53Q6TJxG0NmhzQ6yI8aAV2YiX48S6fziTPqSwE59Qki7mtQkSa1QYrXRALEVx85szWkVzpdCUO0olEubU0mSI7DGO2vOZCIw55pvO3XmP6HWLQWtwHgO1GlwqcjSUOE9EcW79uYtts74tJH4d7zm38udXuSOjFUh6gi67LFxM80tlJxpeReh6MyTF4yR9wDfZrI3g7A6q4oOFW7e8F6z7PtfvrPslYqOf7tRChYtLeRSIj5bp_vm9eTrdcqsjZ5vZq351t9luTjUBfdvVxxvVLFjm1dCpBlZX54MoNsQow04&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "070008 23957",
+    "website": "https://salons.lakmesalon.in/lakme-salon-nanakheda-ujjain-beauty-parlour-mahakal-vanijya-kendra-ujjain-349809/Home",
+    "opening_hours": [
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 9:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: 10:00 AM – 9:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "aruna kothare",
+        "author_url": "https://www.google.com/maps/contrib/102802058057520850326/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7ksBW1cR1mPhWETJz1x8wYYxkcvWCoTkV-ZLihFGyArGPtwce=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "I had the most wonderful experience with the hair care and facial services at Lakme salon From the moment I walked in, the staff made me feel welcome and at ease. The hair care treatment was incredibly relaxing, and the stylist was attentive, offering personalized recommendations based on my hair type and needs. My hair now feels softer, healthier, and more vibrant than ever!\n\nThe facial service was equally impressive.\nI Highly recommend it to anyone looking to treat themselves to top-notch hair and skincare services!",
+        "time": 1738056016,
+        "translated": false
+      },
+      {
+        "author_name": "Rudra Sharma",
+        "author_url": "https://www.google.com/maps/contrib/103642892775992217201/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtHf7D7jdo1iuHSZFNczLPMTasXSR_bVwtYxEkbEsvD4VGGLI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "I have underwent permanent straightening by Akshay and Savita and skin services by heena. It was a great experience. Got a complete new look now and totally loved it. My hairs got new bounce and shine. Thank you Lakme team and Mr. Akshay, Miss Savita and Miss Heena for your services.😊",
+        "time": 1742561693,
+        "translated": false
+      },
+      {
+        "author_name": "Arpita Suresh",
+        "author_url": "https://www.google.com/maps/contrib/102422578475226818649/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWW7pyZqHJhqVI0jJxwl2m71WQaNz8g9ojGVJ6ElhToHiXhdtfiPg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "I had a fantastic experience at Lakme salon! The staff is professional and welcoming, and the services are top-notch. Highly recommend for anyone seeking expert care and stylish results! Thank you Riya for the good service\n\nTechnician : Riya provided me excellent service! I absolutely loved the cleanup and pedicure service truly amazing work.",
+        "time": 1736413561,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:15.858498",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Unisex Hair Studio",
+    "address": "1st floor, A, 15/15, near Hotel Kshipram, Mahakal Vanijya Kendra, Mahakal Vanijya, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJG4mWFLN1YzkRauRh6odsyag",
+    "rating": 4.7,
+    "user_ratings_total": 290,
+    "price_level": null,
+    "types": [
+      "beauty_salon",
+      "hair_care",
+      "spa",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1575711,
+    "longitude": 75.79122710000001,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcki1Y39RUIPQl-lmNq9RhCx6aV7P3r-LnedMSpsynpIy79bssOEXTddlTow8YYPZwmHWwUyb2-N8BLflkCnrQTr8qYzwm_OsbfNYXI-4oO3TMb8EBTdXa4HrHBx-iCyGgujqpwJvTrQnBOhg02UgD0EDfGna3Y9NB-sfoNjwPFo6WyWomRJdKKcAlfK4s_aVizTokC5DohfjkZYOxJzJ0INxre3-hTFIaoPf_NE22UwGcWbSWfdkSB0iWW0tShfL9Dz2dAgqayA-k_8PouHztbV7nf30oSSZvLUZwv60PCo8ne_bA&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "083052 83041",
+    "website": "https://www.instagram.com/unisex.hairstudio?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "opening_hours": [
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Mansi Khatri",
+        "author_url": "https://www.google.com/maps/contrib/108156054280021204283/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRMCVlqo1mjU9D641-gzGd3884k1p8PXiK45aXfcFe5K58Ng=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "recently visited unisex hair studio salon and had a fantastic experience! My stylist,  was incredibly attentive and really listened to what I wanted with my hair. The salon itself was clean, modern, and had a very welcoming atmosphere. Overall, I would highly recommend unisex hair studio to anyone looking for a top-notch hair service.",
+        "time": 1739692823,
+        "translated": false
+      },
+      {
+        "author_name": "Muskan Vlogs",
+        "author_url": "https://www.google.com/maps/contrib/105110018236083540652/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRl_u3m3WQz8FMu1xTHEBH8GSAHv7Lzr4KYpWEdV5zT17IT3zE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "If you want a frizz-free and damage free hair treatment in ujjain unisex hair studio's nanoplastic is the ultimate choice thank you so much for your best services once come and visit here😌🥰👍",
+        "time": 1739702024,
+        "translated": false
+      },
+      {
+        "author_name": "Rudransh Mehta",
+        "author_url": "https://www.google.com/maps/contrib/107449349952142489364/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmNuZ4jn1L4N5TzscQFZmYN6PGCwMwbwlLkYniR_g7qHKk2oD0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Since 2014, I have been going to Mohan bhaiya to style and cut my hair. He is the most experienced and certified hairstylist.  It's been a decade, so give Unisex Studio a try.",
+        "time": 1738997278,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:15.947849",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "RC Beauty Salon and Academy",
+    "address": "front of touch and glow shop, 92, Varruchi Marg, near sunder dairy, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJNwqr_Ll1YzkRAY7i81t-xEs",
+    "rating": 4.7,
+    "user_ratings_total": 46,
+    "price_level": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1795239,
+    "longitude": 75.7917002,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcIG6tiS_a3POqromHwSTww0e7IGNQcLWmSK3ugnqogFuWn653U_kaDEb1Re1ynPi5t9g_kPXApUdBi9Tx8U_Ww3-SwaOzKWeuJJTHHLsGhUHo9HmEyzC6qvs1LPPAS_I3TqHtjIC_UiCqnDxi5P9jzkQWFH97V9_fepjyImg8kTcIp6PRlXG489j8Xsv-HudfS6BQjlKWWAd-wmo2idVFG8sqgyEYc0s4d1WzzghUU-yHmgEb_7klhajl0HnAsWk1ojkh0ywVwEplS8B3ozhBs8ZBWI_dikgOJICOSGg_R0rRIKPY&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: 11:00 AM – 7:00 PM",
+      "Tuesday: 11:00 AM – 7:00 PM",
+      "Wednesday: 11:00 AM – 7:00 PM",
+      "Thursday: 11:00 AM – 7:00 PM",
+      "Friday: 11:00 AM – 7:00 PM",
+      "Saturday: 11:00 AM – 7:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Prerna Sethi",
+        "author_url": "https://www.google.com/maps/contrib/101411566129145261228/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJ8QoJs1DiimDGV5J4gom6Rr6mnM6VPDVMoEnrvWzTf7p97w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "Reena di is a fabulous make up artist. She knows the ins and outs of every product she uses, and takes care to ensure that her clients feel comfortable and great about themselves!\nShe was very gentle with my face and unlike a lot of MUAs, was very considerate when it came to me putting in suggestions of my own.\nI love the atmosphere of the parlour .\nIt was so neet and clean.\nAll staff is amazing .",
+        "time": 1723403008,
+        "translated": false
+      },
+      {
+        "author_name": "Ruchi Chaurasiya",
+        "author_url": "https://www.google.com/maps/contrib/101430373470996759505/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkZrkq50UH7o9pjomMB-gCRcpAsIR9knDJvEGynKXZTNafoaU=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "11 months ago",
+        "text": "They have done worst party make up. I have booked them for 2 make ups n both r not good. God knows kaunse products use kiye my reception make up had melt down in just 10 minutes n after half an hour it seems like I had not done any make .... chunni draping n tika setting was worst... aesa lg rha tha kisi gaon ki lady ne kiya ho",
+        "time": 1722628517,
+        "translated": false
+      },
+      {
+        "author_name": "Manisha Jain",
+        "author_url": "https://www.google.com/maps/contrib/100181308180221686080/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKR9rC5m6yYKdJs6A7IH7T2V6qMh3hTOSKhCwZ0KrnM56FH=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "Best salon in ujjain for ladies..\nVery humble n supportive nature of staff and owner herself ...\nAll services are very satisfactory...\nSuperb work ..",
+        "time": 1723347434,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:16.036628",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Beauty parlour BLUSH & BLISS.Buety Salon At Home Ujjain",
+    "address": "Divya Kirana Ke Samne, Atirikt Vishwa Bank, 216, Kanipura Rd, Rajendra Nagar, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJjTM_b091YzkR51_ZV56c5bk",
+    "rating": 4.9,
+    "user_ratings_total": 20,
+    "price_level": null,
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.201647,
+    "longitude": 75.79387659999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpe4Fjzxc1E5TomH7uqfJqEdZQrizIl11fNdWy2cqa0Rvt6bnV5MNjyG-gAVw_M1FES0Jn1lAp0rGRw5ho9bVGReskgTWEbx1GgXHDzNR6-bK4fgI3BCeBvYJZNtBeiMppr4Yfm1zp9bBftCn8iO6IKcbEO2gTzmmE7BNz0q1tPikSZpOs1MRzZlSK4XCBpJjPSG-UvRP7rfU0TMohub3UblrADTypoaDrwUDGI4LU8My_QOlQO5SI7izDQaDFXBb9fJ1yesSavupt-3R-2qaLr2mTOUmMXzyLzcDOO0q-aDYn_eEIU&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "097531 31673",
+    "opening_hours": [
+      "Monday: 11:00 AM – 6:00 AM",
+      "Tuesday: 11:00 AM – 6:00 AM",
+      "Wednesday: 11:00 AM – 6:00 AM",
+      "Thursday: 11:00 AM – 6:00 AM",
+      "Friday: 11:00 AM – 6:00 AM",
+      "Saturday: 11:00 AM – 6:00 AM",
+      "Sunday: 11:00 AM – 6:00 AM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Prakash Pal",
+        "author_url": "https://www.google.com/maps/contrib/117466597238562060493/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtY9JR_brWZKXdVPAPCHdxSc_ZtRAdgObcOtnq5INC1O7Vsg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Best service",
+        "time": 1727705992,
+        "translated": false
+      },
+      {
+        "author_name": "Sunil Panchal",
+        "author_url": "https://www.google.com/maps/contrib/102732742534491748629/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKoEootxUk2Z88tUAF89d4DldAZ4gPkmegiDRwNsNMtn_KHKw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Super",
+        "time": 1740214512,
+        "translated": false
+      },
+      {
+        "author_name": "Sona Panchal",
+        "author_url": "https://www.google.com/maps/contrib/102123184079036826372/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYbJjBjhNUf-ucACXU45a5EonEXmdRMBOmL1QqnSpFUsxP4Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "",
+        "time": 1747734964,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:16.111461",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Sharin Balwani ( The beauty studio )",
+    "address": "Teen Batti Chauraha, Freeganj, Prakash Nagar, Sindhi Colony, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ8Z52x6B1YzkRj8lke8KmCVQ",
+    "rating": 4.9,
+    "user_ratings_total": 83,
+    "price_level": null,
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1765,
+    "longitude": 75.7881986,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeNM1ywv52983dgliCQNCGlNVf3Nc0Yut5oEfe9Xdp_xKvi9wKm9zyWZsinehQ3eukokWrmZAF_mAFpdTRlncMuTXlrWe1ipo_TeYb0DIe81owiPUYOSIFQhFAYoHYtI_0R1j8FFlpuTLuBoNxa80cdTWMlASGtvmsN1pXw5IqFHUCszqwXlWiXLs-tHDab8CHUCNANvtRatnVM3g2N6eCgUk7PWTjdVsIFnWxotJnRj0FbznR7m36Z1pR5JH0KSjHqkEEhPBkPpvdY-A80BFxjTCLx9FOmH5IRGIJrKiuxwOyBikY&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "099938 95854",
+    "opening_hours": [
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 8:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "tanvi dagaonkar",
+        "author_url": "https://www.google.com/maps/contrib/103838238079674959974/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWU3Gl_svX-SC_ugqsgk5YP3stPD7dAoQe7GW78Xf5-QgGcwI9vPg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Without any doubt, the Best Nail Artist in town! Love her work. Getting my nails done from Sharin since 2 years now and she does her magic every single time. Also, my nails easily lasts for a month or two.",
+        "time": 1750684417,
+        "translated": false
+      },
+      {
+        "author_name": "Sakshi Tapadia",
+        "author_url": "https://www.google.com/maps/contrib/100530791748625127304/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7RmPEwn3l38Lig01v38LGWIauyUNWJIEI4zixJjdJ334s3Dks4g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "The perfect place for bridal makeups. Everyone on the studio is so warming and welcoming. Trying each and every type of hairstyle ki are ye is type se hair karke dekh le and they did it all with a smile.\nWas very furious about doing makeup as a non makeup girl but it was all worth it ♥️",
+        "time": 1736836940,
+        "translated": false
+      },
+      {
+        "author_name": "Yashika Chopra",
+        "author_url": "https://www.google.com/maps/contrib/101391458599635545110/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtHD0GH5RICrhFicuOkazeKT2T5a5kUTBsMCxOi0s8yk2K1w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "A very good  salon providing excellent services, good ambience & maintaining good hygiene. They provide great hair spas also they give a great makeup skills and beautiful nail art in a very relaxing environment. The owner sharin is quite attentive & delivers excellent results. Must experience the wellness. Best place must visit!!!",
+        "time": 1723205442,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:16.202983",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Kajal beauty parlour ujjain",
+    "address": "34/1, Mahakal Sindhi Colony, L.P. Bhargav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJzeXWKWR0YzkRHCfe8ZCJiZc",
+    "rating": 4.8,
+    "user_ratings_total": 21,
+    "price_level": null,
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.168319,
+    "longitude": 75.789487,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcZ55p8uMobG0JjYkbvMzwJNNRy_YkYPTvn4OQB7acpa_Y2oslEX8sGyP47Y_ZzCjqRUJ_V7QpLqSzu837WS5feHf4OQVzTo20J8XmjM33niV7BxF_QJhCyMYUK-vHV6LM02Psa1wm0W68hkCoGHs2AyBs3ReeM1P5tXDKrZGwu4s9KUPU5UH1KNyg5g0MLsjm1aZ2O91hQInb4oGLsLefc4K5YWRJuRRHpqX4IPe3V4GpzwE9w53qYpKHCdZHE_7BKlY-JFbWBEO7uR8xgksjlJsJ4Y4xMMaIDLJrTU8DUPzv9Pw4&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "088394 30521",
+    "website": "http://kajalbeautyparlour.netlify.app/",
+    "opening_hours": [
+      "Monday: 8:00 AM – 10:00 PM",
+      "Tuesday: 8:00 AM – 10:00 PM",
+      "Wednesday: 8:00 AM – 10:00 PM",
+      "Thursday: 8:00 AM – 10:00 PM",
+      "Friday: 8:00 AM – 10:00 PM",
+      "Saturday: 8:00 AM – 10:00 PM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Prakhar Agrawal (Prakhar)",
+        "author_url": "https://www.google.com/maps/contrib/110029809717171644808/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKB2V02ckbWYuhc-cI8Ak1Lg4R01BwnSLAOLcu0pjuI-KkpN4=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Thank you my mother really liked your services.!",
+        "time": 1668597708,
+        "translated": false
+      },
+      {
+        "author_name": "mayur unisex saloon.",
+        "author_url": "https://www.google.com/maps/contrib/116931388042776179127/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXTnRKpEv5tAC2-n2S7fydNrmtPTR4uVxndGVuf8ssDcYuSvnx=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Excellent service",
+        "time": 1670322824,
+        "translated": false
+      },
+      {
+        "author_name": "ashok chaudhary",
+        "author_url": "https://www.google.com/maps/contrib/117652356957740856955/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmUA-7vlR-Kr-gIvczcmKIgwQbQwGj3gNG29QP6r05zpRN=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Very good",
+        "time": 1685297695,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:16.312885",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Manasvi Nails & Makeup Studio (Academy) By Priti Gome",
+    "address": "shree ganga misthan k paas, puja samgri k upar, Freeganj, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJw-aA8sR1YzkRm3F8Mg9WDqs",
+    "rating": 4.9,
+    "user_ratings_total": 142,
+    "price_level": null,
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1786899,
+    "longitude": 75.79025879999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpczSnbXvr2kB1dSnBSHKHHjWLcz5JEniU3mZC7RT8qJWSJLSb3Gy-pQ6_Qx6udgY_0NPJSGq37B7rATtbxKGbdvVuvgU1GY8yVibTldrcw_-ZY3XB8Gr0NUCuOYaQjxoQurdeADl7VCSQUFMM_kQNREIayK774Tz4Wod12NKTBSGYUckyqsnIB_e-JB-1uDd6rZIgbHn5BUMSofpZw3C38drLiTaqI2Dhnzu2UjYoNiVB7Xq5IgNzQ3fZNR5kAcI6-G0JmaHSjDetz_7QDEZK4SN05MusfvH79OCCfV5qODwZlkvN8&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "070004 55438",
+    "website": "https://instagram.com/manasvimakeoverstudioujjain?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==",
+    "opening_hours": [
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM – 8:00 PM",
+      "Friday: 10:00 AM – 8:00 PM",
+      "Saturday: 10:00 AM – 8:00 PM",
+      "Sunday: 10:00 AM – 8:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Megha Rajwani",
+        "author_url": "https://www.google.com/maps/contrib/110285691669902394942/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSbl6jShIh04TIcT79PqhF01CGw1dEPwQYpOo8_o7tLpd8dggttg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "I recently visited the Manasvi salon for some nail art. The staff was incredibly skilled and attentive, taking the time to understand exactly what I wanted. The nail art turned out beautifully, with intricate designs and vibrant colors that really stand out. The atmosphere was relaxing, and I felt pampered throughout the entire experience. I highly recommend this salon to anyone looking for top-notch nail art.",
+        "time": 1743868648,
+        "translated": false
+      },
+      {
+        "author_name": "Priyanshi Solanki",
+        "author_url": "https://www.google.com/maps/contrib/105586773300579096035/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLrISe7sXV56RSYqcCSLaxgkiSgMWvkNJHwv_qDXyiEJmhHyQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 months ago",
+        "text": "I went to Manasvi salon after watching google reviews, not sure how they got all these positive reviews. Got my soft gel permanent extensions done, it started coming off in just one week. Also, dry manicure they did on my nails was worst, cut my skin multiple times and it started bleeding, totally lack of experience and care. Worst experience!!",
+        "time": 1732469824,
+        "translated": false
+      },
+      {
+        "author_name": "Himanshi Chelani",
+        "author_url": "https://www.google.com/maps/contrib/107428459573207915241/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJn15MQwWfc7aBuImiujWCzx4jvp5rjF0ZRhq_ebdmBfaQ2Wg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "\"I'm thoroughly impressed with Manasvi Makeovers! The service was exceptional, and the ambiance was stunning. The staff's love and care were palpable throughout. Overall, I'd say it's the best in its category. Highly recommended!\"",
+        "time": 1745845230,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:16.408795",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "President Unisex Salon",
+    "address": "12, Kamla Nehru Marg, near Gurudwara, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJZ-4tnG50YzkRe0CiJubYjjQ",
+    "rating": 3.7,
+    "user_ratings_total": 138,
+    "price_level": null,
+    "types": [
+      "beauty_salon",
+      "hair_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1774848,
+    "longitude": 75.79132729999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdvjYn1w7qOv3OyC5H9f9oDne-m8spq2r90GHSf0RySE8dGIWFnRf8gc_YN7eUNchpB-wpEqTV10yXHGlD7yUtM9GpNScEW7TLNQesjE0OOZzJMYgeIahOt9B7jz6MMu4I3O-WlPvex5mz923dCbOXyomn3ELFFqAU5AAvve5ChsZd1_GHCfdWrsY18UN6vzVh8bIXZ5YEIZYRQyBYPWXQ_MuMjYHyXE9tJW-tfQj-V5lz7dry7AKf9Lg4qn74onclU0z4ZK3aD_rjtu-7RZJ9-2aeDqArHqmT7DHdJlrepG5RqvBA&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "081095 81662",
+    "opening_hours": [
+      "Monday: 9:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 10:00 PM",
+      "Thursday: 9:00 AM – 10:00 PM",
+      "Friday: 9:00 AM – 10:00 PM",
+      "Saturday: 9:00 AM – 10:00 PM",
+      "Sunday: 9:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Naruto (Hokage)",
+        "author_url": "https://www.google.com/maps/contrib/105657742384556571922/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpjrv_Gob98KlKCm2x02vhWSvT7iBhWiehg23AdE7s2pjFkHs=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "Worst salon ever they charge u so much and provide the poorest quality in entire Ujjain they ruin your har texture and style i grew my hair fir 3 months to get a good haircut si that the barber has room for variation but he did the worst possible job by cutting my hair too short and without any hair blem i can literally see hir separation the barber pulkit has so much attitude and arrogance he was not ready to do the jab and asked a newcomner to do it woh ruined my hair no hospitality no sincerity no compassion among the staff .\nNever ever go here!",
+        "time": 1737085477,
+        "translated": false
+      },
+      {
+        "author_name": "Rahul Sharma",
+        "author_url": "https://www.google.com/maps/contrib/101210486835324218367/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKdUUAQymNLnXQd_9a-DnJUpVR3zDgkgODQrw0ovDrfR5NklQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "I'm writing this after a month because their staff ruined the texture of my haircut, Trust me worst sevice provider in Ujjain... Untrained workers and not at all hygiene better go for roadside 50 rs salon and not this.... If you don't trust try once and then review",
+        "time": 1705058444,
+        "translated": false
+      },
+      {
+        "author_name": "Pragati Upadhyay",
+        "author_url": "https://www.google.com/maps/contrib/116426392281500773260/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrYh2aezEKjfIrDM24ZcUTpmhbZ-6XUDD7T90LgWzPtxlB5-n2ow=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I have the best experience here every time. Pulkit gives a great hairstyle and just transforms the entire look. He spends a lot of time and effort to give you the desired look. Best place to go for your haircut.",
+        "time": 1673385729,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:16.491733",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Blossom PARLOUR and Training Center",
+    "address": "167, Manchaman Ganesh Colony, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ3YPiXMF1YzkRrqOQkzd4blc",
+    "rating": 4.9,
+    "user_ratings_total": 57,
+    "price_level": null,
+    "types": [
+      "beauty_salon",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1712506,
+    "longitude": 75.7763387,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdX8wrLExnzH4f_x4lGgHeJmHO7upYZdqzgRniN-0yMeN-DKfgY_vXRC8Euttxk1Hs0mzLh0zlnuErEBQoHkYQPEBa2nxbJPe7kqKKW_9fT2pKCRxKVxJQlrM8eN-KbPKU6mBZ3qsk_xXzGVE7xxZuhcv-N4RR_DZS-K6UogzM3gq0CBgj-cMcJr4IAFobDdwS_f0lNhDAJcgJEdIlvFm5-Ymm-4D5RCBKO4jTxIXj073_CRFUsXOjv-uYfxADJ6hElbemVHbg7EwNs4wfTjBhAoIn3Tw8a7lewHha6Q55HPGB_pa8&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "website": "https://instagram.com/twinklejaymakeovers?utm_medium=copy_link",
+    "opening_hours": [
+      "Monday: 9:00 AM – 10:00 PM",
+      "Tuesday: 9:00 AM – 10:00 PM",
+      "Wednesday: 9:00 AM – 10:00 PM",
+      "Thursday: 9:00 AM – 10:00 PM",
+      "Friday: 9:00 AM – 10:00 PM",
+      "Saturday: 9:00 AM – 10:00 PM",
+      "Sunday: 9:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Tanushka Suryavanshi",
+        "author_url": "https://www.google.com/maps/contrib/108576949949807150643/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKhS1yH7PmrxMhgWZiT8nvjkCqMFFatfhqyxH3pxqwa-DLfgg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Twinkle is an absolute gem of a makeup artist! She worked her magic on both me and my mother, and the results were stunning. Her skills are truly exceptional—she has an eye for detail and knows exactly how to enhance natural beauty while keeping the look elegant and flawless. Beyond her talent, Twinkle’s warm and friendly nature made the entire experience so enjoyable and stress-free. She patiently listened to our preferences and ensured we felt comfortable throughout. A big thank you to Twinkle for making us look and feel amazing. Highly recommended! 🌟",
+        "time": 1734361086,
+        "translated": false
+      },
+      {
+        "author_name": "DermaDreamClinic Ujjain",
+        "author_url": "https://www.google.com/maps/contrib/114476910350369090827/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1UrB5RZUFQZQS1u6NInMh2_9AsIil_KNVjXINCQdqJqjqdLvB=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "She is very appropriate to do make-up, uses good company make-up products, I'm allergic to eye makeup products, but what she used suited me, I wore it all the day without any problem. Thank you😊",
+        "time": 1714925578,
+        "translated": false
+      },
+      {
+        "author_name": "Atira Jayakrishnan",
+        "author_url": "https://www.google.com/maps/contrib/107617633507171603085/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmPU4fgjJvlOoS0NRIVmEqVH0tyvOWrmzH05hupzpgGU-3ixxV=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "She is one of the few people in this business who listens to the clients. I wanted a no make up look for my sister's wedding, and she and her team delivered it well. I have been to other salons where they promise you that they will not attempt to make me fairer. But they always end up making me look like a ghost. But I was happily surprised at their team's work and professionalism. Even my mom who hesitates to get any make up done went to her twice and was very happy with the results. Highly recommend this place!",
+        "time": 1716196818,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:16.638661",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Mirror Beauty Studio,Academy & Boutique",
+    "address": "A12/7, Mahananda Nagar Near Bhartiya gyanpeeth school, in front of Chinta Haran Hanumaan Mandir, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJM118WrB1YzkRlPuyrCkHqko",
+    "rating": 4.9,
+    "user_ratings_total": 97,
+    "price_level": null,
+    "types": [
+      "beauty_salon",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1560172,
+    "longitude": 75.8022172,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcd7rkuPuqYLDeIh4EQRHMdkzHL2yJsZadI4XsSkYa3SiT3dtyoChQXVgNK1LYshUmIVyFhCq4SLRuEU5wKJmTuwkNvSkiu9n4XjjpoPwfykRHtvR_r2hYz7ptDZy2kV4FNlBzAGJIBXmhcUKH3X0nBdUE0dYPK5qcmVHMFUYiuG-_ZWlbmjBCenjK9YpQBmvNtNywEcng0oOeN3_cWvw6o25yspgIS7LV_mA4tkC7wnqghhcYzKGf3h8dssQ2fAThDkRpwoLLgo8s3-eMIwWryiOgrL9Nj-PVJ3OVqwhq9RBhUi8k&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "099939 90300",
+    "opening_hours": [
+      "Monday: 11:00 AM – 7:00 PM",
+      "Tuesday: 11:00 AM – 7:00 PM",
+      "Wednesday: 11:00 AM – 7:00 PM",
+      "Thursday: 11:00 AM – 7:00 PM",
+      "Friday: 11:00 AM – 7:00 PM",
+      "Saturday: 11:00 AM – 7:00 PM",
+      "Sunday: 11:00 AM – 7:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "shivali sharma",
+        "author_url": "https://www.google.com/maps/contrib/111501679155946358246/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0Xbks0VDg1UFaXiDJY1ipkQEySkbx8LyJxSLr1LSWzxLHqQ4S4A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "I had an amazing experience at Mirror Beauty Studio!!! The nail extension service was absolutely top-notch. The staff was friendly, professional, and paid great attention to detail. My nails look stunning—exactly how I envisioned them. The products they used felt high quality, and the whole process was clean and comfortable. I’ve received so many compliments already! Highly recommend this place if you're looking for flawless nail extensions and excellent service.",
+        "time": 1746290427,
+        "translated": false
+      },
+      {
+        "author_name": "RAMCHANDANI ARCHITECTS",
+        "author_url": "https://www.google.com/maps/contrib/107263086290566456693/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvGs7peo4Imgqbt3DhzsSia-GmRoCmPwxgSO9ycblurGkqfA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "I had an amazing experience getting my nails done by [Ojasvi]! Their attention to detail, creativity, and precision are truly impressive. The design turned out even better than I imagined, and the quality of the work is outstanding. Not only are they incredibly talented, but also very professional and friendly, making the entire process enjoyable.",
+        "time": 1738482051,
+        "translated": false
+      },
+      {
+        "author_name": "Aditi Daga",
+        "author_url": "https://www.google.com/maps/contrib/114701702298471045205/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOvmZ1R_i1XXsIaqO0DZy5HcC6TFjUqVBNJTRPuV3hKqpg6piC=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I had an amazing experience with mirror beauty nail art studio....Their attention to detail and creativity are unmatched. From the moment I walked in, they made me feel welcome and listened carefully to what I wanted. The nail art was beyond my expectations—so precise, unique, and beautifully done!",
+        "time": 1740655279,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:16.728940",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "The Beauty Hub",
+    "address": "9, Ganga Singh Colony, near Jain mandir, Laxmi Nagar, Gopalpura, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ--m97Yj9YjkRT8xYhmPRF7w",
+    "rating": 4.7,
+    "user_ratings_total": 20,
+    "price_level": null,
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1787154,
+    "longitude": 75.80334140000001,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpd57WEDEBwdfGrZO7ZP0yD--XTxDaZW8F6pzyp1SYH3Ms4Zgth-ZYOCvEkKignC1KlnGZu2MdwBgKC1Ux8aTsyWchV0o5-Niv42H6Mg8c0UjDeZV-Ijs-bKcaFLfJywwX5IYpHiIdRKHrk83zVQWlVZZUpeAr3KDthzStjs5SkzCzZf1ZXEMz1P8QC81idb1feJ1KJxOztBdLAOs8xoUoCuH7g84Jqu55jm2y_z6eFZVRi1Xlgxj41UArSoQFNyiTItNi4UA7jpJvZP_UnJLlSB153ZXBz_CVad28g3ujwx8NRarI8&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "088391 44178",
+    "opening_hours": [
+      "Monday: 11:00 AM – 8:00 AM",
+      "Tuesday: 11:00 AM – 8:00 AM",
+      "Wednesday: 11:00 AM – 8:00 AM",
+      "Thursday: 11:00 AM – 8:00 AM",
+      "Friday: 11:00 AM – 8:00 AM",
+      "Saturday: 11:00 AM – 8:00 AM",
+      "Sunday: 11:00 AM – 8:00 AM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Atul Saxena",
+        "author_url": "https://www.google.com/maps/contrib/113899073020943373708/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITI36dmpfAmIg-3q4-kWZHPOijZhkMf92S8hsAGjXJDaGK8w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "This place needs to be appreciated. Such a underrated salon I don't know why. This place has a very friendly atmosphere. Now I don't have to try new salons!",
+        "time": 1699366289,
+        "translated": false
+      },
+      {
+        "author_name": "Suhani Jain",
+        "author_url": "https://www.google.com/maps/contrib/103716338175302914808/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKWUt_qR6spa0eCpCD0dF4UaZ3eiezVr76AZB4v8TiyXvjnVoI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "The beauty parlour owner has a very good nature and is good at her craft 😊. The environment of the parlour is also very nice.",
+        "time": 1704546056,
+        "translated": false
+      },
+      {
+        "author_name": "Zeeshan Abbasi",
+        "author_url": "https://www.google.com/maps/contrib/110301593059207318441/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcY0FHbk0WxmeUY76v7eoKW7XMS6PpxIvShRGEeBqjEFWOyCSp=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "It's nice one had amazing experience 😌💖",
+        "time": 1699380837,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:16.810337",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "TanishQ Makeovers Ujjain",
+    "address": "4/11, near Kapil Kirana Store, Nanakheda, Pragati Nagar, Jawahar Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJq85GZKB1YzkRNjuk9XC9kis",
+    "rating": 4.9,
+    "user_ratings_total": 151,
+    "price_level": null,
+    "types": [
+      "hair_care",
+      "beauty_salon",
+      "spa",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1563015,
+    "longitude": 75.7901475,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpehwG749j1F5zdKbM4ONPqZzI3SfYiYCxI-KVfVbXHpYakhPzb2C10r_ZtU7eI-rx2ddUtT3z-q1QTT2uJlNqxmDaXh-OQ3fD3IyvJtpnltABsOgNXBlcThO4vbYodL3Oi5mwA0sgKODARSD6-yyyxidFulnRjZRUEDl37jLG0L66qsOAw9uRN_a9io43e8mfFK3t4WuUYh7ESdxHMmVEC-nWo9aa0ytq7h3PBySSGEqGpdIMOyZcUPTZNyf1hbvdzFKtciaAyYM2rAOqwKD2AjB0rtTALgvSPsvjL_EwRR6szdnaE&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "089820 92932",
+    "website": "http://betanishqmakeoversujjain.design.blog/",
+    "opening_hours": [
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 8:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Abhilash Shrivastava",
+        "author_url": "https://www.google.com/maps/contrib/107904813125014659084/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL1BdL_7fcNhsj_Ghk7Bvi0HK1YvccjJx9WRy75idx41sAMPsU=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "My wife went for bridal make-up and she was looking stunning. Amazing service, brilliant atmosphere. Kumudini Ma'am provides excellent care and hospitality. Must visit place. All the best. 😊😊",
+        "time": 1747805104,
+        "translated": false
+      },
+      {
+        "author_name": "Yogita Malviya",
+        "author_url": "https://www.google.com/maps/contrib/114815367930696589697/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsan3QDD-qzyl_U7c34X4GKYTUSPAxQTnUiRCc9TeF-rhiKk3LXw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Amazing services and experience, they understands the requirements completely and never disappoints! Trusting someone with your hair and skin is as is very difficult, thank god I found tanishq makeovers who I can trust blindly 🫶🏽",
+        "time": 1716388169,
+        "translated": false
+      },
+      {
+        "author_name": "Mustafa Ezzi",
+        "author_url": "https://www.google.com/maps/contrib/114130140310598178687/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWo_Z-bNvfx-DYEGE8DL62LS7wg9lUQ-PPg2hW6QJEqxDZNzbO8=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Good behavior great designe great deals.\nRatna ji",
+        "time": 1750667040,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:16.890513",
+    "source": "google_maps_api",
+    "data_type": "real"
+  }
+]

@@ -1,0 +1,1409 @@
+[
+  {
+    "name": "Shree Ram Jewellers - Ujjain - Tower Chowk",
+    "address": "5QHQ+M82, 31, Tower Chowk, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJOxQA92t0YzkRqCnw5_9NjrI",
+    "rating": 4.6,
+    "user_ratings_total": 503,
+    "price_level": null,
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1791788,
+    "longitude": 75.78833,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdBMAVzRG7VBOMVhQjZ52q24nCcMqRKjzW-ZD6XHGPxDNR7rxIMdSmNEhafbuS9Nu_Dfyz704KVzhb2LlLyYol8eoghQVgmranHIw4jqWEI75BAjAtGz-VzwoCYtQG3oBK6UXv47-qQkjNIZNmPXYV5uJO2oqZ0XqQIAnHfGpsigFlGxriR9Qi6WQQ3O9RNwnK11J7S4gEd_14d2rRvZSIIu_pjuonAjbvlu_Ti7w7FgNsoxicOW_8al5vpyb3lIMc5ecnaEDSuEG3bXP1sDF58au3ULl5pjbBpRpLB35AQPyAwX5c&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "094245 11436",
+    "website": "http://www.shreeramjeweller.co.in/",
+    "opening_hours": [
+      "Monday: 10:30 AM – 8:30 PM",
+      "Tuesday: 10:30 AM – 8:30 PM",
+      "Wednesday: 10:30 AM – 8:30 PM",
+      "Thursday: 10:30 AM – 8:30 PM",
+      "Friday: 10:30 AM – 8:30 PM",
+      "Saturday: 10:30 AM – 8:30 PM",
+      "Sunday: 10:30 AM – 8:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Ravi Parmar",
+        "author_url": "https://www.google.com/maps/contrib/108504376833539138610/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0n5o-jwfenvRpz9x9_ro4gtY6anmHw1BhcQusVJUNKCBmkQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "SARTHAK,GOPAL,MANISH, PRIYANKA BEST SALSMAN NICE NATURE BEST Designs no.1 showroom in ujjain",
+        "time": 1743940294,
+        "translated": false
+      },
+      {
+        "author_name": "Manoj Bunkar",
+        "author_url": "https://www.google.com/maps/contrib/109989126055540639843/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIziiUgVZeGQtsZ6t0P3Hol4dBNmIC10JaVMBGeF1-lTKq7Z0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "One of the best shop in Ujjain the behaviour material all product is so good\nSpecial thanks to muskan mam and vishakha mam just a grt experiences thank you",
+        "time": 1737190360,
+        "translated": false
+      },
+      {
+        "author_name": "Satish Saini",
+        "author_url": "https://www.google.com/maps/contrib/108000212602487422936/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6ldfRmorljMj1-pOcS_4EoGJ2FY1mPKCc0gHpKOJI7MI8Ii_-=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "I recently had the pleasure of visiting Shree Ram Jewellers and was attended by Ms. Nirmala. I am highly impressed by her dedication and would gladly recommend her services to anyone visiting Shree Ram Jewellers. She truly enhances the overall customer experience.",
+        "time": 1735055232,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:27.663199",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "D.P. Jewellers",
+    "address": "47/2, Kshapnak Marg., opp. Police Control Room, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJqz7l9DB1YzkR9kGnMPRAGa8",
+    "rating": 4.9,
+    "user_ratings_total": 12533,
+    "price_level": null,
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1758907,
+    "longitude": 75.79372219999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcbJiZUiXEURAAxoxzeQTJlq8pIcNlijA6m-28vRJIiVVo_Lk5brCXwfwXGZF2sSpV43jnV5hxs4sNpUF3D0oe0p9rvkICOVnap7bt5hYCYnNZKBbbITcNDzD8nTCYU0uGeAMdAQuFqh2p9ECune9_yPqBig9ojPREjD62gnuPjoCUFXzwiAW_tD_oCb1AeH4ghToWAB5GoSOsYP9XGTnv8vMXAjufG3qQECqLNwWsRfSCttJqhEEufSIPThC-wXmnjQlZjERKEXR8zmgb98TOnfPaOb6IskxnUmdgOT1jij0NifHA&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 253 0786",
+    "website": "http://www.dpjewellers.com/",
+    "opening_hours": [
+      "Monday: 11:00 AM – 8:30 PM",
+      "Tuesday: 11:00 AM – 8:30 PM",
+      "Wednesday: 11:00 AM – 8:30 PM",
+      "Thursday: 11:00 AM – 8:30 PM",
+      "Friday: 11:00 AM – 8:30 PM",
+      "Saturday: 11:00 AM – 8:30 PM",
+      "Sunday: 11:00 AM – 8:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Ajay Baagwan",
+        "author_url": "https://www.google.com/maps/contrib/104814676487602692151/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYE4A1pUIjgOEsM3707V4v73mjwZWWairrC8r3XJOiekjbZpST=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Beautiful design and excellent service. DP Jewelers is a great experience of shopping with Ujjain. Good service worker there her name Mrs. Sapna ji",
+        "time": 1739781678,
+        "translated": false
+      },
+      {
+        "author_name": "Nab Ish",
+        "author_url": "https://www.google.com/maps/contrib/104387759993612144778/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHXiGNghYN0qal_9zXKuSugZRc_Kip4okXBZupbEXQxunLE1c=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "I am happy very about the information about the gold and diamonds in dp jewellery by Tushar mayach a very great person in dp need a very higher post in future in this field hope for the best future 🥰",
+        "time": 1749394591,
+        "translated": false
+      },
+      {
+        "author_name": "Komal Waktaliya",
+        "author_url": "https://www.google.com/maps/contrib/111328811320098664871/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4YSrmLHJXvqcXmJiVYpGCUqubf7VKHXOAOQJrE-3sYqsEvw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "\"A big thank you to Anushka Maurya for her excellent support! She greeted us warmly and was very attentive throughout. Her product knowledge and customer-first approach made a lasting impression.\"",
+        "time": 1748170243,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:27.752927",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Tanishq Jewellery - Ujjain - Freeganj",
+    "address": "6, Bhoj Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJSdCCBmx0YzkRrxiUklV4Kts",
+    "rating": 4.9,
+    "user_ratings_total": 4226,
+    "price_level": null,
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.178311,
+    "longitude": 75.791375,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpckD7FuGSpYRJ6jLA_v_NY-fWpa-oZPYLSJNnWhigjumPe5yGxmlc_vPaqvhXBJCZ97rcmeW0-M64-A7ttwhnDhC6h4pXNgWWkylsT4cA9USMBW42_6IuojrjvQ8HPCM5mNdOAhhDjY8V85ni7IEdGrZe9mkmBOetea1vlOzTe2cEnTD3KLqbyWB2m8YWpYFCAWvfUNOpMdHDnFtPuOwcxk9lPyuMK-EBRUeDe9gJGPeSLYNmhFNOm-knkhmMoMZI2RUGt071Da3dR97l9uKP-JQoI_dI7zVI2bCNntGKYE3kTjfQmgsQ_EpZskhf9uCgOO5E0iqGppbgeITtEnMXLBPlmvie5eeo2T3dC07qjI_dvl8QBDTsmjDaJLxBtxn6AoTjCx1D9xQDNTSQmU0ElVPbKcLQ21-w3VhOTWDV1Zug-JRh3KFr2Rs-YfOiDh4RlWztcJQ230IH0oK8WbE7Mlj9r3rIQEyGu1HxpoNdXwwQ&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 490 1483",
+    "website": "https://stores.tanishq.co.in/store-locator/jewellery-stores/Madhya%20Pradesh/Ujjain/Freeganj-UJN",
+    "opening_hours": [
+      "Monday: 10:30 AM – 8:30 PM",
+      "Tuesday: 10:30 AM – 8:30 PM",
+      "Wednesday: 10:30 AM – 8:30 PM",
+      "Thursday: 10:30 AM – 8:30 PM",
+      "Friday: 10:30 AM – 8:30 PM",
+      "Saturday: 10:30 AM – 8:30 PM",
+      "Sunday: 10:30 AM – 8:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "arnav yadav",
+        "author_url": "https://www.google.com/maps/contrib/113259640720692737843/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX-uG5Lbm2RIHi-t9KlsHmWTZiwchFl1y2HY0rDAd5dQmtOpb9d=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I recently visited the Tanishq Jewellery Showroom in Ujjain, and I must say, it was an exceptional experience. As soon as I stepped into the showroom, I was greeted by the warm and welcoming staff. The ambiance was elegant and sophisticated, perfectly reflecting the Tanishq brand.\n\nThe jewellery collection was stunning, with a wide range of designs to suit various tastes and preferences. From traditional to modern, the pieces were intricately crafted and showcased exceptional workmanship. I was particularly impressed by the 'Mia' collection, which featured beautiful, handcrafted pieces with a focus on comfort and wearability.\n\nWhat truly stood out, however, was the exceptional customer service. The staff was knowledgeable, patient, and helpful, taking the time to understand my preferences and making recommendations accordingly. They also offered me a complimentary cleaning and maintenance service for my purchase, which was a lovely touch.\n\nOverall, my experience at Tanishq Jewellery Showroom in Ujjain was outstanding. The combination of stunning jewellery, excellent customer service, and a welcoming ambiance makes it a must-visit destination for anyone looking for exquisite jewellery in Ujjain. I would highly recommend it to friends and family.\n\nRating: 5/5 stars",
+        "time": 1739811829,
+        "translated": false
+      },
+      {
+        "author_name": "Farida Agarwala",
+        "author_url": "https://www.google.com/maps/contrib/117712668082431637340/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMKHfjfD9FCXlI0t8LrxUvc3iY9ZQhby5pk22S-Sh3QQQPaeRE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "Very good celebration for my bday and nice to thanks Mr Ghandhyam nice chocolate box and nice prefer for tanishq and for special invite this",
+        "time": 1749300108,
+        "translated": false
+      },
+      {
+        "author_name": "Manoj Patidar",
+        "author_url": "https://www.google.com/maps/contrib/116072033822502703055/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSgsgOmc81WgvAe0CnYawDUnKLnn5aP1TxEPtUD8cZ58WCx4YVLQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "We are very happy and prosperous when we visited at tanishq outlet .we feel and satisfied with it's products.\nSpecial thanks to Rahul Malviye ji\nYour service is appreciated.",
+        "time": 1746972115,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:27.847005",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Sai Jewellers Ujjain",
+    "address": "1st Floor, 102, Dr Shayama Prasad Mukherjee Complex, Nanakheda, Mahakal Vanijya, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJUYUMhKR1YzkRg4RJfQGx4fM",
+    "rating": 4.6,
+    "user_ratings_total": 89,
+    "price_level": null,
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1569201,
+    "longitude": 75.78881659999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdr47jKPWDqWHv2ZTU8mwRRX9Z8PXbtq46qBHhUvZcMG3dSOPvgtuSK4ieS7twEHjh8Y6sX-r70Ljr7xm4VF1RdfKjak-zwB0Fbfw54GGf5Kzj9ApW4ts4eLCD0_rYb5yb9G7grxt0G4H1dB0YCWTythcQ2thV7qCig6BjARRRvnT8sdJPdlBz0gzlscMbucYcOZAJTk_SlBgrM53nyIIWIYmf3SpnS_HBvuaTDnbIo2CT_Sgk0eBLeZXbtIeE5ABij489ae-UuBu-Ozsr9gReGrezQMd8RpVOZ8U8-y2VhzEY8fxg&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "099079 16141",
+    "website": "https://sites.google.com/view/saijwellersujjain/home?authuser=0",
+    "opening_hours": [
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM – 8:00 PM",
+      "Friday: 10:00 AM – 8:00 PM",
+      "Saturday: 10:00 AM – 8:00 PM",
+      "Sunday: 10:00 AM – 8:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Dheeraj Gehlot",
+        "author_url": "https://www.google.com/maps/contrib/116085181979327470596/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLz_-UWL5G_taSmGv3k3EgGBCDZMqdJrT8HpdTohUv4RwIrGYo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "I will purchase a jewellery for vicky bhai shop this product quality are very good and like for service",
+        "time": 1747057188,
+        "translated": false
+      },
+      {
+        "author_name": "Sanny Vadiya",
+        "author_url": "https://www.google.com/maps/contrib/102062946158330598648/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-KejOz9rsM1z1kKMfiIopz3ls4xaZ08tepDo4DLrwe4ICOrA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Very nice best collection",
+        "time": 1747057368,
+        "translated": false
+      },
+      {
+        "author_name": "Mohit Patel",
+        "author_url": "https://www.google.com/maps/contrib/115185334765906470470/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0DcsYo6P0rXbJNcLRw9ZaSHxQOItaBv1f8gOCR21JmEx_DicB5A=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "This guy's such a best product.\nBt it's menegment it's like zero.\nNo call reply no what's up reply.no one reply satisfied.\nJust ok ho jayega.etc.\nOr online buyer check ur size then order.i hv order chain bt come in my side then see it's to short.so be careful guys.",
+        "time": 1698575958,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:27.927955",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Jariwala Gems and Jewellery",
+    "address": "Jariwala Market, 89/90, Lakherwadi, Kamri Marg, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJqyVGVzd0YzkRTjhZZCmlPq8",
+    "rating": 4.1,
+    "user_ratings_total": 66,
+    "price_level": null,
+    "types": [
+      "jewelry_store",
+      "finance",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1869451,
+    "longitude": 75.771599,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdBUeOkjuLbceh7hZal_2e6hL_a0VCNkUDu5MYaUFBjCBREqUSiezeuFj4Oh8wWXGkUuEN75de7ewcuOIxaPli9Ciwk2BAtutgWTlL6zNulRshiIdN3XcoDbK0eH38hdw9mi1Xx1nb5uxvdn1Jhxvm-GB0ltRIE8ksqH8Ay6omoB1DHKfQq-AdcVGH5lQFEsprN_Ld6Jt4T1s9gizuypTWnDfiTRG1VuKBVaURABM6WDEnZu9piCJdiG0WjvTbAYd2fUbhpEbISXlUfLToNErVmVwLzjSKsrkThkOY0v9ESqBOJwSLlx_mdwBVVfSxZM_u5ib6S5wG8fqN5cTYi9PD4EIlfUmHVUTGKWenegHV30ml05VkuUJKm8_wlwZ4avyMDo9abLeIw6TMxpzOBNN5R0EB4ozsrdvaT5L7QwLYwNFIgprr3XSNXuQOixPWk-MufRWqIOiymHHOGX5Qz-VMSaKRCM2xKdeipelwRcqTzxs7u&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "091795 15555",
+    "opening_hours": [
+      "Monday: 12:30 – 9:00 PM",
+      "Tuesday: 12:30 – 9:00 PM",
+      "Wednesday: 12:30 – 9:00 PM",
+      "Thursday: 12:30 – 9:00 PM",
+      "Friday: 12:30 – 9:00 PM",
+      "Saturday: 12:30 – 9:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Avin Jain",
+        "author_url": "https://www.google.com/maps/contrib/107446460099567352043/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUx-U-uwzi07SXEFrgCWovVs-BMgsrcD2iqZDIlAwRWd7rT8dxH=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Me and my family have been buying jewellery from Jariwala jewels from last 15+ years. One of the most reliable jewelers, we have never had any issue from their side. Owners are very friendly and always give very favourable suggestion to consumers.\nI can't think of any other shop/jewellers with such integrity and customer service.",
+        "time": 1641150243,
+        "translated": false
+      },
+      {
+        "author_name": "priyanka verma",
+        "author_url": "https://www.google.com/maps/contrib/117096249783011070171/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpE3ATssiebZZyb3D00LX1t4uwhtcmTb436BaQ-4OO0yxBRa0=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "This shop used to be the one stop shop for our jewellery shopping a decade ago. Sadly we were badly fooled. Most of the jewelry bought from them is 18 carat which was said to be 22carat (916 as the owner said). Nothing bought was hallmarked, no certificate. After a decade when I got my jewellery scanned under an X ray scanner I got shock of my life. I learnt a lesson of my life and decided to put this review as I dont want others to get fooled. Beware people!!!",
+        "time": 1640454372,
+        "translated": false
+      },
+      {
+        "author_name": "Sunil Sharma",
+        "author_url": "https://www.google.com/maps/contrib/116945146667993601671/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIe0gVn1TlqmaXPvsyfWc638gaPdgB-fyi615bcMDPi0DXSPw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "Bad god",
+        "time": 1742651361,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:28.014970",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "BlueStone Jewellery Freeganj, Ujjain",
+    "address": "A4, A5, A101, VDS Prime Plaza, Shop No A1, A2, A3, 9/1, Varah Mihir Marg, Madhav Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJm0QXXqp1YzkRg0gMNTI_9jQ",
+    "rating": 4.9,
+    "user_ratings_total": 352,
+    "price_level": null,
+    "types": [
+      "jewelry_store",
+      "finance",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1780965,
+    "longitude": 75.78872419999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpckhOoWMNjaL0-Aw0AvaZUI-_x3Y4DZ0ooA4q-XSZVmcOdyEPDiGu2rADyQ59z2o7bT6D-9zhMCVQhHNBu5eL9T-Y3o8qZM5jvfPG7W-aviX474_uXs_I6RB7rfATQTbza61uI90tHVfhNPjeZBUnErZJOROwNM1fepBps4CKOPQCH6ff3riH17MsIJBWl-0_-yatincltv9JLGVzTkPCid0LmJPHv2-yYd_tP_hbmGNXdjVfgOXeI3MCfq_oT181rAJxRo1MZiQCmWM9GnmNzvHSB_HlAHBUKj2Wj0oxQdshFT054&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "077100 96697",
+    "website": "https://www.bluestone.com/stores/freeganj-ujjain-reslnk-TWpNNQ%3D%3D/catalog.html?utm_source=Google_GMB&utm_medium=GMB_Organic_Store&utm_campaign=GMB_local",
+    "opening_hours": [
+      "Monday: 10:30 AM – 10:00 PM",
+      "Tuesday: 10:30 AM – 10:00 PM",
+      "Wednesday: 10:30 AM – 10:00 PM",
+      "Thursday: 10:30 AM – 10:00 PM",
+      "Friday: 10:30 AM – 10:00 PM",
+      "Saturday: 10:30 AM – 10:00 PM",
+      "Sunday: 10:30 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Adv. Tanishq Gautam",
+        "author_url": "https://www.google.com/maps/contrib/106417935295548409160/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9GsUq26T2n8RQUHd-h3KIr5xZXT83QCgXEW6SOY3vu30jjhH2=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "a month ago",
+        "text": "Had a great experience shopping at Bluestone! Their jewellery is stunning, with a perfect blend of classic and modern styles. The quality is top-notch, and the customer service was fantastic. Highly recommend for anyone looking for beautiful, well-crafted pieces!",
+        "time": 1746606528,
+        "translated": false
+      },
+      {
+        "author_name": "Abhiraj singh Thakur",
+        "author_url": "https://www.google.com/maps/contrib/115695955311393679688/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqMJVsZkXth3-o6a2gnZYSimHOIxoCPcEG-KSi6A-IHTZEQReM=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "This was my first time visiting Ujjain branch, great experience and amazing collection. Pawan has been very helpful and patient throughout. Would definitely visit again",
+        "time": 1737195904,
+        "translated": false
+      },
+      {
+        "author_name": "Pallavi Mishra",
+        "author_url": "https://www.google.com/maps/contrib/110475560133968369036/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7GA2NiZnDzXmAEPSFe-Wb_W4Qit82RlUsRnJ_MHvPbKa1ZJaF=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Nice .. but looking for better designs n less making charges. Nice service",
+        "time": 1750955209,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:28.095483",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Jewellers Swarn Mandir",
+    "address": "374, Janki Bhavan, Bhoj Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ3f5590F0YzkRz7CpG9e74yQ",
+    "rating": 4.1,
+    "user_ratings_total": 40,
+    "price_level": null,
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1783371,
+    "longitude": 75.790874,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpccyCAZ0y1PaVm8oNaWC0uC9kj3AJ-wLVqimG-Z62EhhZK0ROtLukYU_JNbjVaodYZcnTwwOSG5hXpBj3S9XBNYBudlxxoJvT2GLkPPrUVk5F2NQ513I3TiI9p1eepBgu-bQpTVrv59dr5tX_fFg-1gm0NC6FVaBmVmTzaTTG4wEouQeIzWp1BkrXhFX15_IWKLgDg6UWsfPzdsoTCTf9jBs4N0efl_3TqwKcZdq4ws7ArgMdh7rU5dMXgPIKEVVnNE9dlbiUsb9C8H405hm38Rf5blJOqcvCY2T1dT6ZbYa1clh5A&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "084358 75888",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Khushi Verma",
+        "author_url": "https://www.google.com/maps/contrib/113486825047152294673/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLob-7DihxH0g5H0a4wzMS4JjczHbaZHslIGHeSMtzyOOYe1Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "I love this shop very nice people nd nice jewellery👍👍🥰",
+        "time": 1750605994,
+        "translated": false
+      },
+      {
+        "author_name": "Ashish Parekh",
+        "author_url": "https://www.google.com/maps/contrib/101906623337588484664/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLDMyq9EXrX502YlePm0jKWSwUo6vDUPqKGCduZ7kg1gB2x2w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Good design available...in all jewellery\nGood vibes\nFull satisfied",
+        "time": 1750521154,
+        "translated": false
+      },
+      {
+        "author_name": "Dhrajlal Parekh",
+        "author_url": "https://www.google.com/maps/contrib/116697272291489490703/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvkqcjVrz_K_f_t-TwMzYCsDA4fBIA1c5LnVmukY3_2L57=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Good nature\nNice collection",
+        "time": 1750520666,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:28.177381",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "DPK Jewellers",
+    "address": "33, Kshapnak Marg., Desai Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ2Vc1IAB1YzkRjB4gZF7Ws58",
+    "rating": 4.9,
+    "user_ratings_total": 314,
+    "price_level": null,
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.179654,
+    "longitude": 75.7939349,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcwGkdOyPHMZIk3RexYB-ROsLJ_dtd9ktKpS4FqUrKKAhVBPipPdllHnj9npRrw5yvBNDc1t_5JA6M8B1Z-0KIBEjcfsn5bbFU_DGdEJhjsMnNFzuqba7fO-TidrmpN4k2eMpgUOLG5v6NGfVmJ4LL2-2DhdZ2thLoDr8pFRzfXvuqPKCDaqTQ0R8XQpJ4LxNqgFxEvR3Ol6AarLmSNganZdujMqH_DWqPnYKipdC_N3kylB8l8p8Ct3QOI_wlqpmVRzauFRE7xfNfcXI1ktUFUo-9r8eFEWKiBRZrYkaSYwTSSm8GKTx4f4wZet8tp5UPlbGPj26ck9Zj-_NX9z-Z7naleF-cHM4OKoGHsYfDx520u9Pvs-DUY97M-FfoevyZPKPUA-F7Ax9iADuhfjy0acSS1PNANRINZ4kPWUbZjCD0jrpWB_0nV3K4nrAd9EnvUxj8CvdM5ARN1nzlw4XjS5G6WL1AwIItDNcvTXIhkLQ&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: 10:45 AM – 8:30 PM",
+      "Tuesday: 10:45 AM – 8:30 PM",
+      "Wednesday: 10:45 AM – 8:30 PM",
+      "Thursday: 10:45 AM – 8:30 PM",
+      "Friday: 10:45 AM – 8:30 PM",
+      "Saturday: 10:45 AM – 8:30 PM",
+      "Sunday: 10:45 AM – 8:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Rudra Prakash Srivastava",
+        "author_url": "https://www.google.com/maps/contrib/114875073553349247473/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWWPnamhe1et6VF-_uRoZ0FcGCHjrMeVQdo_b9it7AH7bQZlmcv=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "I had an absolutely wonderful experience at this jewelry shop. The collection is stunning, with a perfect blend of traditional and modern designs. and it received so many compliments! The staff was extremely polite, knowledgeable, and helped me choose the right piece within my budget. What I appreciated the most was their transparency regarding quality and pricing, along with proper certification. The packaging was elegant, and the delivery was right on time. I will definitely return for future purchases and highly recommend this shop to anyone looking for high-quality, beautiful jewelry.",
+        "time": 1744538539,
+        "translated": false
+      },
+      {
+        "author_name": "Rishabh Rathore",
+        "author_url": "https://www.google.com/maps/contrib/115350526047148437762/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1asT2mT-Htpo_Yd9Gy_T0SYNUZ-8T1aUnyI4fd-1o8ASkHLQ_eA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 weeks ago",
+        "text": "I had a great experience at DPK Jewellers. They have an excellent collection with flexible purchase policies, which truly encourage customers to shop more. A special mention to Jayshree, who was extremely helpful and knowledgeable. She patiently showed us a wide range of options and ensured all our requirements were fulfilled. Truly commendable service!",
+        "time": 1749202591,
+        "translated": false
+      },
+      {
+        "author_name": "Harshika Roy",
+        "author_url": "https://www.google.com/maps/contrib/116764000355681935437/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI1h89-K09Zd3-j81duhTMIv0twD2fbxA6YbveMLB-aUcLFHQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Ragini: I have visited first time here and really impressed by the service provided to us. Ragini was really supportive during our purchase and suggest very well as per our requirements. Must visit as collections are really nice and good. Rate is also very reasonable.",
+        "time": 1748596869,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:28.259949",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "VISHI JEWELS",
+    "address": "124 / B Santram Sindhi Colony, Alakhdham Nagar Rd, opposite shivalay, Gordhandham, Madhya Pradesh 456010, India",
+    "place_id": "ChIJse6Jlmh0YzkRPyCZKRIkamQ",
+    "rating": 4.7,
+    "user_ratings_total": 115,
+    "price_level": null,
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1717393,
+    "longitude": 75.7877283,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeBtz5HMjJGl3ZBW-nfc23xKk2_EdU4tVXJFMJCs_h-BfkLXGSk6eoRxW7n4H2g4pIAQKuE355xjL83U9rYi6LKOeTtlctVwIqRocp5gpshufb0JsuSYTx5_YGwtIIoDnvAd0b9QvZzuMvz-MDWfHaumMeiR-uiI3fM2fHXiGfejBkeiGX9WSZyYh8KS0P_nV9SRnZRk7RGyBCIzkfTfKcB8mMktClfCSlpAmYra0wZ_-GC6VZsdEqq4gxx3AkTEQspn1nYSjOfMJ1-9VO1OjUO4bc4T7SxoyMweMl2qqiwEcyQPoc&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "097526 68889",
+    "opening_hours": [
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 9:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: 10:00 AM – 9:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Aakash Arje",
+        "author_url": "https://www.google.com/maps/contrib/103395003102172736001/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLsHuvA7d5Ml3bnUblur2qQ9Svoefpt7RWlKFwXPR8-8lMBpq8i=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Best quality chains and pendant till yet I've received from vishi jewels. Ordered from Pune, Maharashtra. I'd looking forward for more to order.\n\nBelieve me you'll not find any in other stores as the vishi jewels provide you best quality products.\n\nThank you.",
+        "time": 1562135123,
+        "translated": false
+      },
+      {
+        "author_name": "Varnika Atrey",
+        "author_url": "https://www.google.com/maps/contrib/106118264566862398008/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtfSthdi3kG7QFfn9CZ0uFLj4TYcdut6uuhq48cA-7R-WWxLhG=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "I ordered mangalsutra from vishi jewels nd its one of the best purchases i made, it looks completely like gold and polishing on mangalsutra is of best quality,also their customer service is great as well.. I will definitely order more from vishi jewels in future.",
+        "time": 1573046681,
+        "translated": false
+      },
+      {
+        "author_name": "ibrahim saifee",
+        "author_url": "https://www.google.com/maps/contrib/100875368902558898670/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqiDUuyDpwLTDsmLLZzrkWIEjY7Pm80vaUnDR07IWyTTN7Q5k=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "My best friend suggested me to visit vishi bhai shop and frankly I wasn't disappointed with product vishi bhai had on his outlet not bragging to much but because of his suggestion my mum was really happy with the bangles vishi bhai suggested she had tears of happiness in his eyes thank u vishi bhai for this lovely collection u have",
+        "time": 1688222746,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:28.364968",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Shri Shyam Jewellers - Ujjain - Freeganj",
+    "address": "31, Shanku Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ6Y1ovtV1YzkRaRbE4mycOKc",
+    "rating": 4.9,
+    "user_ratings_total": 47,
+    "price_level": null,
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1785305,
+    "longitude": 75.789422,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdDnKUnVP_j8S1HKXYyVMdvHR2Rpmv_P4m-j-pddAZo8kTnd4j1lOlDcZUwIfTwO8OjDdIX_qljQ_LKwudrn5W09xXdnGELxTeeQaCBlz53gSnh8As5oUyegR6Fg3o-J8mv_fQu61j3viDL7T-h4VH_mTWfaIvzo0UFchq0rVzUTRJzFKWv7f_YRyOxTSfK-tv_FrVa0n4hWGgcAIOEl_lIhlmUwXfak9kzaA6-T2ZPDwo2jquAtnkOzyEn-X8qhbQJXWEAMDdV2mQIScRa6-Z5T1zPHEfdVRNRnNHCBuTDUQo4Npe_n2hGYVMiltwjVdrVEucGKd7wx7Al3UxFDLZ5jvbwkb-WW_99n8ooFzlGybyoRIxcNSqv-2r5IddRYrvrEEOgyVmOpojJX2bT7_9HZPW_oiPy-DYYQwkG3zeZ6J15DO1TeqkSIr_AkzumeBGYGI4EQ9IWP61KMnfwNZ8CLLmdYmP9hCUdWppLAODl-g&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "099933 70270",
+    "website": "https://www.instagram.com/shrishyamjewellers.ujjain",
+    "opening_hours": [
+      "Monday: 10:30 AM – 8:30 PM",
+      "Tuesday: 10:30 AM – 8:30 PM",
+      "Wednesday: 10:30 AM – 8:30 PM",
+      "Thursday: 10:30 AM – 8:30 PM",
+      "Friday: 10:30 AM – 8:30 PM",
+      "Saturday: 10:30 AM – 8:30 PM",
+      "Sunday: 10:30 AM – 8:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Shivam Panchal",
+        "author_url": "https://www.google.com/maps/contrib/114527536655490241012/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLgKOm07YjetFAbJthYYO8FGkEnRDqT75GuP22qBDeziYTkmA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "ChatGPT\n\nLog in\nYou said:\nI want a very good review for my friend gold and silver jewellery shop shri shyam jewellers at ujjain\nChatGPT said:\nSure! Here's a thoughtful review for your friend's jewelry shop:\n\nShri Shyam Jewellers - Ujjain\n⭐️⭐️⭐️⭐️⭐️\n\nI had the pleasure of visiting Shri Shyam Jewellers in Ujjain, and I must say, it was an exceptional experience! The store offers a stunning collection of gold and silver jewelry that is truly one of a kind. Whether you're looking for something traditional, contemporary, or even custom-designed, the range here has something for every taste and occasion.\n\nWhat really sets Shri Shyam Jewellers apart is their impeccable customer service. The staff is friendly, professional, and highly knowledgeable. They took the time to understand my preferences and helped me find the perfect pieces, making the entire shopping experience smooth and enjoyable.\n\nThe quality of the jewelry is top-notch, and you can tell that they only use the finest materials. The craftsmanship is impeccable, and each piece shines with elegance and durability. Plus, their transparent pricing ensures that you're getting great value for your money.\n\nIf you're in Ujjain and looking for beautiful gold and silver jewelry, I highly recommend Shri Shyam Jewellers. You won't be disappointed!",
+        "time": 1744172167,
+        "translated": false
+      },
+      {
+        "author_name": "Prabhu PRERNA",
+        "author_url": "https://www.google.com/maps/contrib/104476410518461456213/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpF2wVdig4YlIrIcJpoeZyFLLlNUE5hVU-3hcFeG1XYE6k4Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Best ear piercing experience. The staff pierced so smoothly that, it was not at all pain. The owner and staff are very polite and cooperative. Thank you",
+        "time": 1734708063,
+        "translated": false
+      },
+      {
+        "author_name": "Deepika Malviya",
+        "author_url": "https://www.google.com/maps/contrib/102651145407775853283/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhafU65Euaz12005Xv9cb7XQEZvuDMB71sSteNjA7HSM-yEUGY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Vishakha is doing a great job and she assist in a very proper manner. We are very comfortable with her.",
+        "time": 1743669043,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:28.473315",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Fashion wala Imitation / Artificial jewellery",
+    "address": "1, smart trade Center, near gurudwara, near RB zone, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJJ8aarh91YzkRyKbYJutn_Zw",
+    "rating": 4.9,
+    "user_ratings_total": 70,
+    "price_level": null,
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1779261,
+    "longitude": 75.7918954,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpd4eiIH0xJUQdE_ncBYwGZUKKLk_soOUIjtyPkJm_xqEZDbXRmdaOfAdLAZjsdMlTo73oFe_Knd9B3fO7Lgg0sOfMNndLxJnHGC9dPTWmQORK9ubKjrPhMC5UMjn3I9yTTs2ZoZ7wfoYZ4759GN24ucve_UEePEeNM85WlyJjsWLh4c9aohuJAHmquwi2BHQ5j7Gp39tfRV5-qCl-2NQB_btx9w8riTx3j-0d-F9-p5hKw-jdWKLRwS8uiM0yry90MIdxf7XfFISIiA2mXa2xwiq69XtGeilQD1HgxPU1otES1WH8Y&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "website": "https://www.instagram.com/fashionwalaujjain?igsh=MTNlbnc4MDhpZ3cxNA==",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 5:00 – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "sakshi ghadge",
+        "author_url": "https://www.google.com/maps/contrib/107936860906470156687/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlqPPXn784EIvo1dHettIRi0cMS-vKEs9nhWO36OyIHz7pOMUDoA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "12 months ago",
+        "text": "It was really a good experience to shop at Fashionwala. They have such an amazing trending collection. Sabyasachi replicas were gorgeous and also there are variety of oxidized and modern jewellery which is unique. Owner of the shop are also very co operative , they suggest best designs according to your likes. MUST VISIT!!!!",
+        "time": 1720539653,
+        "translated": false
+      },
+      {
+        "author_name": "Kunal Patel",
+        "author_url": "https://www.google.com/maps/contrib/105250742012623804933/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3gP7sfjkiJEXkuLQHTUdeHxXAUxcoPTtVBMOSxCrjzPh2_cWr=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Jay shree Mahakal\nI am so happy With the quality they offer",
+        "time": 1736234620,
+        "translated": false
+      },
+      {
+        "author_name": "pooja verma",
+        "author_url": "https://www.google.com/maps/contrib/103696367657746370263/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXohoX7Alxnkj8ArWrKh0Id1tAd99oleRzvMIQLPUrtQDQl2Z82yg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Nice collection. Visit for unique designs and good quality jewellery.",
+        "time": 1735129241,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:28.556580",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "R S JEWELS",
+    "address": "25, DWARKAMAI TOWER, SHAHID PARK, Varruchi Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJpZstlrt1YzkRTiqGG-vkPzk",
+    "rating": 4,
+    "user_ratings_total": 3,
+    "price_level": null,
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1786653,
+    "longitude": 75.792051,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeDA-6cF1r9Tpq1EsrDTOhW1ZTQOqpoRUZUn28xMRCzVMENKhbc9G7VmipbaxuUrDnvdE5bxlKAV_PELVJPBoLywW9zXkd77RGmJoUkJ-MgED9N0hNRZPH96lA3lHgd8u54h4ulNst1lZdKLj8YHYXqSMl7ZictIgGiEhphNLTtVNg4zXjlHEmGejH0rQzXIcJ5Pcj1C2-K-0bmNXdwpHU2mRZIKLoAZH59YHBSlE3Gl54ZA7e9eKrnFnFOs5S6bzdI6ob9zRTGphNAf3h6Zw-ErXsb7EUEZP2qFrfQZz7t4fGQoCw&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "070005 60372",
+    "opening_hours": [
+      "Monday: 11:00 AM – 8:30 PM",
+      "Tuesday: 11:00 AM – 8:30 PM",
+      "Wednesday: 11:00 AM – 8:30 PM",
+      "Thursday: 11:00 AM – 8:30 PM",
+      "Friday: 11:00 AM – 8:30 PM",
+      "Saturday: 11:00 AM – 8:30 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Vijay Chouhan",
+        "author_url": "https://www.google.com/maps/contrib/111666653921993307033/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6wC-xQ-cx-Re1p2GDIhRFmF2NueRh9-_cB2cB6yoiQ-GZbA=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "4 months ago",
+        "text": "Worst experience ever The jewelry lost its shine within a few days, and they refused to help.",
+        "time": 1740852407,
+        "translated": false
+      },
+      {
+        "author_name": "Status king off dagar",
+        "author_url": "https://www.google.com/maps/contrib/100728919337781935323/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqYmbnAcbfbk1psQ3FynJjTJQ9URaitkm0h33smeJL6BHuUEQf=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "",
+        "time": 1659105378,
+        "translated": false
+      },
+      {
+        "author_name": "Bhavna Soni",
+        "author_url": "https://www.google.com/maps/contrib/109228630253697885291/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhP7a2M_RM49nFwV_VKWslegoShUPNTMlVAEYvkYvykEPccPw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "",
+        "time": 1612602298,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:28.633822",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Sajdhaj Jewellers",
+    "address": "97, Lakherwadi, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJhZpyiwl1YzkR7nMN1EiYyB8",
+    "rating": 4.9,
+    "user_ratings_total": 218,
+    "price_level": null,
+    "types": [
+      "jewelry_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1867201,
+    "longitude": 75.7727127,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfCWjyX89e5VWhJHY6VIwvcbuhJ3hPf_yVkJhaJdmxYHIRZYRqUWSTQthgZ-6lv_xouiLwVeex-xVgRtRsli-eUwfXFTrWbOVz1-BKhxSTsHtLPjyMOaDz1TPCGaVe7Nw3XJ9d-YQQ6-HfkXZGcYyPHQwiRDqheCtISXPzfdDe8EXIOaN-HwUHUAMd1V7Tgkx3cLNOQRbEe29MhZXuNtLUIHSw64KLYsLTCWhVXqYfqYG-mW4jiWXRgMFgZXBNeYIlvHF_USGdOCMCTbrq1djde-HuIm3qWSl7qVaeOffbLDwqDrB4&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "076971 47044",
+    "opening_hours": [
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 9:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: 1:00 – 7:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Tarun Kumar Sharma",
+        "author_url": "https://www.google.com/maps/contrib/104938549997865544909/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdjNY35KbLkoeJ8oN-DlIgkRLLILNvicfhn5z52mxsCv5K-au2rw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "I recently rented my wedding Sherwani from Sajdhaj dresses, and I had an excellent experience. The selection was stunning, with a wide range of styles and sizes to choose from. The dress arrived on time, beautifully packaged, and in perfect condition. The quality exceeded my expectations, Bhupesh Ji was very responsive and helpful throughout the process. Renting a wedding dress was a great option for me, and I would highly recommend this supplier to anyone looking for a hassle-free, affordable, and stunning Sherwani for their big day.",
+        "time": 1737019775,
+        "translated": false
+      },
+      {
+        "author_name": "Kushagra Bhatnagar",
+        "author_url": "https://www.google.com/maps/contrib/107987188972390030845/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBAYLxbOFqjmJ_9-5ybBT8Rqm_MMrB1AhJUwS-7E220LL9IQgf=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "They have the best collection and varieties of product to offer at a very reasonable price must go",
+        "time": 1713552737,
+        "translated": false
+      },
+      {
+        "author_name": "Palash Pingle",
+        "author_url": "https://www.google.com/maps/contrib/114104180363097962836/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGCZpCwirinqvyskzsy7YswKlBARunXf5iCL3rVcFwAY5zdq2B_w=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "It's one of the few places in ujjain which provides quality and fashionable clothes on rent.. which includes western wear and traditionals for all occasions. They also provide other kinds of accessories and jewelleries used in party functions and marriage. You can always try to negotiate for the rent.. They consider it😜",
+        "time": 1675268610,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:28.781659",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "CaratLane Jewellery Ujjain, Madhya Pradesh",
+    "address": "15, Bhoj Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJ34LmxSh1YzkRgxVnaYjkF3Y",
+    "rating": 5,
+    "user_ratings_total": 279,
+    "price_level": null,
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1784736,
+    "longitude": 75.7928637,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcOgWs2pGGsMnbSc6_GThl2uwN7zrH8UZy2ZvSymhEjgIxS_pVlCwBzQ_sqFr2q26-OQcAvpYJSBqykv4e58EDpOwxlnoeblhYtXsjywBhGHTjvkpKtoVjtLCRkFUDbV97NBPhPJu71BamPSVK_u3qdfO_l_35zIuoXqK7ipN_Hxhi29BTvsXG0Piunb2F3VVcqBbmC8-5DE-DKccVJGv_BCSXN8Jwwc_p3b3upjN4O9cO5f5NOPoFrKjClyf0pFM6At_mkJ6Yhek3SZ1Q-VoOAq18t8M65zztoQDrs8cWlwbKHA-OB1rwsxQvFV7Ya2DUKaJEotmDQjFgv8_erBxfmgc8IMOoqFzav-tXIVOEOov6rHbbJWY84dxuBQzrHc42g8T2FNesEGJ1P3wwi5wD7_Axk3E7NfBDhIT-NeYbZBvdowgyEFcrxqszw4RQuIpJEqf9VaEa5FizVOKsOJUa-2AgygMXCCulxqwuUug-btA-v&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "062697 39000",
+    "website": "https://www.caratlane.com/",
+    "opening_hours": [
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Gaurav Verma",
+        "author_url": "https://www.google.com/maps/contrib/114691553803235901343/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJaTg78CqfOcTU7e4fYk-TWGhFjjt6zhOmTW5v6iyqEnrdgQQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "I had a fantastic experience at the CaratLane store! The collection was stunning, and the service was top-notch. A special shoutout to Muskan for her patience, knowledge, and warm hospitality—she made my shopping experience truly delightful. Highly recommend this store for anyone looking for beautiful jewelry and excellent customer service!\"🥰",
+        "time": 1743421995,
+        "translated": false
+      },
+      {
+        "author_name": "Abhay Verma",
+        "author_url": "https://www.google.com/maps/contrib/111744953201619534990/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFDHX71MKOLPfh0Cxgn1t962rKAYKn_vxW1nPcE-WODR__-7Q_=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Ayushi was extremely good, she has a very excellent costumer skills and she is an asset to the company. Thanks Ayushi for your service.",
+        "time": 1743154949,
+        "translated": false
+      },
+      {
+        "author_name": "Lakshya Dixit",
+        "author_url": "https://www.google.com/maps/contrib/116025116969802216729/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2NiDu1BNCPMiHeaeTJHYziJF4ZIanMof00GBCRqvjK1g7Uf1I=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Staff is really helpful and patient, a good atmosphere.\nAyushi Ma’am Helped me in sorting gift for my mom she’s really kind.\nMust Visit!",
+        "time": 1739538037,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:28.869247",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "SAIFUDDIN AND SONS JEWELLERS",
+    "address": "23/2, Kamri Marg, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJnVlCGYd1YzkRRWpsjsWalXI",
+    "rating": 4.9,
+    "user_ratings_total": 29,
+    "price_level": null,
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1891515,
+    "longitude": 75.7714586,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeA1w0vx9ifDl7If22fUiBRMZvxB6x1jPWSf1eGasdgaOjZVZWaP86ASEJyIyyUE3mjnOj9-SbZHAf0klD1gFjeF28mFic2lHbZ8xzKMyjgVQLqzIf9m-Gj2MC3X8Yu6tMxW1kpkU5OE0aEXw_2ELCgJtzFkbMSQdmarGUvkH4r7ExR99KwAXeExLcwirmK6beaphlPmULJ7rZfbBYf9o5Xe0zdR83fVPvWDK9bLK3OzpMMWIpgCyW08zFzaYrf2HPzntziD1qaQ2i5WFps_86EhAzf_p7eh8Fw7i0eai2DSK-_ZMw&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "096694 07252",
+    "website": "http://www.saifuddinandsons.com/",
+    "opening_hours": [
+      "Monday: 10:30 AM – 8:30 PM",
+      "Tuesday: 10:30 AM – 8:30 PM",
+      "Wednesday: 10:30 AM – 8:30 PM",
+      "Thursday: 10:30 AM – 8:30 PM",
+      "Friday: 10:30 AM – 8:30 PM",
+      "Saturday: 10:30 AM – 8:30 PM",
+      "Sunday: 10:30 AM – 8:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Zainab Badshah",
+        "author_url": "https://www.google.com/maps/contrib/108769867437408443731/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtkzOss0POHWGpQPzo-UbKWfdaxfEo0_MXe_vjsDBtUMBhpZ7j=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Bhai Your gold is looking nice i bought three things in your shop and all three are looking very beautiful and awsome they i have wear",
+        "time": 1748788303,
+        "translated": false
+      },
+      {
+        "author_name": "Batul Bandookwala",
+        "author_url": "https://www.google.com/maps/contrib/113719013900770888236/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIGcjaxPs3bm0JfxJSZoyMx_z_l2tlZt1yNeABJ7Pa7_Yjl_w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "update your HOARD with their beautiful designs...\nabsolutely stunning collection 🫶",
+        "time": 1743767125,
+        "translated": false
+      },
+      {
+        "author_name": "khozema attar",
+        "author_url": "https://www.google.com/maps/contrib/102806412874613751543/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEjkEtvE2hxmtKxUVLAklg4G_YXkBErtTvY_yHm0YnCn0hi0pyIg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Variety of designs available for women and men based on their requirements.\nOne stop shop for gold, silver, diamond and different types of stones.\nOwner and staff’s behaviour is wonderful as well!\nRecommended if you are looking to buy jewellery in ujjain!",
+        "time": 1733323987,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:28.961159",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Nihar Novelty Corner - best jwellery shop in ujjain",
+    "address": "202, Nai Peth, Kamri Marg, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJw9IW8Dl0YzkRaaBToSCr0Cw",
+    "rating": 4.7,
+    "user_ratings_total": 3,
+    "price_level": null,
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1870305,
+    "longitude": 75.7728891,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdNWdkZlPWwzXh2txxB5WJJj8pBvwSwvhUZimslbRzKlC_vr-14gjEx9jrTikk6a21bG3qaBcTk__uZz5B8gtVpicKAdjR2t7M76ODeyRF-8DtkppOjuehz9Z5i7nrHYuZhRCNjJmI3ZCTR9H0NIx0QQA2w6kDweN8XHKytaYX3i1Ztbr0pHLaJxJWam6ANQLxkhymb1MLdB2YX-_qXwJALPhK4RY5ALa9FZidjxh-15eEZzzG0jKn9rzEbo1prsuPVjvWNxajU5bL1ob3OCLRfzBZ_N-NNcbcuBtDf0qnpL5cfN3y1Vf4IsL8a6ORzvjQi0Dwk1VO7YRZ-xOkTpjQDicdbWLWAGiOnTYL6Ff78l6UYnemH4E7ypjZKwFd1sddldDcMvyyNLK489OgBbupT3mLOfJaYdZPpx0kfkLRSwygqlq7fgwJ_soyR-mdnCXnTBgAh1M7MSga4b3ojDFMsziRL-qiklOFjoWm63auWnRvX&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "097134 10009",
+    "opening_hours": [
+      "Monday: 10:00 AM – 11:00 PM",
+      "Tuesday: 10:00 AM – 11:00 PM",
+      "Wednesday: 10:00 AM – 11:00 PM",
+      "Thursday: 10:00 AM – 11:00 PM",
+      "Friday: 10:00 AM – 11:00 PM",
+      "Saturday: 10:00 AM – 11:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Rajesh Jain",
+        "author_url": "https://www.google.com/maps/contrib/118150152407445794267/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6QZ8JSM3-B2swpKnRtn3AQG1UCtC_tPUJ3tRzf7M5yn7C_w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "(1)Quality products\n(2) Fix rate\n(3)After sale service is good",
+        "time": 1684390453,
+        "translated": false
+      },
+      {
+        "author_name": "Rishabh Saklecha",
+        "author_url": "https://www.google.com/maps/contrib/112174225246816903657/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTNlA6UWMEWrgRXxawokkni_F5Ap23qaxv664747UEuHacep4=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "7 years ago",
+        "text": "Quality product in reasonable price..\nAfter sale services so good.\nCustomer satisfaction on top.",
+        "time": 1529043524,
+        "translated": false
+      },
+      {
+        "author_name": "shubham arya",
+        "author_url": "https://www.google.com/maps/contrib/107251820140692976505/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHOKT4R32j1z27-GWgTrs7q2rMNpuzydqfkV1i6tWQL3UBaaG6=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "",
+        "time": 1616067478,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:29.046954",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Jariwala Jewels - Ujjain - Lakherwadi",
+    "address": "Lakherwadi, Kamri Marg, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJY28WLi51YzkRjCU0GuU8ZQs",
+    "rating": 4.9,
+    "user_ratings_total": 86,
+    "price_level": null,
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1868984,
+    "longitude": 75.7717945,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcTS0ruCUI2G0fBqhVW3EvJZBUzJSjQQ5cx2xbTDfpO0ZziYGIcilqEGVobKnExDgmDj6DDaGPrk6-JBurO4zr7euw-nVSwy5uW7W1sanKsi2HGN6Ka0sXYt1KlACbFJ20xGlV0SThMVAg6v_YJHY50JwMuOvthJ0bSY3LZau9xvGVbaHxCZYKBPF_ztOaYdvvjKaaZR_1ez6KbZpYKtNYx5rOWlzzjMyDsTTaSQPpzPUFVQfwPziqn6ifhnWylhKfxdq7_C_5x6OmMOmcuou2ddR085rNAGtisPGZcPY1bATRN-g8&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "098260 21234",
+    "website": "https://jariwalajewels.com/",
+    "opening_hours": [
+      "Monday: 12:30 – 9:30 PM",
+      "Tuesday: 12:30 – 9:30 PM",
+      "Wednesday: 12:30 – 9:30 PM",
+      "Thursday: 12:30 – 9:30 PM",
+      "Friday: 12:30 – 9:30 PM",
+      "Saturday: 12:30 – 9:30 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "VIKASH GOUR",
+        "author_url": "https://www.google.com/maps/contrib/117752162643606694786/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxAOdDjohS_PXt-sXb62wfthzQiBoa7uIHJI8cIURZcDSGf7Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "6 months ago",
+        "text": "Jariwala Jewels is the best jewellery shop in Ujjain Their gold jewellery collection is stunning, and each piece is certified for quality. If you’re looking for BIS-certified jewellery or unique designs, this is the top jewellery shop in Ujjain to visit. Highly recommended",
+        "time": 1735235212,
+        "translated": false
+      },
+      {
+        "author_name": "Aditya Pratap Singh Bhadoriya",
+        "author_url": "https://www.google.com/maps/contrib/113311686706145835683/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKuyoWmeRtDteoXUYFkAxBtzaEraFO3O1D9XlJ8ka45BX5Keh0=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "4 months ago",
+        "text": "The showroom is beautifully designed, and the collection is stunning. I found exactly what I was looking for, thanks to the helpful and friendly staff. They took the time to understand my preferences and guided me through their collection. The quality of the jewelry is exceptional, and I couldn't be happier with my purchase. I'll definitely be coming back for more!\n- Beautiful showroom\n- Exceptional quality\n- Friendly and helpful staff\n\n*Cons*\n- Parking can be a challenge during peak hours",
+        "time": 1739162672,
+        "translated": false
+      },
+      {
+        "author_name": "Shrinkhala Sharma",
+        "author_url": "https://www.google.com/maps/contrib/112589065943677024549/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKsOlKJge9Yb9TCd9eU_L_VTdQfYkSGGJXewmpoLDPRGdCYMw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Jariwala Jewels offers an exceptional range of finely crafted jewelry with a strong emphasis on quality and design. The store features a beautiful collection of traditional and contemporary pieces, ideal for various occasions. Highly recommended for fine, expertly crafted pieces.",
+        "time": 1742315575,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:29.150411",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "New ShreeNath Jewellers",
+    "address": "13, Shanku Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJUdjNAGx0YzkRlqYAzK4f38I",
+    "rating": 4.3,
+    "user_ratings_total": 13,
+    "price_level": null,
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1780341,
+    "longitude": 75.78959429999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdm3P4BcNVj6SR-5G1Hq32pM2YtYUNGJ2mDYpgRJCCcuQV5gSRiHPq1d4GPBo0wH2YXw8L84mXniMOS02N1tVb-WF8lmqLJcF2VswBiPvFV5-MB5HWVRGyLp_jG0XC03UOb_sI4jaGxDWXzEOKqCEOkBkvy6YC6pK37UXnzZRp3clUvCS5XQuOSUvYaOOCQvQwQhRnwKnQKbxSFUUi98lUov92WoHxJmztmnjdFmVFAOzoOAH6NtSFTJUSqTjrAYv4DOtBe8n_kOhelKfZdYPGjdqy7fZt4p3wdGE6ucdKKPpgKb1s&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "075663 11010",
+    "opening_hours": [
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Balaji information B i",
+        "author_url": "https://www.google.com/maps/contrib/101927011739037728863/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULHA8geJ54vUY6dZk68Prf0IjYiaAT7cZL_2i1Qd6qi16cECvH=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Here the jewelery is very beautiful beautiful creation here come buy from here it is cheap and good here you will get quality",
+        "time": 1689251239,
+        "translated": false
+      },
+      {
+        "author_name": "Bhavik Shah",
+        "author_url": "https://www.google.com/maps/contrib/107532995851678375823/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmWNS06KYZTgynrI5ggYj4Vy9oUM3rBnN_MA4C8fGB3hByJkkWwA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Best jewellery shop in Ujjain. If you are searching for the latest trend in gold. This is the only place where you will get thousands of varieties...",
+        "time": 1704826335,
+        "translated": false
+      },
+      {
+        "author_name": "prashant pandey",
+        "author_url": "https://www.google.com/maps/contrib/100808750606553838433/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIV8Q29W8JXpihezqKEI0ks9Bs68jjh4PaossMLvRazMNIDdw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "When we buy any jewellery from Shrinath then they include Mina or any stone in jewellery actual price but while exchanging it they deduct that stone price from actual price and also staff behaviour was not good.",
+        "time": 1704544595,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:29.235824",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Shrangarika Art Jewellery",
+    "address": "Shop No, 39, Kamla Nehru Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJW3fLlW50YzkRqomYnvwiXqg",
+    "rating": 4.9,
+    "user_ratings_total": 8,
+    "price_level": null,
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.176556,
+    "longitude": 75.7909854,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcj4ukM5pUS_OV30PbLha9JlboT3DAPJMXrHcnM_WYtAn8DW6Kt52mAFs75bMjI1DX_aCQxayuqDcnQKftLnSN09ya0o9kNeoFYn1_-zDTf4nkZeGI9iMP7ckLoESqGawzH_-G2nOM1-YS3vpGrfwslDDpbDoleNCCn9F7fIIoSvuEAXPv4LWccA9Tg6d8YasZDFBBG7Wm7Rk0h_Z1wnn2l8R7DRQo9qclOJEct7vkDZPOEXtew-diQ-kf5XHDOZh0HaH-SYPHVS_VfYrRpEgfC79ZCSgWtXQeyo68i1SiuPMQuPG0&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "099931 30094",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Sakshi Sethi",
+        "author_url": "https://www.google.com/maps/contrib/102183946624389707589/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMpnlw1KtjAB9n6aYzWnsJqV11GWvac_k57bbq72p1HYz3IA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Mind blowing collection..  Trending jewellery options.. vintage-inspired.. Tickle the emotions of buyer's... One STOP shop.. Great hospitality, amazing experience..😍✌️🤘",
+        "time": 1618157958,
+        "translated": false
+      },
+      {
+        "author_name": "One Plus6",
+        "author_url": "https://www.google.com/maps/contrib/111190660110746259835/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJevx_NhvT5rt_p2XRfB5XV4y54TFX719haWLPphhxczui3mQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Amazing collection and great service. The owners are very welcoming and cordial. Definitely, the best stop in the city for jewellery.",
+        "time": 1618157303,
+        "translated": false
+      },
+      {
+        "author_name": "Yashika jain",
+        "author_url": "https://www.google.com/maps/contrib/101319433266601352736/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1vdB1ugxxjX1ko9KOCeO18CE4CXVjPBccRt31KwriMArvt_Hj=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Beautiful options. Great variety.",
+        "time": 1615563990,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:29.315535",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Krishna Palace Ujjain - Jewelry, Cosmetics, & Undergarments",
+    "address": "Krishna Palace, Famous Aloo Bada Ka Corner, Metro Talkies Road, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJq4uHPLF1YzkR-qkloc3_vUc",
+    "rating": 5,
+    "user_ratings_total": 3,
+    "price_level": null,
+    "types": [
+      "jewelry_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1883231,
+    "longitude": 75.7793239,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeYU5AeLtdy4Ldiy7QB8xyucAPWgKDq7skCeDg0NtE3e6IPJ4aTSZZF_uz8Iu87G4uu49AsBITGaOxKSa29yTYnnAnTIbJt7QBfENRrWhB63e_XvAgV8qtOKCVl4yvO40D_b1shSHZhpNnAFToPMCEIXAVeQ7ldf_O9wL3yf0YMDSx4HImubqsYXyLQXjqo24blBSkCXC_Qeq3ARUEqufPLDl18FlnEXmql4324nwovJUWu1vz94Rrh0bbvVRJRGdoCCktt66STOF0qBC2AgdOQ05KGJoFDs6v4eX60wSK87IgfMNY&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "088158 60177",
+    "website": "https://instagram.com/krishnapalaceujjain",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Shruti Soni",
+        "author_url": "https://www.google.com/maps/contrib/107029099799153362881/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2i--aSI3_TCZeiajoRgQfgjXwKxeE9hM_-5_pzsuOAQy34Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "I recently visited Krishna Palace in Ujjain to complete my wedding shopping, and it was the perfect choice. From beautiful handmade necklaces and elegant bangles to quality nail paints, handbags, undergarments, night suits, and more, I found everything I needed in one place. The variety and quality of products at Krishna Palace are outstanding, making it the ideal destination for bridal shopping in Ujjain. Highly recommend Krishna Palace for those seeking a diverse selection of wedding essentials and premium products. A wonderful shopping experience!",
+        "time": 1729939501,
+        "translated": false
+      },
+      {
+        "author_name": "aayushi pophalkar",
+        "author_url": "https://www.google.com/maps/contrib/117459608634593625243/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpfSqjZhmxd93JB5YH0yv92j7jDKY84GzF5yio5xcpDpeZfPU=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Purchased Gown, Undergarments, and Beauty Products\n\nKrishna Palace is my go-to store for all my fashion and beauty needs. I recently purchased a gorgeous gown, undergarments, and some beauty products, and I’m extremely happy with the quality. The range of products they offer is amazing, and the prices are very reasonable. The staff is friendly and provides excellent customer service. Whether you’re looking for fashionable gowns, comfortable undergarments, or top-quality cosmetics, Krishna Palace has it all! Highly recommended for anyone in Ujjain looking for great products and an overall satisfying shopping experience.",
+        "time": 1729420222,
+        "translated": false
+      },
+      {
+        "author_name": "Sakshi Soni",
+        "author_url": "https://www.google.com/maps/contrib/116688897908633202948/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVklWOS-5nEzdzvPTGFZv5sVZ27gVX6aecn2cSlW42e2PPvuvfB=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Krishna Palace is my go-to for all things fashion and beauty! From undergarments and cosmetics to perfumes and jewelry, I found everything I needed in one place. They even have fun accessories like scrunchies. Highly recommended for anyone in Ujjain looking for a one-stop shop for quality beauty and fashion essentials!",
+        "time": 1729939935,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:29.401005",
+    "source": "google_maps_api",
+    "data_type": "real"
+  }
+]

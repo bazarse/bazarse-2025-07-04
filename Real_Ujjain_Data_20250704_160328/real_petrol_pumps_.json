@@ -1,0 +1,1337 @@
+[
+  {
+    "name": "IndianOil",
+    "address": "Ujjain Bypass road, Hari Phatak Over Bridge, Keshav Nagar, Ujjain, Sawara Khedi, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ2zre51p0YzkRyadT5lTfNAo",
+    "rating": 3.9,
+    "user_ratings_total": 434,
+    "price_level": null,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1689259,
+    "longitude": 75.7743151,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdXAyX8Il_qAtsLxmAXXLAYrlDm4UgMH_IFgxBl3xBpRiHAZCI--I9fzhPB4XX9y1mrCnduHWFKDafx-EW9_9_Db1MLnu2r7J93R8AhDkNbBg85xmQtL1CsVzP_RT2NzrwvwW2zEGU1d0aGxrZrq7XM5xHewedB5MXBi-0gNBdSlZH3T2ygGoe4RH9IAGBViTf9Mg_eTdPSzVSXbmi33A3VMffbhH3CTNY7FmCT-7Dq3uWR68tY7V3ecF2ou8Yrd4yPfY9_46YyxpbVVMQsrcAOSvX4dbseGyHYesKXayECdgbbvULli5trhMXtu4LnROk5it72B258gP4fpxXXmYgxR7SwdGAPDyPyDc17M_3LdRAkDH2ODqScObOCGMjH8-hoWHRx-9unEdDC12EvY1qHEPli6J0iFeRpyvRNm0EJxkLNW4kc6LZVxaONQufT6xFdpymX0aqDQYuS-7Bpt7DFs-dAxCTwCsnogAYo8A77oihINMNrMP1oGqnBuq78cOTyRk2PPfhpT60CIuSQa65sIhrsboDRcWK5XOzLPMnbHf01n-e90R_X9wtyAsUtWVqavcImTfNz1Q&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "098272 01883",
+    "website": "https://locator.iocl.com/indianoil-golden-petroleum-petrol-pump-hariphatak-ujjain-196523/Home?utm_source=locator&utm_medium=googleplaces",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Saurabh Maurya",
+        "author_url": "https://www.google.com/maps/contrib/114221080399226679049/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWziwMWbj9YtFi_2sygoLsntHANgW6swGoRKQhope5sdXYToACN=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "6 months ago",
+        "text": "I VISITED THIS PLACE DURING MY UJJAIN TRIP. WHEN YOU PLAN FOR OMKARESHWAR 🛐 SO TRAVELLER AND BUSES FACILITY AVAILABLE HERE.",
+        "time": 1735806489,
+        "translated": false
+      },
+      {
+        "author_name": "jarvik munshi",
+        "author_url": "https://www.google.com/maps/contrib/116472107867190823876/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgJF9WZ4E0Aau67wRZegI-3xqadle0pCbURCgSFexCgSWDTotH3A=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Best petrol pump for the connectivity",
+        "time": 1730000937,
+        "translated": false
+      },
+      {
+        "author_name": "R K CreaTions",
+        "author_url": "https://www.google.com/maps/contrib/109061690089674341428/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVy0xh-HAl5TJUm1E-A7aF-5pSBPzOUfy0Im_7lLx0nI9Tbjqt=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "It is about 2km from mahakaleshwar temple in ujjain. From here buses stared for Omkareshwar temple. It is like a stand for all tourist buses...",
+        "time": 1711645788,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:02.907978",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "IndianOil",
+    "address": "Lock No 13008, Dewas Rd, Lalpur, Desai Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJAalGM2hzYzkRBQ2ccZv5xhE",
+    "rating": 3.9,
+    "user_ratings_total": 216,
+    "price_level": null,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1404912,
+    "longitude": 75.82180269999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfEMQsE21U7sr8xE-jYXqvSU4ic0LF9PtkhQmVtyLLaT7iBRqKbJ4ixcpMDE1PmScIj051sIkpxHxnynoIcQKXDrk29M5hirk_miRLVKV7lSTz7HGnYV0rPfO8kzvIRPgk_JZco8hXO84CRIPdjFhXc8EWs-MBzWQy3i9eZmVEpZvg5JVPX0c5eTGTaVBvhQwQdW8Tba1remI5KFy97sm_Gqhh_d5o2B5fUrPHYnED0tnFHhq8ZxYxGnwc-Ng4SnTP26xEvEPADbU_WEAClMAD-XIHmYha0JRsiJnD26TADPak1Rc-HzXSEKmn95X8MCQYZajGoO-78g94nUH_xqQ6ruSOwYnfS7up-WI3dafDWqNxZD83ZpNbMJBVhFuxshHyIyb-o7HDxB-RIDDZ0-CMXhxHWP31Sa4W9veiu4Otd0jLIsEn3AiCOLdGvs8uvSr4BeG8fRWnrVrJDHqs21Siti8Kkuw0yXTsa34X9dRg8-7qtRK8ok6sggLUyHqI5ak0PeqEVBFKpW6RJSN41582s2EfKJbVUtMg4OsLBgXBDwOpzNoWOpsr349WgmrmMcsswDA&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "094795 15200",
+    "website": "https://locator.iocl.com/indianoil-bhushan-automobiles-petrol-pump-desai-nagar-ujjain-226810/Home?utm_source=locator&utm_medium=googleplaces",
+    "opening_hours": [
+      "Monday: 6:00 AM – 11:00 PM",
+      "Tuesday: 6:00 AM – 11:00 PM",
+      "Wednesday: 6:00 AM – 11:00 PM",
+      "Thursday: 6:00 AM – 11:00 PM",
+      "Friday: 6:00 AM – 11:00 PM",
+      "Saturday: 6:00 AM – 11:00 PM",
+      "Sunday: 6:00 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Neelesh Goyal",
+        "author_url": "https://www.google.com/maps/contrib/116542294808311795574/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmktOWag-rAknN3Kz5_qsZS-BKLIqZUhJ9oqCPSKp4uTuFj-shqw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Very best service provide, full of quantity deliver no cheating on this fuel station",
+        "time": 1718123129,
+        "translated": false
+      },
+      {
+        "author_name": "Shivam Raka",
+        "author_url": "https://www.google.com/maps/contrib/102649439644716143373/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWow0DtxeBwjx0lv67i8Ux2pSre4yZ0knzWc9i9EgA0kVtChlV5dg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "2 years ago",
+        "text": "Great services,\nIf have a Indian oil point card, then you will enjoy surely.",
+        "time": 1665462836,
+        "translated": false
+      },
+      {
+        "author_name": "Ritesh Thakur",
+        "author_url": "https://www.google.com/maps/contrib/112444546745884037913/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOgLM9KQnCk_NAniq7AT1RTMgOAaUee74bx92UTmy7-dCDYA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "It's a place were you get good quality of petrol and it's is in city here is also have facility to free air  ...",
+        "time": 1645341918,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:02.994332",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "M/s Devsara Filling station Ujjain ( HPCL )",
+    "address": "Vishala Kshetra, B-5, Dewas Rd, Rishi Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJNbqEkXt0YzkRXqzcD4X3cQo",
+    "rating": 4.2,
+    "user_ratings_total": 635,
+    "price_level": null,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1676192,
+    "longitude": 75.799007,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcxCXijVVdDbOBJfzTBxv8C4zJuaO-kGH0x4AbxDuGSeuxSmru-NG4wigEl04dACoUccZn-estOtTXzXS2ZANDsdKKbmvYiDnfSoHSUyoYtySJmOkLno8WmKVZWwH9EK61A_ts1GQCKYkQ7WxkJWjgua5fyM2rjyzY_nE7xRpla1Gqc22JWHpeN0lrU-fYFUV5sKdHRxKQUMix9yR7qIfYo0Qx_geBohVb0Dd98aZeRWWLDhQczYQCOjvssXlwmZ75o2W0eWl5VrQzdYLQ0_X-2T4RuY2j0YnpLf_3PmbjS936CG34&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "094250 67558",
+    "website": "https://www.hindustanpetroleum.com/",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "dhavaj sironjiya",
+        "author_url": "https://www.google.com/maps/contrib/105321768903680414667/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUw7z-oPzAusC_YNXiOrdwsFDN1hqS3eXhPAeBO12z0ORwwds_NvQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "Very bad service 0 out of 10.\n\nI get petrol worth Rs 110 filled every time from other petrol pump but due to circumstances I had to get it from here. You will not believe that they stole 15 kilometres worth of petrol. I had got it filled on 7 April.\n\nThis is a thief petrol pump, you should get petrol from some other petrol pump instead\n\n।।Date 11 April reply of your message।।\n\nYour mindset and language are showing how good the petrol you provide is. And regarding the issue with my bike, sir, my vehicle consistently gives the same average every day. Why does it only give a lower average when I get petrol from your station?",
+        "time": 1744361151,
+        "translated": false
+      },
+      {
+        "author_name": "Shreyans Jain",
+        "author_url": "https://www.google.com/maps/contrib/116790896659805047010/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVztLuuKY2OTe0BZ0KPl0yGHQ9vAJa8snwrQY2R3eVPavalaxiR=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "5 months ago",
+        "text": "Total mismanagement, Not able to cover a pothole on the ramp where cars get in from more than 3 months\nCar owners be able to see the meter as it's on opposite site",
+        "time": 1736782162,
+        "translated": false
+      },
+      {
+        "author_name": "kapil jadav",
+        "author_url": "https://www.google.com/maps/contrib/103301802328711160834/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXmOlw9wwWaAcAxlcg2kRLxvnr_SsArB_5PQVQtXrvwUw_Cutf=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Petrol, Diesel and Cng available here. SBI Atm and union Bank of India Atm available here. On Dewas highway.",
+        "time": 1727796389,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:03.083574",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "HP PETROL PUMP - AKASH FILLING STATION",
+    "address": "Ashok Mandi Marg, Agar Rd, Indira Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJzUwO4x10YzkRsjttTX6r30A",
+    "rating": 3.9,
+    "user_ratings_total": 467,
+    "price_level": null,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.2058113,
+    "longitude": 75.78960169999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdDZn2nViP0ebDk3dQHvr3kWsBGONiyDdOBQYR4MUEHzcoWqVqBBzkmi_5a6bHYMUisy0msYP5eA41VUMEZfq7_9n1DLGvHOcd1_vnNtAnD34qxgNUgS6IyO0E9-dlVnQWWqtaY1KMWXGdS40hoQftu3gTBNOh5sjCXYP76pOqsjRWio-HTRkvDk7lCWd3Y55Ip3RHMyOHVbKT5cYqOR18NvQFmCaUd4hxr2_8N7VkCw6bEcEeQuZCs3ywr0uEOXcuitOD6pgr5H0QX1qlOgih2HTxfsRPuHKdJ69ZCF1iJNf4Y4rvan0Yi8FoB-ii6zY5_4nGbj2nPleN2j4cEhbcCyfjY7RkMgtA5tOqzPRkak4VQ_5I9NAMIdFz27AAruu2JpyfxwdTccpI9OZmd6xzOPsRp8JOlXhFVPTWEcPphr5cSWq2_RKu9vz-ls0GVTFCn3ysi1wYCYJDyIc2kb5CJZAtPOlfcl3zhuynFULEQCwLJZKhYfIp7CiOL4Jwd3T8ySIkWNx64G0mAPHUY-Qke06W_yOD4f58iDVWlUZhpMmaTbcXL12Jw4jaEsfP6oNrq4p6HhL9uvQ&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "GEETA TOMAR",
+        "author_url": "https://www.google.com/maps/contrib/104785311586505527523/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKrOmB-SgyWd19TVwFR5VXQz49ho0VPEhiIg_ELiSz_iEyjU0U=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Situated at prime location. Staff is very good and cooperative",
+        "time": 1739684631,
+        "translated": false
+      },
+      {
+        "author_name": "Indian Student",
+        "author_url": "https://www.google.com/maps/contrib/106077711700373598256/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWM4oLYunAD48nQ8miih2sUDdErgR-Joy7noETSU6cFLWC7Oegu=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "It online gas filling station very less time gas refill good thing time saving",
+        "time": 1727601419,
+        "translated": false
+      },
+      {
+        "author_name": "shubham atal",
+        "author_url": "https://www.google.com/maps/contrib/106171367765272732472/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYvBsebwTMmF6oQ0vZXVNBwnnFTnfLeEQWmqmJv2GMiGBlwcXVyQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Very good service and best among all as compared to other provides free wind sheild cleaning and air filling in tyres",
+        "time": 1711380835,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:03.167655",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Tejas Petroleum",
+    "address": "Village Pawasa, Maksi Rd, near St. Thomas School, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ8Uuh4OtzYzkRtknJoRkFijM",
+    "rating": 4.1,
+    "user_ratings_total": 54,
+    "price_level": null,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1921147,
+    "longitude": 75.8256759,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcIE5mInFdpLid9NY8xJ2IrPN9x9AoTPkdvQtY4wFmje9xzT_TOJiS4GflMQfwgkndPjLMY3sMG6OVDE_mLf7NfEASchL8Fjzq4wAjfuePiaHKMPXkBRSRtdvbnhVh15hl-KzMkSnxqHy4v4mNl66ohPR6zAnQ_8HfAC8BD--FQPob2T78_yFbOwHO7kIftkR9AxHVWfeLgSPSW8U-sg5Gox34LQdIzaD2_uMB0LQJCN7_xi8ttdAbXoWOpGHas7A8IvBugFOHJql_MSde_DPSGnn5je3sCm5YWnQNZx4l8rXfzQ7urk7ZkOxiRF-piDqRkQWvRpp28AOGNUhZvQ41iAR6HAmXRGPA1971Vpc5H3KcPqMvRQvKT4A_IATCXtpiXt1IYGFvQspuKae9WgiBbObichpTMCizzm0WxTcu3amPCXBprbpkxaN_PqnbKkU7hGgKgyiOj97HWLgTPnPl-eE1LjgPoPMyUv9aESQ6xa53KAjzPQrwcZEpmKTzX1a30Pspvqnwuh6v3X6mHQdI6ZU-2Tx1Z8e1sp6a6HF9sbz67VX3eTJmwFmstVBVNZVlQXEvw&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "094066 49200",
+    "website": "http://hproroute.hpcl.co.in/ROAlongRoute/index.jsp",
+    "opening_hours": [
+      "Monday: 6:00 AM – 11:00 PM",
+      "Tuesday: 6:00 AM – 11:00 PM",
+      "Wednesday: 6:00 AM – 11:00 PM",
+      "Thursday: 6:00 AM – 11:00 PM",
+      "Friday: 6:00 AM – 11:00 PM",
+      "Saturday: 6:00 AM – 11:00 PM",
+      "Sunday: 6:00 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Jaison KS",
+        "author_url": "https://www.google.com/maps/contrib/103713759736627419325/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVr97NTmAjVILNbo2McIWp7xRe9g_OcZSXW1r1dzGACWSEQuASoXw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "7 years ago",
+        "text": "It is conveniently situated on Ujjain-Maksi road.  It is one of the easily accessible petrol pumps in Ujjain. It is not working 24 hours as claimed.\n\nFree air and water is available here.\n\nFree fresh rooms are available for both gents and ladies.",
+        "time": 1520431028,
+        "translated": false
+      },
+      {
+        "author_name": "Subhash Bagdawad",
+        "author_url": "https://www.google.com/maps/contrib/114474720094115714335/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUtJqEiCfJ_tkYMDc7A2Jvi6UNPkDOfgfc8m_fmPAArdLGL34=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "Best fuel in the area. Pure and full quantity. Very good milege .Also the staff is very polite.",
+        "time": 1523173015,
+        "translated": false
+      },
+      {
+        "author_name": "Prakash Sharma",
+        "author_url": "https://www.google.com/maps/contrib/105791849558199588435/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWq46XXtrlKwT0aOzWq4ugPO6AgSI13LK2-GZtseDewJg7eTetQIw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "7 years ago",
+        "text": "The workers work here behave politely and fuel quality is best in the area",
+        "time": 1521199837,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:03.246183",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "CNG pump Avantika gas limited",
+    "address": "Parsvnath City, Ujjain, Madhya Pradesh 456664, India",
+    "place_id": "ChIJa51iZQBzYzkRCugAiWFzWzQ",
+    "rating": 4,
+    "user_ratings_total": 899,
+    "price_level": null,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1470759,
+    "longitude": 75.8164338,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcW0tl7EYDgjC4L2t5hZOSuVgLfys5GhqwPRpQnu0pzsWYvOLhBDwdBKNWU_dkjHQ2SOWoVNnad6m8ep9h2shdZXop51b4QtsaAW_ncHVknbRcltofk8V5_HfatwerdjfsUeY8SiXqcUIQUVV5zUZSnL7d7E6Nk5Qlb-Z6-npgFeHnbPkiklTZ9eG3xjsQiW1w9tzvFmToRDPtmUZc1z-XXhmvUCvpe6kh83ZqelG4KSi3EURc9huoRidOMUFAJmFTqynu2h5Bbrj4k49zCkcB7kOHSokw97fLBSMa5LBH_lInTTmXVx0oX9q0tYY3IuOO6NCoDAvJY67Jp-2DQjDmX5CC7a7ivuBxNJyxVqA9xAqJ7-lNQhD23Kgk8bM8_6ee1hKSLyRVq3-cWD-dCdllGQPMlUy0tgETzsScAi_wcKVoCkBL1CZVtGd8s4QltYnVtpUVsNAYoR2YKkyCBvn0WzDL4WxEJJZAxRHmud_Dl7mSB4rrVhjHO3lv9sxn0mgNlceqkB6DEirvemWlampxEibh68faa0armBsuEWWxJV1thzyFYSDpHZyUwhnjadhbzDWhZ8M88vg&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "reviews": [
+      {
+        "author_name": "Ankush Mahanvar",
+        "author_url": "https://www.google.com/maps/contrib/101570147322038751001/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxHP1n8sB7ofOef4085iZ8V3vy8JOeL-mUM8FNHG9NwrugmIz0=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Good one. should improve the pressure of cng.",
+        "time": 1749967440,
+        "translated": false
+      },
+      {
+        "author_name": "Sarvesh Mishra",
+        "author_url": "https://www.google.com/maps/contrib/103287738782317445121/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVU39E_8e3aM6ilth7efmsCpty_qz35B4vJxBLALI_xT0-bywumqg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "Have already visited there many times....gas pressure is (up to 200)good to fill your vehicle CNG tank completely.. Rest also card accepted in day time else in night time kindly keep change, it is opened 24 hrs*7 days.",
+        "time": 1689252168,
+        "translated": false
+      },
+      {
+        "author_name": "Anurag Mourya",
+        "author_url": "https://www.google.com/maps/contrib/109422281637629117748/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYAKREjdb-k-NLgN4Bj1EyJg9E512RYLNNhJ2ejDVi8lIDA8w=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "Their employees don't work properly, they become fools all over the world",
+        "time": 1748245269,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:03.337591",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "rukmani bharat petrol cng pump",
+    "address": "Ujjain Ring Rd, Dhancha Bhavan Colony, Bapna Park Colony, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJJeiGmyJ1YzkRTOqtCCohU7M",
+    "rating": 3.9,
+    "user_ratings_total": 91,
+    "price_level": null,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1974132,
+    "longitude": 75.7945697,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpepsTmT_yFEr-1bxlLK1o_pr13eNLORurFJBZSpYrZAuzRBQF4vokDaUq-Aa-hv_f3ia2jVuWzVHx8iR1oTIM3RijfRzXyrpKdBZJDNj3QY-fU39ni9PDpWh9ZgLEJAxtrPcIuuGSn-ebDNsQhpsKO7_agNc7J-2pYfmsXfSrj9eUcWsjtjp4ik5GnKo88egnbkUK2ZpNlOFEb1zPAPSOySYYxaTNtA8RMcWgIfsBI-0JHnis2gcGI8scYql02O3OtY4xMnJFltb5Am3FWA7P-yG5x6TjamDgImqgqeMWHLq8ycBEqgrQ9mMBexrJlNG9myqfbjYxebhj8dmQsEh22FxCcj8sb8ptiqofbDv_RkIXGzj9b5wIJr03OHFQv8lskvONjCkAiGw5jNmnYwlM2hrcszawb30f0MVHkF8HFOLO9jEbY_tPwDCcRDHwFwhUtAEuQJrVmimtKKQDHNkyICN8dR7sBJGgc4ZpotcPJRcBiDQXQAzQtXbal3do4qvk3tBDLGZ6-JrjVKnLDI0JPfOQaOlobdCZgQ1uNZJNtwPBJKJWtuw8C_V-iD7HT653Jpm0XswPx24IEfztYCFi51pyA&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "094250 52767",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Anishka Lathi",
+        "author_url": "https://www.google.com/maps/contrib/106727305037840443830/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-3gyfnYIn4HIWwrCyKEMMxU019UNrxPWCrZk8k4RbMG8a1ckmyQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Very good experience. Friendly staff.",
+        "time": 1742840000,
+        "translated": false
+      },
+      {
+        "author_name": "Seema dhakad",
+        "author_url": "https://www.google.com/maps/contrib/113938173475460760873/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVY6cHD6js8SIhR1vsCGNawlaIvM-ehvdS9pb-cqwXBP5G0jN5i=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Very good",
+        "time": 1750074416,
+        "translated": false
+      },
+      {
+        "author_name": "Ayaz Nagori",
+        "author_url": "https://www.google.com/maps/contrib/109843504653505724173/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocID1eItxgnymSuRezGwSZ0s4wNxycF4U5H7a_PA4wMKPSjooQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Pls contact me",
+        "time": 1739948671,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:03.425474",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "HP PETROL PUMP CNG PUMP",
+    "address": "Ujjain, Gothada, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ36abOax0YzkRFyAIZrpejQY",
+    "rating": 4,
+    "user_ratings_total": 104,
+    "price_level": null,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1190448,
+    "longitude": 75.7990753,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpebHw17HpAbJHQ55rwKe0e3EdkphX3fq_UrQ431H4Ohs85cKSL7y8WWL4Y0CaChHuohveU3Sv0I-XVISFdZf4XtfFE9655eUfQg9Y66R4RJ3tvUy53rp7XKSLsC8zkfkvBXKboGBp7W_OkihMYpOGJyTIHNscEtWyUsV7Hu-OtmImU3TnazYjA2uBzhgCqGqSj02p0TKVQNdvzbqJn98Q0n_m22lsOL06vCU-hY8cknF4n1HjXYhgYSsUVjWk5Nov1UNGcL6-qHCTOoY6G55wWYYGl_fhdb1RyqDagJXlc8S2hSNyNgCAUW1WQ_ePos-3xwQMRQJyQ6LUTyJqMbJIkhSmH4bzHhgv0V2KLF85NBO9y0laUpQOdgGkQXtTPNxmxspnj5cNUOr5SfYAm6VKLEGiXLxUoorZvP7IeYo8HH4mFrQY-2lDZ0iNQILoudOCdBei56xeO_PWU3pY1VFBvH7c--Au_bxkAF3W4KuofmQlm95c7SwccDmomZA0HvSNn6FtAZXp5RBZqSmuZHLK1wIoJdW5qASFw-_zWOr0A_cHMi4K7SdSwABtAsSW6xluvo7NhL&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "090093 99533",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Vaibhav Kharche",
+        "author_url": "https://www.google.com/maps/contrib/115897297118145793742/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVS4pNYxvJf_KHPinZvDs2jH01mMpTDkn2POGgIBvrXinTWdq_W=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "Good staff, no cheating in filling fule, CNG available here. Washrooms are very dirty and there is no water running in it.",
+        "time": 1703734848,
+        "translated": false
+      },
+      {
+        "author_name": "Rushabh Agrawal",
+        "author_url": "https://www.google.com/maps/contrib/101987982198306331521/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVS7YyvG0na27HjdmIcU5C9bb8sF4AJlQTp71v6PPYPglcYxQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "a week ago",
+        "text": "Mens are going in womens toilet and staff does not care at all",
+        "time": 1750583375,
+        "translated": false
+      },
+      {
+        "author_name": "Govind Nakum",
+        "author_url": "https://www.google.com/maps/contrib/113910218195246563017/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzikiUcB5Kx3doqYqIEFVjdIFbzxyOsVCA4R_3PCvTwUsD27Dj=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Very good staff\nGood amenities, potable cold water available,\nWashroom area is available.\nAir fills available",
+        "time": 1737966234,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:03.506494",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Baghel Petroleum BPCL & CNG Dealer Nanakheda",
+    "address": "5-A, Sanwer Rd, Mahakal Vanijya Kendra, Mahakal Vanijya, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJz2-czIt0YzkRmJtjlf0BxQM",
+    "rating": 3.6,
+    "user_ratings_total": 546,
+    "price_level": null,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1569866,
+    "longitude": 75.78777149999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpft2qjVl840aIyKoR0n1aaKFJGuf5vqm78F8VSgi18eaP5H5-qZQpiEk-SU1rnflqXzU51xnGsK2uulnml7eBWxKSqo6uAeUc57_onA4O1WuhxJWp6w6avraXps_mnxmKO7Ev4kRkCpzIMDF726o6VrSXcg6CqJvZpHRwPfWr8ZTjkjavkKogsLkbyMn0m3mmYc8SXIh3J2NUOzMljyCEXylm2VYKfG3rc81QkbrdxzLuIXhuswIvmtreLY1bH0gMgA1qRN0cbXC2gwV8n5HGbfw35V3K9_o3QMFR4nY4TO_HsgLw7hFMUa5HAeMEjQ5WkvWXfErKG-TnbDW1qzPiTpKjcweCTuqMNINM2_utaYBOT_VGnhMXqnuja5VZ_1JTxd_CW7oid1Iln47zfxg0nH3Q4apLrIm0Yc30BXk1wmUhtD4mDzO8NVS9rrX0lVidyQCNh4JEHnVBREI3HS7OcrFOIJQS_XoMrVLd3G_O7k9KpXOmZIeUnZvSh63eMUjqfbHOz6282nWAQAcE8Asye6vCIONKdjzQ6c28a7bCU7WOK1tapTO4b9vfc6X14a9G6F5Mqg&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "SAMIR BHARAT PATEL",
+        "author_url": "https://www.google.com/maps/contrib/101225884431356023309/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUu1nPGd55rVd-RXcXs5sr55ZgoJVEiy4JxT1h5ESmJA9GhkH5Cng=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Online CNG available with good pressure it's good but according to price campering to Gujarat it's too high here in ujjain madhya pradesh",
+        "time": 1747566145,
+        "translated": false
+      },
+      {
+        "author_name": "kapil chauhan",
+        "author_url": "https://www.google.com/maps/contrib/103431895237520846539/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9yWPBhGXL5oEluWfPkHMvvNpvgwKhEYaBHfwz9Oyedse3oXiP=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "11 months ago",
+        "text": "For sbi credit card reward point they charge some percentage of money which is not applicable.",
+        "time": 1721628035,
+        "translated": false
+      },
+      {
+        "author_name": "Bhavesh Dhananjay",
+        "author_url": "https://www.google.com/maps/contrib/114381733778137043230/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTALKC8pLOJ21mNBEuyJYka0dkisyto8ElCiDibHeb5VI_PLE=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Card Payments are not accepted here. Primarily they say that they accept the card payment but after filling up the fuel they deny it and said the machine is not working now you are in trouble or you have to argue with them and ruin your mental peace",
+        "time": 1711219888,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:03.591355",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Hindustan Petroleum Corporation Limited",
+    "address": "Ground Floor, Nanakheda, Sarthak Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJi3OsWmF0YzkR83sEnYD215k",
+    "rating": 3.9,
+    "user_ratings_total": 308,
+    "price_level": null,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1651028,
+    "longitude": 75.78876170000001,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeEsAMz3JyWK9LaHosZ_sLkLmRJF3a1XPWWv-KoipViNgwDlyPjibXZqYpyoNirWHznTmrxgnrxK_CCwpNDZJbS0oVne0A3zaqnxuotiZr1RjS89vhYxXy_Pgs-pgR9_I3Ne74DMthUzautaqoEbljzP4IwxANkm5T_MRCyvsbrsbxthu_jDHDMcTWoax9NS33LmpzbEO1nntlei4AssT4GQRmBBQJQTDV3XfdP3zMR0SgpdvohEWX6bkJlD9gKP_Nq-1H8lv3G7M1hnFaMwHC__PhstO5P_S3bvZWnoyR0TNN64do6Rtnut_Vvi12wkoXQDEOECGFE0JLfDUQZCa9uN5BQMgg4Z3E244J_73Qc2vQKVuE4U3XWrM_4XVKYMy1AzNOOQVgI8GzQBpY80lB0guMwZb4CYFeayoOio7b2dDiszd-8zHn3eb_CYYZ6wENNAPrs2TUywRu02Ul9HuUaWCbmVM9R6kxdZi4qUVvwzFMJXI9XGyTCpfpMbl4c6OCWeTfLRbSRboeaU8ylGSrny9HFmCgu6P9HBLt4aF0qA4KeJhWAr5WnK2BS7ZZCjzPD5X8At3Drxw&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "098270 73456",
+    "website": "https://petrolpump.hpretail.in/hindustan-petroleum-corporation-limited-shreeganga-highways-petrol-pump-nanakheda-ujjain-399819/Home?utm_source=locator&utm_medium=googleplaces",
+    "opening_hours": [
+      "Monday: 12:00 AM – 11:45 PM",
+      "Tuesday: 12:00 AM – 11:45 PM",
+      "Wednesday: 12:00 AM – 11:45 PM",
+      "Thursday: 12:00 AM – 11:45 PM",
+      "Friday: 12:00 AM – 11:45 PM",
+      "Saturday: 12:00 AM – 11:45 PM",
+      "Sunday: 12:00 AM – 11:45 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "abhishek gupta",
+        "author_url": "https://www.google.com/maps/contrib/113237893397839429423/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgIhVKBBF5Dp-LHGxMRcchjj7TOV7TS6x1fs2mIgEpOssalEnlnw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "Best services. Well trained staff.",
+        "time": 1471947144,
+        "translated": false
+      },
+      {
+        "author_name": "Dr Pathak Arpit",
+        "author_url": "https://www.google.com/maps/contrib/110831979312961247452/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvdj2H2Bg2KpfWUsoNg_Iw17pNBT8hmeDLcHJQfEYHZzcmkOQr=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "The best place to get Re-Fueled in the city.\nHighest octane value Gasoline or petrol available here.\nOur vehicle will surely give better milage as compared to others after refilling here.\nThe staff is honest, they don't try any false methods to loot the customers.\nRecommended petrol disel filling station.\n#DrPathak ( YouTube ).",
+        "time": 1610472078,
+        "translated": false
+      },
+      {
+        "author_name": "Nimesh",
+        "author_url": "https://www.google.com/maps/contrib/106755080396150839990/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOG7xKh1LnbMZdVAH_TWqRCKxXv1848MVAhtJf8kRDMfEFZzBT=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "8 years ago",
+        "text": "Normal Petrol / Speed Petrol / diesel - AVAILABLE\nCNG & LPG -NOT AVAILABLE\nGood Service available.\nPayment through Credit/debit Cards Available.\nFree Nitrogen Gas facilities.\n\nToilets are well maintained.\n\nAnd free oil checkup and changing available for 2 wheelers.",
+        "time": 1491035000,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:03.680502",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "IndianOil",
+    "address": "Ground Floor, Agar - Ujjain Rd, Malipura, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJWSz-ju3BZjkRYh9MoqiXUzk",
+    "rating": 3.6,
+    "user_ratings_total": 416,
+    "price_level": null,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.191841,
+    "longitude": 75.7855438,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfErrDDoDd5Q2vF6zkOPUOnMRHAWq9xSh9vZ_M57AbgnOhA53cc7Bxpxoa5Fip2NKEqcr0dq1XSjKREj2-tG0SaHsO53MI8-ASdv6epzDUZ8n8S0yfWUVcDzebY-hbZFwn5iQUERq_hMFwiTEpUW49JLnqJwpr1tFJHORRnsgTfti75oyu3qKciCxulqhFRCfLlClPoyR03TPnAkNAGn2L7mXlpSgKYUdJYWkAxxilHzmOpnGg5a-4atPsoP0XP7iYW-sDkkttxn4cRTGSKnHjaqG6qDy4R1BS01yxsZDcFWT1ewcfnDsScBDZlN-DFM2M9Yn04vUziWnVCtX6Bcfoyp1j3gF6ZNHKpkbTvkaz6yVPpvD0_BIZ-VUYaJVO1cTCIRkIzhx1Cx2YKLy8BSKyIuVeAfu7cagdqrId_tb4ZDPv39WUSi6K_YdMpU771YI0WZDcrF1QxPHRu_kvEqHHwwMP9jJgGH49rryiHDCo3uDvSibFiZitrQDwD8HlsHhrxk9YTY7632A_Mfw2-XHSdFWBcCEJ56TNnVmI6r8yR0OWPSOjExYZ6w1R2fQKDKHTpKsNc&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "091799 19994",
+    "website": "https://locator.iocl.com/indianoil-ujjain-municipal-corporation-petrol-pump-ujjain-agar-road-ujjain-196550/Home?utm_source=locator&utm_medium=googleplaces",
+    "opening_hours": [
+      "Monday: 6:00 AM – 11:00 PM",
+      "Tuesday: 6:00 AM – 11:00 PM",
+      "Wednesday: 6:00 AM – 11:00 PM",
+      "Thursday: 6:00 AM – 11:00 PM",
+      "Friday: 6:00 AM – 11:00 PM",
+      "Saturday: 6:00 AM – 11:00 PM",
+      "Sunday: 6:00 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Tech News",
+        "author_url": "https://www.google.com/maps/contrib/104815543463902582396/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1tAJB05LSMhEXWBKLJNE-ksPOO4XGCo-ilrSeJfBnkA9Y3MZunw=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "Gud one n having lot of terminal point for more vehicles at single time",
+        "time": 1693217077,
+        "translated": false
+      },
+      {
+        "author_name": "Adarsh Thakur",
+        "author_url": "https://www.google.com/maps/contrib/112668184050827080740/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlylgR1h6SfVaUNzZhZrQJDlYqT2Wt1sUg_zKhqou9iUH6vfGo=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Please join here for war and very activeness the clan named after the best for ur next update will be in next few ⚄ days as they are in touch with us 5 minutes ago and the other one is a bit of a mess with the old one but I have been trying to get the rest of the day to all the best for ur next update ⚅ I've 765 the email 📧 so I'll be working ⚒ hours tomorrow so I should have the email with the same thing to say that the show was going on in the annual gift which is 4000 000 precious stones in the geme and a few pounds in the annual gift which is 4000 000 precious and very grateful for the help you with all the best for ur new thread for some time lagega ki nahi hai to kya hua tha na",
+        "time": 1550644709,
+        "translated": false
+      },
+      {
+        "author_name": "Anurag P., KA",
+        "author_url": "https://www.google.com/maps/contrib/108267006576836357510/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEa0cOMzpTA2jQPhJik0AQX1dHNG4ze27tJ_98SSL3brbPgQA=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 3,
+        "relative_time_description": "7 years ago",
+        "text": "My experience with Prakash Auto Sales (?) and Petrol pump was limited to being dropped there and waiting to be picked up. The gasoline station offers LPG, Diesel and Petrol. I found the sign-boards explaining in detail all safety measures and duly posted.\nThe drivers of vehicles that came for regular refill had mixed opinions about service. One complained about lack of service personnel for refill while another nearby petrol pump had one person to every refuelling point. I found that there was a clean toilet and a schedule chart duly filled for cleaning it.\nA five star requires\n1. maintaining better cleanliness around refuelling points,\n2. serving with a smile\n3. manning the refuelling pumps adequately for prompt service.",
+        "time": 1518143802,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:03.780998",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "IndianOil",
+    "address": "Ground Floor, University Road, Ashok Nagar, Desai Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJH2Elmm90YzkReYznpkMMtts",
+    "rating": 4.2,
+    "user_ratings_total": 559,
+    "price_level": null,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1729875,
+    "longitude": 75.79260459999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpe8Gmjx7HR7dmO7ThXCeHqAgCm1yxbMZjAITQgh_5Qt0sg7cQj5UYeX1-F1P5Vn0R9NpVBP8m7n9rVpKjxBDqRl-pwK38B-76AEJHgMVfUeAHMXuzL3JZAXxvQ84dsm4phTDesMDsf4Wmbz7e3lt_ImZiqrOGkAW9r-2Ur-AdWnffDf0fEzCA5lKW1pwl6fsIh-0a2WhZIThd1r7noc9rlROQqeU7o1_pqdvo2TAstXNLrqtKomcAYMDLT5Dv0z30u4ZcvnceqnUfRZ27yN-XRq36MDDaiaDWF34fCfAp_gi8F-gHSUk-5d1Vxq4NkIgze69hD4g9AiYSOicttJILiJn_oZYL4Rl1tdCpvyPWK0s0jY6O53gQQcIqBb6hOXuaIzgDxOmQTZPgTClIf_crf8eYFzACe1uBJ69ONlrmiBwoCJSlEqqBxJM-3v4BW58f7GiEOH-z66MpHAdzKiPBiZnFBjLH000adh_QKm4Mo8oBc94O872CdVHrwtm4yO6qNKDVRDL7coJ37ye8E5bgn4QyPpHi494CeDuwMzIwJndCAkWk4MvccQ_og1aeO5tFv9I2iTgXTeSw&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "094250 91314",
+    "website": "https://locator.iocl.com/indianoil-langer-auto-sales-service-petrol-pump-desai-nagar-ujjain-196469/Home?utm_source=locator&utm_medium=googleplaces",
+    "opening_hours": [
+      "Monday: 6:00 AM – 10:00 PM",
+      "Tuesday: 6:00 AM – 10:00 PM",
+      "Wednesday: 6:00 AM – 10:00 PM",
+      "Thursday: 6:00 AM – 10:00 PM",
+      "Friday: 6:00 AM – 10:00 PM",
+      "Saturday: 6:00 AM – 10:00 PM",
+      "Sunday: 6:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "___ yeeshu ___",
+        "author_url": "https://www.google.com/maps/contrib/117166726253469033286/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6qMk6DKQuKjx_3APr2Fvl5udrC1oFBKBopHXvtAn1jEHnLE4l3Q=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Good quality petrol you can get from here, good for the health of your vehicle's engine. You can pay in online and offline modes. Also free air available. Petrol Pump is in Good Quality, clean and professional.",
+        "time": 1653988884,
+        "translated": false
+      },
+      {
+        "author_name": "Radheshyam Bhutra",
+        "author_url": "https://www.google.com/maps/contrib/109646528387731021648/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJaT0FCzYu3cQIowSr_q07x_DPVv74ZAtTLBe3Y4uMLO40ZcQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Sir please look your air filling mashin is out of order, within 20 seconds mashin show 35 pressure of car & scooter, it's not possible to fulfill air in 20 seconds, our vehicle meter show only 12 or 15 air but machine show 35 , when we check air of our vehicle air , surprise to know air is only 15 ,but your mashin show 35, it's incident come 3 time with me by filling error of your filling mashin, please look, this is total careless of your filling station",
+        "time": 1719430800,
+        "translated": false
+      },
+      {
+        "author_name": "Manglam Joshi",
+        "author_url": "https://www.google.com/maps/contrib/112671104672892658830/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkIvL9zV3TQVDoT5X9A-jT7X7kOFeTgX2fEPX3Tmik9Op_nS67=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Good petrol pump,\nNice staff good quality oil",
+        "time": 1632583136,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:03.863841",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Hindustan Petroleum Corporation Limited",
+    "address": "Ground Floor, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJT8ug7mt0YzkRoAOnnr6xiRU",
+    "rating": 4.2,
+    "user_ratings_total": 234,
+    "price_level": null,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1785601,
+    "longitude": 75.78845009999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpf3WWzjaTDNdwH2j94BhNJk63mY_euqahmmv2nzspwqrLbs-npujs8JD8AK1rpXJtDPDPUkVm-EoE1Ac0womNlA-m-DcsBhO4B1E4bGa3GpbU922znpw_MhccIcJE39Ipj1RyP5xZHsTrDxcXb7vPYnFoSxlJYAp4Lv6dW04-kqBnk-J8v_uraBb8hmSbORjWgyVlp4JG4JeZyS89gXT5AwXelYvg7ouXH4r0M8KlkhB0JfLLoBCIgNPwZe5L0Ygut012XSGaiDpouAjw0oOtrsMbbbwP6xzA7QXhEJfdr0g8o816Ffe59Q5U9yHpv8TwBWG9gnXEQbkeKgQXa1OZAbRX-6GHp9r9wUevX6B_gdppl82yMqAPUAO-KWiU4MwCbCdQBukaGwznHg0g7MuWfPVXtD9JOmqhFMBQLBrLYb0BjkqsHKCbvT-IBsRKESOK_LznsoRBX9kJDxdO7V_INhanTVeBPgPjxFAU8hPYzKO3khLKnDmaSzvzaUrCoZ_higEmeVzAS48DYdy_L5N01YMZY2ktSjMEz9A9EQgS0vbXCtmkk45KjL0HqYwkcihaoNsbr1&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "079741 29719",
+    "website": "https://petrolpump.hpretail.in/hindustan-petroleum-corporation-limited-vasavada-brothers-petrol-pump-freeganj-ujjain-391771/Home?utm_source=locator&utm_medium=googleplaces",
+    "opening_hours": [
+      "Monday: 5:00 AM – 10:00 PM",
+      "Tuesday: 5:00 AM – 10:00 PM",
+      "Wednesday: 5:00 AM – 10:00 PM",
+      "Thursday: 5:00 AM – 10:00 PM",
+      "Friday: 5:00 AM – 10:00 PM",
+      "Saturday: 5:00 AM – 10:00 PM",
+      "Sunday: 5:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Manish Badkas",
+        "author_url": "https://www.google.com/maps/contrib/106118561651696389433/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8nvN5c2w_77Gc1fLry_-rnWRMJDwG7kUxHWpjY47ZgxuWgZIu=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "Freeganj Tower is the most happening place in the city and a petrol pump there means lack of space. Nevertheless the trust on quantity & quality of their petrol pulls people there.",
+        "time": 1720586206,
+        "translated": false
+      },
+      {
+        "author_name": "Papa jii Gamer",
+        "author_url": "https://www.google.com/maps/contrib/101914527661975728856/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMc4bkVw0HirgkRXNP7CQawfVhCHzbHem-bDh18thOSZBVWQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "Worst exprience\nNo proper behaviour .\nArrogance behaviour",
+        "time": 1744118581,
+        "translated": false
+      },
+      {
+        "author_name": "Sparsh Jain",
+        "author_url": "https://www.google.com/maps/contrib/116850876974639203634/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFYEfX6Rw-La1nSwgCTvFh5kZcpi-8Ug6i_MhhdwyyF27bEuBt=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "The most trusted petrol pump of the town. It's located on a one way road but still attracts maximum customers compared to any other petrol pump. A highly recommend pump for assured petrol quality and customer friendly staff. Its located near clock tower, Freeganj. A very old and reliable establishment, only negative is that it has just 4 filling points and a congested location, but the peteol quality is best in town.",
+        "time": 1533701776,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:03.949241",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "IndianOil",
+    "address": "Lock No 1709, 32, Dewas Rd, Desai Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJlQnk63xzYzkRKBB0Tat5FS8",
+    "rating": 3.9,
+    "user_ratings_total": 123,
+    "price_level": null,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1522011,
+    "longitude": 75.8108749,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdLNMS5c7E__R-RptAcB73Tf9CjtSjXwehgPTYUYXPL9dwkqyRhVYFwOp88RVbcfEz7bigrwR2FnEhMprNCDVKqlozkSZv1fYoUb7zTl8GZQY3yk9oLUSFCfndJXcpaXcIwa1cTEA2oWyUK3zKKnrM8jk7v8Qi770l6vVPuoyXU69A3WPEfQaqWq6ndHNOuk3ZgmPbiF_7fdBYaNu50VbqVWanIh1f9PHSzKfcdBo6oJijESd1CSvMzybiQwlyMXWsBi_SKY1EXl2X4Xo1TqB2K8c7NxCY_2aN3kvEG8J0o07YYjZFTmzrTm1OcgdN3h7iA8yzzt1Z_JHE0ZMbM4bnwHB6AQtk8gn_gD96KcyEbXdyJ6syGwqg38sWJjT5SlKy9I-gSaenRXrNgOyH0bXRw94FCwPkAlwXVY7b-AHuW7phkvwTtWGsQndGsWOrQ6IlYoabEnqsf_21ypQGryBwXVjP8v-XSoo9_ulveuF5AWyJtLkf03N_c_vOsM28OL6S4CJe0AswreaNg2mTlhZL_PlNcdQtv3Jb4d_qTr2Ak6cDhWQVAZBYUcStxFSLsiW1k3A&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "070491 48573",
+    "website": "https://locator.iocl.com/indianoil-police-wel-32-bn-fillstn-petrol-pump-desai-nagar-ujjain-196531/Home?utm_source=locator&utm_medium=googleplaces",
+    "opening_hours": [
+      "Monday: 6:00 AM – 10:00 PM",
+      "Tuesday: 6:00 AM – 10:00 PM",
+      "Wednesday: 6:00 AM – 10:00 PM",
+      "Thursday: 6:00 AM – 10:00 PM",
+      "Friday: 6:00 AM – 10:00 PM",
+      "Saturday: 6:00 AM – 10:00 PM",
+      "Sunday: 6:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Asif Ali",
+        "author_url": "https://www.google.com/maps/contrib/104033288045268844451/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURQaha6teYffsBU0EHaP9Pn_FkkEmiPoMK9GWz_gnCkT8WRZ6F=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 months ago",
+        "text": "The staff here is very bad.. he talks to me every day with bad behaviour. And the staff here works after drinking alcohol",
+        "time": 1735470460,
+        "translated": false
+      },
+      {
+        "author_name": "JASWANT SINGH KUSHWAH",
+        "author_url": "https://www.google.com/maps/contrib/117618745579131015789/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3GPlJsJWxDhYHNWGnJ06gCKoLEp2d-s5Ott7eEg0BWFKHoT-H=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Best police line petrol pump",
+        "time": 1593700076,
+        "translated": false
+      },
+      {
+        "author_name": "Rohit Chauhan",
+        "author_url": "https://www.google.com/maps/contrib/102858639674621406406/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJw6KxCMo8u_t5oUrQB56VtA6OCBwAsP9oE_R3SUoB-pSyAQvh2w=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "6 years ago",
+        "text": "Check whether your petrol tank was even filled.\nI asked them to fill 207 rupees petrol and asked for the nozel to be kept so as the petrol is visible and i can clearly see not even a single drop of petrol in my tank when the cash meter crossed 50 Rupees.",
+        "time": 1541738291,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:04.028549",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Bharat Petroleum Petrol Pump , MAHAKAL FILLING STATION",
+    "address": "PAWASAPANWASA, Ujjain - Maksi Rd, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJZZ2GkZdzYzkRLXC61HyC2j8",
+    "rating": 4,
+    "user_ratings_total": 76,
+    "price_level": null,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1898354,
+    "longitude": 75.8206194,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcApEsNZxhMMFRpvCmy4UR3_wSMroJ-aH4ViHiOk0Tzi6qQvjfMz3UsTkiNIZ__X_R76SP4d7EojyT5f4rklBsoDNJ6W7YjHxnx-k56e2cCFN1Nfey7ArIOEH1vJFJ43apzShHYzwhi6i0aVDbshTU884IZfHqHrTW1pbsi7VzE63YWkNqX06P6--fXmVIIoqiX49a1d9S-4wOkgWoUOzg4J2YOX1diffat5MOH5kxENTCxs6Q2wxqi_wKvKPxVN1jXKL9ilWs9YPluVmUSEMiiLBaGRz5ffnlgrBzdkLLexUK57L2xuxr4Y1XPY5GnU3Nf3iGxfQ2S5pO-t5uLVBdWbek-LPaWG7K1s1JYlgPAbopgYidOOXalxuK62ax9oVmBDEVqEqF3sIgINWTvmm_Fy98aUpeKbrD6z6Zfh7FrE_wGkwmiIdVl37Q2bzj9ERtMClTGV87mAhqtpsl_5w-GqHzq3Oj8UATmhfyn_SY-9rRl1BSNY0zMq6fmXVxjiogTk-CWKk0cpiTj7vAuMOpYkNdTqMi5gRkOQq18Q0-UH9f2R9DWmGtvnVN5TNd1L1Yh1w&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: 6:00 AM – 11:00 PM",
+      "Tuesday: 6:00 AM – 11:00 PM",
+      "Wednesday: 6:00 AM – 11:00 PM",
+      "Thursday: 6:00 AM – 11:00 PM",
+      "Friday: 6:00 AM – 11:00 PM",
+      "Saturday: 6:00 AM – 11:00 PM",
+      "Sunday: 6:00 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Yogesh Mahankar",
+        "author_url": "https://www.google.com/maps/contrib/111479578849105223191/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0TD2vuAjhRYQ8wxTM3RT9w4VzlObq9vnuuvU8hXpqMo-ZBqTM=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "No male toilet avilable",
+        "time": 1738464664,
+        "translated": false
+      },
+      {
+        "author_name": "Bhupendra Vishwkarma",
+        "author_url": "https://www.google.com/maps/contrib/100019617458491397715/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGBweTk0_emWQSsrADJtPD2iG52myicuRhH8W9Tvw1BNMFoE8m=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Good place for refuel your bike or another vehicle. Child water and bathroom available here.",
+        "time": 1549738462,
+        "translated": false
+      },
+      {
+        "author_name": "khushbu pancholi",
+        "author_url": "https://www.google.com/maps/contrib/110439307198836966560/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxBNNzt49SEzSNouKY8OCIkhDZhwRB7QBUG9erOEgyh6NevqXD=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Quality product available. Pure laboratory tested density fule available.",
+        "time": 1685767969,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:04.119764",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Bharat Petroleum, Petrol Pump -Saify Auto Service",
+    "address": "DEWAS RD, LALPUR, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJ51nJnO5zYzkRAA4UZbhZZ3U",
+    "rating": 3.8,
+    "user_ratings_total": 300,
+    "price_level": null,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1425156,
+    "longitude": 75.8201389,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfsORgsxyxutcJSLY-CzlgrwNMzS1imDqbj1mZPTAf3FszPzpCJYF7jzd2lBxBLTSf4KV1PT0XBhp_2VtiXJ5ETGsnZtioMd-cBYlXCRCimrcny__2JgDKeK4E7Px4sIcq5atmvR9kkc_pxBbCc0_4Y_bz6YzGhSjBDAbFlSakIWq7myZ9AbePjMHtyroJoak4bMC8US3ijKJXt9JyPwFsQRrh5zTbiMnpTWXPVx_b1NeFyWAKtNskB2dIkJVxwCU2EIf5T58JBqdfLOdn43sZuGWjwgJcdaMdanJDNd3qAGmejX3_euAqPBd44r8P-5XCW42U1gy8ZV4xMP35yKmEAJmK9b9m6C4gfynIKf6NO319ykjLnc0o09wkj4lxxmuzVsinucZbF_jc9LIRbBPj5ME0a6KhIjuIS0dQwI6Vt98k1is-CwYw1CZDsXDxtZG1FZ9T-UcqQZPp2Ue1cBSoG9sV-d7t26XaGeyqjL4ysSYRtIvvH9UPGAMgSvGKqW2riwhW8PCO7tQIiu5dhtcLZwDhnVRLTNQ-FckCJeWvFEPEgOJaeVHpYWUky-D6wcVgiDIbJ&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: 6:00 AM – 10:30 PM",
+      "Tuesday: 6:00 AM – 10:30 PM",
+      "Wednesday: 6:00 AM – 10:30 PM",
+      "Thursday: 6:00 AM – 10:30 PM",
+      "Friday: 6:00 AM – 10:30 PM",
+      "Saturday: 6:00 AM – 10:30 PM",
+      "Sunday: 6:00 AM – 10:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "ramdash mori",
+        "author_url": "https://www.google.com/maps/contrib/114312613818860579282/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEb-tfKL5PJmaYOuP6qWNIfTK-WXzNY3eGsbLs8_QKQtTgfKFO=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "This is petrol pump. That's present fule in diesel fuel and petrol fuel ⛽",
+        "time": 1645443715,
+        "translated": false
+      },
+      {
+        "author_name": "G Khan",
+        "author_url": "https://www.google.com/maps/contrib/102672769245317559617/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWiaRrkOCaTQtiyIfRM3CtfMpT9pHDoUXhrDTkPN7mWfs4G4zQ8=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "Petrol and diesel available but Free Air to inflate tyre is not available. Indian oil or any oil company must provide the #freeair for vehicle who buy petrol or deisel from their petrol pumps.",
+        "time": 1718901311,
+        "translated": false
+      },
+      {
+        "author_name": "Sameer Shah",
+        "author_url": "https://www.google.com/maps/contrib/103076825618920191437/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqTlKf7jbU4iHHI1jpNj61Zu_gGCZUJGVYmqNPHManO5tJfR0=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "I saw it from my childhood.\nIt is great\nBut\nAir check facility is yet to be improve.\nThe space here is again a problem\nEverytime you visit here you got dumper jcb stand for no reason.",
+        "time": 1628232580,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:04.220533",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "IndianOil",
+    "address": "Plot no 56, Ankpat Marg, near Ujjain Charitable Trust Hospital, Awantipura, Kajipura, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJnVdYod11YzkR7fzvpbmGyL8",
+    "rating": 4.2,
+    "user_ratings_total": 111,
+    "price_level": null,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1953668,
+    "longitude": 75.77717969999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfQmMyXZMFEHHwFJdDZn5SZ7bZcMw9yKdBNyR6M5Q0ANlysOveLJDRDRMim8T48bhpHCftE5L8mv3EDkdRCFEhVOzPQZI8BW-yzEaK-2h9BHzEj7oNmmbGGTFhBqRHXOyeOdLgDy847kZCma5WsRwTwdyZQK-tsd-LQw2NTD7u_AY95oDiIAOHTUmyBVldnijoq_bkVQRspaEk0o4XFuKHXa77ySizG4P69JY-S06CDTyrUWKYi-aDQsPhTLI02aGqc0oX5LkzOd4Svpp63o2uT2O3J-p0bMkFF1dKVmiXv4ol3ZSkQyGkdVtYHgOAHKxTKDtKqoemqU8uuGs_AaBoiXgnW-ceRmcl4xng5ShcFnqli2psex25CtsyUqwMkot1N-vCHhGAPNt1cB3ruiSZLqwM4exPMrEnH8mqFOeFuKVT5USMAs-6q9h79ukwkTlS-pq2zVJgD2WURxFZN2OUcir0hcOpVKunT2jzMidc9jGSJCSwwaDMHSkgIy1vdyyw_Td_kgFkPmTrpE8uXCRo38YSI4yiQ5IVUhFb1BvVQ6ijUyObCB1YpGNNeyy_N134JllpV&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "088896 42518",
+    "website": "https://locator.iocl.com/indianoil-shree-laxmi-filling-centre-petrol-pump-ankpat-marg-ujjain-196532/Home?utm_source=locator&utm_medium=googleplaces",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Ronak Arya",
+        "author_url": "https://www.google.com/maps/contrib/113599771965069176456/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVm_3u6XVrs6H5MjP1L0W3vx81DYGyvKGdfemNewFJsId-fr0CSug=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Best quality petrol in the heart of the city.\nDue to city centre there is a lot of rush, but the staff is very calm.\nJust because of some idiots who bring in lakhs of bike and ask for 30 - 40 Rs petrol, then fight for less petrol and waste others time.",
+        "time": 1694585590,
+        "translated": false
+      },
+      {
+        "author_name": "Praveen Chaudhary",
+        "author_url": "https://www.google.com/maps/contrib/108101540563143737457/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmqhSVeP8XbZWDt0Ae5HeYPlTkreu_kCC8azQcNMjmUGYoRg8ncw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "7 months ago",
+        "text": "Clean and drinking water not available",
+        "time": 1733319868,
+        "translated": false
+      },
+      {
+        "author_name": "rajesh mali",
+        "author_url": "https://www.google.com/maps/contrib/112004099103868046902/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKcQQmW3NvI2_pAddmQlFLW5wsoJY-v4LMYqjOIbpyITNbgAQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "4 months ago",
+        "text": "Your question is good",
+        "time": 1740060503,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:04.300186",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Bharat Petroleum, Petrol Pump -Itc Chopal , Ujjain",
+    "address": "KAMED,SH 27,UJJAIN, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ69TxpVN3YzkRatdtCnXe9x8",
+    "rating": 3.8,
+    "user_ratings_total": 12,
+    "price_level": null,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.2254563,
+    "longitude": 75.80146479999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpf3fZKHJSmZ0Zt4NjxsDXUBnfAijKgp9_VO7YVGCzJcCHgL-RMLG9W9FdSZQ2p0mylkPxtAZ2XEYInBVWfb_RbWCiHfpVj2E2B4S-MKY8YPUVsWr1WfP0_w0f8s3MQEEkNHa9wyIdeO8QOWyScCI943K5z267c7easfBN5idTcxpzsryK446eP_Ldq4-GI5Y7Mqf77SGOS5mOagFSk0bcWrBXQ5O1a_iY_qNTG3c-ftJ9PuPPYPUNfMlYQE0qRFUtu7UukogYaQKai-v64_YyxWCOg67FFAgJXdfrC0N_I92fvSS57T0MY_7GupbiNsLNVtpMxAIFDeAG1u4JfL0abXGudQZhsuEs3gbSZJni4BLzDWUbA-HB8BOFSfqHfngc3DiXFqklzGRqnGauPcxl2jvHNQHxqxDxkcWqKcoVVEciWkfGUyCkiaAUkUogfJvApJlB-2QIInF6Tm5cY5eRIS2hPN_i0KZww1SmP8X97axwPRW71KRg0vSan_Y51QlyLt5nTb_UzdxUSroZiN1LtAFxWOSgNOoADlM0FZ3G2B7Rx0Tb_cwQsd_24QmLZZr0ULvl1VdwoLFw&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: 6:00 AM – 10:30 PM",
+      "Tuesday: 6:00 AM – 10:30 PM",
+      "Wednesday: 6:00 AM – 10:30 PM",
+      "Thursday: 6:00 AM – 10:30 PM",
+      "Friday: 6:00 AM – 10:30 PM",
+      "Saturday: 6:00 AM – 10:30 PM",
+      "Sunday: 6:00 AM – 10:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Sagar Fattepure",
+        "author_url": "https://www.google.com/maps/contrib/115087402093023168963/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIdBXylwtp-gg0wF0FYMRUG55pbwzSfG-Ruaa_gE5WVV0eP89Y=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Best fuel pump with 100% quantity and quality. Best service.\n\nCNG Available with buster pump",
+        "time": 1748536362,
+        "translated": false
+      },
+      {
+        "author_name": "Vijay Singh",
+        "author_url": "https://www.google.com/maps/contrib/111480246453577292463/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOix9KYzYT0MyNAptSON5Vtakeh9oKFq7uxqQcNX48JhfgF4Qz=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "2 years ago",
+        "text": "Good quality petrol station",
+        "time": 1671878666,
+        "translated": false
+      },
+      {
+        "author_name": "mahendra singh",
+        "author_url": "https://www.google.com/maps/contrib/112424481889564262767/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_AVrQZWfZJpvVWbuUVG72aNdJwDq1oJZ4UZDPOe4NsadIxHqU=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Ok",
+        "time": 1548417512,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:04.400011",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Nageshwar Petrol Pump",
+    "address": "Nageswar Petrol Pump, 14, Tirupati dham, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJdQsI1gN0YzkR2Ms8Ep1HvZk",
+    "rating": 3.6,
+    "user_ratings_total": 57,
+    "price_level": null,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.2046667,
+    "longitude": 75.8014688,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeXKAI-eVWZz9DtL9AukSqTQtK0MK4IQro_S2sgDKBVhSTEwrKaMt9fPyzO8D1036zO31DHbvcX5vVPUU5lFFTw0fWYPvaKbYxgWOfJoihtG91zR-_wI_UwIgu4yuf-NRHXVLnUUQtJ8C5oz33YXa1xG9foSUA-0ZqYfB8rIR3OXoUg_TMJdar8S50vP1mal6ANQ7cKvWMLR-TCnzvxlx7-mtBtIF5qE8FP4x388jZb-Degk_mvSv_JcBAJvXnp1PrzMxeoTqB8_4IF8qZYmtS2juP5FtKnaPqtsZsxZRDe3YdvDOKm2n-87S4y4Bfrfn-bA5neVzPP7PCYrcSItTTZkC8xODpLqiyX_GCBb2KJWV4vUOeaEWyZKiad2hWzV60NFngWdpLxvWCGgWTDkNJMRmBLupKdxgJEFY_-CKt1tUScPxhaX9sPcVFm7ZiILDLHzL-nT-kF6Bvp-VRwQk5bM9qnfcwbSOLtUn2dRCxyQWyU9sCWReIgdDmRxbbKB0Zyzh6bekD8jG0QlsCwvbrJ0CcNEHiME6-HCevc_6F8pVwhWf_biY8vQ1r0LT0ZsD6I4ixQ&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "079878 78450",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "swap Dodiya (Swapnil)",
+        "author_url": "https://www.google.com/maps/contrib/115271691758629342270/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0NKFc_7NBuq5hUonBW6TELC0Lh4iNstd9GIbsZflSrwcI1qQ9mA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "a week ago",
+        "text": "Service very slow",
+        "time": 1750684276,
+        "translated": false
+      },
+      {
+        "author_name": "Vishal Rajput",
+        "author_url": "https://www.google.com/maps/contrib/100149799032750673666/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIT9pCeli5gYc8IiwMdeOlQfRYg1TCoP_oRItN5L0tggysUar8=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "You can easily use all the facilities of petrol pump like free air, medical kit etc...",
+        "time": 1648442717,
+        "translated": false
+      },
+      {
+        "author_name": "Rohit Trivedi",
+        "author_url": "https://www.google.com/maps/contrib/106306530464952043977/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmlQNzEB7xQM9sT1OI0pM9uPkZU3OMr5rLGsFY5nEJA4_wxMkq3Q=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "2 months ago",
+        "text": "Ok",
+        "time": 1744697766,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:04.486956",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "GHP Lohia Petrol Pump",
+    "address": "Freegunj Bridge, near Chamunda Mata Chouraha, Sirsagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ86RHr7F1YzkRArI-GfERXe8",
+    "rating": null,
+    "user_ratings_total": null,
+    "price_level": null,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1831839,
+    "longitude": 75.7828155,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "scraped_at": "2025-07-04T16:04:04.533695",
+    "source": "google_maps_api",
+    "data_type": "real"
+  }
+]

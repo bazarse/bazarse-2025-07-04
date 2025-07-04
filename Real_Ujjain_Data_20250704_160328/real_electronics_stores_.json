@@ -1,0 +1,1415 @@
+[
+  {
+    "name": "RB ZONE Electronics Super Store",
+    "address": "24, Bhoj Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ0bBJK2x0YzkRxSJadC2-35U",
+    "rating": 4.4,
+    "user_ratings_total": 1302,
+    "price_level": null,
+    "types": [
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.178073,
+    "longitude": 75.792131,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpffdrpXLANuhACU1y05KoPXN_YHz4adb7TLiX45ij305BtfjHySDJMVKdnsQ-YlnpGBXrHXLnXGSvCf_puvYQcFJlx5cvD_KO7zqpWYlJ-Jw1xb1d9str5kmR5Yw5hk8rDLAMhpGtqXwzB-ibMvlzCro45kL8_sHNi5Q0i5dZh9KUMhms9sOUjJ0HGPOU5tKsh-Y2sLlPxR4u900Lmb6gJv2z-JbefUVBIJNTpGtApvH1v-Wx2KEobm2U2o13QrdPjgrFP0daUgXY2Yi9Gr2spqbynKc0hBDE-WRdATcF-EaaBkdMc&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 253 0181",
+    "website": "https://www.rbzone.com/",
+    "opening_hours": [
+      "Monday: 10:00 AM – 9:30 PM",
+      "Tuesday: 10:00 AM – 9:30 PM",
+      "Wednesday: 10:00 AM – 9:30 PM",
+      "Thursday: 10:00 AM – 9:30 PM",
+      "Friday: 10:00 AM – 9:30 PM",
+      "Saturday: 10:00 AM – 9:30 PM",
+      "Sunday: 10:00 AM – 9:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "sapna sharma",
+        "author_url": "https://www.google.com/maps/contrib/107674223028883377627/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2BoiPbGELrlV5-siTdHdk6eEw38yWvJIOv5s-1oXlKurerJuj=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "2 months ago",
+        "text": "Delayed product delivery.  Salesman not aware of product and also misguided to my questions. When asked for money refund, said 2% will be cut, had to wait for washing machine and when got delivered, had scratches inside the drum rim BUT they considered the issue, resolved it timely and got my machine replaced. Happy with the service.",
+        "time": 1745237389,
+        "translated": false
+      },
+      {
+        "author_name": "Pranjal Kothari",
+        "author_url": "https://www.google.com/maps/contrib/109647870001533220283/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwt162DQyIl0pAqEl3KWRq6ZZp538cQ8N9CiS1Lc3opgfvQg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Nice customer satisfaction ,I am regular customer of your freeganj shop we always like to come here for our all needs",
+        "time": 1750672914,
+        "translated": false
+      },
+      {
+        "author_name": "Nidhi Lucky",
+        "author_url": "https://www.google.com/maps/contrib/104221692346189620681/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJp-_TgGxbL73jD5s6qk5WdLUBCI9pA5TBdUJVPgZB8jQ4hg5o=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "I recently purchased a laptop from this store, but they did not provide a laptop bag despite multiple requests. I was disappointed with the service and lack of customer support. I would advise potential buyers to clarify all inclusions before making a purchase. Not at all satisfied",
+        "time": 1743136592,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:19.334975",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Lotus Electronics",
+    "address": "Vishala Area, 56/2, Dewas Rd, Rishi Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJneEHDHx0YzkRnrewhqKlMUQ",
+    "rating": 4.7,
+    "user_ratings_total": 5761,
+    "price_level": null,
+    "types": [
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.166511,
+    "longitude": 75.799962,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfzs8TZeESKBOHnTFLPD7oa9NQ6YecRQ4VN5byCDL-GdWSaBk2dXayAtjYp8mrgaaVEWhjvwEnO1IbbTn8vh7CQw0O4MAHWsrVN0skK9gYhcfgYBs-bpxhaAVIQhtvjC80lZ26CmDLNWVojcaQ9N5sijaufnS9BLAjiWBrkXSykapAbS6syv7veDzKPVGe0TDePRBYBmb7eX8Z55MYkED-usPCMg8s4kHbDTqFZcEpBNuYQSh6dK-075iU4rHfujtV0fjYKvuGJ6PGHkKWkb25_CzIU116l_Ft4usCU9C6QAvRnz78&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "091113 00400",
+    "website": "https://www.lotuselectronics.com/",
+    "opening_hours": [
+      "Monday: 11:30 AM – 9:30 PM",
+      "Tuesday: 11:30 AM – 9:30 PM",
+      "Wednesday: 11:30 AM – 9:30 PM",
+      "Thursday: 11:30 AM – 9:30 PM",
+      "Friday: 11:30 AM – 9:30 PM",
+      "Saturday: 11:30 AM – 9:30 PM",
+      "Sunday: 11:30 AM – 9:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Ritesh Yadav",
+        "author_url": "https://www.google.com/maps/contrib/114493198690194542447/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4GKyesPl-QuebZpMCg32FnL45-IcTg3dhsfKrPXOTaetW6Zy_dA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Lotus Electronics is provide best service and quality. Mr. Ajay Yadav and hitesh tomar are best department manager in Lotus Electronics ujjain is the best employee and attender he gives us a perfect knowledge of product and cooperative person. Thanks Lotus Electronics and Ajay Yadav ji also thanks hitesh tomar ji.",
+        "time": 1740316422,
+        "translated": false
+      },
+      {
+        "author_name": "Harshvardhan Hada",
+        "author_url": "https://www.google.com/maps/contrib/106906204821262494773/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLjdEiTfyh4j7Fsxpznx59RGXbUqAJsUJl6S1Py2FnbA1IE_A=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "I'm absolutely thrilled with my recent purchase from Lotus. I bought a LG AC and it exceeded my expectations.\nThe product arrived quickly, was well-packaged, and the quality is top-notch.\nGovind Sharma assisted us well throughout the process.",
+        "time": 1750557828,
+        "translated": false
+      },
+      {
+        "author_name": "Prince Sharma",
+        "author_url": "https://www.google.com/maps/contrib/103531072773920382942/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5senK4Ay2wLv2xnyb2S3Cxsz06nM8gyruwjGe0N9F2-AnCA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "I purchased a laptop from lotus Ujjain, the staff was very courteous and helpfull. Ms. Diksha attended my purchase, the chosen model was not available in store but she arranged it from another store with the help of her supervisor Mr Shubham who made it happen on the same day. I really appreciate the assistance provided by both of them. Cheers !!",
+        "time": 1745145434,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:19.421648",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Ajanta Electronics Appliances",
+    "address": "Shop No 1, Harphool Wali Gali, behind Ganga Restaurant, Freeganj, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJVx83DGx0YzkRuuNnZOKQPcI",
+    "rating": 4.2,
+    "user_ratings_total": 188,
+    "price_level": null,
+    "types": [
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1786932,
+    "longitude": 75.7898951,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdT7KBabzs_eyLSu0AdZB7PrUiq8ddIPvwlsRrWj4ztC8bOfnZlgTkjpwSxvd0A7l62eivSUuEJ1xt6Bh8TLpKKE7qGmdgG6SAWlAQcw-P9ifvAPQX60SH0HUCFy-L3a6Syu-DRsVcNurx7WYiAByBP3UHyXzUCkXx-I6uvv7_aMR-CJA3cWeOSmfjeMhFTx8RzB5oCoVRISHbhx_98On8E3E7Nr0R0dKSTPuIgGfwOrDO9s5LvG23_LF6oCmIebCufTiEPFo-dHcpR-74Vsb2o8UxXhGrVpK8bUihXtvOhF4LzfWw&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "080 6220 8003",
+    "website": "https://ajantaelectronics.in/",
+    "opening_hours": [
+      "Monday: 11:00 AM – 9:30 PM",
+      "Tuesday: 11:00 AM – 9:30 PM",
+      "Wednesday: 11:00 AM – 9:30 PM",
+      "Thursday: 11:00 AM – 9:30 PM",
+      "Friday: 11:00 AM – 9:30 PM",
+      "Saturday: 11:00 AM – 9:30 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "SHIBBU",
+        "author_url": "https://www.google.com/maps/contrib/118142164487625014839/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3EguEK_2jDarKxdDJxHYEUmxsyQ5gvGtHPzrc0sbv_rYVHw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I am purchasing since 05 years in this shop\nAll shopkeeper are so good\nI am so happy with this shop",
+        "time": 1699104356,
+        "translated": false
+      },
+      {
+        "author_name": "Rahul Thakur",
+        "author_url": "https://www.google.com/maps/contrib/115411804164503235647/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJihVIRR1FKjyGM5elL3D4OwFrS6CQ-BukmRq8mbH2UnrldFw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "All range of smartphones available wid Lowest rate and best cash back offer\nMust visit everyone here.",
+        "time": 1697960890,
+        "translated": false
+      },
+      {
+        "author_name": "GAYATRI BRAHMA",
+        "author_url": "https://www.google.com/maps/contrib/113045550559855851098/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOj7fFMDjvW02xVd0wPj6O-hbhMmzlNbr4Kkr1BDiJCXR6J-Px=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "This store is a go-to for all things electronics. The staffs are  incredibly helpful in explaining the features and help make an informed decision. The store's layout is organised, making it easy to compare different models. The store had a wide selection of appliances, and the prices were competitive. Highly recommended for anyone in need of quality electronics appliances.",
+        "time": 1701086278,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:19.465365",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Croma - Ujjain",
+    "address": "Shivansh Business Park, Ujjain Dewas Rd, opposite Ashray Hotel, Santram Sindhi Colony, Sant Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ94Q_Gm11YzkRi_p1EMyMXNs",
+    "rating": 4.8,
+    "user_ratings_total": 5284,
+    "price_level": null,
+    "types": [
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.174549,
+    "longitude": 75.791468,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpepvMTq97cw0vKkmJbtPw8qWQvgW-n7EtjsRxgmwwYg-r10kjU_pKGKsvlnWl3jO0WlNbOzW0_nnRE3MBvKBTisXCJdJZeQFCzJCLeSRJMG9UrPbfOdnxPWWd_xdMUlC2gvKf5E52zVsid9GwIRmcSSFooHxyZdTXGVOeyEiZdbhTbuPyQ1gB_8h9BBSslpqLf3iTmVF7ANkI-sg-4M8ltI4GKAxAeRiQYq-1CNY3T6-lNQOQ6tBXDVJYgtWHPpUZLj8PP640SRNA7DmWvGeQMofsmWXL-bEArYUEjsaFY81-pghi15Trp2UNnOaNkmx4wTlIh1a8b_hzxOciyl7AAN-CSUYgOCfkxqiJxiJIJSIEY-OCn9QqWVbcb_EjaTxi7wj182v9sDv-d1aklx2eYXiXvR_4g5wXML97VrOKatzYGGz93xEyDksSuDaj9Hk_RdjEbm31yh98bmeWJpgIkI9h_m-Z23lpRKuI4B1yHdaSg5Oea3ZHQaH2e8ToGB8LhCdAXEo509E842ANcdm7iIc1r4QnpWFzwmWr4BFgE-ECYkdFbxmf-kIBGX2HraYcdF3S4L&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "070656 66139",
+    "website": "https://store.croma.com/croma-ujjain-electronics-retail-and-repair-shop-santram-sindhi-colony-ujjain-263595/Home",
+    "opening_hours": [
+      "Monday: 11:00 AM – 9:30 PM",
+      "Tuesday: 11:00 AM – 9:30 PM",
+      "Wednesday: 11:00 AM – 9:30 PM",
+      "Thursday: 11:00 AM – 9:30 PM",
+      "Friday: 11:00 AM – 9:30 PM",
+      "Saturday: 11:00 AM – 9:30 PM",
+      "Sunday: 11:00 AM – 9:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Navin Bhatt (Marwadichora)",
+        "author_url": "https://www.google.com/maps/contrib/101013185676707336139/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUipeTaSqQLvvI4usNVJajla2t_TbN-v0y0gD2f0Esbg8u-f7Y7KQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "A quite nice place for the wide range of product. Quality products, the staff members are humble. The one thing that is not good is it take more time in billing. It should be done faster.",
+        "time": 1656690733,
+        "translated": false
+      },
+      {
+        "author_name": "VIRENDRA SINGH KHANDAYAT",
+        "author_url": "https://www.google.com/maps/contrib/116979016552243386233/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFop0j34F4CMzAkWA7IFcElrzMX4W1yQ_MOihOP5StPYJVVaOSDg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "Bakwas post sales services  No response after complaints. Never purchase further. 5 lac purchasing ib s year but no value.",
+        "time": 1746118637,
+        "translated": false
+      },
+      {
+        "author_name": "Bhavesh Dhananjay",
+        "author_url": "https://www.google.com/maps/contrib/114381733778137043230/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTALKC8pLOJ21mNBEuyJYka0dkisyto8ElCiDibHeb5VI_PLE=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "a year ago",
+        "text": "A quite nice place for the wide range of all Electronic products. Electronic products like Air conditioner, Refrigerator, Deep freezer, Televisions, Washing Machines, Water Purifier, Smartphones, Bluetooth Speakers, Home-theatre, Soundbar, Laptop, Pendrives, and other accessories are available here with various options. Quality products, the staff members are humble. Specially I talk about Mr. Kamlesh Parmar who is so much dedicated and passionated towards his duty and he is so knowledgeable about the products. The one thing that is not good is the store have various options but it is overpriced! I Must say it is SO OVERPRICED! as compared to other electronic outlets. So, how can i get service or products from this store is a big question for all the consumers like me.",
+        "time": 1694118467,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:19.559686",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "ORIGINAL ELECTRONICS",
+    "address": "37, Kshapnak Marg, in front of Police Control Room, Sethi Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJV5W_Q250YzkRhXgWlwkXInk",
+    "rating": 4.5,
+    "user_ratings_total": 227,
+    "price_level": null,
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1768124,
+    "longitude": 75.7937587,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeLw-0V4ftyRyNMAEwVp3C7YlN5MNDSHZTNDtPc-zL9GO6zdAJh9c42IcZHIgoMnXpGh19MrbqhP6a9MbB6IzhLKvyDjIAOEg6mH1qDLh4KjZk8DytK9_nfqxeJVTzARehTesvbyWxJRZFIUvq_yhc5HJtyL4_foO11SoWaIdo6uFtIhVMau-eefMRbdFWxuGZl1At0z0Hz2XzGOU7f5K_fGQNG8xZ4q9rgpVrZz4ayvwDxoFlzUAh43ESWU0TjqMO-MTiO4Az_riohmLQ1p7JwdS6IJfZ0-ReDijb8Vf0OtjTWSRk&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "094253 32638",
+    "opening_hours": [
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 9:00 AM – 5:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Priyal Shah",
+        "author_url": "https://www.google.com/maps/contrib/104332523791771336572/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKpEXo0bzBKp8oDviecfhbqgTVo5iDzkbMLkCkpRM83Zq0kQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Bought a microwave and a TV, and I’m really happy with both! The prices were reasonable, and the staff was super helpful—not pushy, just genuinely knowledgeable. They took the time to explain the features and helped me pick the right models. Delivery and setup were smooth, and they even checked in afterward to make sure everything was working fine. Great service from start to finish. The owner takes the time to connect with customers, ensuring everyone feels valued and understood.\nIt felt more like a friendly visit than a transaction. Highly recommend!",
+        "time": 1740561734,
+        "translated": false
+      },
+      {
+        "author_name": "Pranav Saxena",
+        "author_url": "https://www.google.com/maps/contrib/103459432105115196087/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJEvyU3LLLih-x0HceKj80OQRV0XQY9899NndcHLKw6-x4E3w=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "Please consider 1 Star as Zero!\n\nI had an extremely disappointing experience with Original Electronics. They misguide their customers and provide the worst after-sales service imaginable. The staff is unhelpful and dismissive, and even worse, the owner seems completely uninterested in addressing any issues. It appears he’s letting his lower-level staff make all the decisions, which is ultimately ruining his reputation in the market.\n\nI strongly suggest avoiding this store and opting for online platforms instead, where you can do your own research and make an informed purchase. The staff at this store has the audacity to claim that negative Google reviews are fake, but they don’t have the courage to respond to them directly. I still have the invoice as proof of the poor experience I had, and once they’ve sold you the product, they couldn’t care less about your concerns. Do yourself a favor and steer clear of this place if you value good customer service and honesty.",
+        "time": 1736532659,
+        "translated": false
+      },
+      {
+        "author_name": "Ram Niwas Bairagee",
+        "author_url": "https://www.google.com/maps/contrib/115326187541539554152/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoEINpOT7JkyShVHlvHBR5GhKpg3WIXeOqARcm3RvUYRdX14JAWA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Best service\nBest deal\nbest behaviour\nThank you original mr.deepak ji",
+        "time": 1750841612,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:19.657632",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "RB ZONE Electronics Super Store",
+    "address": "70/1, Nai Sadak, behind Indian Overseas Bank, Dabari Pitha, Kharakua Colony, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJSbtnmCl1YzkROlxc2wvnguA",
+    "rating": 5,
+    "user_ratings_total": 5087,
+    "price_level": null,
+    "types": [
+      "electronics_store",
+      "home_goods_store",
+      "shopping_mall",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1853452,
+    "longitude": 75.7763769,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpd75S0NvYrgzue8dwHYUWOb5ibnp-_Vtp0pNl_aMft608wBW8xfu0jhdTQ-CRaLR4f7KtRlBty7O87T3SQvSaRtMMnZJ1xuhTbqTjQwajkzYLUeMvunlj8dIf7-M5esWV4zfoAIs_ElsDTM1ROAy9qK7ismQCVSSzWB-EvuenA6A9rG3cghq7-iYbb2e4X_JjVZl26toNoxU5SPLsumwqPJpdiKbt2LCz8__6cmxxunulaCztI-2hWpJwmzMuQgT9OvVwgrk-HT0y09dIZZvQET38qiWII8t98q_QeREuqMNlrXkDfkX-eY3w4StXoZCNMX0slViq97qkYs_3QfghAYx8QGv82RAY-6ZkpSG5P7MBJB7wgXSpgm78hnZUydlSvLFb_b16AN-6gjyGnWELkxY3TXZ2RNeYzZACR-Nl6GZhq4dZL3XsbTdeMkkQrMonxIvx5N2vbZJmrbdZtFUNJuH-DYRiFYIyo2CiyIYvMArZMdd5r1QnmUPx9GNmaNbyhUpAwm2lQ7azTMAJSQ79TzDEsyeBCDRirWaV3cJAT9deNjzV4SYHzw4-yQAC8PP3DZn7bz&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 253 0181",
+    "website": "https://www.rbzone.com/",
+    "opening_hours": [
+      "Monday: 10:30 AM – 9:30 PM",
+      "Tuesday: 10:30 AM – 9:30 PM",
+      "Wednesday: 10:30 AM – 9:30 PM",
+      "Thursday: 10:30 AM – 9:30 PM",
+      "Friday: 10:30 AM – 9:30 PM",
+      "Saturday: 10:30 AM – 9:30 PM",
+      "Sunday: 11:30 AM – 9:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Kaishar singh Anjana",
+        "author_url": "https://www.google.com/maps/contrib/109877041966511643341/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_HA7XZT3tM8pF-mFwMw_UDrRe5WvDJxPJehxWZyPxPxm_=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Good service panasonic wm 12 k.g.\nGood aa",
+        "time": 1738834787,
+        "translated": false
+      },
+      {
+        "author_name": "BRONZE GAMING",
+        "author_url": "https://www.google.com/maps/contrib/109510866514331772416/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJp--o30CPfbxz503nuNzT9Kom7peN-r9aLINv_xRVnUmlR7w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Exciting offers and great gifts and the service are great. Liked the way they suggest the best products to customers.\nEveryone should visit here and have great shopping day with amazing deals.",
+        "time": 1728665766,
+        "translated": false
+      },
+      {
+        "author_name": "Shera Thakur",
+        "author_url": "https://www.google.com/maps/contrib/103807111260246969933/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUthGZClXT4sasZIw_PfHIsx046mf1xSycuLg6RK4b3B8cS2ko5=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Best price water heater rb zone Ujjain",
+        "time": 1735713867,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:19.760399",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Factory Graded Shop",
+    "address": "Trade Square Basement, Near Alakhdham Dharmshala, Freeganj, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJSfn6oL91YzkRnOSbSCEoMRU",
+    "rating": 4.8,
+    "user_ratings_total": 451,
+    "price_level": null,
+    "types": [
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1802864,
+    "longitude": 75.7892335,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeWrFwi0RSOdCP6CcWx0WKjRR4LdM4CSy50smK_h5tKwYShuHWubaozDWcDlcg7bvKR8rggz-Mz6ZA2CWuRmsv3fqDNHF6OZ727dO-rWLb4PfYZMTEDx124QQZCDjuqgMECOdgUyGSvimoEi8SRWCvAq4xMFUvVMmmkMVR2LYwPbt5kTrOTvNrxPvXCPM39RvkJQ8lPmtMS8IryX5F0PH96AdE5MdWkgO1eH5X4OpNn6zaUfYy2BkjZG_wavhz78XNgFwN0nr2tJXN44W0ugd_SxQok4KreHaOLVpqw_zt7P2ZRSAk&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 9:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: 10:00 AM – 9:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Manish Tiwari",
+        "author_url": "https://www.google.com/maps/contrib/106452499293499622299/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnGTrSZx17lx2DfybobTfx-qA7ajK3br1tEo5bdW5zS1biDA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I have been attached with this firm by reference of my boss for last 10 years.\nI have purchased nine products from here and fully satisfide with their services and price.\nI have also given references to many of friends & relatives.It's best place to buy electronic\ngoods in Ujjain.The key feature of this firm is good staff, affordable price & best after-sale service.\nI gave them 5 stars for their services & wish all the best for future .",
+        "time": 1657594804,
+        "translated": false
+      },
+      {
+        "author_name": "nitin sharma",
+        "author_url": "https://www.google.com/maps/contrib/103535991324078015368/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxTXpGug0ibd02HLdpgP52IGUcQ8VKvvlQY-KCFdut8Pawxg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "I have never seen such low price shop in my total life I got 60 percent discount on water purifier which I have purchased three days before. There service team is too good and taking regular feedback from me. U enjoyed shopping with them",
+        "time": 1565698881,
+        "translated": false
+      },
+      {
+        "author_name": "Lakshya Khare",
+        "author_url": "https://www.google.com/maps/contrib/110902820609972665899/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOtZRfLipcp3Xip6HIxJqOPNCWRn87qSzagLnQHpf6VY02og=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "In current lockdown, I wanted to buy air cooler and due to lockdown it was not possible to go out of home and check for Air coolers, I contacted Factory Graded Shop and they did a video call and showed various models of air cooler and explained each product in detail. I booked air cooler online only and it was delivered within 2 hours.\n\nI appreciate the service and customer satisfaction provided by Factory Graded Shop.",
+        "time": 1620804694,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:19.844084",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "RB ZONE Electronics Super Store",
+    "address": "15, Gujrati Samaj, New Road, Nai Sadak, Malipura, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJyfPgcq11YzkR0TWk5CePQHk",
+    "rating": 5,
+    "user_ratings_total": 3015,
+    "price_level": null,
+    "types": [
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.185808,
+    "longitude": 75.77708299999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeauIxd7pYOkMrwy891AeI2VDVhim5LzAt25PLR1Oez5kDRWRF0M-9RXhlFH_8IH7_3J8YEK2dH5EnzEqBxWRxIV9Eal5q75KkoN7sMegdELm-B0xXGlL7gta--Fqj2nYTYnAQn-dO9bCdiDKq2xbLN8HrxqKkzG7hMF96xRL_VlEQ1YH5lVMWNg_c1ytNNoP8D-HrYddjA8kuH5CiPbwUBg7l1LHRn3gICQcTXBeQnYgEcvD7NjI5Yuvnl4hUUDXlXznNRwnPvNtK8U4yBs9auAlmTnA7ACgP0sYduqJkDM5_HCco&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 256 0023",
+    "website": "https://www.rbzone.com/",
+    "opening_hours": [
+      "Monday: 10:00 AM – 9:30 PM",
+      "Tuesday: 10:00 AM – 9:30 PM",
+      "Wednesday: 10:00 AM – 9:30 PM",
+      "Thursday: 10:00 AM – 9:30 PM",
+      "Friday: 10:00 AM – 9:30 PM",
+      "Saturday: 10:00 AM – 9:30 PM",
+      "Sunday: 10:00 AM – 9:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Saroj Sengar",
+        "author_url": "https://www.google.com/maps/contrib/112129012766642691128/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJBrWoULZp_IyXepsVyzkRKaP9MeCPzaLp3rEpWP2PGk9sO=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Nice range of cooler\nExcellent service\nBest place to visit for shopping 👍",
+        "time": 1738137684,
+        "translated": false
+      },
+      {
+        "author_name": "Taher Ali (TA)",
+        "author_url": "https://www.google.com/maps/contrib/106513759009753412918/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuZUgbpdCujzkSRExP1aOZNhKjHKITX970FquDNNL99tWpKE9mMw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Nice support\nGood advice\nAppreciated",
+        "time": 1737195823,
+        "translated": false
+      },
+      {
+        "author_name": "Yajur khanna",
+        "author_url": "https://www.google.com/maps/contrib/108993082617533485244/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoWFM3UZPwqyN0mfCPv5mHiLoXS2Q8K3bVU6p2qpqKPYh0faQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "All range washing machines available\nAt best price",
+        "time": 1738758026,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:19.926724",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Prince TV & Electronics",
+    "address": "Wakankar Bhawan Varah Mihir Marg, near Jai Baba Ice Cream Parlour, Freeganj, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJ3f5590F0YzkRYzCd9ivCP5A",
+    "rating": 4.1,
+    "user_ratings_total": 76,
+    "price_level": null,
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.177729,
+    "longitude": 75.78847329999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpegcnxeWPe7Sla2QA38mYSsZmZIui-EeMzOtg_8X_c4284b7EZoj42Bc7PIv-2d9LyaWQIjcIhhsW4baSgiW1cIomIoLCUMicdBsaHlfoppDXXp7cEgQjcNS2l7TDHtAIvUsaPqg6xn9pq1_WnwacHKKFrdb0FBCCuvGnE-uBPWlPls4rLdj5IO6Q4JTIjczaaP2u9Q9l9KXsGLtp-HDC3yt6lZjH3lq3bi9KUrJC_HOZW9mNktXjG0oF5t4HkqhDz7trcVzg3YfqKK5tPLBOrBGoMojRXqnloLPu3zMWiEwUvvHWQZYRrzQg4zMnAWTZVEhkam0bS_kwlzEdavn0IELZ7cIByHn91HrlagYYSlMWQp9HD2ln2Lwjz5gto0E3iRJUZi96ew-eCzTwcoUFHm2KSung_FaZ333x0UlhBVrRwHZlPxPUjtwojz61wuQllM5Aj1CsjqoQ4v3RLkst9GDyx0oGx7oFj5HquttQwXrjlxwnFlXpsn0dR_2VKoYC0MuWXZQLdRDtLFwQclAz7CeNqYI5_boDPaS-a9K4-1SwFFa5BurWjoUufPKSOkcFGr5KZg&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 251 3893",
+    "opening_hours": [
+      "Monday: 11:00 AM – 8:30 PM",
+      "Tuesday: 11:00 AM – 8:30 PM",
+      "Wednesday: 11:00 AM – 8:30 PM",
+      "Thursday: 11:00 AM – 8:30 PM",
+      "Friday: 11:00 AM – 8:30 PM",
+      "Saturday: 11:00 AM – 8:30 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Nikhil",
+        "author_url": "https://www.google.com/maps/contrib/116592783563038564518/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLeaq8ZzvD_-Wb0sYo-Q7WD7lVKIy-Ux-Ps0IloPzLNg_U5XQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "12 months ago",
+        "text": "I bought a Mitsubishi from here which I couldn't find anywhere else in Ujjain,I was told in the market that 12 x 12 room would be enough for 1 ton but I was guided correctly here and they gave me 1.5 ton which is cooling really well,What can I say about the service, I did not understand anything in the remote, I called him, he immediately sent his executive and guided me properly, thank you Prince Ele.",
+        "time": 1720172581,
+        "translated": false
+      },
+      {
+        "author_name": "Nitin Patle",
+        "author_url": "https://www.google.com/maps/contrib/104678696207162435271/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIuZE85dwHZMVwBOHFdqoLoIHbHRvcat2bMgdwjqtZxfEZsfw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Best store in ujjain",
+        "time": 1733835418,
+        "translated": false
+      },
+      {
+        "author_name": "n v",
+        "author_url": "https://www.google.com/maps/contrib/110152975203204924613/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3D-feDLDSUcWTvfbaIiIIFj0U1nIQeRaOyC67VQZ063wXyw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "12 months ago",
+        "text": "Wide range available in air conditions.VRF/VRV also available here.",
+        "time": 1720171860,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:20.003483",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "A.C.World Ujjain",
+    "address": "LANDMARK, 1/1 TATYA TOPE MARG 5 AKAR PALACE NEAR ALAKHADHAM DHARAMSHALA, Freeganj, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJV4RCZWx0YzkR6p1WlIDKlvw",
+    "rating": 4.4,
+    "user_ratings_total": 23,
+    "price_level": null,
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1808197,
+    "longitude": 75.7895147,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdw7q3EPdjzIPskJ1ln1UCVkjsd7zwH4VtDYnUN0QFytdoTTQeWu6qEY_fq2NPmlXDXsqUineFrMoHVV7d5QUaZ3AiLdjuklWqg-E2A0_yiEktz8xfzmh2ZBwthy605PmitJHtYqaNky9MoBrlwWrymTw_c6OELqjr8C2J7-H_cY5sAiHwKtWtFR2iqp6bS-7w7mLohAUpbJ33gCpRqQvtiIQHlVIE50yGXvWU6eFpXzKRYPI-J7qdlkfVYZITm-EV2QlNyqIm4vVLwl9PjwKsweqcRBQEymZFcnKhj-x8VRlKyvYQ&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "070001 81808",
+    "opening_hours": [
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 9:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: 10:00 AM – 9:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Gaurang Prakash Bhargava",
+        "author_url": "https://www.google.com/maps/contrib/111497603017125359903/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVm05IOVi4vGKy3owj4wxmINACxIjKmgdK2R7SSXylQwOUGDpJA1w=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Very bad behaviour of the owner as well as staff!",
+        "time": 1712829729,
+        "translated": false
+      },
+      {
+        "author_name": "CHHAYA VERMA",
+        "author_url": "https://www.google.com/maps/contrib/103342444053014867919/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQ5mNVJmSTcze-HujHO79Xsr56bprR9HtVfLWh6wxAS1v7lns=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Good product and lowest price at ujjain..thankyou ac world...",
+        "time": 1554011207,
+        "translated": false
+      },
+      {
+        "author_name": "harshit",
+        "author_url": "https://www.google.com/maps/contrib/115990758222557415820/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXRwWLRtGS6CSB9o5Y-y8wq5455lGhs3VVSLVCwyGPU2IwbLHP=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "9 years ago",
+        "text": "Good shop containing all varieties of A C",
+        "time": 1450812797,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:20.065313",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Panasonic Exclusive Store Shree Arihant Electronics",
+    "address": "Shop No 18, Betal Marg, near Sunder Dairy, Madhav Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJGRNWX2x0YzkR32l-gemJ8sk",
+    "rating": 4.9,
+    "user_ratings_total": 150,
+    "price_level": null,
+    "types": [
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.180619,
+    "longitude": 75.7912619,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpf03wBpQRxRkbllmHcR7ayvLjpRg0EzElZFInQvYKPsSwra_WgGWLf7LHszD7ZSnog7o94_kpy34J70Tulyeoe5haU0nFhnou1twtVsC_n_AfJYgu91Y0AJPfJ7L4SLkN50ZWdO7C-H0KixVIdi0nM4YrNdI733oXuNbHq86ELCzGDX1C_aAC4VMSxWJqmf7pFhPlyT9Q6JwOgleS00YyzFbyVFHdAo_L5utY-2quzt0OPCc8lrhnclAJyGhsz3eGIoqIgZnJLNHk5-yX63zbZhe7CbHwP5xerFvqTQat2jF1TYK2s&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "095941 17905",
+    "website": "https://brandshop.in.panasonic.com/panasonic-exclusive-store-shree-arihant-electronics-air-conditioning-store-freeganj-ujjain-147055/Home",
+    "opening_hours": [
+      "Monday: 9:00 AM – 10:00 PM",
+      "Tuesday: 9:00 AM – 10:00 PM",
+      "Wednesday: 9:00 AM – 10:00 PM",
+      "Thursday: 9:00 AM – 10:00 PM",
+      "Friday: 9:00 AM – 10:00 PM",
+      "Saturday: 9:00 AM – 10:00 PM",
+      "Sunday: 9:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Rahul Sharma",
+        "author_url": "https://www.google.com/maps/contrib/101210486835324218367/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKdUUAQymNLnXQd_9a-DnJUpVR3zDgkgODQrw0ovDrfR5NklQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Mr. Rajkumar is one of the best people I have dealt with, very punctual in timings and very helpful in assisting to customers queries",
+        "time": 1711959754,
+        "translated": false
+      },
+      {
+        "author_name": "Kelash Kachawa",
+        "author_url": "https://www.google.com/maps/contrib/116137177574042735149/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLrt719A_ObPv1digI7hEWoHYyzjIlnZmQ8_GuPM22ZMLJYnA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Very good product quality",
+        "time": 1692358234,
+        "translated": false
+      },
+      {
+        "author_name": "Himanshu Raikwar",
+        "author_url": "https://www.google.com/maps/contrib/113514876908927207079/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXnGF-3LGNVf5HaiSLkkries-yjsOvWtkLAYMNQLgQWCE4vUKHb=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Good product quality",
+        "time": 1696326393,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:20.153857",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Singh Mobile & Electronics Haier Appliances India Pvt. Ltd",
+    "address": "58, 1, Kamla Nehru Marg, Freeganj, Shaheed park, Madhav Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJhaCUPWx0YzkRnHHls_wUbc4",
+    "rating": 4.8,
+    "user_ratings_total": 61,
+    "price_level": null,
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1786884,
+    "longitude": 75.7910702,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdZ9Mzj30nFuoFPLmvlwvYIuIWD5BYfU4oeGzmC4jt4uKNb6O5-ouG4tRSJDP3CCEAFnQSIfNpA4J-kVQyVX1zgI70WflFRlH4URdFC-wcw9EtMUB4k0bkBWB5ohMg8sWSv1G_teSzfuphvYHNAuuVPS1V7NTDRjx3H_eSRxuaCjz4-Cipybnci8hu4mYjNbBTizETndWYeRdKlXuUIdVYoNbLvMYDfc6te645Veq-fDOtQDMrrmXoLQxIpZaSpEkeWjlT2aI3NvCufzqlHgOi92UTawOlpuBZSO3ke52qSiyXl2NI&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "099262 88990",
+    "website": "http://www.haier.com/in",
+    "opening_hours": [
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM – 8:00 PM",
+      "Friday: 10:00 AM – 8:00 PM",
+      "Saturday: 10:00 AM – 8:00 PM",
+      "Sunday: 10:00 AM – 8:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Upendra Kumar Gupta",
+        "author_url": "https://www.google.com/maps/contrib/112354254272857943148/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwyIsg7YENZWQXCuF4t0mo4LVDE_CUfgfMkIjQZoqY3zJqCcY5=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Very Co operative. Produc i.e\nAC 2 ton heavy duty very well explained by the dealer and insty was also flawless. At this the ac is working as described.",
+        "time": 1740674148,
+        "translated": false
+      },
+      {
+        "author_name": "Lakhan Khiccchi",
+        "author_url": "https://www.google.com/maps/contrib/114583345607188921409/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3xIRlnpFBYXvoO7AXI5wj1b-01ASHxYxf6SjfEWslI6DaMg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Great discount and lowest price from market...",
+        "time": 1740649011,
+        "translated": false
+      },
+      {
+        "author_name": "Anas Qureshi Qureshi",
+        "author_url": "https://www.google.com/maps/contrib/103813251327002183729/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJChJK-RbOAQSWN8N-94zo69l1n67JBy7b6gkpStafx03CO3w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Great products lowest price",
+        "time": 1739712303,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:20.264988",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "LG Best Shop-DOORDARSHAN ASSOCIATES",
+    "address": "NAVAKAR COMPLEX SHOP NO.1, 2, Kshapnak Marg., in front of POLICE CONTROL ROOM, Ashok Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJlc71f210YzkRq7SkyLc6ihM",
+    "rating": 4.5,
+    "user_ratings_total": 136,
+    "price_level": null,
+    "types": [
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1762822,
+    "longitude": 75.7934136,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcaFQVlmuJhxEUQPAU5KXA0s9ziUb8uyBDTmSNXkBetfy4dEgDzDhp5EddynOTY8Yo_PZc46J4C4NiJzdVHeA152VSfSJHLMwYK-dSh4nu_bFvb7xVymJY7xfHW6GrGak08nlIL_TeAzyPoghGMxHYDbKl2kkZqTSC281q55BOBPPW_hnUQ0vzbcDwwXXneOSVTZAlTUDqLzHHsDIQaP9VbeeayIZ_2n6vWlR4noN6GrHRib-ISVqKnKcM0BJJcA_WOBmy7KN5QWR_Rkk21IhKXvDp94xEBlw7umwY77Lsa5s5_G63hCcdD9AgnBIUrfwvsgGuAwwnoO-XKW8gOJBIvVZh4EyLHMKv_Lpjok5mSjxz9m-WJbjbxnFEMZZaeZ22OmZ4JfraHaSBJMzggCygiois1d5MiPbhseaLSKc3JjEYlI678jLVBzGW7HtVEW1I3QB8eNGqmjNmOo_npzA9ZCTrYiB0jnOGkK6bm1LADxoRZZe0TuhPK3lvUu9jdpecJgIoIrLvY_wgybykz5U12yGRJ9M4dGLyyL3K-rRhkwx6pulUldRZ8r5-kIQlZwx3K3Jd0&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "093000 84141",
+    "website": "https://www.lg.com/in?utm_source=google&utm_medium=gmb",
+    "opening_hours": [
+      "Monday: 11:00 AM – 9:30 PM",
+      "Tuesday: 11:00 AM – 9:30 PM",
+      "Wednesday: 11:00 AM – 9:30 PM",
+      "Thursday: 11:00 AM – 9:30 PM",
+      "Friday: 11:00 AM – 9:30 PM",
+      "Saturday: 11:00 AM – 9:30 PM",
+      "Sunday: 11:00 AM – 9:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Dr. Harsh Vardhan Puranik",
+        "author_url": "https://www.google.com/maps/contrib/101072822534554009189/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWapMNXp8Dvx30fk2aqCec0_qj6A1byOkoAE8hlxFoC949ykZQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "A shop you would want to go... Not just for the name or brand value of the company but for the best quality of service that will be provided to you. Quick actions are taken for any registered complaint. And quality of service is not compromised at any cost.",
+        "time": 1545898421,
+        "translated": false
+      },
+      {
+        "author_name": "Siddharth Shrivastava",
+        "author_url": "https://www.google.com/maps/contrib/100823412939234638221/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5byEXbwTlVU4mmaW9ZNya4OD3wFpgJjgku6jaYiDc2rl2Xw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Very good explanation by Rinku Ji on the products. I am very happy with the purchase experience. Will strongly recommend.",
+        "time": 1677337090,
+        "translated": false
+      },
+      {
+        "author_name": "swadheen joshi",
+        "author_url": "https://www.google.com/maps/contrib/111718002366995467154/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3C7IvXp77GQEkyYCQ2zoazG2LEb-5imkeSkCW5PRbegrfwMo=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 years ago",
+        "text": "Worst servisce ever.... They never stand on their commitment. They attract you with there offer but after finalized the product they walk out from the their commitmes.. Also did not treat the customer well..  So customers be aware.. #jagograhakjago.",
+        "time": 1571598517,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:20.348184",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Alankar Electronics",
+    "address": "Prakash talkies, Nai Sadak, Malipura, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJlX0t2fp1YzkRlcTLWx2g_u8",
+    "rating": 3.9,
+    "user_ratings_total": 17,
+    "price_level": null,
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1874441,
+    "longitude": 75.7774445,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdKjPPCemLJravHPMJyCHTjfWQcWagh45-klDOUXnhOGrY-4-Pti9dN0GI3iYAAK0zNg6Isf866fDdjSX4nwEGDGae2CmjEoJi7zEViwwlH9cdrO2TDYI5MU_40aJb_iWVV3yB4LhZ3oCyCcUKGYAKjzTcDkks9jlLZRbf_3q3Zx7LBeEpcpita4fZ5_gQ5pGQQbJCdNDsjEhgBY7UxTYTOQw7Odj62kIoLc5EK0XRR1LiR2db4hRJUzqrlmZ8icsAHm3pzSLT2Nos6vBqWOGNUw37isYqKjzFg5Wb-UCvw4ivEc75hIRPzb5d2DKmGb52KrH2LVLqLz-m3DG9mk5mp9ujzW2p-DrtWfFMr4PBr7TrnXwGLjLJ-z3iyQiA_zgDmV1h4W8IWQyY_KSj3uGiRIPSqPTcAX4mLXuknabvdJWyKcZgkOSXtR8Xnl1zgPQQOBRfWDN2S8QPcxYGoQdQmjDFBQ5SdYKUyiKfH2O_Ux2DoV_leRWVimOlhA3lBW4NV4yhZIt1GLyCYW0iJyG1FgXEkFRn8Wk1HW11aZFwSQQey37NFIOwIGbKxBtB6pwq4Hi7xGLC36gsEEc5VIXBv6x1ubA&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "076970 69999",
+    "opening_hours": [
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 12:30 AM – 4:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Vijay Shukla",
+        "author_url": "https://www.google.com/maps/contrib/110729074621572509832/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdFmh-H_xPlQlmvaRPizBNImVDwXkSDQc53k7Y7_XIlHLgDoA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "a week ago",
+        "text": "I bought DC fan costs 1500/- from the alankar shop. Within 12 hours it stopped working. I m deeply saddened by service. Lost faith in alankar electronics. Not recommend to buy items as I m in Airforce and was taking item to long distance for easy life. Neither I can return nor they care.",
+        "time": 1750512695,
+        "translated": false
+      },
+      {
+        "author_name": "Mr.B Src",
+        "author_url": "https://www.google.com/maps/contrib/103602978279336059429/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJgZ7cThJQ_VLrpgbJesYirJkrmR-VPX22cEm6pJ_TvrP0xGw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "This is a great place where I often find products that I do not get anywhere else in Ujjain. The rates are very very reasonable and the customer services are always nice. It's one of the oldest and most trusted shops of Ujjain. From years we have been visiting the shop for all our electronics needs.",
+        "time": 1751005858,
+        "translated": false
+      },
+      {
+        "author_name": "Megha Mishra",
+        "author_url": "https://www.google.com/maps/contrib/111119865324342297797/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8uY151bfeyN7s6G_uAU8NwMpOIwFApSHvT6x1KeKhL6ZzHIvC=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a week ago",
+        "text": "My husband bought DC fan with battery from Alankar shop. Within few hours it stopped working. He is posted to remote area and was facing electricity problem. He is in train now and going again to that place. We kept faith on shop. Now it is not possible to return the item from that distance of 3200 km. Kindly understand the situation of a Defence person. Nobody loves a soldier until the enemy is at the gate.",
+        "time": 1750523882,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:20.408864",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Mi Store - Ujjain",
+    "address": "Dr shyama Prashad Mukharji Shopping Complex, 04, Nanakheda, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJj5kuV8Z1YzkRMQ3XHwW2GEo",
+    "rating": 4.2,
+    "user_ratings_total": 56,
+    "price_level": null,
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1568422,
+    "longitude": 75.788602,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdiDtM3YZvRiGQD8unlAqPur5GzDEmC4gwIRWW8Qf6mERJnoWVqEPG7MK7re1o5OsOz7Gzg8Uw13Wi7agQtqHEPMmvCQPO8rxXk0dkEyDPl34TVetsW_ToyLADGA_gw5XsezD-WGhDy6YjmdiztecJ0kgeBdUodoCZ01fKeyP9YBjSJ0jiGaMnyHDkk55SI8m7k-s2RFsWZETvcNWz5I952HyTYzdzj1yPObYhvFz-1giOmI5PWfAYC1FyqR_kb3OrhGfySqqfvY6kuTzxNQpjXk8mUDWnyp3DsAHShmN3qBBndPVg&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "089894 48222",
+    "opening_hours": [
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Jaya vishwakarma",
+        "author_url": "https://www.google.com/maps/contrib/105791113382028032042/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUznfeVAm8NWx5tnYdZTuG3DoO7rWmozs9UgXQ97rVVq5XKNe8zBg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "I would rate this store as 5 star just because it's a mi store here you will find all the mi product at the original price as on the online mi store. I loved the service i went there to buy note 10 pro. And loved it\nI just request the owner to add there no over the map .",
+        "time": 1626205400,
+        "translated": false
+      },
+      {
+        "author_name": "Shivani singh kashyap",
+        "author_url": "https://www.google.com/maps/contrib/112084722335931323587/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNnU3Ix4DC_yvVFpM0a9qJBfLXNr8TgZK_9BEDCWXF_rveIQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "With utmost patience they handled all my queries...they know customer service I must say ( atleast more than sales people from so many other stores in Indore🙄😕) as they listened each and every thing that I was looking for in a led tv...they understood and suggested the exact tv i was looking for...I bought one for myself and m Happy!!!!\nWell, i definitely recommend this mi Store,as it has wide range of latest products....",
+        "time": 1658946462,
+        "translated": false
+      },
+      {
+        "author_name": "Fardeen khan",
+        "author_url": "https://www.google.com/maps/contrib/107351923086326744298/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXnnMdckpFYPU9qQnIqVsT-k671PBVCxykBvnkzmNqW5k2oh2GXQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "i went there twice but the price on the online mi store nd offline store was different then i get to know this is not an official mi store anymore it used to but not now i don't know what these guys are doing they are spoiling mi reputation i hope Xiaomi will take strict action against them lastly i had a bad experience there i won't recommend anyone to go there if you wanna buy something online store are still better then this one...#peace🤘",
+        "time": 1628742114,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:20.436627",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Dash Enterprises A Computer shop Deals in Laptops Computers Printers and Solutions",
+    "address": "16, Kamla Nehru Marg, near Gurudwara, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJQQQ5fm50YzkRI8tctxZ3Epg",
+    "rating": 4.6,
+    "user_ratings_total": 277,
+    "price_level": null,
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1775167,
+    "longitude": 75.7926225,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdOd-m2ox0TfUACYvkiqbjtJnROdR4bR5VTbr1Z3Dxm6yOW-VqbeYaNRqHtI314YZtx9uFwyXz5DEUA1c-RXVjq6peafzcMcbMGzMkZONZ7tcCtu7BeKj6_BDLmK2680v04GzVZ8wtQQbaXqS3SsopsDSYEKF63HtpH9eg8XP5VvfmG33rs24FR45-kj4oc7rmNEPIw2kbPS8mqZ3oxc5Vm8SNaRU5s-Uj3gyIreREDrhg72BvVTVW3V4kGKfwtRXZCqBrClhi3cflcpuGelvFh_OKSvd_II8K3FfZV8zt5_XFM8lxbGDNiSaLjBNUzX2fF5S0hg7yr5qlvq_tNff6LePE8pJQZwiMqS9bgY7k7ISWHtSkPbWn05MyPpw4bbycA9WF_Qe8lS9nViF3lUNRBGfBny0-URjvwXC1eSMAi-H3PKd8r24kwePGlS4-QabjrgtFk2wQZitQn_PojuCMbfIiyHz3AXEeKllG2JRMoWxtC9mEAny2JqI2h2XJq1OwLEPkAmbM03hEQn22m3uuktqat2JNuTNeVg8ldUAK1M4ZGLaF3Cvjr3L5_z-z1ZM-uR5cy&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "099930 48027",
+    "opening_hours": [
+      "Monday: 10:30 AM – 9:00 PM",
+      "Tuesday: 10:30 AM – 9:00 PM",
+      "Wednesday: 10:30 AM – 9:30 PM",
+      "Thursday: 10:30 AM – 9:00 PM",
+      "Friday: 10:30 AM – 9:00 PM",
+      "Saturday: 10:30 AM – 9:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Prathmesh Kale",
+        "author_url": "https://www.google.com/maps/contrib/116373457029691065886/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIMqjSuSfM-bx4kqb4pVIjZo4swwS0Yzu_wzfROD0IGuYXF_6h=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "I had an excellent experience with Dash Computer Shop. The staff was knowledgeable, approachable, and quick to assist with my queries. The quality of products and services exceeded my expectations, and the pricing was fair and transparent. They truly stand out for their dedication to customer satisfaction. Highly recommended!",
+        "time": 1741779893,
+        "translated": false
+      },
+      {
+        "author_name": "Mathur",
+        "author_url": "https://www.google.com/maps/contrib/104065391783870396726/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQ7DEBN0Dd4c6XZExseR0EybpzwETc24R3Lb4zmpSPfZX1DkS7=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "Making money is not important,making emotion is very important\nWithout being bossfull, they helps us like a family",
+        "time": 1749296098,
+        "translated": false
+      },
+      {
+        "author_name": "Ankit Dadda",
+        "author_url": "https://www.google.com/maps/contrib/105387821065403901241/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJ4Eo-CzK-BgXX260D4j3-hVb5Edn5ABSZ7SNRLw1e6buAU3Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "\"I'm impressed with Dash Computer's exceptional service! Mr. Harsh Jain, the owner, and his team provided wonderful support throughout my experience. Products are genuine and of high quality, exactly as described. Staff is knowledgeable, friendly, and responsive. I appreciate the transparency and honesty in their dealings, making me feel confident in my purchase. Prices are competitive and products are authentic. I highly recommend Dash Computer for reliable and trustworthy computer solutions. Mr. Jain's leadership has clearly set a high standard for customer satisfaction. 5-star rating well deserved!\"",
+        "time": 1724419469,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:20.535892",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Varsha Zone",
+    "address": "59/3-4, Kshapnak Marg., Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJB8BVVBCJZDkR2m_YxJs6Q9k",
+    "rating": 4.7,
+    "user_ratings_total": 12,
+    "price_level": null,
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1775357,
+    "longitude": 75.7935428,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpflDgX-gojsGcuvLqHkSMW6QkizttUnw0TM3sVk0c_vjvWhwpXsuWuN9LOj0JM_q0KJ9YWrCCZI3a-sDVbrLVOQcxI6nRaqHBL0Tz965jzXYcj5HxE3yZUJFhj0XtjInY8htrRrYs_X3HdIBG2BN-pPOO9gNNXGYHiOGIKxLiNNdK6NBOYmUaEo4i-CyGZyx78VnLeLbnNFYJdbJj5S7QuEGPGFjGVhRwI_sNMzo1iz9I1UF6NUtpLx2YZFq8YuppjIlVPjy80NP-U5Bw5ZERgKKsE9aDEtzDXm0E_OFpGL9HJM-dYwH7pgl5jIxeoy3cXBOJ650AZPoz12Ty2sXQ2lToF0B-bXDVt4UNqH9U4KrCIwOFRBZ1h3xlPxeJai9n89AMgXvbCVgWsSRMW3y_LUE_6Qh-LN9qTsNwvn9_fY3XUFjB5MEPA6vo0Lim4c1AhGo4GxLaDpD8OSfhGb66n9SIOmFBjAQEafUMfdM9N5hyrWDa2QcX7wwXX8NZchHuZfONtm8LSvJXMxHzsWqKiwknRdkGHCc5jGxS8ZQ_aqHxw3Ew19p3GgfkyfgTqqOh7_dZBVrD5SJw&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "mohit jethwani",
+        "author_url": "https://www.google.com/maps/contrib/105964853746472832124/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEYcbLZkyfobmVuUn8tBlqc_PZEC2mitVsEviVerTw0wspkQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 weeks ago",
+        "text": "Good Shopping Experience",
+        "time": 1750386914,
+        "translated": false
+      },
+      {
+        "author_name": "Shrirang Karpe",
+        "author_url": "https://www.google.com/maps/contrib/108417724546631923216/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdYYmD4cKrcEsTnWV2HysHaf3otV0-fCSn2WfTljq2lMMQa58=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Best place to purchase mobile phone",
+        "time": 1710899600,
+        "translated": false
+      },
+      {
+        "author_name": "Rajkumar Gulabwani",
+        "author_url": "https://www.google.com/maps/contrib/109670061397488975400/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTJya1txlyTQ5fVw0-Nh_IAMm_ZSymAc75KEnH4SpUpu1pHA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Nice experience",
+        "time": 1681400958,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:20.607693",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Tushar Electronics",
+    "address": "Avanthipura, 52, Ankpat Marg, opp. Sri Vijay Hanuman Mandir, Urdupura, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJtQg8oyR0YzkRRq0qr0_U0dY",
+    "rating": 4.8,
+    "user_ratings_total": 15,
+    "price_level": null,
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.2028615,
+    "longitude": 75.7772715,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfsacT4rNHFaRV7obuwKo8f02ag5cI0kkkeBL8lPGAv931ZMaMfmAcIJUAiowAjnM-BqGGM-sJam7MXV-U0xSi5d8dhZhQ3eX2trhjLQwz_tkDVgptuufnwp2xiiSOsxcR9chn1LBAISLTA3JOzYmCKN1MKdi_922LCn4-DasEvHBjUgeZ1BAfQEBXeSoJIqXAhljEGC97dKgQ7oMGGQcMQ2LJXZ-Dkx9q39oNn0mz9Ykhw8Xf97F4DzXhHzFezlZyvJEuFcMG1Va8zXSGjDIKK-MgZfXH9yHQV9Lctp6FHRp3jwGo&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "098270 17371",
+    "opening_hours": [
+      "Monday: 9:00 AM – 11:00 PM",
+      "Tuesday: 9:00 AM – 11:00 PM",
+      "Wednesday: 9:00 AM – 11:00 PM",
+      "Thursday: 9:00 AM – 11:00 PM",
+      "Friday: 9:00 AM – 11:00 PM",
+      "Saturday: 9:00 AM – 11:00 PM",
+      "Sunday: 9:00 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Dev Raj",
+        "author_url": "https://www.google.com/maps/contrib/111603763675235289367/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzoop-9vulwEbb0tKPE0-cB0xFog_9UxPy87TxY8g1DIqgIf2XwA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Sabse best service.....and good nature 👌👌",
+        "time": 1713101766,
+        "translated": false
+      },
+      {
+        "author_name": "Kulvardhan singh369",
+        "author_url": "https://www.google.com/maps/contrib/111879145330007693979/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVeQnyz9W-uCumPM2AEkeimN9VXP9hlGl17MdqMRiZW-sbgb1H_=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "All things available at shop\nVery polite person and experience is very good",
+        "time": 1680241826,
+        "translated": false
+      },
+      {
+        "author_name": "Santosh Baroliya",
+        "author_url": "https://www.google.com/maps/contrib/115693271575839314040/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoQIwtIFaOv2SDl2gHXOt7FZdkvJu1hfmY87OJ6aEF3d4Kpxhd=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "👆very good service",
+        "time": 1690554368,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:20.873518",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "ASUS Exclusive Store - Mahavir IT Solution",
+    "address": "Shop No 24, Kamla Nehru Marg, near Gurudwara, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJObZhqAF1YzkR6TcWWp-kmlo",
+    "rating": 4.9,
+    "user_ratings_total": 838,
+    "price_level": null,
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1772857,
+    "longitude": 75.7922947,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpd2XKVipcWeMdyDxbZnfbImAutscrb5WxkW-tb5jqnRl1ktj-o8PSf1Hw8MQNxrU2dnhVOV90eVXiKnAVZYPfmiqRiqDRb7bhKDNyPaYSSnT-4Qn82oonGW_dRA_cjDhREAyre78ygvnb3TZBkhFYwRNnlMbG7zoZ6q2JRIkP6yXErk-b9WIEaRSbSupabqmDDrxw-imhm7PR7-Ft5dn8JwAugDPqqnHWhNyqPEQP4ES0ioLZK1Bwe75R20X9Ph-tMBKbxIAgiXvDEhLPt0cPZossiEB8CopUWtqj2DqoY4fTVez5A&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "080 3701 6463",
+    "website": "https://shopnearme.asus.com/in-asus/laptop-store-in-ujjain/laptop-store-in-freegunj/asus-exclusive-store-mahavir-it-solution-in-freegunj-ujjain--b3ebaf5c-8c8d-4a5a-ad35-89b722e18b1b/home",
+    "opening_hours": [
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Mukesh Sharma",
+        "author_url": "https://www.google.com/maps/contrib/106331772514070445905/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxf7pGwyZ3tEiElaCEYnQZBZQb4vOC2PACQuIKCJHqv6sDCQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Bought ASUS FX607VB-RL087WS from Mahavir IT Solution, ASUS Exclusive Store Ujjain. Genuine product, best price, and great service. Highly recommended for ASUS laptops!",
+        "time": 1750427425,
+        "translated": false
+      },
+      {
+        "author_name": "Arti Yadav",
+        "author_url": "https://www.google.com/maps/contrib/103603148390366229180/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaWzqYCppYJpdiTGlI50TtH9qpssyG59-niwGdEWTF5UMzXWU6hQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "\"Bought ASUS Laptop model E1504FA-NJ132WS from Mahavir IT Solution, Ujjain. Excellent service, genuine product, and great support. Highly recommended for laptop purchases!\"",
+        "time": 1750768811,
+        "translated": false
+      },
+      {
+        "author_name": "Shri Ganesh kripa exports and imports",
+        "author_url": "https://www.google.com/maps/contrib/107421007579296465928/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocItFSgzp1IJJeoNEu2fpdbQ5RnynJUOsyM0N-AFCIzsRE6m2g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Nice services, gives proper guidance as well do all the needful things to the customer whatever he needs",
+        "time": 1746012200,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:20.957776",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "New PC Gallery",
+    "address": "Shop No, Shape Arcade, Sethi Building, 1, Ujjain - Maksi Rd, near Pakiza Freeganj, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJGXxkcWt0YzkRMwd25WL4qRQ",
+    "rating": 3.6,
+    "user_ratings_total": 252,
+    "price_level": null,
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.180871,
+    "longitude": 75.788406,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdfvNv5iRXUE4nyvRmi3quOTa1-kz02oX_WWd8BA8wzYJfLOeFapOhp2WJDnS764hIiZ8g4pUHOziuCeEtM_iYb0T1bhiXcRJcoQkUV9CeoNxcX2prVMEHz_LM9GoxCOm0QiOrTyMqG2Qlc7g-rJEX2SM0AYRZlTOrJqv94aGbsMY4d2kAtqK_Dkj9RFyLT7nfgWzBtWEuFTlo7qGVKVlctWwkq8YICp-taEWFdLRSD-fdxTY01UFao4iqBMWtX17a5uQjl9hc5zlGXO6DIC7W-d01NiokPqWUHM8L3Wumi0aKYQabaZaCqrwT7kIJNo0E1qNvn_QdZsWEiqvAp95JEykuM_fwGlb1QTwGePumkHw6-1-tW01iSLH-Tc7dwdgd1hY-o9O7T9dWf8MkLhtigErA2TalJfxO-fsyGzCmIFfrvNYfGXT9QgXMbru59aryRMRSB-YYyUx3G8P5cjljUTDQe2iLVVoOT1AF-cXXDf_aKgjHhdmxdfxuEk8ysbHH709wSW8X1P39u0FDuhMVUd65eTb30zlTfWDZvRMCOOMMZNatilJrNWhh-22Dm1td5t_mKEK8fgA&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "098270 70087",
+    "opening_hours": [
+      "Monday: 10:30 AM – 10:00 PM",
+      "Tuesday: 10:30 AM – 10:00 PM",
+      "Wednesday: 10:30 AM – 10:00 PM",
+      "Thursday: 10:30 AM – 10:00 PM",
+      "Friday: 10:30 AM – 10:00 PM",
+      "Saturday: 10:30 AM – 10:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Ankit Vyas",
+        "author_url": "https://www.google.com/maps/contrib/115196090261542445500/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUuF7wpCqe6mh5GhqaLPbCsRKBZLVyfOrzG2gfnK_3f6p1_Us1Y=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "The build quality is excellent, and everything runs smoothly. They also offer great after-sales support and genuinely care about customer satisfaction. If you're looking for a reliable place to buy a new PC or upgrade your current one, I highly recommend New PC Gallery!\"",
+        "time": 1744204562,
+        "translated": false
+      },
+      {
+        "author_name": "Hemant Mendiratta",
+        "author_url": "https://www.google.com/maps/contrib/106633191688582530415/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEX9e_sJox7pG5dIaNdmRuqLSPQyBgq7fa3bbLV4cVZR43-s7f=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "The staff is very friendly, knowledgeable, and patient – they answered all my questions and explained everything clearly. The PC was ready on time and the performance is excellent. I also appreciate their after-sales support – very professional and responsive.",
+        "time": 1744206543,
+        "translated": false
+      },
+      {
+        "author_name": "Virendra Sharma",
+        "author_url": "https://www.google.com/maps/contrib/114727737147863688644/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4v3KVCNYelehi4MQKyiLIEWipBiykGUb2JFR3c7JtfVTMuOCc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "recently bought a custom-built PC from New PC Gallery, and I couldn’t be happier with the experience. The staff was incredibly knowledgeable, friendly, and patient in helping me choose the best setup for my needs. They explained every component in detail and made sure I got the best value for my budget.",
+        "time": 1744204332,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:21.092186",
+    "source": "google_maps_api",
+    "data_type": "real"
+  }
+]

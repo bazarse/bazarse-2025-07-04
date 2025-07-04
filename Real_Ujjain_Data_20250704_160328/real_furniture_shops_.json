@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Woodcraft Furniture",
+    "address": "Bus Stand, 1st Floor, Cosmos Mall, Treasure Bazar, near Nanakheda, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJ2TNx4G91YzkRAvkhkJuJ0fo",
+    "rating": 4.6,
+    "user_ratings_total": 97,
+    "price_level": null,
+    "types": [
+      "furniture_store",
+      "general_contractor",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1565403,
+    "longitude": 75.7943322,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpe7aYEanTZuMC61PfoFesxuuDVvbZxR0M46_PIXPvsaULMtpG3pV1tTHaW9NSFJUAAVkI-k086g-8forPl3ANWAfyIZJFQBcWJbZ1sYwo0K_5wZsPco8iMsZ_EZSyePV-P_Z56l5SfBr_RM0wJXkBwdt54H1fMNYBaOx1y629N85yi6VsZlBGbBRMgLStI4d2bjY9Ks_CZhtf6jy_XUTa0nnJs4qMEjZbzXCmjmmorGxd3WACPBlXp2pYPHpndbw3BkqnNOj6mWni6UA5HsE-XtPpy9Zt7pHeGu34RJWr183_rUxu8&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 252 4486",
+    "opening_hours": [
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Prameet Vyas",
+        "author_url": "https://www.google.com/maps/contrib/117921005477542131559/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6lzSQiDjVxghKWS28LtSOj6uAQMpsJ-ruvy5oUaEYNTqfGIu-=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Nice collection....amazing staff members.. Specially I would like to thank Mr Ashish for providing detailed information of every product.. awesome guy...\nHere you will get entire range of high quality furniture with affordable price...",
+        "time": 1576495031,
+        "translated": false
+      },
+      {
+        "author_name": "Kanchan Kelkar",
+        "author_url": "https://www.google.com/maps/contrib/101470394401612100959/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLPZo7llgfhkbcYPDn7t0fDHCbWyScqLWetca11jXSEnYBQcA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "Very nice place to purchase items of furniture at reasonable price. Lot of varities, good team of dedicated staff who do not leave  any stone unturned in convincing the customers.",
+        "time": 1627954701,
+        "translated": false
+      },
+      {
+        "author_name": "Manoj Mehta",
+        "author_url": "https://www.google.com/maps/contrib/108151359104689626199/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIs6v1BbvW9jUkBOjMVgjtCL7pOLXFmQJ9fRcJwUKZ00pcYmA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Great showroom with lot of variety . Plus staff too cooperative specially Mr.prem deorawho takes special interest in customer requirements",
+        "time": 1576481689,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:23.562732",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Billoo Furniture World",
+    "address": "A-15/16, Mahakal Vanijya Kendra, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJeRMGnYl0YzkRKq5iSLymqOs",
+    "rating": 4,
+    "user_ratings_total": 37,
+    "price_level": null,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1576824,
+    "longitude": 75.7912856,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcCbURT21D0Nnt7AmtccM26yxVZF3lRvc70FbjwdKfRNtMQG8bj28fJ98JFEaGUlesZqpGnYWzwHo0ysE3ORRV5gbOblVGv1eJE9Wku46RTZX5WQAIPR46qmSIXOB8q4IEn-c_80u-Uz5ffQerpWc15Mu_FkJbfkMBVaNorRJNfivBIplOkB65pDuTWImVRI2pl3vmvra66VVQza3cmybHbePfBABsgIel88obDJN2GSyo6KkA6WleBdNG2PjrMDmYuQC38W-B_4TV8o5ShlLWHAh5vt3f9JWlaCxIqNWVXW07iUsj1H_8_3pLKbk_VxFo_AMrIjuoBCgkcdQ8Aeh7kWPtDrTIfawKxWFQN5bIM3KkWheRXKyrdTO81rAbDNcYDcG1dTRCxLkkf1zoIPG_sjKl1kdFDPMn4QfnE7UuVmAYjk-R4eyQYbShLHtZE7TZAalQUzQJMZyglO37ZmTkk1yBsYUFb8itTiiS4nnq3Lney9ykFsDiOY4YBscjpStmUDQxJzEG2VauDtyoG3DLzW2A2Uq_d3baUpRDZEF6ERhnA89GCpcFZDKItU4iiM_3hFz2F&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "098260 59700",
+    "opening_hours": [
+      "Monday: 10:30 AM – 9:00 PM",
+      "Tuesday: 10:30 AM – 9:00 PM",
+      "Wednesday: 10:30 AM – 9:00 PM",
+      "Thursday: 10:30 AM – 9:00 PM",
+      "Friday: 10:30 AM – 9:00 PM",
+      "Saturday: 10:30 AM – 9:00 PM",
+      "Sunday: 10:30 AM – 9:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Aditi Mandloi",
+        "author_url": "https://www.google.com/maps/contrib/115681656796841541900/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsshv2io9kFZ8IyzLbutKmmytseANEZsAXdGIQ6m6laMRsQGU=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "4 years ago",
+        "text": "One stop shop for wooden and steel based home furnishings. Quality and style both are great. Good service and behavior by shopkeepers and staff.",
+        "time": 1601829687,
+        "translated": false
+      },
+      {
+        "author_name": "Akanksha Maheshwari",
+        "author_url": "https://www.google.com/maps/contrib/108234637283621177216/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEiEye7_XjuqKrnZv85beEMAGq-bbJWGp8HMeKoNyCrOIdcTiN7A=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 years ago",
+        "text": "Worst shop, they cheat ppl. Please don’t go and waste your money. Quality is very poor and they don’t provide service also. The furniture bought from\nThe shop don’t last for more than 2-3 years . Totally waste of money",
+        "time": 1525762425,
+        "translated": false
+      },
+      {
+        "author_name": "Manish Sharma",
+        "author_url": "https://www.google.com/maps/contrib/102449936368726911501/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLrTtHqtwCQFVTKPXgreVULB3qf2qCi6YH0yG4xXH06mawKsg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Very good experience quality working everything is fine",
+        "time": 1669259355,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:23.650389",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Paras Enterprises Furniture House",
+    "address": "5, Mahaveer Nagar, L.P. Bhargav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJHUwl12V0YzkRoRe1uTNY3p8",
+    "rating": 4,
+    "user_ratings_total": 29,
+    "price_level": null,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1694131,
+    "longitude": 75.7895829,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcj1Hmw0tP4cZfrPVPLhgX77RkGaUqd68QkH90YivN-4rO8WPPJMgYQOgvPyA0phVdlFPaurryamDcP5Xb-dzlaBdIuZNHC_EaOP7Qbueo1GIAtu1phU1mSb3z46SaFmSGAqrKAPnN960o-hef1XWCOP4uZcoB4ITjXeyhlQZwCv8wwflxF-zPDAcyR2HcnOi2cl5G7Kn7HqpQUU_xT32xouqZfavSmvM-a1lt8v8WjLRAX05vNVB5mHXy8vBbKtTUovrL4gL0J2xPPBfQCwW17JbOCBiAYDzm04ZO4I5N0hADJo4kWlNnxPbBp6dSf5D4zF6ckCo_FhYeNhIGu30MVSz5jldcJ_hKRamZbfbvHuFYAokbH0h2LM-oMp4bjK9cnHzuO7qlOTttiKxeW4B4oDhPEfqwVM0PFFKHaVHEh8Fj2bi_6NqlZgSV2dYr3aaHMkLTo1tE7f_FfQOUPr5jyxrECiglNlmV2_qgPmf04WQVIbhAXSbK0Uj2yrNx89KUY6L_lb1L3F4XDGzB154ZWrsDi0ThXk71fdw6TJFUXrWeboHD-9AIoIRDiYQ6UrSEvgO5n&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "094254 94954",
+    "opening_hours": [
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 9:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "MEGHA NAGAR",
+        "author_url": "https://www.google.com/maps/contrib/104983029904470254008/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJVA23G1LtPKuVJ-1LvRK7ntFtBKrYIg5CAYpUZ9r5OVCWog=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "8 months ago",
+        "text": "Owner is a big liar and talks rubbish with customers. Manners are must while dealing with customers but I think they don’t even know the meaning of this word",
+        "time": 1730879001,
+        "translated": false
+      },
+      {
+        "author_name": "Jaydeep Singh Chouhan",
+        "author_url": "https://www.google.com/maps/contrib/111579907023710304843/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZexER6HoZ71kO0EUNWD8ueXHhVOI3M46-aEp97tqH3FrZ1Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Good design off furniture . Very cooperative nature and good behavior all members.",
+        "time": 1730891694,
+        "translated": false
+      },
+      {
+        "author_name": "Amit Peshawari",
+        "author_url": "https://www.google.com/maps/contrib/110796062788683514976/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVw-kSe5vJTsh_1rX25Ae1t_gXlgTZL_5oBWNDmdeVDMNZMqEzv=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "4 years ago",
+        "text": "Very stubborn owners. Rates are higher than others. Charge for delivery as well besides charging high for same product available at lower cost at other stores. Does not negotiate. Very poor customer oriented service. My recommendation, check prices with them, do other shops in maker (freegunj) and make the right choice.",
+        "time": 1614077542,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:23.733949",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Pepperfry Home Furniture, Mattress & Decor Shop in Ujjain",
+    "address": "First floor, 7, Indore Rd, above Anupam TVS, Mahaveer Nagar, L.P. Bhargav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJY0BuLP91YzkR5RbPhUm2Dy4",
+    "rating": 5,
+    "user_ratings_total": 22,
+    "price_level": null,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1696385,
+    "longitude": 75.7895396,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcz9-nzBfdFCU5-b4v3g5VGTsSK4LC0P7ZpCKFsMkngvN9WEH7qsdBZygKzR6n2LJDpXyej23mvaTEbKy8uJTZXNH3mIZq9sej0AEZ7rCL30adrWo2Z-m31odpQ56eJ5Al5Ksp6eAijccttjWj3MvJZF0QNIZY354YuuY7srZ4CzFwZCHS7fi7t5CYUvg2eD9H2Dmv0KckAXmA3viLMrcO9XBUGiLA1udYiQcZwY52WqqNPwHtYM-dENUisV3LaP5xd9SBnXXKo7yDT-pRGU6w3Ywp5Wl8piDmzcQP9PpGdE5LvaoU&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "094799 73600",
+    "website": "https://www.pepperfry.com/",
+    "opening_hours": [
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 6:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Rishabh Mishra",
+        "author_url": "https://www.google.com/maps/contrib/106920649363601124596/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVAnt1gD8dVQSV2L-WIexXJW3eBM_iIpcgJTM4YlrPv7fO2u5Gf=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "recently visited pepperfry and was very impressed by what I saw. The store had a great selection of high-quality furniture, and the prices were reasonable. The staff was friendly and knowledgeable, and they were able to answer all of my questions. Overall, I had a great experience and would highly recommend this store to anyone in the market for new furniture.",
+        "time": 1680878307,
+        "translated": false
+      },
+      {
+        "author_name": "Harsh Dixit",
+        "author_url": "https://www.google.com/maps/contrib/103239414720951966752/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkiZMtB8-mDhwaJ8ei2ydlcnIb_sXY4JaEktjJiKR1NkZafTBr=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "It was a great experience being at this store. Varieties of interior furnishings and decorations were available under the same roof. Very competent and helpful people. The team is really well informed and will guide you all along to get you exactly what you need for your home.",
+        "time": 1680877198,
+        "translated": false
+      },
+      {
+        "author_name": "ajay dixit",
+        "author_url": "https://www.google.com/maps/contrib/107324054734188802402/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOy7zGTC2mCK3DEm_ogP7VT6F-KU54WsoJJnXUWKQ3e2TpCg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "A very neat and well maintained furniture store, which provide the furniture of latest and modern designs. The staff here are very friendly and co-operative . Would love to visit again and suggest to my friends also about brand and staff help which makes easy to finalize the product of modern fashion, which we want to purchase.....Keep it up..... Very happy with your kind service......Thank you 😊",
+        "time": 1680878301,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:23.817486",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Fantasy Nx",
+    "address": "A28/11 ved nagar, opp. hotel anand palace, Nanakheda, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJF33mti11YzkR9aekVTPi1oo",
+    "rating": 4.1,
+    "user_ratings_total": 28,
+    "price_level": null,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1596184,
+    "longitude": 75.7886757,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpckBX_ToQWlLcbD8EpwryHwO0BFcYD_3XFZZlkfyEyTCD7zIED6GfkiC3JmsdJ7qkdIOJCFRC1Ppy5tmS24vGxiHVpnls_2ar-Eau-qrqBES4UXsvY-GP-Z3lihAqKOeU-wnh6_lhPS2N5PLyXu76Uq1AESREapob_RAEqvpmPocaaPXs_3O3iUF7PSvb60rFEiJxa7iveqMnT9cfJc3N-mgFnAxM2xWNgigJ-J0XCj-duP5baUkWF9_831uWyNusopoCEmEVNFasVVdRrhA_Eom-GvVY_mpH3b5HHONYbD-7YpqDU&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "093402 80345",
+    "opening_hours": [
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 9:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Dhwaj Patni",
+        "author_url": "https://www.google.com/maps/contrib/111478822173756181653/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVV1xnwb41jS1A1F6UqbZ1V9GZd0L6CjkjiyeLk9Aor-jY6Hrs0hA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "⭐️⭐️⭐️⭐️⭐️ (5/5)\n\nI recently purchased a few pieces from Fantasy Furniture and I couldn’t be happier with the experience! From the moment I walked in, the staff were friendly, knowledgeable, and not at all pushy. They helped me find exactly what I needed and even gave great advice on how to match pieces with my home’s interior.\n\nThe quality of the furniture is outstanding—solid materials, beautiful finishes, and clearly built to last. Delivery was prompt, and the team assembled everything quickly and professionally. It’s rare to find such excellent service and craftsmanship these days.\n\nHighly recommend [Furniture Shop Name] to anyone looking for stylish, high-quality furniture with top-notch customer care. I’ll definitely be back for more!",
+        "time": 1747239001,
+        "translated": false
+      },
+      {
+        "author_name": "naman khandelwal",
+        "author_url": "https://www.google.com/maps/contrib/105209181529877839209/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKhxVy8n0A7aky0aYs3EdqovTfWXg4v9jfcssSyb8wBcy6BJg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "quality of product and price will be excellent 👍🤝 service was good 👍",
+        "time": 1747129857,
+        "translated": false
+      },
+      {
+        "author_name": "Mahesh Trivedi",
+        "author_url": "https://www.google.com/maps/contrib/108615163975027737687/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKE60Mu7f0jN3KUYeHPsNDM-H7X2HO9FaLPjKDdGCaJ4L1OtQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Quality aur after sales service best h",
+        "time": 1747128430,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:23.904972",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "H. Badshah Luxury Furniture",
+    "address": "Lal Masjid, Nai Sadak, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJkQBT0Dh0YzkRWBJQ6GdICv0",
+    "rating": 3.7,
+    "user_ratings_total": 11,
+    "price_level": null,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1846089,
+    "longitude": 75.7772899,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcROVLVzHSDQkQByaz9ba8rHqnjtUAz8kozmrIdTYUfgD4w-afzj_IPCoQTtYyl9ybfI5RaY2wlSpx6C5ymcwpW0-ZYd7Oq2T98LX66dRO94nS9vLM3RzGr6mtOZYY-3Cp5olqLbXX7XH1TtUJlSdKkGvUDWQ1fSdAlf3cTYwSnh5QCrZ2U_wSRLD3czZP2MBzjdKYzn4Whcy-nXvizxzgOhrECSniYjdN2gRFiplySO2GqUvJR4WTNNN7Y7MTL0N0lziCiVjAXNQ_A9BwuhIFIFLnBca12sc93l-CSgrzsWCnQLbIzekBa6_Fo5p0pOXOJNXinmjbKUE_FQXm35M0IfOMsbhqepgOqYBgArJFNdd-CCKsmpNwfq9vrlvn8ygBrdvfclapsq886NG299QQ97IMjH0wPMu9mAO5nwVQzlKk_SJQSdY3h-FYxC2qQj4zu--pN35tSf7YvU1PMkKe7SbWqho68D0vw-ws9rNxDOE1ZVsgqT-8I75pfZjApkup7vi1pNWcwXhmObb-nMXCDqOANl64ldU3z5huS7UpChMI1pLodDJyt-urXFFwIM6BvGq6XCE6lwA&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "090093 02552",
+    "opening_hours": [
+      "Monday: 10:00 AM – 8:30 PM",
+      "Tuesday: 10:00 AM – 8:30 PM",
+      "Wednesday: 10:00 AM – 8:30 PM",
+      "Thursday: 10:00 AM – 8:30 PM",
+      "Friday: 10:00 AM – 8:30 PM",
+      "Saturday: 10:00 AM – 8:30 PM",
+      "Sunday: 10:00 AM – 3:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "harsh jain",
+        "author_url": "https://www.google.com/maps/contrib/112194719603879747528/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5urTCQeafFiFTJpKNDWjUHghXRJ0dY143s874SY_EMfW2cg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "Bad behaviour by the delivery guy...\nPathetic after service..",
+        "time": 1645716742,
+        "translated": false
+      },
+      {
+        "author_name": "NAQIYAH CHHAWNIWALA",
+        "author_url": "https://www.google.com/maps/contrib/107976673130220509140/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYNX35nCzJ8odk8mQikiOrLJDyfuMP7WYjszhGS9feHvXsGg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "The quality was good nd the services is quite good",
+        "time": 1590947726,
+        "translated": false
+      },
+      {
+        "author_name": "Shabbir Pithawala",
+        "author_url": "https://www.google.com/maps/contrib/102474536422091018269/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWd0tx4tahIgVMJ5dleC0fUcbcvEOJUf5NYX3b4I51QoZHJxMJhGg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Good variety of furniture at reasonable price",
+        "time": 1533209017,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:23.996951",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Shree Ram farnichar and wooden industries",
+    "address": "New Sabji Mandi, Maksi Road, Ujjain, Madhya Pradesh, India",
+    "place_id": "ChIJEVumWW10YzkRyKrQYS181r0",
+    "rating": 4,
+    "user_ratings_total": 4,
+    "price_level": null,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.182917,
+    "longitude": 75.79571580000001,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpceDF48EeTDw1GUyq8hWy4j-aUds4l-viWHJh4oqdwBNXZArEZc4nvHDhpIozahZdqKgqYR_39mBggnx_kubPU0BYzIF5VIhs_fEjlTJOylBfS-Zmlvj7uKKOB8qNUkrfEbZX5eh7nMCkmi4qmfpuBsihaV_9ydG35vIW9Sovh9InWomgIBeM3o-roPoYwT_3RV5Q07rxASSZoeCQ60iMQV1GLMHJFQ8AN0KFPWZTadU5gCJ9a17N0HGzZnHz9pds-ih3-aFFgkVHy-9cRH1UlYgOMO-dbpzcg_bgkYNjthRERus5s&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM – 8:00 PM",
+      "Friday: 10:00 AM – 8:00 PM",
+      "Saturday: 10:00 AM – 8:00 PM",
+      "Sunday: 10:00 AM – 8:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Bhupendra Vishwkarma",
+        "author_url": "https://www.google.com/maps/contrib/100019617458491397715/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGBweTk0_emWQSsrADJtPD2iG52myicuRhH8W9Tvw1BNMFoE8m=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Nice place to buy furniture and other home items",
+        "time": 1696077357,
+        "translated": false
+      },
+      {
+        "author_name": "Ravi Patidar",
+        "author_url": "https://www.google.com/maps/contrib/117802103463479125650/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvYc_FiHkHPPTvPhqZj_lEl1SDFyeADqjrNE_TvaVsfz7pJepJ4A=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Good place for Furniture shopping",
+        "time": 1581759423,
+        "translated": false
+      },
+      {
+        "author_name": "Sohail Khan",
+        "author_url": "https://www.google.com/maps/contrib/115461196767729010646/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3DUdDHWKGCVMyo8lk3jiA0ojFdTjxo2IGRBFInFU7Qzdxu9w=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "",
+        "time": 1661881119,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:24.116114",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "RTD FURNITURE : Furniture Shop | Corporate Furniture | Home Décor",
+    "address": "22/24 Triveni Vihar, Ujjain - Indore Rd, beside D Mart, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJHwHuYkd1YzkRVcWpkngOCeM",
+    "rating": 3.7,
+    "user_ratings_total": 28,
+    "price_level": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1410208,
+    "longitude": 75.7956598,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpc-t-24KDa6Hivf77mpe3ZMUZYwHx3M7H8lL69c5F-DuC1EFi0K3ja_GuOhDoyh6P_KSXNPW-w4_q8h7Gtjv8YqPsU81IKiNdklIeIR-tP_s3inmyL88iDwa6FBQB5h9IRpqJODNy8uvtKRoJJza6amOBFB2DNCFK4Vvb9XEoRJROrMACIdAW0uhKy44Q7D3-_wuCdnPw0we5XcZM3NFyIghGt-MGVOqJeQrgr1n5eyxTPVBPLN53nwt0LSDDqco7XhZnJgNW71djVSOfbO3ETgTek-01veb4dBELHwUKOXoZukwTX9FURm7Gn4jVZOVftilKCxMylIG2a1TNjD_BvNJETy20A7yGsxtoEfEtXe3komdJyCFm9LKZ5dO46pIqC1t5nu2J0o8QqaaFmcVhayjc7h9wBatyZbtmynANpdwlfv7fKdEMuG14Bf5xqIn_tcLPyZW2Djbyt2KtL1GM0TaSnssuk5HdNwXmm4oRue-vKhc0_ViIAdT-Na3Df1NJJbYMYO1Z4HQlElb54nawhzsnxB5rm_V22APY93QJydCNn2d_kVymYhTqefk35RRcryJA&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 8:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Dr Chitransh Upadhyay",
+        "author_url": "https://www.google.com/maps/contrib/105721550154610165102/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNtBM5TCsYhc-9L9vG0eku5ODuYD1ltKQZVWr2bDx-3ljJod0=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "Extremely bad service.\nI ordered a Double bed from RTD delivery was on 21/11/24 but it was not on time . Manager delivered it on 30/11/24 and the next day my marriage but I didn’t have the time to inspect it . Manager (Mr Deepak) assured it that if anything is not up to the mark he will directly replace it . Problem came that the ply wood of the bed was bent but tha manager keeps ignoring it and denied for the replacement. Then I complaint the same to the Owner (Mr Satpal Saluja )but he also showed the careless behaviour and refused to accept the calls . I am facing this problem from past 3 months ,i have ordered approx 1.5 lakh items from RTD but still the value of customers is zero",
+        "time": 1743838125,
+        "translated": false
+      },
+      {
+        "author_name": "Ravish Porwal",
+        "author_url": "https://www.google.com/maps/contrib/113719648514602139103/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkAgv1CHsBI_B26UWb3MXKaySXVQfDC9LS7x-fgQgUKRla6q6K=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "Post sale service is good but the products are worst in quality, even if you are spending 7000-8000 on a single chair, you will get low quality product.\n\nI highly recommend go for another shop, don't purchase the product from this showroom. They are selling cheap quality product.",
+        "time": 1683869735,
+        "translated": false
+      },
+      {
+        "author_name": "Vinita Butwani",
+        "author_url": "https://www.google.com/maps/contrib/103143990308638116669/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7hVtCeHNFj0plnqGxobk1w5O-MBNRxLPWtwf0oV4QFRNdEw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "a year ago",
+        "text": "Poor quality furniture, they show and commit something else and deliver a different product altogether.\nAlso, the owner is so rude.",
+        "time": 1713074025,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:24.201990",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Agarwal Furniture Showroom",
+    "address": "Sindhi Colony, Neel Ganga Road, MP SH 18, Sindhi Colony, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJWYQxDWp0YzkRvZppGwmDYxE",
+    "rating": 2.5,
+    "user_ratings_total": 23,
+    "price_level": null,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1786891,
+    "longitude": 75.78436669999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfoQH5UfZ_kRigjhL3B03VnIqTTfHNiKICzVy7jictdxedk59BF8oo2299cRhu2w0FevwHMHQX-WcJAP-Fdz84gr9OpDRh9o9pkwtEqL6Te8_EBh1r529qT9wHi6bNj3yjGcfd5q5T1DhuXbbr1bvuvj-TJNkRR95F9eZAKwY6L3kE7z0vfbwdTbFbcCT0GOKeQczvcbwxuN86DqGwvO9Ms2bbJlCntNcBzIjXb5moe3TZpsiO3lVRARc6lTLKkQ9jvsArUatCr4iLtLh-zwup8lGPpCvOMd2_-9onU9h5Ux9hZ53s&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "website": "http://www.shantiinfotech.com/",
+    "opening_hours": [
+      "Monday: 10:30 AM – 9:00 PM",
+      "Tuesday: 10:30 AM – 9:00 PM",
+      "Wednesday: 10:30 AM – 9:00 PM",
+      "Thursday: 10:30 AM – 9:00 PM",
+      "Friday: 10:30 AM – 9:00 PM",
+      "Saturday: 10:30 AM – 9:00 PM",
+      "Sunday: 10:30 AM – 2:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "harshwardhan singh dodiya",
+        "author_url": "https://www.google.com/maps/contrib/107621585537064194785/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIneDDNLArDecIsD60pmVBu2W_Df5H28gAsqMb6DeYARhQPXA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Absolutely appalling experience at this furniture shop! Save yourself the agony and toss your money into a dumpster instead of wasting it here. We ordered a double bed, wardrobe, and dressing table, and all we got were subpar products that fell apart faster than a house of cards in a hurricane. Their service is atrocious, their quality is abysmal, and they couldn't understand a customer's needs if it hit them in the face. If there was a negative rating, they'd be swimming in it. Avoid like the plague!",
+        "time": 1714619805,
+        "translated": false
+      },
+      {
+        "author_name": "Parth Trivedi",
+        "author_url": "https://www.google.com/maps/contrib/105354286745857087145/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVROx594qUlMp8mtIaxEZyN-icf528ymKcuvGC6-goxjXo_2h2i=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "My experience with Agrawal Furniture Showroom has been nothing short of a disappointment. Their lack of responsiveness and poor customer service has left me regretting my decision to purchase from them. I would strongly advise potential customers to think twice before considering this seller.",
+        "time": 1696259220,
+        "translated": false
+      },
+      {
+        "author_name": "Rashi Trivedi",
+        "author_url": "https://www.google.com/maps/contrib/115943422757834443708/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7_P9otAThzsmp3GS7LyMuPQuK--3tvJVGgZ3eMr--VraCDfuV=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Unresponsive over calls, ordered a mandir had to visit 2-3 times at the store. First took 5000Rs. as deposit and took another 15 days in sending relevant designs then took a week to send his worker for taking measurements. Committed that they would be delivering in 15 days post confirmation now they are unable to deliver.",
+        "time": 1696245831,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:24.269389",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Mahakal Furniture",
+    "address": "Shop no. 13, 13 no. shop near city kinder school indra nagar 90 quarter ujjain, Indira Nagar, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJbXcIB9B1YzkRB62e-7bwf4k",
+    "rating": 4.8,
+    "user_ratings_total": 4,
+    "price_level": null,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.2026263,
+    "longitude": 75.7832827,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdI_VCeQDbMY51JlTsIT2nZyBD5CASdFfa0lnJ4K4IHBi7F5FF-VGPABJJaoCeyr0thKxGp5PVx_vWQ3nc_br59DM9pzjIYN3pFY-bEVRbcsQWsJem1_NkBuzGCRPO39etZwKKMEnOb3M1LtsOrTvamzd5qHxDKS4weibGSSxfeapsfIh9jgcFaMaTDZ-fe89FdrsjCJQAmvN_0kVmog9bEmTSl3UfZCmWNsmNmYvUWH_g_OLJFkiWDVhllbBWGVYkdBz_hGvJYoxvy_wAG9qOw2f9THzsnOguWo26xiYHAgt1_cjw&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "website": "http://www.furniture.com/",
+    "opening_hours": [
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "manikandan m s",
+        "author_url": "https://www.google.com/maps/contrib/109048550330394274085/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGS00RG5Fdm4GkH3QqbTNnKv4b7Ui7sICPNSazokVW4-RaDg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "4 years ago",
+        "text": "Good furniture mart",
+        "time": 1595235082,
+        "translated": false
+      },
+      {
+        "author_name": "Rishabh Singh Chouhan",
+        "author_url": "https://www.google.com/maps/contrib/115044352876094884439/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIs2I45JDX0BM6rfowqvjRRx6adtR2ib5U3hkXIZZURzckW8g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "",
+        "time": 1601208600,
+        "translated": false
+      },
+      {
+        "author_name": "Rishabh Chouhan",
+        "author_url": "https://www.google.com/maps/contrib/105830805966585133619/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-qL0Z_SGvOuI9cVMvyGzr4FCuQJN_MzVMIbXbI98lhfCa9w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "",
+        "time": 1601208464,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:24.351422",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Delux Home Decor",
+    "address": "industry area, Nagjhiri, Plot no. 58, Ujjain Dewas Rd, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ3416Dnx0YzkRFrUolFlDs-I",
+    "rating": 4.7,
+    "user_ratings_total": 24,
+    "price_level": null,
+    "types": [
+      "home_goods_store",
+      "general_contractor",
+      "furniture_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1502361,
+    "longitude": 75.81828709999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcueUbGPPyBJLyDTBYxebWYtz1gzrgI-ZkVmWAAESh3ujsCdA_vCGRpofPf1jX2tPFAXm61PzBfx5LkRcDQd4tGMmXB1oE-hO_m7qNLsFUPeT-1lOTNbscPT_gNco8_shXHpf69ZSXQqwilQWzCI9rjjg1HErI3ojmKhqYv7fsZNzOCrutJHp9oi5H2owWXLuPL04N4iSylRtphteJ5itxzBxPIInnhVbI8V3QFbwLR5eHcyEOhnzXmL2_m6wPN-HrPamr6y1kTeZFi6Kowt5t9eLcdDsuZrX5SLVUq0-0LeaDXP_E&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "090099 92753",
+    "website": "http://www.najmihandasat.com/",
+    "opening_hours": [
+      "Monday: 10:30 AM – 8:30 PM",
+      "Tuesday: 10:30 AM – 8:30 PM",
+      "Wednesday: 10:30 AM – 8:30 PM",
+      "Thursday: 10:30 AM – 8:30 PM",
+      "Friday: 10:30 AM – 8:30 PM",
+      "Saturday: 10:30 AM – 8:30 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Prithvi Chawda",
+        "author_url": "https://www.google.com/maps/contrib/115340338646799465412/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKz0kMnzfsmUqrFj4JW1fs8ojkl5QasqWKoju9ZlrwZmD0AVA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Very nice experience with his shop best shop for your home decoration 🎀and their service is also nice",
+        "time": 1627546083,
+        "translated": false
+      },
+      {
+        "author_name": "Shrishti Yadav",
+        "author_url": "https://www.google.com/maps/contrib/112990313941864094482/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURx-YFS6iajLrIbgJnBhDa83RAF05V_2CyIcbCUH3VTlmPrnXX9w=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "Purchase at your own risk of delivery and all the hidden transport charges.",
+        "time": 1633307374,
+        "translated": false
+      },
+      {
+        "author_name": "Tasneem Chandanwala",
+        "author_url": "https://www.google.com/maps/contrib/112646867422962354769/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbBY7ZueB5uVcheYie7_6xyuYxP_n5Tt6U58xHbNpKCLtS5A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Very nice place and very good and polite staff\n#Liked it",
+        "time": 1626286532,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:24.463466",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Bhai Steel Furniture",
+    "address": "Neel Ganga kabristan Nagori compound shope no.63, Madhya Pradesh 456006, India",
+    "place_id": "ChIJ_TEsnid1YzkRvYrnaKFek5U",
+    "rating": 4.6,
+    "user_ratings_total": 11,
+    "price_level": null,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1757234,
+    "longitude": 75.7781895,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfLgk-RtH0Ky-E4jLheMumUoixt1gzd6moUBq7Zbr5gIhzMyRs5puCln3krXNepcbS1u2wfwMVMgeP62fBmPi7zqjtNSSE9yOQPSq3q0Ux6E0Y-QK4ewP914HjViqXtccMf-bDX2jq4OTiyvbuR8RsRJxnvMgaq6NBY8ear20nS28ddPPopIsnSMfJImlxSxaRAKBfL5lYpwyzH-4OzIH1RMihl0YaGfoIkPREB4Rj5LVBcyLaLi7MyrfjSV9JGULm-6N39n9wLfHhrYV90zn7lNoWUo4Z_nCQh3crBx2PSIsL3XcM&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "099938 81030",
+    "opening_hours": [
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 9:00 AM – 8:00 PM",
+      "Thursday: 9:00 AM – 8:00 PM",
+      "Friday: 9:00 AM – 8:00 PM",
+      "Saturday: 9:00 AM – 8:00 PM",
+      "Sunday: 10:00 AM – 8:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "DEVESH SHARMA",
+        "author_url": "https://www.google.com/maps/contrib/102739156679340566047/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXICC_blEZXbeaJhsA_y6ytRv3E0SFin3zRn6FX2-vyLwHYQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Best quality in all over",
+        "time": 1736274256,
+        "translated": false
+      },
+      {
+        "author_name": "Safdar Khan",
+        "author_url": "https://www.google.com/maps/contrib/112480111817837167051/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLlkelmsnRBPSXmNPgprC7rSFEIB8llzK1B-Vy2D-hAJ46rZA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Good service and behaviour\nAll of no",
+        "time": 1700850013,
+        "translated": false
+      },
+      {
+        "author_name": "Asvad Nagori",
+        "author_url": "https://www.google.com/maps/contrib/100904307272020855788/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUVUy2MbYevyLtpV35eeiV_D_tEfdhjiDi1sf33PhGpDQn93l5Z=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Good quality good service",
+        "time": 1645598644,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:24.553177",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Bharmal Hardware & Furniture",
+    "address": "A-27/5 MIG, near Nanakheda Road, Ved Nagar, Rishi Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJQzcOd4p0YzkRTJ0NiU5XNp4",
+    "rating": 4,
+    "user_ratings_total": 1,
+    "price_level": null,
+    "types": [
+      "hardware_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1596915,
+    "longitude": 75.7874878,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeftPLFBs6w2Eq5d0cfvRJ-S5pqFctCSlC8JneiMkxPYcNy2YpmgdUi7BheGKHCdc9AXjQpci3Fn3QMRheMnDIaN6FvNGoUCl6i_yI_4EgHoV8rThP2CqN6WofJPzs4wk4g6pmbS1BwNUq3p0_NJ3iwWbGQv2pI63vadyKjgGxsF5QGDePWEGBL9IESxmYsXTOZMGKhQzCOrASSOAKpc7rbS7qRQDCdCZgNLubhdPxsTRHUq5luyHaZ0uopGoLSiCQMYzKeREvF2JTLVpD5Z2Qa1x7mn7_TYEYx-urmcigYIuyfQzg&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "095759 12304",
+    "opening_hours": [
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM – 8:00 PM",
+      "Friday: 10:00 AM – 8:00 PM",
+      "Saturday: 10:00 AM – 8:00 PM",
+      "Sunday: 10:00 AM – 1:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Swapnil Nagar",
+        "author_url": "https://www.google.com/maps/contrib/115290228284068970245/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFOFlL-jP35pU4eUn65F4bVDfV8vVsjYDGfz2A6t3nEEpU8wSx=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "a month ago",
+        "text": "Hardware shop",
+        "time": 1747794867,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:24.632737",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "NEW J. K. Furniture",
+    "address": "Shop No: 8, Sanwer Rd, Saket Nagar, Shastri Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJO1mZfmZ0YzkRUNUHN9haLcg",
+    "rating": 4,
+    "user_ratings_total": 3,
+    "price_level": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1691073,
+    "longitude": 75.7892023,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdjHDlsdpvwuHgsYFLdCxbRXVW7H3QSiuWJ1YZKkmveAo45w2VTfnXQWQRQqXoEipQWJ62Q9rBaVfqcdZFfhp7ZFNfpFVhgJ_xco9PjC0VN3_kp2k5HronOO-dRkGqj8GtAOPUSAxTPf1EPofRRRrB90B3z5g20V0D2eL143EuFj_KhmoZw9ikDHnvYLt-n2cry9cNKK8cXLPNIXdvXAk9tGQNF33itQeadyWphmFpv4duLsEjk5OAUStkdDtk8QDWkCC2pdBpGOPupYmqSVcp2d9T9PIX9WvAUdLukM2BK63fpOTI&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "098272 68150",
+    "opening_hours": [
+      "Monday: 10:30 AM – 8:30 PM",
+      "Tuesday: 10:30 AM – 8:30 PM",
+      "Wednesday: 10:30 AM – 8:30 PM",
+      "Thursday: 10:30 AM – 8:30 PM",
+      "Friday: 10:30 AM – 8:30 PM",
+      "Saturday: 10:30 AM – 8:30 PM",
+      "Sunday: 10:30 AM – 8:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Amit Choudhary",
+        "author_url": "https://www.google.com/maps/contrib/107655855066408023526/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLAmpU92UfGPQiEEZhLhBapkBMYexEji4qP0lv6wK08QNc8bXy=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "",
+        "time": 1672499600,
+        "translated": false
+      },
+      {
+        "author_name": "Ankit Choudharii",
+        "author_url": "https://www.google.com/maps/contrib/100066934141378497377/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWexvCABB3D_lwXS_HjCeI1l_Kluqw4bYnjdmGsaxJx2N9rfTvL=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "",
+        "time": 1651331295,
+        "translated": false
+      },
+      {
+        "author_name": "Aashish Solanki",
+        "author_url": "https://www.google.com/maps/contrib/111328969607362842091/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVr_8P63_JFa42oCp5P3Oi58qwKgx1G0BNpdpimzhZtXwe8KsAR=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 3,
+        "relative_time_description": "5 years ago",
+        "text": "",
+        "time": 1568407030,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:24.706168",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Abhishek NX",
+    "address": "16, Kamla Nehru Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJO7SRmW50YzkRD8tpz_ZfCkE",
+    "rating": 4.6,
+    "user_ratings_total": 25,
+    "price_level": null,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1771253,
+    "longitude": 75.7912513,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpe_HiNQ7MuKjBJ8fz-9XHPvrmWvW1k4dGkpPeoaDeuvEBbK1rqgDJ3hNdQIxtWp_0A60QoqE0cXWQXdNfmV2icKlmV__JA_ZVmjUR55oAfcwfDfZL-Vlr67jy_HVWxuDJ1QqrnBc-9214yBd947GnVyeOJug1AbNAzIVI--N-5kFn5Ukkp3VxGXI4sCMaV6flpiqM-odzbuHjVQaVqLyQszmuGPtoPKHj5VWBsq9tfPzdzLrGnjnjFbaW8fEMIxvdVw_UYfCvlObqq4SVoahlgDnEANVsP2b1zh1hVQ1DRwKqmbWps&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "088188 88115",
+    "opening_hours": [
+      "Monday: 10:00 AM – 8:30 PM",
+      "Tuesday: 10:00 AM – 8:30 PM",
+      "Wednesday: 10:00 AM – 8:30 PM",
+      "Thursday: 10:00 AM – 8:30 PM",
+      "Friday: 10:00 AM – 8:30 PM",
+      "Saturday: 10:00 AM – 8:30 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Hemant Kumar Mehta",
+        "author_url": "https://www.google.com/maps/contrib/112172670398032998736/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKraBRCCWJPhqPgyTYik4VkOmI3p7XQ_IqDw3E2Mjm9b1qkoQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "I like the wide range and very good choice of products. Another important highlight of them is the after sales support and service. They have very supportive staff, I highly recommends Abhishek NX for all kind of furniture.",
+        "time": 1624256884,
+        "translated": false
+      },
+      {
+        "author_name": "Sandesh Tallera",
+        "author_url": "https://www.google.com/maps/contrib/112729152940188951665/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVc7CeXZU06-dp-Bvu1yNzebXK6msjufk9b_JLmLgLdoJo0A0eR=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "I have purchased my officer furniture in Indore various times from them including chairs, cubicles,  tables etc and it was a good quality stuff we got from them. Strongly recommended.",
+        "time": 1624093405,
+        "translated": false
+      },
+      {
+        "author_name": "Shailesh Kumar",
+        "author_url": "https://www.google.com/maps/contrib/109549204412142167926/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_kVrlKs8lDTJ0r6GGrCBmm1kETuYmCUG5ABilfAwgE2_Eog=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Best Quality & Rates in the market . Very well behaviour of the satff.\nTimely delivery of the product and services.\nYou name or chose the furniture .. they will get it done.\nMost reliable shop in the city..\nI suggest if any one wants to furish thier Home , you should vist this place.",
+        "time": 1624265683,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:24.788386",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Maa Furniture House",
+    "address": "Pawapuri Dham, 29-30, Ujjain - Indore Rd, near D-Mart, Pawapuri Colony, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ-5EV6eV1YzkRrCGB5NqnNrw",
+    "rating": 5,
+    "user_ratings_total": 1,
+    "price_level": null,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1381346,
+    "longitude": 75.79222419999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdese9XMh3oWAN4IILbnx3RrGLfVX_m8siMAPvNovjBzGpPQYxe_Nnzy9NgWumtq0IGUKAwLi-WxR6jNBY1H3PEPfzPOyLkzFJLbg9mMuL1lELaOvWbifaV3e0BHV0LCKz1fjT6mHRSWMgYtHXWCVmEdS_d2RKknvG9Iw854CtB3ose1CpXmvGUNQUqmRu-shzBM_cjVIyPxm6BUHKsMNhruhCTtqUuJTVguF2N--Au_gs9HHWL3ceB374Bso6ucXzuSoPM-QSZ-xXe-ikAIPzA8V4n6JaQHMhZ3bUaNr5wtP5elwc&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "094068 78944",
+    "opening_hours": [
+      "Monday: 9:00 AM – 10:00 PM",
+      "Tuesday: 9:00 AM – 10:00 PM",
+      "Wednesday: 9:00 AM – 10:00 PM",
+      "Thursday: 9:00 AM – 10:00 PM",
+      "Friday: 9:00 AM – 10:00 PM",
+      "Saturday: 9:00 AM – 10:00 PM",
+      "Sunday: 9:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Vinayak Tiwari",
+        "author_url": "https://www.google.com/maps/contrib/114160211364953907325/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVudyS3ALMZffl3CerEOXK-cEiWpjBdrInv-0OqOfVw2iR19LFZ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "Gr8",
+        "time": 1724396840,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:24.867906",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Mannat Wood Work",
+    "address": "42, sai bagh colony, Shiv Dham Colony, Abhilasha Colony, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJAVQThF5zYzkRABSfwUpVhrk",
+    "rating": 4.9,
+    "user_ratings_total": 21,
+    "price_level": null,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1350935,
+    "longitude": 75.81223779999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpexe3ZhX4vvwh6s4Zip3gppKIfef_OMbssJlkLkADvGqstOShbOsc6RweJ1V8hjjm9BZFHKHZNuSRlUaL2cXr5ISnnYKVIJPYSxGW97Dbm7S9ZQcvRc7Kthj_3VYdQAnpFrxXiCSrouqK0qCB0GHDSmYVK6PHhouIKldE28iMrA8NhcOjfK-IKnyoa1qBMINtnHxrM5efT-Svif8uw-zQQ69BVJsGJ1bi0pTkFjlEZ6CQoY5a3JYcJ9j5ZG94uyeVgRb1EHPRQjjw5aJkbN-NUoo25l3qxe2JvQu3FkzlytSRgrcK4&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "089821 88002",
+    "opening_hours": [
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "swati Goyal",
+        "author_url": "https://www.google.com/maps/contrib/114222781665246282558/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwa5RTsLhIdNFEUUsJivSYMrKdFq2GmITPHqaMq5FGgq5XDxo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "providing furniture related work with finishing and quality and his working staff and after sale service is too good",
+        "time": 1743439143,
+        "translated": false
+      },
+      {
+        "author_name": "Harshit Agrawal",
+        "author_url": "https://www.google.com/maps/contrib/102221758285344963243/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKtR_ScSYjqCml5uGnmRPOPz82Dh7PH8DFLfG15uHqzgcgx3Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "",
+        "time": 1725379415,
+        "translated": false
+      },
+      {
+        "author_name": "Sumit Goel",
+        "author_url": "https://www.google.com/maps/contrib/109023259922465231009/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIidQrhLhKLE2w8rF6F8n2BnOHSzne6P4oGOVJyuaoJAP17lg=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "8 months ago",
+        "text": "",
+        "time": 1730219097,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:24.944530",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "New Rakesh Furniture",
+    "address": "A10/2, Sanwer Rd, Ved Nagar, Shivalay Twp, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJxZeb3mF0YzkRC5ErvqHp59E",
+    "rating": 4.2,
+    "user_ratings_total": 5,
+    "price_level": null,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1603028,
+    "longitude": 75.7878746,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdwixXMuk4jUtOr1oZNFjii3j6QlNYDiLDMHf1IpmszspE1qIScoGaLbU9Okfi8xhJ80v-ZDO7JNEcmSnS0oh5y2bt0xO2fTg7cc_TUCunxr7EOBArJzFPBSIeswZMECu2zO5klSkGYpEaJfsbeFlGuCZpa5q01BphUHiWgKojjSU-9PzswP92WdXTamqONaf_FBuoN0kM0xJrzQ1I4u9mBQsyTRhqDR67s7ajK2lEAeVMCKecAXG11CFKlRPZhaZbj4unxG5qnPUuBxex86HE3crAE0GVLDqky_R0JHnz00w_kefU&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "090395 14560",
+    "opening_hours": [
+      "Monday: 8:00 AM – 9:00 PM",
+      "Tuesday: 8:00 AM – 9:00 PM",
+      "Wednesday: 8:00 AM – 9:00 PM",
+      "Thursday: 8:00 AM – 9:00 PM",
+      "Friday: 8:00 AM – 9:00 PM",
+      "Saturday: 8:00 AM – 9:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "AKASH RAO KADAM",
+        "author_url": "https://www.google.com/maps/contrib/115553724904655447798/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUoaJC1nd0YfJw7uAYc7P0vqGAio6azMAi0hrgacp5r6q4gwJ1w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "SOFA BED AND DINNING SET available is AFFORDABLE PRICE And Bajaj Finance As available in store",
+        "time": 1739621407,
+        "translated": false
+      },
+      {
+        "author_name": "Jitendra Singh",
+        "author_url": "https://www.google.com/maps/contrib/108952358294503091873/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZJlv6cRjgXSTfl_jYkavR3xnV_v-QlTiAqLNaB-mRnKTclA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Poor...",
+        "time": 1689788098,
+        "translated": false
+      },
+      {
+        "author_name": "Fantino Zito",
+        "author_url": "https://www.google.com/maps/contrib/117575547753306469045/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI8dwEqUBUYQBR84YWXugIhjj_ioi301s5azVIyFgpiDH9AGg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "",
+        "time": 1739547207,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:25.024419",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Model Furniture",
+    "address": "industry area, 58, Ujjain Dewas Rd, Nagziri, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJPZHEIOVzYzkRpdSYfko5ZCo",
+    "rating": 5,
+    "user_ratings_total": 4,
+    "price_level": null,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1518952,
+    "longitude": 75.8148634,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpchPumGpbya37q1eQXyzggkNpEoG7Gt50Dbnhf1ARIXpmqzHKz3VKjXXwj1AjgdSSKBxlno5xT3Z9P7kcHI-KNKitRYOpwc6fC-spO908bU8Lv9MWnl8ntwp1wlD3BzlnVc0y2ZCedaXfallstUtwbMjjl5fsLEpuxOK1KxxpLrkuSzU5L2FSb3JjTdGLZKO65Egnxg_bfCuD1m1cBmWmaYukEcVWyxH-HFNaJ135NMz6HqqmcPstgCXwRXOGEnNpFavDwEDdMyXMoPtULT8yuZZ_Qfakt-GIwexaTFKf8m03qvCm0&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "090099 92753",
+    "website": "http://www.modelfurniture.in/",
+    "opening_hours": [
+      "Monday: 9:30 AM – 8:00 PM",
+      "Tuesday: 9:30 AM – 8:00 PM",
+      "Wednesday: 9:30 AM – 8:00 PM",
+      "Thursday: 9:30 AM – 8:00 PM",
+      "Friday: 9:30 AM – 8:00 PM",
+      "Saturday: 9:30 AM – 8:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Mayank Joshi",
+        "author_url": "https://www.google.com/maps/contrib/103938900504692627696/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIlLxdROh5gAT8ag3xK_QcYOzLVo5F3LVZMiOJrmxNG0ya9jA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Thank you for helping us furnish our new home! We are extremely happy with the furnitures. Every piece—whether it’s the wardrobe, tv unit, or bedroom furniture—looks beautiful and matches our space perfectly. The quality is excellent, and your team was very helpful and patient throughout the selection process. Delivery and installation were smooth and professional. We truly appreciate your support and will definitely recommend your firm to others.",
+        "time": 1746691440,
+        "translated": false
+      },
+      {
+        "author_name": "Lotika Chauhan",
+        "author_url": "https://www.google.com/maps/contrib/104871547174171422758/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-436jI2pouBU_QySBNfxjsK6DwgHXUO03kbEZJlObt5q3oQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "I purchased customised modular Kitchen for my house and  my experience with Najmi Handset is really good.\nMaterial provided , timely supply as well decent suggestions provided by the staff was excellent.\nOverall completely satisfactory.\nTo make the services more competent comp should have more options of space saving folding furniture designs.",
+        "time": 1750230764,
+        "translated": false
+      },
+      {
+        "author_name": "Qaid johar Sogiawala",
+        "author_url": "https://www.google.com/maps/contrib/109855588021788028523/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVymXiu9LHSAYLDRFXm4FA51tdohQA7m1EqJG2iR3Jq8VmMcWEm=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "I’m extremely pleased with the professional and efficient installation of the TV unit at my home.\nThe team arrived on time, worked with great attention to detail, and ensured everything was set up perfectly.\nThe final result looks fantastic and really enhances the space.\nThank you for the excellent service and craftsmanship!\nI would highly recommend your services to anyone looking for quality home installations.",
+        "time": 1746936456,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:25.087778",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Royal furniture",
+    "address": "Udhyogpuri, Sandipani Nagar, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJhcp-sRB0YzkRdx-ryH88AiA",
+    "rating": 4.6,
+    "user_ratings_total": 9,
+    "price_level": null,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1941435,
+    "longitude": 75.7901005,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcwtVAYU-GHGbmlzoNkZCv1drcDcb9txN3XXf_G2Fkb64ML_Hgw0sv3ESpUpqn9c8a17bOUF4RIl6EhQzY6EYheZKlHTxiz1TFgc7xzZAebGDctujT4NFfBP_Oiz9QbhCy7ELrn_T_7W9iuLRso2O6JwKsLIQw51D3rsCSh7Jbp0705Lcg8_bv98s87B6E1pbv2mnUZj2Ald2MSLUPzcT9rTjcqNYCpJN5S3Da55f0bJ0biqPC7dTK8AYuFFKfD3ueOVCbZljv-xgz-lm4KxdTWKK90YSvVAvft-fKIB40NzVUr-EU&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "070002 36959",
+    "opening_hours": [
+      "Monday: 9:00 AM – 7:00 PM",
+      "Tuesday: 9:00 AM – 7:00 PM",
+      "Wednesday: 9:00 AM – 7:00 PM",
+      "Thursday: 9:00 AM – 7:00 PM",
+      "Friday: 9:00 AM – 7:00 PM",
+      "Saturday: 9:00 AM – 7:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Naeem Shajapur wala",
+        "author_url": "https://www.google.com/maps/contrib/101145490625393627882/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjNvnwwz-Vx9BkcyIVIh4WzBChdbw0scAo0U3ZjU7ajXCHJg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Very good quality and good customer experience",
+        "time": 1706091996,
+        "translated": false
+      },
+      {
+        "author_name": "Husain Darugar wala",
+        "author_url": "https://www.google.com/maps/contrib/107045115122278137096/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVztbtf3pnk0Jnhfa_ZNLRi9kzAQSfZuxquE2RSKm-Wc956NIY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Nice quality",
+        "time": 1726857909,
+        "translated": false
+      },
+      {
+        "author_name": "Ali",
+        "author_url": "https://www.google.com/maps/contrib/110604201217224804363/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTBGimL4M_BRGMLXGVvr0VTfS-sE6bF6c5R71ymmLb045FfGYOEw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "Good quality  with best price",
+        "time": 1515510588,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:25.171544",
+    "source": "google_maps_api",
+    "data_type": "real"
+  }
+]

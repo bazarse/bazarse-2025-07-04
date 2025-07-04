@@ -1,0 +1,1415 @@
+[
+  {
+    "name": "Swaruchi Restaurant & Caterers",
+    "address": "Ahilya Bai Marg, near mahakaleshwar jyotirling, Kot Mohalla, Suraj Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJy0b0hjl0YzkR-NUQmXgDhfE",
+    "rating": 4.1,
+    "user_ratings_total": 1829,
+    "price_level": null,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1814356,
+    "longitude": 75.7718817,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdR5EKQxaUenHC0PHEmoew1EPgv0gs3pQ-LSS5m65DVfTcUKaXAqSQsbP9jJ5YyYtvyph0hpLKnO6bUCa2rfeTSD-Z9o-KArl0TOd3zg_mKn3DvmyzmMjPkyPHCCS40in9-I6lZgo3DjrtOEH1LrZg0je-cvu6ndsziFmBlKwOuBIYGGvMKULw8XLbelPLcVgHNFQveLS9qiEj8JMTcK6MwaRu2R65CdarwFbCZSsG_E4kn4vJFmd7mESQvu27MeSER42BCOu1GqEGjnArE3ju3JWJBriSFzIfSEiuhHESmb3DNPp4&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "094071 43365",
+    "opening_hours": [
+      "Monday: 9:30 AM – 11:30 PM",
+      "Tuesday: 9:30 AM – 11:30 PM",
+      "Wednesday: 9:30 AM – 11:30 PM",
+      "Thursday: 9:30 AM – 11:30 PM",
+      "Friday: 9:30 AM – 11:30 PM",
+      "Saturday: 9:30 AM – 11:30 PM",
+      "Sunday: 9:30 AM – 11:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Vishal Waykar",
+        "author_url": "https://www.google.com/maps/contrib/102195589336166441763/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWj-ZUO-PpCXF_g8qtLLEiZvrVoRqIgvcQL38Ky9neRbTB086vB=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "3 months ago",
+        "text": "One of the finest option to have lunch or dinner.\nWe ordered paneer tikka , phulka , tawa paratha , masala papad , ghamandi lassi.\nTaste of paneer tikka was nice.\nCompare to options available in Ujjain u can consider this one with quick service.",
+        "time": 1741857761,
+        "translated": false
+      },
+      {
+        "author_name": "Harsh Vyas",
+        "author_url": "https://www.google.com/maps/contrib/111224594436726834597/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUjiKtsCUkrf3RFb_pkWex_5oKeg1JzLmCYXeLSbmNxf3b0EuXP=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Very Tasty and Yummy Food , we had tried \"Aam Aadmi Thali\" worth Rs.160, It will surely fill your hunger. 100 marks to owner he is very polite and humble. He welcomes the visitor with open hand and with kind heart.",
+        "time": 1735492780,
+        "translated": false
+      },
+      {
+        "author_name": "aatish jain",
+        "author_url": "https://www.google.com/maps/contrib/103003284180796446646/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5nTymDkLnS3uKRwuj_Xt8Du47j5YUOandMh9GnYOg985BSg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "Very bad service and we order jain food after half an hour they tell no jain food  I would not recommend this place to anyone looking for nice meal and service. Avoid if you can!",
+        "time": 1748576148,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:28.835952",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Wood Square Restaurant ( best restaurant in ujjain )",
+    "address": "1st Floor, Above of Top And Town, near U Turn, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJowP6hm11YzkRtyW2xXcACjU",
+    "rating": 3.9,
+    "user_ratings_total": 342,
+    "price_level": null,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1759382,
+    "longitude": 75.79116669999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpe5Gz5X_qfY6Cum-olGEbNUfoWdNrsG0TJAKrRqrV2yMM7Sim-A9jmGVjA1S7LEAt4ul92Bdh59x7CFY9LQxJEeYXQyGDePpXh_jc7bCyekRsfM5H0Xec08F7txwklAT_cDvgdpD0mjaXkUlo9OPneXK07GdZ6isuVk4CleH8dORUHNDAlRXeg50z2frJl-dRwVbxvAgJoshk5aEynIzcR4dix1nGRL5TK42MGJnTIHzHHJ_r6aK1H4-4hRo-9QviVOgyVUrPYXbXVS_VgPqaE-S8f20_wfSbb2kMo1h3kO_d4PqRg&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "078695 95841",
+    "opening_hours": [
+      "Monday: 10:00 AM – 11:30 PM",
+      "Tuesday: 10:00 AM – 11:30 PM",
+      "Wednesday: 10:00 AM – 11:30 PM",
+      "Thursday: 10:00 AM – 11:30 PM",
+      "Friday: 10:00 AM – 11:30 PM",
+      "Saturday: 10:00 AM – 11:30 PM",
+      "Sunday: 10:00 AM – 11:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Kanikka Kanojia",
+        "author_url": "https://www.google.com/maps/contrib/115781254019462611125/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLntGPZJl0_vAlvkMrw2XlND6EDfsFK85HlBpnJgqgMAnBHWQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a week ago",
+        "text": "One hell of a pathetic restaurant. Most noticeable thing is they have employed children (young boys). Hot food is served in melamine (plastic). Then they use aluminium foil instead of wooden utensils for sizzlers. Staff is too slow. All sofas are dirty so is their washroom. Horrible horrible restaurant.",
+        "time": 1750692822,
+        "translated": false
+      },
+      {
+        "author_name": "Shivam Nagar",
+        "author_url": "https://www.google.com/maps/contrib/101018107215647690162/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIiug93ZlsXqu_4Vr22zWokpYOiYUhzYLBP95RwAV5fd1fIng=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "2 months ago",
+        "text": "We went for dinner as a group of four. Overall, it was a very good experience. The food tasted excellent and the prices were quite reasonable. The ambience was nice and comfortable. The service was a bit slow, possibly due to fewer staff members, but the delicious food and pleasant atmosphere made up for it",
+        "time": 1745864127,
+        "translated": false
+      },
+      {
+        "author_name": "Chetan Pendharkar",
+        "author_url": "https://www.google.com/maps/contrib/101164894588451238451/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmUtrPvbGgVjLrFhrOA3-nJYeKJOQy3yjrNDsjystuWpnkY5aJ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "9 months ago",
+        "text": "Worst food I ever had.\n\nI ordered through an online app.\nMalai kofta\nDal fry\nRoti\nButter milk\n\nIt was specifically written in the menu that the malai kofta will be in white gravy but what I received was in green gravy, which was the worst I ever had.\nDal fry was like tiffin dal.\nThe roti was too small in size and that too was a tawa roti.\n\nI will not at all recommend this restaurant.",
+        "time": 1726039324,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:28.948059",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Shahi Darbar | Veg and Non-Veg Restaurant in Ujjain",
+    "address": "over bridge, Near, harifatak, Indore Rd, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJw8NIzVR1YzkRyr9i2w8lC9M",
+    "rating": 3.8,
+    "user_ratings_total": 829,
+    "price_level": null,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1689479,
+    "longitude": 75.7741896,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcmqcm0QcWtgE3ptpyMznkTOFfJFUkTuCCrO6v-PlVrJ5g8aLU2HCsx0uWNHZGr16qg8hwsQB8avR7SgTBWVKmnQX9k6Fo9tmej0-NzHJFvWNWyysdMm-AC2NZyR9jL0PlOP4ZJMGXYfYWRpTDg2dD61yBl-mVYPCAtVJrJCacEG65ro8cVzMA7I6kBTDusbaVefrNvi4vWzIRmsbQkcDdwE-1-tXQFMr6Kf4f8GQ98CL8t6yZKUYgNAugROuN7GMGtv97mFdaybsFntefmYEWHcHUu1zrQHIyTqsrytdrK6odmA9qXBWa8eUuaSgYb1uSAqaeC8AFOX8jNcmwhzT-rHDBPRA68s3bdHnRNnXq-MkHZbQN1tqVlg_G-hi_KK9f-ME2hkML82rNo_DopMsCgZCslHVniGJxRKr16JkB1F6H1ku0AojqAJp2MfTMEILRorLEpxxRSFnGPXZKr6i2jRNDAHj0CKKyuKzOJblEGJEBgLhBgRfWIEbKuh_3LortDsqzXU2N6dnCiVW-7W8qK72NjWxnuwQ4r5LSl-2F4tGkvUrjoZsBlk-EVJw5sXhHmNyge&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "088895 67773",
+    "opening_hours": [
+      "Monday: 9:00 AM – 11:30 PM",
+      "Tuesday: 9:00 AM – 11:30 PM",
+      "Wednesday: 9:00 AM – 11:30 PM",
+      "Thursday: 9:00 AM – 11:30 PM",
+      "Friday: 9:00 AM – 11:30 PM",
+      "Saturday: 9:00 AM – 11:30 PM",
+      "Sunday: 9:00 AM – 11:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "vaibhav jagtap",
+        "author_url": "https://www.google.com/maps/contrib/115235561988928593809/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4GjFla0WLawWo_G-Ei1JNxNPGBpdqLzj9Rjt5e9SaMWCGqA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "11 months ago",
+        "text": "Absolutely disappointed with my visit to Shahi darbar . The waiter Aditya's condescending attitude made the experience unbearable from the start. When the food finally arrived after an extended wait, it was mediocre at best—overcooked and tasteless. The prices were exorbitant for such low-quality dishes. Save your money and avoid this place unless you enjoy paying for pretentiousness and disappointment.",
+        "time": 1721664679,
+        "translated": false
+      },
+      {
+        "author_name": "ashwani kumar saha",
+        "author_url": "https://www.google.com/maps/contrib/114731948389771182693/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZrTqw5uL7Px0T-gN7G3AdNpdWRS3r8WVnnhYKWF6SOAH9BMtH=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "Not worth visiting, i went solo and they ignored me for the entire meal.\n1. Starting review with restaurant front side road - water clogged\n2. Food - ok ok, chicken biryani's tasted good. I had grilled chicken lollipop.. but they gave kfc chicken. Took coke later.\n3. Service: worst. I had to literally ask for every basic thing one by one... No tissues, no spoon, no fork at table. Even when i asked for a finger bowl, they first said they don't provide it. But when another family asked for it, they gave it to them. When i mentioned the same that the other family got it, they gave me a finger bowl with cold water.\nHygiene: While having my food, one guy is sweeping in front of my table. Sweeping in an AC room while others are having dinner, No common sense at all.",
+        "time": 1747677428,
+        "translated": false
+      },
+      {
+        "author_name": "Akash Sarkar",
+        "author_url": "https://www.google.com/maps/contrib/108442467117640500293/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjtj_8LgfMXSX198rChljF_FrUccLhKPVvhZ_61LcfAZ__U_C-pQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "I have visited this place twice and it was just amazing. The taste was mesmerizing and the ambience was also good. I have order chicken kepsa rice and murg musalam which was so tasty. Later I order soup which was also yummy and after some time we order this full fish which was mouth watering and chicken dum Biryani was also good ❤️❤️❤️ and later for sweet we order firni which was also good in taste. So as per order every food was so yummy 😋🤤.....",
+        "time": 1633800293,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:29.063862",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "The Ramayana restaurant & cafe",
+    "address": "6, Station Road, near Atlas palace Hotel, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJt5Ke5c91YzkRZM8jwm2SVHY",
+    "rating": 4.5,
+    "user_ratings_total": 490,
+    "price_level": null,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1785519,
+    "longitude": 75.777816,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpf4LOx-JeMCsZ6Q24je8sRMJIOS6aai0mY9cXsofhVuwUqmEWv5I5xGi4Ij2pOx3AibgrCjYWnlEhongSIbtZRRXwMS-3YurOwoz5mZBpjuT9oFgF-A_jCzyIWw_U1GnHzcGIzL-PW_XSqRAfMdef_AuEO91Wdu0Ra_OdTXvK8rpWZX17hvDI8NjWYwa7mSXOy5q3wqLCVg47gyvc0CIanDzYwAf0xknO5qQW70NftqZOirMDpl86NSDaP0PCpHyZVapkL2EoRh2R9-rLuBa1c9FpK5o3HFwC7mH_sbZVIv57QZo4Y&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "095221 12220",
+    "website": "http://www.hotelatlaspalace.in/",
+    "opening_hours": [
+      "Monday: 9:00 AM – 11:00 PM",
+      "Tuesday: 9:00 AM – 11:00 PM",
+      "Wednesday: 9:00 AM – 11:00 PM",
+      "Thursday: 9:00 AM – 11:00 PM",
+      "Friday: 9:00 AM – 11:00 PM",
+      "Saturday: 9:00 AM – 11:00 PM",
+      "Sunday: 9:00 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Poonam jindal",
+        "author_url": "https://www.google.com/maps/contrib/118166822112492495819/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsZ-aSMT5tY4Ze6y-eoImqR-qK__-PBAGWUmqtoOkyXiMor-c=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Food quality was delicious nd service also recommended 😊 good vibes",
+        "time": 1744818313,
+        "translated": false
+      },
+      {
+        "author_name": "Munish Narang",
+        "author_url": "https://www.google.com/maps/contrib/105608907976168942266/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjnaGVBgvpIEwyikGi6oOXRBcxK_hkmEcI0s6-PRpIfUuz6-wQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Great place with great seating and ambience for family.. food quality and quantity was great.. cutlery was good too..",
+        "time": 1744388336,
+        "translated": false
+      },
+      {
+        "author_name": "akash bhargava",
+        "author_url": "https://www.google.com/maps/contrib/112312345547372938659/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUw-QfP7pa3jfwZjGYwFjTEd1CsobJAMeEcVmEnMj_VA_Mt_HrEuw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "5 months ago",
+        "text": "Great restaurant just near to Ujjain Railway Station great dinner , good breakfast menu all you can eat is vegetarian which is good !",
+        "time": 1738673001,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:29.191637",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Time Headquarters",
+    "address": "Tower Square, 301, 4th Floor Of Mahakal Sampann, Varah Mihir Marg, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJteJtDGB1YzkRUrE0GiVi_9k",
+    "rating": 4.1,
+    "user_ratings_total": 2345,
+    "price_level": 3,
+    "types": [
+      "cafe",
+      "night_club",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1788053,
+    "longitude": 75.7882521,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcCn-nfwB9EgUiizyhzvSjGmE94UmN_naau5b_dfBmK1qpJkoYsu2NLu16doF7K_lk54AjM1NIsAy2cqC9KxxWNqXGjUIWGiapEEEb66f-YGtXBpgbzaH8QHgmrJLJEeU_IC8qEOYmBIKWvOi_OV4enDWJ4XzzA88S5LFXAV7ue8qZ82O3cnY7Q0Gzt-pd54qDJyP4B81U5AQ_xUPqWXKu8X71uex6MAahsI96NQD3CZhCKiQJry1weXSg9BPhirq3UcVw0_hqWgAlHzy080faRrfzAORCV_rSlTvINIKEGv_I07NQ&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "1800 890 2732",
+    "opening_hours": [
+      "Monday: 11:00 AM – 12:00 AM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 12:00 AM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 12:00 AM",
+      "Sunday: 11:00 AM – 12:00 AM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Gauri Modani",
+        "author_url": "https://www.google.com/maps/contrib/109137837685524410361/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWssFBz2gfwe9nk1gOCxgmWkjSaFd2ce4yGl1YUlxWfVzzP2Hr0=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "I went with my family. We ordered different varieties. Everything was good, fresh, tasty. My whole family really enjoy the food. It was budget friendly too and also it was not that much spicy also. Every age group can enjoy the food. And also Ambiance was quite good.\nPaneer sandwich, Garlic Bread, Virgin Mojito are  must try.",
+        "time": 1713723478,
+        "translated": false
+      },
+      {
+        "author_name": "MRD Entertainment",
+        "author_url": "https://www.google.com/maps/contrib/113271260748287613960/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBbJo6aKSO7zoYj2brUVxUAVe8bOk2Pp_pOv_-aUrY49b_2Sqx=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "2 months ago",
+        "text": "Visited Headquarters Café in Ujjain today. The ambiance and service were decent, but I was surprised that they don't offer complimentary onions with the meal, which is a basic addition most restaurants provide. Hope they consider adding this small gesture for a better dining experience!",
+        "time": 1744388241,
+        "translated": false
+      },
+      {
+        "author_name": "Ramesh Bokadia",
+        "author_url": "https://www.google.com/maps/contrib/108613904758130833814/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZepYL93kG7AgkgpBI7yI6O1SeLHL2-TyQCZE3kO5ZF9892GKe=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "ORDER STARTERS, SABZI & ROTI,\n\nSABZI ROTI & FRIED RICE WAS NOT GOOD IN TASTE AN ALSO SERVED COLD, WHEN WE COMPLAINED THEY ARGUE WITH US AND NOT READY TO ACCEPT THEIR FAULT AND NOT EVEN READY TO REPLACE THE FOOD\n\nALL FOOD WASTED AND LEFT ON TABLE AN WE FULLY PAID FOR THEIR ARGUMENTS FOR NOT ACCEPTING THEIR FAULT\n\nFRIENDS I NEVER RECOMMEND TO COME THIS PLACE",
+        "time": 1736932491,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:29.328670",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "New Rajkumar Restaurant(Madhav Nagar)",
+    "address": "20, Bhaktawar Marg, Madhav Nagar, Thana, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJU0OgwW50YzkRfk4MIbDawDY",
+    "rating": 4.1,
+    "user_ratings_total": 1411,
+    "price_level": 2,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1759915,
+    "longitude": 75.79085820000002,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcabq5hc15FRza9WKhz241hEG1gs9hUZ9ao6Z0__tmqxDLHZpsiS0T2tMECvkp4k4Auox5URbT0VjOS17xf1SVKgFnAqabLZ7DqR5WKO2x_qcqe_qD1hHQHrCyIq-QtNE0NY0v0ign4ne0ubIJnfNV24fGjbHR1pQ3haGqKzzHXl85zlZQlsjLp8rCBNt4GYXtLLA4P_dFxi5PY1yluamPZR4UnJkLSRzvvduMY8qejRaOc_KQcitzymvMcup7iQlYTosUe1YH_N69LO6Y6BEIYSsiNgw49Mn0kWLj2x150vaPPf_cgsO3om248zw1VO6lCYM2NDpjIf9-gVhSEJMTpT8Vjj9QWjKhqaLBAZCbRNbLTC9MyfaVaNf3wEytzRSXTYyiUQtjbx7Tpk7iYhTXnICM81Ih2g0RNl4D8wNZ7Qw_5Tyc9ZRqiGhRedjoBQ2mIh953Rk9uUUXBHiMT7_ipRx8ES98T12U99E4O1CX8zZlzq6Y2IctyCuk92z3RSKDUlLZm4LZY6RMMOftrggCLd-VaCldewZO9UPlKANxRvceOiMZBwPbH5vGcQHMhHetD1g&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "094248 45440",
+    "opening_hours": [
+      "Monday: 10:30 AM – 11:00 PM",
+      "Tuesday: 10:30 AM – 11:00 PM",
+      "Wednesday: 10:30 AM – 11:00 PM",
+      "Thursday: 10:30 AM – 11:00 PM",
+      "Friday: 10:30 AM – 11:00 PM",
+      "Saturday: 10:30 AM – 11:00 PM",
+      "Sunday: 10:30 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Harshil Dubey",
+        "author_url": "https://www.google.com/maps/contrib/110914988530237255188/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKiE12xizSQ_Q09akdVNadKC-t8Vf-HVfINq3nEuq0PGHOiZQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "I’ve visited this place many times, and it never disappoints. It’s a pure vegetarian restaurant and one of the best spots for Indian food in Ujjain. The food is always fresh and flavorful. There’s ample space for dining in, and the ambience is decent. Located at a prime spot in the city, it’s definitely worth a visit.",
+        "time": 1744168494,
+        "translated": false
+      },
+      {
+        "author_name": "Deep Yadav",
+        "author_url": "https://www.google.com/maps/contrib/110503179171919423586/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXo4cBv3m9f-y3hOeAek1AYj2HuuW6h-wGMT9UGYlPwe6hsPZZQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "a year ago",
+        "text": "Updating my comment based on recent visit -\n\nI visited this restaurant multiple times with my family. The interior is good. The rates of dishes are almost the same as compared to other restaurants. The taste is also good. Nowadays they have restructured their interiors, due to which if you're coming with a group of more than 6 people then you'll be congested.\n\nEarlier around 10 people can sit easily but now if someone comes with more than 6 people then it makes them really uncomfortable. In my recent visit, manchurian served was not good. Paneer tikka, sweet corn, hara kabab is good.",
+        "time": 1719248364,
+        "translated": false
+      },
+      {
+        "author_name": "Reema vyas",
+        "author_url": "https://www.google.com/maps/contrib/117245779193255276638/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLaDH9t7xXyDP6P9Lg8qJ9C2NcGqqycG-qA5uKJDG2ySTe2jPDR=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I had a fantastic dining experience at New Raja restaurant The atmosphere was cozy and inviting, and the food was absolutely delicious. The menu had a great variety, and everything we tried was fresh and flavorful. The service was friendly and attentive, making the evening even more enjoyable. I highly recommend this place for a wonderful meal.",
+        "time": 1718771926,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:29.448406",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "The Flavour Garden",
+    "address": "65/5, 1st Floor, Mansoori complex, Shahid Park, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJW7dEoWN1YzkRRn9HN0vZ1-A",
+    "rating": 4.6,
+    "user_ratings_total": 162,
+    "price_level": null,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1787996,
+    "longitude": 75.7916904,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcFzPKpiwPN3QYXfoCPQt5FOQd4RD6O9FfXfYtzH11SKGy_6gFTMkSC3s8lKQY1r9uLtbDiFXVC0IAGKIgo4kVcEMi5J5WLc7FLmjxU5lx0WpduxLLlwRG9n6dlCGSjRgeB1jW2g5XSACtncX3YAcbtfcAOPEcFjHu2d3wyxWdJpzIrFPJ_VE3Y9nE25GS7LZltA5_7FKgHTZ2oANpf-SBIjI1agBFGbB_rivEaZQMsCz9P2yqiwnhnPrepxZls37mTDvSbjGjl5v0OKp3aw713GuvGcL9KMfsSU5dsP3A4CXMxBY5wXtsk2Xkdb4Iy9GbNU6FUI_Xeo_dyb16qswlB0fvJSNalmdh7jEmauRd_AGSdMN0r1a41AC_LJBxVrMyzBRYZV4W2V7sB1U7G3MxQyW_ulhWIyDxnbjJ2LyzJ4uKB75I34TDPCUgUJ6MYpc1rm5m6G7USTHif9eqcWb4tFhaDr8euVeoVzz97p6C00l7MZiLrYPXnt-7ziPUyqQDHB1IdfIKrwuhjWpFPSdV2AKTxCvzwmZRBDuZNTnXVpWR3_1cUSaQEoIsjFEG_rR6JEcvD&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "095278 28648",
+    "opening_hours": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Thakur Boy",
+        "author_url": "https://www.google.com/maps/contrib/115400143866838128405/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXp7mFUEHeC2XktMTf8FPSQtBB8xBJK_bW-Psz18RukkZeCLmE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Nice food ,nice ambience,good service ...budget friendly place to visit and variety of food items available",
+        "time": 1687802576,
+        "translated": false
+      },
+      {
+        "author_name": "Satish Sahu",
+        "author_url": "https://www.google.com/maps/contrib/103095481615761884878/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbImMMS8nvf5DFwLI6aGW9fkOhTe-D3ia0V7ei4gEw0G--spAc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Amazing place to explore different variety of foods with great taste and ambiance. Highly recommended to visit with family and friends for any gatherings",
+        "time": 1690302880,
+        "translated": false
+      },
+      {
+        "author_name": "Rajat Vagoliya",
+        "author_url": "https://www.google.com/maps/contrib/117466547479254286535/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ79iCg605R8zvbWGtBdEOTMfgnsIwnfo_Hyl3FUKGWMRQZqw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "The bast classic taste of luckhnowi chef's first time in Ujjain (M.P.)",
+        "time": 1687794197,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:29.540764",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Naveen's Bapu Ki Kutia, Ujjain",
+    "address": "Cosmos Mall Rd, opp. Lenskart, Nanakheda, Mahakal Vanijya, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJFToAPQB1YzkRgpq2_Q3NNh0",
+    "rating": 4.5,
+    "user_ratings_total": 1070,
+    "price_level": null,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.157157,
+    "longitude": 75.7917281,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeTPnPT94_9DMdJb7-w3cgM9jWO8vxz-ppEyTNtqs7R5eijXDEASuB8nuP4a6XYfqNEF3N5U8Q8y09aPz6RJ2P9yP_ydI3t8O6yemtDJyZf2lfumKwH1vPFhx0Pp4mVVhs75keizi8RA0Fa3gNKogbNe-9d39vzXsZcUysK5rJbv1NEB2jlwuTHM7epSIQZ2sMSn__ixFiVTUR4UCD5shxVHPXVCH9fn9ZJKJ_laZ6mlN2PFa519i7FdrSbv0tox2UbHZJTVZPHCFUH61Fk9lcM_vGePDdPkv45x053sgPbMyWrnmsRsK1h-6NuCgpuZsjZiQGMUm-52y4GKclgBbkqt2F0TIS4813tlTMdHNS0obcmxxJk-VjKgBBVDxM9kClfgIN2dkiqJT82iDxiAFl1SwIq7ro8pn3WtfT_hR1YMOqLiMvWmf5LSLXZ_7IAbWe5P4VNj9gcZKDi8Zkkd_HgzvAd7cJBKxM1g7OFZ-OjvK5BcMeQVW82R8G8CSAQc8ICQLwmnDM_6m7e4IYgUTeUfIYcZh_yqaTSGPWPyEn-JsdMTFvYLtdRsW_xJDF500konm9l&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "095898 93828",
+    "website": "http://www.nbkkfoods.com/",
+    "opening_hours": [
+      "Monday: 11:30 AM – 11:30 PM",
+      "Tuesday: 11:30 AM – 11:30 PM",
+      "Wednesday: 11:30 AM – 11:30 PM",
+      "Thursday: 11:30 AM – 11:30 PM",
+      "Friday: 11:30 AM – 11:30 PM",
+      "Saturday: 11:30 AM – 11:30 PM",
+      "Sunday: 11:30 AM – 11:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "khushal shukle",
+        "author_url": "https://www.google.com/maps/contrib/110456197913662170384/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUf54bii9-4aAg2cXr8TWd79RYmqqDNjoVQwv7dIOzarcN24lg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Dining here is a truly delightful experience. The food is consistently delicious, with each dish crafted to perfection and full of rich, authentic flavors. The service is equally impressive—prompt, attentive, and genuinely warm, which adds to the overall positive atmosphere. One standout highlight is the buttermilk, which elevates the entire meal with its refreshing and comforting taste. It’s the perfect complement that rounds out the dining experience beautifully. Every visit leaves a lasting impression, and it’s always a pleasure to return. Highly recommended for anyone who appreciates great food and excellent service.",
+        "time": 1748942318,
+        "translated": false
+      },
+      {
+        "author_name": "Akanksha",
+        "author_url": "https://www.google.com/maps/contrib/103014465609855112514/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHc5ObdxIzwTmLPEQqGqVsijdtexhuQV61gwpFhyClc7lby2ZG=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 2,
+        "relative_time_description": "a month ago",
+        "text": "Ordered honey chill potato\nMix veg\nAnd roti\nStarter itself took 30 mins to arrive\nVery slow service plus quantity tooo less\nFor the price.\nRoti is kacchi half cooked\nMix veg is filled with carrots n carrots",
+        "time": 1746864307,
+        "translated": false
+      },
+      {
+        "author_name": "Sourav Hazra",
+        "author_url": "https://www.google.com/maps/contrib/106421240250169411241/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJiAjbuXkGLLw3CVhnJPGwCuYKtuNL59qC15bD5vx-9ywJMDYk=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 3,
+        "relative_time_description": "4 months ago",
+        "text": "Ambience was very good, staff behaviour and service is just awesome, Food is tasty and quantity is also good, but they have to improve taste and quality of there rice dishes\nGreat service by Arun malviya",
+        "time": 1738930892,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:29.633793",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Angara Restaurant",
+    "address": "19 hari fatak near begam bag bridge near bridge, main road, bagam bag colony, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJixsT0Gd1YzkR5O_kUtubOpA",
+    "rating": 4,
+    "user_ratings_total": 875,
+    "price_level": null,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1788231,
+    "longitude": 75.7721626,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpccjY6JHaYWvJGQVGxbM34GSad9E-dchtMhd59sDUQYolHyl9M_ejGEV2pJHT8avNW-F_Lrbo5BopBPnB0NAt9rEq-r_Pmmbq-ji1SlLkKu6_qdmNUb7IwV9bHD3BhrWDhkcOCitR7gvukpGO7PsOmRP84WUydQg-q9zMeHghR1b9oqD8Uwa7b7yz85GDjl830qZGzV4esv1-5N89LrFya_Qv8p-aafBTdL_5R8bjlsgE5V-8USb38tFHaPnXFZvQAN20k5FvKr5k4LwbWaE_sVLZGMQ0uunlmDlBL3LpwEOIIe-n47XW_avhGwcifcaC5a3xoiACHjGbAi2BYP5rMJr6Vm6nN0kbgsOmZteunzCrW3C9XUEdHt9xRNHzdYwzXBFKWmSks_7dzlHdZ43f6KCxudsueGFxenHH1AqBjAbmQm03lPbCsDR8Rg8g76FmH0u9E6_xkIADjjpQWdnMXH6p49UscBvcCQ9ufEL8PgusVSNPqKa3HQHs5pMLU_Xk0uwo9DRaTwEXweUoH4F8atKWmwZqaGaVH5BjrHzTSs3qJQBkqaVbVRsyV5V1jFzPlWvG8aVhe12g&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "098260 44653",
+    "website": "https://www.facebook.com/share/Dm2SttBa5ESSrYHN/?mibextid=qi2Omg",
+    "opening_hours": [
+      "Monday: 12:00 – 11:30 PM",
+      "Tuesday: 12:00 – 11:30 PM",
+      "Wednesday: 12:00 – 11:30 PM",
+      "Thursday: 12:00 – 11:00 PM",
+      "Friday: 12:00 – 11:30 PM",
+      "Saturday: 12:00 – 11:30 PM",
+      "Sunday: 12:00 – 11:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Aquib Multani",
+        "author_url": "https://www.google.com/maps/contrib/110960671200763211717/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKJ7XCHLJMtnST4jed67zprhK0_N_t0iLzekzcFW6k8ae09eg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "4 years ago",
+        "text": "Have visited this place many a times. Its really  nice hotel with great food and service. The taste is brilliant. Perfect for eating out with family too. Worth giving a try.",
+        "time": 1605544057,
+        "translated": false
+      },
+      {
+        "author_name": "fatema hafiji",
+        "author_url": "https://www.google.com/maps/contrib/106728179157106892971/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLsEGViUuSlyAWCGTgh-UrX9XPPaKsCiJ5sP4YCaorxyK9kcg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "in the last week",
+        "text": "Garlic soup and manchow soup was tasty.\nLasagna chicken and sweet and sour chicken was also yummy.",
+        "time": 1751301774,
+        "translated": false
+      },
+      {
+        "author_name": "shahbaz khan",
+        "author_url": "https://www.google.com/maps/contrib/109890999222293117547/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMd8OeJ4q2jd83quwQjMvTmcuNVQSSzyAvAlbX5AtWRFw3Tzdb=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "Nice restaurant but very crowded. We ordered full chicken fry but the waiter came with half chicken fry.\nRoti was also cold. But food was tasty\nPlace is very very crowded. Sometimes you have to wait for your turn",
+        "time": 1718347524,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:29.738992",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Empire Restaurant",
+    "address": "C- 25/10, Vegetable Market Rd, beside Cosmos Mall Road, Mahakal Vanijya Kendra, Mahakal Vanijya, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJUy2Od0h0YzkRXQ3Iy04qhuI",
+    "rating": 4.1,
+    "user_ratings_total": 985,
+    "price_level": 2,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1579097,
+    "longitude": 75.7960793,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfAyEYionfpUrqjwU6-ckjr1fg3rhnxbqBYLBRWvfPIXlTaSJtcOltUtuwjWSj30ci1FUBtF8GGvLfvfJIP6bLy9braOPlttZO5nCzm7AQ96e7crcaqX1xcBMEjdmGwIhf0fhi2OJx_dsnlOdqnXr6t0kwvFiwg-P2VrRS7v154XfXBNkjEvBm-B3Moj8I06jbUxAgpIvQjQBCJQ4X7hB9dwZR-mEaSUb_zP399BF0fwYM30d7nQ8zW2dbr49Hx63osObwsWedBg04p4sU_TIhoqcetQrvetT54K1wvjzXKgsSLeEmvZhi9jtskyydJc_Zhs-oIsOZ-ngbEPbZDZ6bJc7BJsd6gjKeY-MbpQ7i9mYrjjVZwxC6TLleIIeBFA0r9PIRMak0wplU3dIMG3eix5N-IppAygCG_a-pbXkBu5wueVTSKEzF5qZqQex82Cpj-sGhp2SfonR6tenBPEQ4CvCwAwGtQWc6lWpRlSLr6qSoriVpg993DkxKLFD_L3JcFxonVKC6XLUFWYi4BGapqr-OEtLFigaqulJPi6Ex1zqJ_9385PxP2EER6DuFqpKFWd5PT&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "075808 08002",
+    "opening_hours": [
+      "Monday: 11:00 AM – 11:30 PM",
+      "Tuesday: 11:00 AM – 11:30 PM",
+      "Wednesday: 11:00 AM – 11:30 PM",
+      "Thursday: 11:00 AM – 11:30 PM",
+      "Friday: 11:00 AM – 11:30 PM",
+      "Saturday: 11:00 AM – 11:30 PM",
+      "Sunday: 11:00 AM – 11:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Deep Yadav",
+        "author_url": "https://www.google.com/maps/contrib/110503179171919423586/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXo4cBv3m9f-y3hOeAek1AYj2HuuW6h-wGMT9UGYlPwe6hsPZZQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "4 months ago",
+        "text": "I went for lunch to have chicken biryani. There was no customer present when I visited. The staff took 15-20 mins to prepare my order. The taste is good. Although the price of the chicken biryani is not justifiable as compared to the quantity served. This is not Mumbai, Delhi or any other tier 1 city. In nearby cities, the same dish is ordered at a low cost with a higher amount of quantity. People here are not that fond of non-veg like other cities. So rates need to be restructured in the menu.",
+        "time": 1739486456,
+        "translated": false
+      },
+      {
+        "author_name": "Anshika Sahay",
+        "author_url": "https://www.google.com/maps/contrib/105801346342475131396/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWv2GIf4hn3nkJRJKQ-G-stAWjyLe8nawwqE3HwlZxxxKCvLcLN=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Service is very fast and quality is good. Food was tasty and with reasonable prices.",
+        "time": 1737998025,
+        "translated": false
+      },
+      {
+        "author_name": "Rahim Nagori",
+        "author_url": "https://www.google.com/maps/contrib/113479197785247851435/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIC6MhBBVBKoqU4PIcxPznnT_uKwcKqmWLfsdOZ71ml6cW6lg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "We visited here for the first time. The food, taste, quality and quantity is up to the mark.\n\nOne of the best option for non veg lover in the town.\n\nThe location is really good. The parking space is free and ample.\n\nKids play options are available.\n\nInside space and space between tables is really good.\n\nHighly recommended!",
+        "time": 1703522455,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:29.837116",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "SKYROOF RESTRO UJJAIN",
+    "address": "Mhakal Vanijya Kendra, opposite Cosmos Mall Road, Nanakheda, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJDWj33ox1YzkRsSD8_zUEedk",
+    "rating": 4.7,
+    "user_ratings_total": 298,
+    "price_level": null,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.157415,
+    "longitude": 75.7944089,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeDHF4uUnciiaWTTuQshIVYwlQ5YF6iX2N0jWYUPXRtW4GkVDqMAztfVnWXj-XPsNHncNHEmxAAfjIyQYBptxO77mnUlyEbiHgRD0y2e-hstqnYsLvnNCbMu2ZHdz8Px_Mac5ir34QvzvPuAB4a4ZjDnvkZfJyhPDRDpln26wwGB4UItA9xeFfi-SohUJoODUKyZevBA560Z5HzEZFIOPCdFBZQwvPxr8O_JAuIlsJONLMzA64EYks46VDNNs_uDapgC8CdW8ab4JAroBcw7H3z3ZzyTlFNtu3GbaSQ0Xw5yMyLUOA&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "088788 88148",
+    "opening_hours": [
+      "Monday: 9:00 AM – 12:00 AM",
+      "Tuesday: 9:00 AM – 12:00 AM",
+      "Wednesday: 9:00 AM – 12:00 AM",
+      "Thursday: 9:00 AM – 12:00 AM",
+      "Friday: 9:00 AM – 12:00 AM",
+      "Saturday: 9:00 AM – 12:00 AM",
+      "Sunday: 9:00 AM – 12:00 AM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Swapnil Nagar",
+        "author_url": "https://www.google.com/maps/contrib/115290228284068970245/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFOFlL-jP35pU4eUn65F4bVDfV8vVsjYDGfz2A6t3nEEpU8wSx=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Excellent Food, The Paneer and Tandoori Roti were here top class, highly suggested. The service was extremely good, very polite behaviour staff. They did a small error in accuracy of order but they quickly responded positively and apologizes for that. Theme of the restaurant was very attractive, it will match your expectations pretty much. Have a go here with your family and friends.",
+        "time": 1733331307,
+        "translated": false
+      },
+      {
+        "author_name": "Namita Maheshwari",
+        "author_url": "https://www.google.com/maps/contrib/114107496424573040020/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUe-8fhM8IhIyayXOhaObWyKZ31uXCBug-XB95wiEKb0U9RXUmsRg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "7 months ago",
+        "text": "Skyroof is a cozy rooftop café and restaurant in Ujjain, offering a charming ambiance and an intimate vibe. My sister recently hosted a get-together here for 20 people. While the rooftop isn’t very spacious, it accommodates around 40-50 people, making it ideal for small gatherings.\n\nThe food left me with mixed feelings. The starters were excellent, bursting with flavor, and undoubtedly the highlight of the meal. However, the main course—vegetable dishes and dal—was just average and didn’t quite match the expectations set by the starters.\n\nThe biggest drawback, unfortunately, was the service. It was noticeably slow, and the staff seemed inattentive despite multiple requests. This aspect could use significant improvement.\n\nOn the brighter side, the rooftop vibe was enjoyable and made the evening pleasant despite the slow service.",
+        "time": 1732958321,
+        "translated": false
+      },
+      {
+        "author_name": "Muskan Bairagi",
+        "author_url": "https://www.google.com/maps/contrib/101748279289418662395/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1Vg_fC0D8oJj87vS8GY4agp-d45oGs7GQp11oyzpYwth8PbUyyQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "The hotel's food was excellent. From the fresh ingredients to the skillful preparation, each dish was a culinary delight",
+        "time": 1749570731,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:29.930894",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Damruwala Restaurant mahakal",
+    "address": "38, Mahakal Marg, Kot Mohalla, Jaisinghpura, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJXwDDuTd0YzkRc1I4jU3sFfE",
+    "rating": 3.7,
+    "user_ratings_total": 1147,
+    "price_level": 2,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1833944,
+    "longitude": 75.7698241,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeiHBeElpKxfaa-8-IAu4p8Lye98RWxmreNIc96IoTFMdmAXGVf5Ft7iNtWzT9KosxZLU0OgEGiH471gVcUk7KHtxOE67FQKXIpdezWsfasNIutO9yAGuwwJVdwtnLLcVFGvDJpcK1qrBm_PHuVBeCgpz6Fe1VxDNtRP1NkCodQ7Ps3X5pflJhBRhzFnm1o2TRWeSeZZDg95QfRXrNQx5EhxWh6Y_WCs0EVyM3yJAJhGuzcU094QbUaZpg2dmAJj5Z-fEkdV3e_A0Zr-nqmX-WaCyCEIV0TFNlqOhhzkWEUUcIi51h5FFDEwSNBb9WE2EuFZ2Wx2JZb_ryZ6RYpfGTo8lmgA4_TJx7JuWkr4v_tkEBTcyl-W9P8wWk0WSY-4SaXL8tQ5JOy83y95APkrGYjPqZj0yMSU5plxlnrAsjfxEPU-tXxIesZ4YMronVG46mJzR9id9ND0zrMO7l1mxSdqwNL2KmrX0UxORGNUbIKBAcCtwUGUBrR_gcX_CU9Jh_zJQmCV4ECQkQc5vRW110VG0NLxJ0GXYsH67oT5KLFIyZ7AOhzG2NNWIfEML28bIsrtA&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: 9:30 AM – 12:00 AM",
+      "Tuesday: 9:30 AM – 12:00 AM",
+      "Wednesday: 9:30 AM – 12:00 AM",
+      "Thursday: 9:30 AM – 12:00 AM",
+      "Friday: 9:30 AM – 12:00 AM",
+      "Saturday: 9:30 AM – 12:00 AM",
+      "Sunday: 9:30 AM – 12:00 AM"
+    ],
+    "reviews": [
+      {
+        "author_name": "INDIA FaNtaSTicFooDLoG",
+        "author_url": "https://www.google.com/maps/contrib/104901743379094168988/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJ1kjx7iuHbX0w7uInj4-zFF0xURPiQ1T6l0zL3VYlNrCVmMwtdw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 4,
+        "relative_time_description": "a month ago",
+        "text": "First time tried Ujjain Famous Dal Bafla here and experience is good. This is same as Dal Bati but the bafla quality is extremely good. Love it. Not extra spicy. Overall experience amazing. Wheelchair not accessible♿️❌",
+        "time": 1749007083,
+        "translated": false
+      },
+      {
+        "author_name": "Sumita Dutta",
+        "author_url": "https://www.google.com/maps/contrib/100251119968094216954/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYWJz9E65K8fuHZA6d2IHTolxE41uTDqZQf0CPWFIG5KcPJQKa=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "7 months ago",
+        "text": "Nice food... They add very good quality desi ghi in food... Outstanding taste..",
+        "time": 1732785446,
+        "translated": false
+      },
+      {
+        "author_name": "Rahul Panchal",
+        "author_url": "https://www.google.com/maps/contrib/118149808339764662578/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKzbeFZqAPZTsskDcGc11A1rADnzHuiQM7duG8hsbRkSkfUEnR=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Visited this place for dinner during our Ujjain trip. It was quite late around 10.30 pm. We ordered their standard thali for adults along with Khichdi for the kid. All the dishes in the thali were good. The kadhi was especially scrumptious. The service was not that great.",
+        "time": 1745235838,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:30.024204",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "SONU’S CAFE",
+    "address": "5A Harshdeep Business Park Nanakheda, Mahakal Vanijya Kendra, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJZ60r-Ph1YzkR15Hqaf1uy-s",
+    "rating": 4.9,
+    "user_ratings_total": 2092,
+    "price_level": 1,
+    "types": [
+      "cafe",
+      "meal_takeaway",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1571541,
+    "longitude": 75.7875869,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdedq3gQFOXojkMxQpkYESsAe8Fhome7natuyRpLPdb764v5NlkYLxz-GcUPKTvwYTMO66Pt1dqaCqrEpAGwcPP6GmDO2bAh-vX2o78dxbpcObkOFBBjeq2SbQQL4AHBO2YRaQZx3xrnjTk_On9DK0MLS91NRuVk6GQmORm6umPAzVKIXMI29R6jxG3g_xJeEd6-7obFG2XyPtl1QVXRW25YrTFY0XW1TqKapeVc9C5eU98R6aVlGMb9rXXV5usztPtvAXIdb9mn6R6ML-OCm73HNdGNyW-pB9Y47If43JFg_8_ncs&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "093000 87889",
+    "website": "http://sonuscafe.com/",
+    "opening_hours": [
+      "Monday: 12:00 – 11:00 PM",
+      "Tuesday: 8:00 AM – 11:00 PM",
+      "Wednesday: 8:00 AM – 11:00 PM",
+      "Thursday: 8:00 AM – 11:00 PM",
+      "Friday: 8:00 AM – 11:00 PM",
+      "Saturday: 8:00 AM – 11:00 PM",
+      "Sunday: 8:00 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "shubhangi vare",
+        "author_url": "https://www.google.com/maps/contrib/104752799151082560220/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcX2fx9cKGCc8dyLRaJ2TELAXOzmmo1pVPjjHO1H2aKQooMQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "**** RECOMMENDED ***\nWe just love this place in all manner,\nFood test - wow 😋\nHospitality - very humble felt like home\nAtmosphere - pleasent\nAfter travelling so long if your getting all these thing under one roof it's blessing.\n\nI am very thankful to PRIYANKA & PIYUSH for giving us such good experience away from home.\n\nWe have tried their thali, Haqqa noodles and hot coffe (cappuccino).\nEvery meal was testing wow.\nTheir boondi raita and khajur pickle, I can't forget it's taste 😋😋",
+        "time": 1746016285,
+        "translated": false
+      },
+      {
+        "author_name": "Jugal Shah",
+        "author_url": "https://www.google.com/maps/contrib/109479082755423102332/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfX6Dyitj8EvWKnCAsp9S7E0Fvia4VHEVtRVWTAYYNDNc5Ol9Leg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "The cafe on ground floor is absolutely must go for breakfast and snacks while also gives great dessert at night.\n\nThe resturant has great ambience and the food is very delicious. We visited for 2 days and had dinner on both the days. Sizzler quantity and taste is very good must try.\n\nEspecially if people like good hospitality and service you must visit\nPosting after I left the place so not sharing restaurant pictures but the ambience is awesome.",
+        "time": 1722058174,
+        "translated": false
+      },
+      {
+        "author_name": "Priya Suthar",
+        "author_url": "https://www.google.com/maps/contrib/102786357005496991525/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUG2mGwlUj8Dl1I_iRSTWl3qukAp5ppwBb-wv-cCiwGaCh9WT9_WQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "We visit this cafe after searching Google review and we order one by one order and the food and smoothie was so decision and fresh and yummy.... to be honest the food I test here feels like ahemedabad food and the lady owner welcomes us beautiful. We really feels so good. We order jain fried rice, pizza,paneer chilly and paneer is so soft and latte and strawberry smoothie.\nThanks you",
+        "time": 1743696023,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:30.118075",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Cravity Restro Cafe",
+    "address": "1/2 mig vistar yojna, Cosmos Mall Rd, Nanakheda, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJd7L5Soh1YzkRIIV5pmFSl_0",
+    "rating": 4.2,
+    "user_ratings_total": 636,
+    "price_level": 2,
+    "types": [
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1569235,
+    "longitude": 75.7917654,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcbm1B42Mp37cuyw8dYyJ26BPPCrrHFoaIEW4avIZMuh2jksPEqHSevyf5mJzYiET2dwHSXDZlM9qm4Q2qvjWODesUvmEmi6SS7-LqJ8TfSzUxc6BMmmhd7NsQBoonh4nz8-9VbS9O3BLXRbVlsmCdHDbCcv-Sw8xE8z22f4fWHAlfp0HeaNEqL0zYevwS2SazXFbHNDVMyDNKvF2UaH1IDrEhkw5gIPFpIBpgX7cLClYOtWSL-xZGj-RimxoiNBRMzCgT20c4xKY42D0dHDyjhXLpSZnkPBGR3qiPJN0665c3X7As&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "094240 90999",
+    "opening_hours": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Harshil Dubey",
+        "author_url": "https://www.google.com/maps/contrib/110914988530237255188/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKiE12xizSQ_Q09akdVNadKC-t8Vf-HVfINq3nEuq0PGHOiZQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "2 months ago",
+        "text": "I’ve visited this place many times, and the food has usually been delicious. However, this time the experience was a bit average. The white sauce pasta was unexpectedly too sweet, and the chana masala was overly spicy. On the brighter side, the Hakka noodles were excellent.\n\nThe atmosphere remains as chill and peaceful as ever. The café is beautifully designed—its logo, window area, and overall interior are aesthetically pleasing and thoughtfully done.\n\nAlthough this visit didn’t quite match up to previous ones, I still believe this place is a must-visit. It’s an iconic spot in Ujjain, and almost every Ujjainite has been here at least once.",
+        "time": 1744530298,
+        "translated": false
+      },
+      {
+        "author_name": "Muskan Sharma",
+        "author_url": "https://www.google.com/maps/contrib/116659018569812726334/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8V8I2R7RZmThRaixEo_6RGYtpAnl0txWXJ8_3wcrfWFM7Kjcc1A=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "It was such a beautiful experience to visit the cravity with family. The infrastructure, service , food, atmosphere all was upto the mark. It is very comfortable to visit there with family as well as friends, also there is a full course menu available in addition with Chinese and Italian.",
+        "time": 1712491706,
+        "translated": false
+      },
+      {
+        "author_name": "ashna husain",
+        "author_url": "https://www.google.com/maps/contrib/110007428338252326416/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3jThTooRIOcD3alaOLmaXush2McTYGCCBl-9AJ4UmuZOmJayb=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "Place is good and spacious.Price and portion of the food is great. Some foods are delicious while some needs improvement. Overall it's a great place to celebrate your birthday and to hangout with your loved ones.",
+        "time": 1631443692,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:30.207376",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Mahalok dhaba",
+    "address": "101, Indore Rd, Dhediya, Gothada, Madhya Pradesh 456006, India",
+    "place_id": "ChIJ28GsGwR1YzkREq9gBU-Tch4",
+    "rating": 4.2,
+    "user_ratings_total": 960,
+    "price_level": null,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1180912,
+    "longitude": 75.7999711,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeO3u5jBLR4rwNvKyPSB4co86x_TZD8mtiPWbfyKbbb3VWIOcmBQOfVCx9OV2LpR7krwkilmR1Q4jX9Ve33IY1jeztFVHg9Jy3zSWZgc__D6iQZ4RyxsnhKZw3iDFAiJrepd0oTxEJTFdivcHKA2i7dPdAFj22IKvY7lZe3Z0InEGix_r7SK4gBel1KS4BBsEzjZA1T7-1gA1CaTuC8SAL-SLzC-ujvfx3FnEJU8DbordtB74AW-gSmMUK_S0qOTlc1B3ktmjN9clEtPWTaRAApQk1GQLhFxUHSo3wOoiEJYguBwgplNAx4mXMg_abqEoiJ7hrPSVPW3oowLbybHalfPjycjv9WOUI8TseR9L6eRmVsG8RZEaTEhxQyoTKQZdhyLiUffNoe0dv6PGv_pz2ECwEs4uqJ9aCzvUwfo8IT2YhsjUtAc3z026bRbQVa2DnU8hZhutBnRmtW8PHKjXznaH1Nj9yzjhA_BEXate4KqZC-RoDIUmV8-ZlFc6KRfuXYS75SJlRt_rZMp1rBt3XfDNFrb6PgqFypGYsCYcpgHaqmBUEXAtGMqsw7hXGp3qNUm8pX&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "062628 05555",
+    "opening_hours": [
+      "Monday: 7:30 AM – 12:00 AM",
+      "Tuesday: 7:30 AM – 12:00 AM",
+      "Wednesday: 7:30 AM – 12:00 AM",
+      "Thursday: 7:30 AM – 12:00 AM",
+      "Friday: 7:30 AM – 12:00 AM",
+      "Saturday: 7:30 AM – 12:00 AM",
+      "Sunday: 7:30 AM – 12:00 AM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Dr.Mohina S Kulkarni",
+        "author_url": "https://www.google.com/maps/contrib/109731334182772050839/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiXaa6MtvMcw-FNO_WNVYU0-Cp_h_rdwnUoWvXs9QF6z__iQL4KQ=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "2 months ago",
+        "text": "Relaxing place for lunch after visiting Ujjain.\nWe had roti and dal tadka.\nThe fresh lime soda was so so.tawa Phulbani was great.\nThe seating is ample..fan is unique and the owner is very welcoming. Front manager has great you attitude.\nStaff is good too.",
+        "time": 1745508852,
+        "translated": false
+      },
+      {
+        "author_name": "Dev Patel",
+        "author_url": "https://www.google.com/maps/contrib/106208163832223413080/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIKWKficT7kOp6CTsYGR17Lhg86n10iNV-MvRaQcoNIwHJIbg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "The place is amazing.\nIt's a well built family restaurant located at a prime location near ujjain mahakal temple.\nThe food was very nice.\nThe staff was kind and Cooperative.\nThe service was good and place is hygienic and clean.\nOverall a nice place to have your lunch/dinner.",
+        "time": 1750670084,
+        "translated": false
+      },
+      {
+        "author_name": "Tata Mrugakshi Nikhil",
+        "author_url": "https://www.google.com/maps/contrib/116816327597224364261/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgG2tnDHUjk8Vtrpsv3pyQSkD2dR99Ul-G-W2hI068K7c6UDmoZQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Felt like in another Universe. Food here is amazing. The atmosphere here is amazing. Hospitality is amazing. Loved the space inside. Natural aura. Plants around.\nMahalok dhaba",
+        "time": 1749971055,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:30.314246",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Shree Guru Sandipani Restaurant",
+    "address": "Mangalnath Marg, Digambar Akhara, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJn0W9FZ92YzkROYMGMu8ZSCs",
+    "rating": 3.9,
+    "user_ratings_total": 1111,
+    "price_level": 2,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.2103294,
+    "longitude": 75.7820278,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpe_L3utV4tltiOmO-LzUTIWEfMwnLSByD6WtePnIuw9SQTnC_Q1AntMVkY3DvVvs_fgMkbAW79WZMfr1kYPWY_FGsxDvmzcEg9z8Vqz6DsRmnlWIE93N8d7ZfJ9wx1EqZDjFVejV5IMjZZiqh2O98qxpkIgfnmmoHHhTbkOyRG-g3BYBvcP-qA3kxxId3c0cOJdmgZcSoXqyIzQkzJXlmUXP1BF_WYDUpKSr4CRa62fmO0zPq59X_9Z4K-wq-_oEaGAebHeqMywQQiLymmfrwdv_cxJQ5SA0-FWaoGpa_v0_r65H3BxQUq4Q9yBSKOHeuBeMwLbAF1jZuQXOOYPciDGohEOAY_425Hgsq2JNPGkKQMXKxuZgMjLEidCapItwfiSOMPN_pqxhSt57bVVNoBqcRGW_Lr4HdH0CAhyEZSPyLzgVJMV1g5SnWGAgYsOUcp6x9RqF9lfMhUaQP4ptH0LgXThRDc6Tu988PRVE3z5F35JzdnSutvP0c7XRC-xNkTc6cbhcHjVf5o1O0Sw3IZB-1-CwJZz0P78d4oC2H_ogtwyzFmD6uCnqUSSS62fz1x_Tron&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "098277 18930",
+    "opening_hours": [
+      "Monday: 10:00 AM – 11:00 PM",
+      "Tuesday: 10:00 AM – 11:00 PM",
+      "Wednesday: 10:00 AM – 11:00 PM",
+      "Thursday: 10:00 AM – 11:00 PM",
+      "Friday: 10:00 AM – 11:00 PM",
+      "Saturday: 10:00 AM – 11:00 PM",
+      "Sunday: 10:00 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Vipul Chauhan",
+        "author_url": "https://www.google.com/maps/contrib/102100037213075179564/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZArTyQzxpuT-GMb3SzlzEHA3XFCkn07schM2FLZ6xYTqamj9L=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 weeks ago",
+        "text": "Amazing taste! You can try the famous Dal Bafla at this restaurant; vegetables can be refilled.",
+        "time": 1749874802,
+        "translated": false
+      },
+      {
+        "author_name": "Vivek Jindal",
+        "author_url": "https://www.google.com/maps/contrib/109867664358937290776/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMcXZ7PsxBCCzPTRfHfJxMXVy1JZx4bnUr-bvJR9-Mqh1g0fc=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "5 months ago",
+        "text": "The ambiance of the place was nice.\nWashrooms was in worst condition; you can’t even stand close to the place 🤢",
+        "time": 1738603289,
+        "translated": false
+      },
+      {
+        "author_name": "vikas pachori",
+        "author_url": "https://www.google.com/maps/contrib/101684009877948832419/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXnm5MHcp9QGvFGj1zodXdEfJ0i-EXQQ4jO0QItJivU6ptmE3bMVA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "I had a good experience overall. The food is really tasty and definitely worth the price—they're offering great value for money. Everything was nice, but if they could improve a bit on hygiene and cleanliness, it would easily be a 5-star spot. A little more attention there would take the experience to the next level.",
+        "time": 1743857449,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:30.420999",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Chanakya Restaurant",
+    "address": "30, subash Marg, opposite Railway Station, Dudh Talai, Malipura, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJZVM54kd0YzkRh6n3I3MdtBI",
+    "rating": 4.5,
+    "user_ratings_total": 1891,
+    "price_level": null,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1800502,
+    "longitude": 75.7807612,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeRxwxhNTEZ8Rw01fq6uGlyAMQFaR_fkjydMdkCsGnKduz0U0D6WLI1blg1rwHZxjZYbnaxj0Am7skZ5uecmzVrcr8aONH2rZ0M_IbIDcJoRgxwSxdD8gvngWv_LxEiQsshkM9FDtXW2JJukQNPY_pNytvXMKZMzjqlUnMVVk1mJxmMHtrgddSK-9dmd4GjTy0VIGq_6ZVmWCjLkmdHhxWggN0RwwCfH9bCwma5eXjBNa9jX5l8XzAYhbKyp0VVpherPeHzDLrn9aIPitITP91ots-7_SFLOQC0wAC8NnM--W0EMBg1XWuiLliK-bpukDjo-7aGrXv-aZdcsmHv1-ZvBc4oZs65smAnMXoZiFekahxwV8IObL6qNdnrBXy0_dYmeGgtzuUQCDP8iRooh-7D2auTazI70xiGev6IcKxFD2jHMOo-Mt6i9hOO2upX25gWF5vb4bhqdCjJZP5NzmPSrdLxu7CLmcJLBWspweLQcmdYS-o-qw5Q8ons9x-ZASLjwH4quxHO_D7VBKx3OwUaR9MP9VrcMxuRPbSoh8AvEno1QHl4Zop8QwuyLqbPA4gsjW3V&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 256 1600",
+    "website": "https://www.ecatering.irctc.co.in/station/UJN/2655738/2806295/menu?pnr=&time=&date=https://chanakyarestaurant-restaurant.business.site/?utm_source=gmb&utm_medium=referral",
+    "opening_hours": [
+      "Monday: 9:00 AM – 11:30 PM",
+      "Tuesday: 9:00 AM – 11:30 PM",
+      "Wednesday: 9:00 AM – 11:30 PM",
+      "Thursday: 9:00 AM – 11:30 PM",
+      "Friday: 9:00 AM – 11:30 PM",
+      "Saturday: 9:00 AM – 11:30 PM",
+      "Sunday: 9:00 AM – 11:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Lucky Choudhary",
+        "author_url": "https://www.google.com/maps/contrib/107834198011904715590/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAfNUQ3rKe4-UhjeWDpbcQztcDbReOFWseo_IqBEnIWDxRCbI63w=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "Ordered Chhole bhature and Puri Sabji in Dahod Jn while travelling in train. Got food in time and the prices were good compared to the competitions and more options were offered.\nThe sabji in both the food-item was just so tasty (The Aloo matar sabji in puri sabji was very tasty and the chhola had a nice gravy too).\nThe bhatura and puri was normal (I can't judge it because it's something that's meant to be eaten hot out of the Kadai, but it was nice.).\nAll this is my personal experience.",
+        "time": 1722625902,
+        "translated": false
+      },
+      {
+        "author_name": "Yogita Kadate",
+        "author_url": "https://www.google.com/maps/contrib/106362317836950206778/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhYaif1b8Dd5MrwNXhgvpXEj7TEdPt-XudMJOGk7Uu986zWsHC=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Very nice food in affordable\nprices ☺️\nServices are also good staff behaviour is well mannered.",
+        "time": 1750522706,
+        "translated": false
+      },
+      {
+        "author_name": "Patel Daminee",
+        "author_url": "https://www.google.com/maps/contrib/115455144450737528715/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsbGw07vb4y_gbYbeCyBAJYJTRDrmb2b_dmdv0lguWWIIniFo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "\"I had an exceptional dining experience at this hotel! The dinner was outstanding, with each dish exceeding my expectations. The food was incredibly delicious, and I was thoroughly impressed. The standout item on the menu was the Gulab Jamun, which was absolutely divine. Overall, I highly recommend this hotel for its outstanding cuisine and exceptional service. 5/5 stars!",
+        "time": 1739722072,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:30.509389",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Jiji ki Rasoi",
+    "address": "Pipli Naka Chouraha, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJ_b56T0F1YzkRDBg0xKeEEpU",
+    "rating": 4.7,
+    "user_ratings_total": 336,
+    "price_level": null,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.2011516,
+    "longitude": 75.7707226,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdCPRarKfKYfUzNZYqmlwfYGHx3Y9XwUBJak1NXv7Kw7rMrKQklzhsb2VmLz0CuY0BneJ2iu3nA2wf67a8zp0K74a3Ud3uQSj46n5sSHOCmDW0mXrk0iE-n3UAjf2Iy0STCHTe5FS3j5mY5FOQ-8KFJBsTAM1lXFQ32Ots_EssjpAyO3mm9wUp6W3nL7-utqCgTVkZfkjrB1riRkBCq3nduAJcCLZGEXA3BNYnSSIssJSFrx4oW8DdbtT4ex3x-OXdicmm2FVsZ9GVb0jNV14A2HqfjNIVPyIaGp4VKzvQgZRglRK8P09tlt5seh2ORJTDSNTe5WEp_zDBwq6Bk0mbZQA8dWl9fJTVNbna6JfllzrQYE6kBZAbgfaX3gwznp9TAFEhvwaISPKzoE-97XMVW3sNpBg_hFASnD_FnZS3Hh1JVCAQIJXKCP1hEP2Wz2LSpCtLWIDULd_nJL0QpgRjtuOod9P4laqSGoo6-EGcV6Gp2Yacke97V5TN_gu4cyqTLLOBrz86IWxwyU09KsYAhOkuRAOUL7nDcvSkhwNH9vfz5yUYWbh87yqLk9DuLy72CEQzz&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "098273 07012",
+    "opening_hours": [
+      "Monday: 10:00 AM – 11:00 PM",
+      "Tuesday: 10:00 AM – 11:00 PM",
+      "Wednesday: 10:00 AM – 11:00 PM",
+      "Thursday: 10:00 AM – 11:00 PM",
+      "Friday: 10:00 AM – 11:00 PM",
+      "Saturday: 10:00 AM – 11:00 PM",
+      "Sunday: 10:00 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Agastya Sanjeev",
+        "author_url": "https://www.google.com/maps/contrib/107181884607021264308/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVz8r_t0RZil2KD6TaarixHnZUsdWpHs4sVOre5qzcYJJ3wwl_A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Absolutely divine food!!!\nService is top class\nA MUST VISIT when u are in ujjain\n#homelyfood❤️❤️",
+        "time": 1739429188,
+        "translated": false
+      },
+      {
+        "author_name": "Urvashi A",
+        "author_url": "https://www.google.com/maps/contrib/110649264641431201711/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDqPAckpH7NqE_bu-vwA0R5CmabWGnAlSusi9CvgM_grXNh9UmiQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "The food is very nice here. We ordered aaloo paratha, paneer butter masala and tawa roti. The kitchen is managed by ladies and they also maintain hygiene. Must recommended place.",
+        "time": 1734606870,
+        "translated": false
+      },
+      {
+        "author_name": "Akshay Jachak",
+        "author_url": "https://www.google.com/maps/contrib/114965544610290428943/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXU6MP75vuBLvKpTKk8NrKDAJCiS_Ew7cK_G_FljlZL0QlZzGi1QA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "We ordered the following:\n1. Special thali\n2. Paneer Paratha\n3. Aaloo Paratha\n\nAll the food was great. Service was quick. The chutneys were delicious. Dahi was tasty as it was made in-house. Highly recommend this when you're in Ujjain for authentic vegetarian food.",
+        "time": 1725371035,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:30.609389",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Karachi - Kastoor's Restaurant",
+    "address": "12/5, Shanku Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJdbWhCGx0YzkR2mnEIPRHBTw",
+    "rating": 3.8,
+    "user_ratings_total": 747,
+    "price_level": 2,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1783594,
+    "longitude": 75.7897503,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfiD51wM2Q-Lzy58jE599Gid3j1_vRfnEbzMuboTE5GZvbQnx9FjDqRQdiGKJ9z26fP1AD6MjAzsKUlIAr1it5o_fWwyikLrPISIbtcd7O2zsVr19Kq7u13lb25jtt99mvUlbJJ7NJpRqd6vMne0y2HpR0E6Q8GKj7JHnJJswHFlZjhzuP0Q46yAz8GoNoB58875bKrSNxe8xZ24FxtLrkKeYHzFAeYtVNoAOwBJ8kJ4UbWYypioyCq7D_Xaw_iavImpT-cdGjn17bIj4Ci8alVHslRr34KL-mYea5WXhBZuqHDFuWchB6yJ_0EUOfN6Gbqoy7acy9zNPSoCSUk9oA6BCWUS9HXQ8KqjPGDbvOOy3SkltETJ1rU-QHvmkbCNYfaOx_U3s_Qsr7D-U7qyuUzIGJilY3FtMW46wgMzB4RUCGVdGIjkr7pYaaM4-ds8gK01Ax9CvJlEgA7azdb00Qc1tLsaNq-SFPaWM--aMUq7mNg1d-ZhaE9SF0Tyccdz6W_g0hmleLbLXT4ov2Xxv-BNcDknqpcOgR-45W8cTqgTOFtAgSeMcFseyEbO6uEoyZKzGtN&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "062608 19534",
+    "opening_hours": [
+      "Monday: 10:00 AM – 12:00 AM",
+      "Tuesday: 10:00 AM – 12:00 AM",
+      "Wednesday: 10:00 AM – 12:00 AM",
+      "Thursday: 10:00 AM – 12:00 AM",
+      "Friday: 10:00 AM – 12:00 AM",
+      "Saturday: 10:00 AM – 12:00 AM",
+      "Sunday: 10:00 AM – 12:00 AM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Pratik Guha",
+        "author_url": "https://www.google.com/maps/contrib/106738513466652605616/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtnglF-_IrCWqSjiYNqe-yBQ-Wd78yl2kT2U7R-ecaJxQUfwz9=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "Food  quality is very poor\n\nWe are coming from Delhi and got know about this Resturant but when we have try there dishes\n\nWhich is really poor in quality\nWe have ordered a paneer tikka but which is too much of space when we ask to the manager they Daaud this rhe the only preparation. We can\n\nNot recommended this restaurant any more",
+        "time": 1744995299,
+        "translated": false
+      },
+      {
+        "author_name": "Vaibhav Singh",
+        "author_url": "https://www.google.com/maps/contrib/103504018399905509048/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmr-ZxFh1HMgpZ3K99c0Sz241W8Uy5pl32Z07lBXLLmcXwxkB0TA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Definitely a great place for Nov vegetarians. I mean their taste and flavour is what I appreciate the most.\nAdditionally their dine in quick service is phenomenal.",
+        "time": 1727615539,
+        "translated": false
+      },
+      {
+        "author_name": "Heena Johari",
+        "author_url": "https://www.google.com/maps/contrib/109857217001126638141/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVT76fj2HdWwB-XDKJxLgbgsaTNzvvv5WKlCyFSBxxuXMcXQYWL=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "We ordered zomato of chicken tandoori they sent stale chicken with foul smell and taste , and burnt to black. The restaurant was not entertaining the complain and was blaming zomato for the problem.\nPoor service and poor food quality deserves a negative star indeed.",
+        "time": 1717605719,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:30.717514",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Modak Restaurant (By Hotel Atharva)",
+    "address": "Mahakal-Harsiddhibipass Road Near Jantar Mantar, Madhya Pradesh 456001, India",
+    "place_id": "ChIJd49pw0x0YzkRo3Mlb0H0Y0s",
+    "rating": 3.9,
+    "user_ratings_total": 451,
+    "price_level": 2,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1728381,
+    "longitude": 75.76195249999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcSITOOZGJ9fjZBpNusTAtTq58oxJIjBIQ5wNZw7rkhYbDss4IRVMCSRyQQLdJJmilZbd6lrZmC2QmzsqZv1tp-m9XgJ8IBk7gdQ_OOxGGFDj2QofB3ZYpIxv0Ln5TYYo924m6UPkjBo2V8IukunCqTeMw2qbcEZb0SkJKSQKbyxxKMLNgj9lyOGC00qP9R6qsMulIVuXC-FE3agIzWlA6cwv2ZGri25snn85iTYk869eZC7qnWfExHc9oSVHjvTGJZF_VqiUm-DCTD2MsjE_mR6KYtb6mergU3zpbsgk6c9t8hSqQ&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "098272 15100",
+    "website": "https://www.thehotelatharva.com/vegetarian-restaurants-in-ujjain",
+    "opening_hours": [
+      "Monday: 8:00 AM – 11:00 PM",
+      "Tuesday: 8:00 AM – 11:00 PM",
+      "Wednesday: 8:00 AM – 11:00 PM",
+      "Thursday: 8:00 AM – 11:00 PM",
+      "Friday: 8:00 AM – 11:00 PM",
+      "Saturday: 8:00 AM – 11:00 PM",
+      "Sunday: 8:00 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Aalok Kummar",
+        "author_url": "https://www.google.com/maps/contrib/118217432977467924641/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFibRyljVPKv-EZqQukWnvkRhVoQQRDPl5zvAOt0g2oLAeWmIyBQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "a week ago",
+        "text": "Located on the Mahakal-Harsiddhi bi pass road Near Jantar Mantar, this Pure Veg and non alcoholic restaurant offers a diverse menu from Chinese, Mexican, North Indian and South Indian foods.\n\nTaste of food, Value for Money, Hygienic, Service, Interiors, Car Parking, and Exterior walking space are all very good.",
+        "time": 1750841586,
+        "translated": false
+      },
+      {
+        "author_name": "Abhijit",
+        "author_url": "https://www.google.com/maps/contrib/107862697340072670860/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6zPTMbHJJGrU65qwpfUF-mzLxW31oJAAM-GiFXGyB08UK-nJi8A=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "3 months ago",
+        "text": "Restaurant serves the all vegetarian menu. The restaurant accommodates decent amount of crowd.\nThe food is good and has nice taste. But some items are hit or miss. The staff is polite but the service lags at times especially when there are more visitors.\nGood place for visit.",
+        "time": 1742223387,
+        "translated": false
+      },
+      {
+        "author_name": "Harendra Singh",
+        "author_url": "https://www.google.com/maps/contrib/105326714459405073669/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSaeNRKVQsyVUYxXNgP4E-C44Xroi_okoUKpYLUdByLlmo8Sa1kw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "6 months ago",
+        "text": "Modak restaurant Good Location, Plenty of Parking, Food is good in taste. Rate are same like other competitors in market. Hygiene required in cutlery. For menu we have to scan a QR Code on table. Within 10-15 minutes after order item served. Atmosphere is good for family",
+        "time": 1733680759,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:30.809802",
+    "source": "google_maps_api",
+    "data_type": "real"
+  }
+]

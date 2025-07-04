@@ -1,0 +1,13 @@
+{
+  "total_businesses": 487,
+  "total_queries": 25,
+  "extraction_date": "2025-07-04T16:05:12.287653",
+  "data_source": "Google Maps API",
+  "data_type": "Real business data",
+  "location": "Ujjain, Madhya Pradesh",
+  "with_phone": 395,
+  "with_website": 190,
+  "with_images": 455,
+  "with_coordinates": 487,
+  "with_ratings": 473
+}

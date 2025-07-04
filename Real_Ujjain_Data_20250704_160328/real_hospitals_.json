@@ -1,0 +1,1399 @@
+[
+  {
+    "name": "Avanti Hospital Ujjain - Best Multispeciality Hospital in Ujjain",
+    "address": "5Q6H+68 Harifatak Bypass, Mahakal Marg, Nanakheda, Rishi Nagar, Ujjain, Sawara Khedi, Madhya Pradesh 456010, India",
+    "place_id": "ChIJhZwp65Z1YzkRBQBvyQ-fN2E",
+    "rating": 4.4,
+    "user_ratings_total": 339,
+    "price_level": null,
+    "types": [
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1605625,
+    "longitude": 75.7783125,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdWqeMSGF6z3r290TljWvoDXnToMHnDFEy5jre6xyZuQo6q9xGd2b5wm5Id4ytjWMRJ4pF1V0h3BpLGFN2q66z5NQ57gqlPda_pQbTIEoIwtlB1Rnzs5gnye4Su-0SfXzOQY2xelwoS5pa2IUJMH0c_fJJghTVKc0RW2s6itOsV1SdLwjB2KTtAoBS4XJ2sVp9CPqC8qIrqUeRz1FdymOCxU_QU1hKAKrqFcc9wcNRIjDdDvvUpk6Gp3NpUpKNEoOMtdAetQSd4ZgrOEoQ0nt-r4aZ6DWl7po0DUWA_xPUmutSFwr21j3KoEji4l1h34qrLbUlbPh-pREZvsvRLrcIvudRMJwG6xA5YN3n72tkxg6lk0uq6fik6UyHGFJxA3irUn1N6LQli5mkl2htSgnKHommWy2LeklQYS70Rl8KmlfPPkahtO4StOEur9Tqg0Me0jQ8EWPlwx1jjf2k8rQLm0hJ3SXBe2PoLTTUIuksO7JRlvau_ufk9dcDvU-xQ2DvaBTvfGppdapGRpGZ3AZcWNTx8RQGbozTxYAnOnDtdrRLZFMihcF5mlaBQTgqqqWXoTEvp&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 253 7123",
+    "website": "http://www.avantihospitalujjain.com/",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Payal",
+        "author_url": "https://www.google.com/maps/contrib/101790078455153593259/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJePjoeDgjScFQ7BRDIDzDlJkIEaWvfbHh1lwouP0Q-NNLDYA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "Bad experience they took 2 lakh ruppee and did nothing they did not know about main problem just admitted my father for 8 days and now there is no difference in his condition",
+        "time": 1738081332,
+        "translated": false
+      },
+      {
+        "author_name": "Dr. Khushbu Bhatt",
+        "author_url": "https://www.google.com/maps/contrib/110705594791303973089/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvGC0JbwXpomDjGv34WFEcDP0IyYORXurisOVd9BE1sSmC2XYS=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 months ago",
+        "text": "Very bad experience of the doctors and the staff and the service .\nThey took 24 hours to give the CT scan reports and admitted patient was treated based on the the symptoms for 36 hours without diagnosis of the diseases.\n\nThe doctors and the staff are not at all cooperative .\n\nIf you want the patient to recover soon pls don’t visit this hospital in case of emergency also.",
+        "time": 1731663806,
+        "translated": false
+      },
+      {
+        "author_name": "Saumya Jain",
+        "author_url": "https://www.google.com/maps/contrib/103946999890562892355/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTzhOdQ1DJchtpCrxSguwNCWSlBpsGs80aeZ_5-MmFo3Dt31Pl=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "8 months ago",
+        "text": "Worst hospital...don't go on rating 4 star.\nNothing is good about this hospital.Doctors don't know about patient disease they just admitted them in ICU after snatching money the were like\"kahi or le jaao\".Is it? It's a joke?\nUnnecessary medicines were given by them in ICU. 20 medicines in one go.\n\nI would suggest don't go don't go..they make patient condition more worse",
+        "time": 1729035634,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:37.831473",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Tejankar Hospital Ujjain",
+    "address": "Madhav Club Rd, near Teen Batti Chauraha, Sindhi Colony, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJFQAHhGl0YzkRyNwbvA_Nblg",
+    "rating": 4.6,
+    "user_ratings_total": 541,
+    "price_level": null,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1770959,
+    "longitude": 75.7872205,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeVPT5bzy6W6p2y-kmkjaFUUHbvlakk10zLBYhq1-sI6fQdY1FJw4wz1E4f4qHrLON7yK5hStjnqcUBP8_bXbjKktI8ut1jdoksFtwoYCSk9g2wx27CFml1OUVOu4QRQWFYEEPAzAjPpIrU4Q2NYw8_-pxed7TCt9ZKMhd9hYnxFBr5h5fKjolMFaPsYw1-NF9_wgoJCFpCazwUOj-601mp_FbHT98EFrCDNRsLKF5P1A8udKnXjHttERnVDf66qaylGMxviXKCb_WJJ_H50BjJ_wCIB0cnmDw_53zMhyIIiYF90-ucciFox9Y8kgYNppJ3YBrZ8BDg7EebJRM-f_Q78vrmQQMOBu1clpSSPIzf7UP9ev1nm-vM6t8lNPunDqH_dIUqMslYNu9qalEKXVO9avH7CQ4yfhzfOGxO906mf45nKSLWnToCaM40vaXyPRS5W6e-sbZRxTRUnWLLo3KbbrMlYgtMygFjQuyX31l90Ri_12QHVc5s1Fwr2B6zlLeat-0_eBZ7RwCoYUcNo9N8Z9OjgyPy8kyw-njIbiVIwcHltPcq6gyMe3STv6w3DJiSSPUA&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "083496 16161",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "SUNIL GARHWAL",
+        "author_url": "https://www.google.com/maps/contrib/115532516712846478741/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVW4vU0yXmiQzVuahzYGMMb-dHjzIJrJTkRTuscxvsl0Ey3eumi=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Best hospital of ujjain good infra cleanliness and best icu nursing care\nMy relative admitted in icu seen best care",
+        "time": 1738664760,
+        "translated": false
+      },
+      {
+        "author_name": "Jyoti Bairagi",
+        "author_url": "https://www.google.com/maps/contrib/112010064835473026439/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLw5COLPiyDutWNxt_a0ODu0CvpZ4vGsrdsg1jdwjvtuWhYYQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Best hospital in Ujjain and best treatment my relative was admit hear and he was feel best hospital experience",
+        "time": 1739775488,
+        "translated": false
+      },
+      {
+        "author_name": "Pooja Malviya",
+        "author_url": "https://www.google.com/maps/contrib/115915355052930506471/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnvWrD7bD9MYxx4QZGYwI1qHGSepm5IB6KmZpM8JerttoNSQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Best ever hospital , every thing is good like service , room , etc and these hospital is cleanest hospital.\n🙏🏻❤️👍",
+        "time": 1742109925,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:37.917626",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Deshmukh Hospital & Research Centre",
+    "address": "96/2, Lal Bahadur Shastri Marg, Opp, Ved Nagar, Nanakheda, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ22S8xmF0YzkR6IkcA8UVmwM",
+    "rating": 4.5,
+    "user_ratings_total": 716,
+    "price_level": null,
+    "types": [
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1611228,
+    "longitude": 75.7876611,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfXI2jpC_bLXy4NaC4p6uCZcFwar9DEWY2YrarH7JqZzlsuFkqARb4iOroitM8Ti81smZM_llxZcgdBSUaK7YlQdIjo6yWlKg8Mrt5_xCE4MrFO-t2Nxy6WUkPZMMa93Eu67wJdYCeeS6LdzGo2UivSegv3SW8HOVecCoGn1TSC3IlInKBxubvCqdGExWW4rwE8tEd4IZ2l8wJOwH4-vv5Lr2EzwJOLyk2kadLXxrtu45NnTrrfxTrAZyBuv1jIFCanL9JQRd78OoQocQipTtRpA2zLYoCgO5SZVaLIl7JIaxu-gLUw-5f1ExeW83vczUeASyaV9tSSex3EE-CQumo6-y1krBDNe9K6vol6E5u8Fv8vYt6_8EWEBrh2_xTD7MVe881U5kRAm6CJb6jfLwTxJnKVHUrUeqO-d61HJeI3LqMyIpycn46ZSpqte1uM1Ggd5_6b72978n862WNBT9pM0hFVHy6PQH6ulcl6QwNnEU-eYMSvrB0tRTw9l539psGjRaa0l1IEGF7TBCaC6DvAltNviuOVNVDyOmWCzKQ5iUJmnMCy4-wO1kMBfUZLm8ZKQswICtjPWw&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 252 0773",
+    "website": "http://www.deshmukhhospital.org/",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "nilesh jaisinghani",
+        "author_url": "https://www.google.com/maps/contrib/117725918591628544207/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhJCciQy2_40X8hUAaScfwuyEH09k0vrXdcnjG-kY31rnhleFC=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "Worst hospital in ujjain. Deshmukh hospital is actually not a hospital it is a place where your loved once die. I discharged my mom after 2 Days because there was no improvement in her health and severe headache charged 24000 bill lastly Dr. Deshamukh came to me and told me \"sar dard ka balm or medicine de dena thik ho jayegi\"\n\nAfter we admited my mother in mohak indore we found out she had brain hemorrhage\n\nI will never forget or forgive dr. Deshmukh and this hospital for putting my mother's life on line for earning some more thousands i will definitely file a case against them.",
+        "time": 1741784024,
+        "translated": false
+      },
+      {
+        "author_name": "Shakti Pratap (Sunny)",
+        "author_url": "https://www.google.com/maps/contrib/108025819138780121643/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUcTa4HUSNYrCSQj3125oWS8-iYjvzdBuGVES5pKNz3iiEcBh_L=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "With an extensive range of diagnostic and treatment services, targeted at the well – Being of women and children. The Deshmukh Hospital\n\nMultispeciality Hospital with all modern facilities.\nGood Hospital and services provided by them.",
+        "time": 1625676807,
+        "translated": false
+      },
+      {
+        "author_name": "shri hemant mehar",
+        "author_url": "https://www.google.com/maps/contrib/109025373507344238639/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOekHhxgA7_Sat81YGV5lw6-m17vjHlX1s6-fS9RfdltHA23YZ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "10 months ago",
+        "text": "Deshmukh sir is perfect dr for child care....\nGiving sufficient time to your child..\nListening your problems...\nPickup the pen 🖊️ after your words....\nNot like to ready just writedown the...\n-1 rating just for staff behaviour....\nShould place only the humble, kind person on front table....",
+        "time": 1725126428,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:38.010134",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "S. S. Hospital And Research Centre",
+    "address": "76, Vikram Marg, near Shaheed Park, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJxWL4xG10YzkRG_JA-vZG6pM",
+    "rating": 3.7,
+    "user_ratings_total": 202,
+    "price_level": null,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1788613,
+    "longitude": 75.7926433,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcRIoA0lQrtk_IC9PtDvbH2S_af7XJRzB_c0vc1cSQ6sbAomqF4ZXZRv1paaPArXy_TIc24LSSjh4NceH88ZAc8aCt_SLMRe9Ch9UWzDRVhYHNVJIm3nkUnLJc3mnU6m7Hz5kV6asa3cPFT3LvWWyEOC8SgjTxPpUPpskQOdRDgJR8QcRaxObB4GB8UpmU9Z4L8hf8eis9llkz_U2JiAZI9TTqkIxhoDNlq2OCqSAFQK02YPDl40Fdt319xzKHWmaVSxlqTvL8qery_h6EXCGRhoEWUQPTk39uwBX2zR10xvr18S0Z2FJR1dZHLceDiVwEtiWNKpNxIueRfqODqg2DzL5V5pixk2k3R1e4lo9Gd0UxsBmG3jXXqGEpnLh7N6HKSnhEAlrOThDPmrPw7dAtBDjTGOH8JR7981GL2tidYLyqFA_21OR8drGv7CXOD24m_1EKpOhNYHGVjq5NoTtRm1NHOj5t5dhP0rgHcw4UKz_85vz_ccF-KP6GiZt7oi5MbE5TwlPeEq4PBYE3jD7ap1ej5BAmxogh80qCese2ievm97ipLu4NoPU16wbLl1e95BkRU&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 251 5056",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Hero Akhand",
+        "author_url": "https://www.google.com/maps/contrib/103427499396132369560/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXgn2K7_9gQHkQpSf8BccFhncxhQeRmyqmH_lVKYCGJVa8Gg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Thanks to Dr.Mayank Gupta sir .He is an excellent laproscopic surgeon and Gestroentrologist. He is soft spoken and friendly in nature 😊.The Doctors and nurses are very cooperative and helpful. Also mediclaim Department is very helpful.",
+        "time": 1747381390,
+        "translated": false
+      },
+      {
+        "author_name": "Lakshman Singh",
+        "author_url": "https://www.google.com/maps/contrib/107933351061415659266/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWidQtItUoRPtgcRei1j4snkTG4sCqUutO2D4qgCXlmNlVrLNA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Thank you dr mayank Gupta sir.....best treatment for my fistula surgery\nAll staff behaviour is very good and polite",
+        "time": 1750168197,
+        "translated": false
+      },
+      {
+        "author_name": "Nikita Dethliya",
+        "author_url": "https://www.google.com/maps/contrib/115632367600162645822/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFDPjBLZgF3DOrpGZEhOWzciBWaPR_ddTIAKzbwbMdYwNspA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "The staff of the hospital is very helpful and cooperative. Dr. Mayank Gupta is the best laparoscopic surgeon and gastroenterologist in ujjain.",
+        "time": 1746361109,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:38.109284",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Ujjain Charitable Trust Hospital & Research Centre",
+    "address": "5QVG+3QJ, Budhwaria Rd, Nikas Chauraha, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJpV7vRjt0YzkRe20Zhc8n43U",
+    "rating": 3.4,
+    "user_ratings_total": 149,
+    "price_level": null,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.192723,
+    "longitude": 75.7768996,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdeG1iR2hOZQF8f_AltJ75NMtamuSx4DPwejsm4aP-cMEn4fiFUfCiOPdyRWSZUDQ5y6XLpByaAWCzbIwGecEM9YDX7n1lhpAQNXrIOHmweIgWKzXM2i5yhILLDaVCOvgvr8Nl3vpyqB7y2Fl2Uy61IsJlwP4IDJni_in4DdpECtD78PKQfk66JzvwSEk-GhvjrtmHVN2HqrkajcJcgVgKMpbqNj9kTQvlajThJh1eF2beQJSPErONM_O9JxQHQdilicPEfncnfRkQymF2G5KJL2Ipb_2BssG-t99T-EFrIkl74KobGHQrXpxZYY_UsoHmthCd2dJfllXV4UUc-eXmK3Taulv66NYc3RN6UvmW982AjbtPTc6Ju3DUTRWWfoYODsK7ijcnm94a3qTPxmxpvARB3F32cYHa5Cet0WvOsci8vOVJdbuT2Oyrb_ymb-3Uv7Lo2fzE5C6SmC6xHWbSKQQQZ4pRaGRKmWHA2m1sh5qZvQhXMwg0oeUiy7oKg1tJ4_nf5krTttQ5Yyip8FcUSZrrTTsV7OP7Zb7Z5vsIhzmZZi6-CNJj1dDb88KgpshZgLxlB&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "kushraj singh",
+        "author_url": "https://www.google.com/maps/contrib/110652311422519747214/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJt3OTSF1KXbDml466cHdWizCFKwLTCcVRFBX8EJysv6gHL2g=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "My father is admitd in ICU, but staff is not prefessional, they dont have blanket for the patient and nurses and staff are gossiping in very loud voice which create noice and unplese atmosphere in icu",
+        "time": 1748933849,
+        "translated": false
+      },
+      {
+        "author_name": "Shaily Chedge",
+        "author_url": "https://www.google.com/maps/contrib/111267794814400643471/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkrSjAH8Nka3CVVYdzD1kAytNf9SnzxYKbEuS8RulPQBpvq4AGQA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "3 years ago",
+        "text": "I visited the hospital with my cousin yesterday, And the receptionist was quiet rude, she should have tell us to go and take the receipt from another section 🥲 before visiting the doctor, but she didn't.. then we end up in the dr cabin he told us to go and take the receipt 🤷\nThen i accidentally dropped my scarf in the entrance i wasn't aware of, when we searched my scarf the security guard told u that someone took it 🤷 i mean how ?? When u saw scarf falling from my bag u should have just pick it up and keep somewhere 😂😂 but he didn't lol\nFunny experience i had but it's ok",
+        "time": 1654747884,
+        "translated": false
+      },
+      {
+        "author_name": "Sejal Mansoori",
+        "author_url": "https://www.google.com/maps/contrib/108363266162001082266/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkI_IYhO8-sXc1M8RJJ5mZqyNqwMCZaexgMRWYlsZbNbhBe4OrIw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 months ago",
+        "text": "ENT department doctor's were very rude. I went there to show my reports, they didn't even see it, and start to prescribe medicine. There was an old doctor, he was very loud and rude old man. If they don't want to diagnose and do treatment, why even bother to show off",
+        "time": 1734955806,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:38.198930",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "J K Hospital",
+    "address": "No4, 5QFQ+3JG, 5, Ujjain - Indore Rd, Sant Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJMR86CGZ0YzkR3A2Zn3o0OMQ",
+    "rating": 4.6,
+    "user_ratings_total": 853,
+    "price_level": null,
+    "types": [
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1726624,
+    "longitude": 75.789062,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcWGYJGCdsZt2dKssydnpwwHB5a5cnSxxmR0Y7q_UAmw3Aj-kPP52VmQlF4tqyDVt9f045Ooxuyv6-DS5nkI1U0o_WdB6BslOinboNZAotbwy_BUgi9N0Pl42cKlzIuj-Zv_nDc-hPAnMxal_v67CdwvsDW6qgjNFOyiiHOr1XdESQgZD6NSSwsoHSXDhhgC3KAloRow_FlOIcwkB6lsjYWR3pEBCgLvayIUEolF8l0SvGSYvkdqwF7I9UX5x2-whifRvek8ebSDDvfeTPp-ALHX2hNcY9DBTUsp5X2mu2ConhV7_o4wGO0k3gDo4OyBDyzz3KrZYsqoHxVnjbYteizjis1thwMTXInNnh4URvp5f0_V5bYVy_mzt1Eg5rHNMKwXgX_bJzwS7jyXWpJyGvi5ZniiZOEXNwZwsJUj-aFS_zAdKSeYxQrXBVqsVE4fqWGn9ivN350NBpKxx1E7JDlapvccQQ20Zx5CpG7EZuzei4Pka2y_3JIhByF0-s-VuGdldZTNEOq0nO73Rj6gnXY7Bz0Bm5rZgQbbXzX3QsER7IGgEg6F256WO3Ro29_I9so_Q&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 251 3735",
+    "website": "https://jkhospitalujjain.com/",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "ammar sethji",
+        "author_url": "https://www.google.com/maps/contrib/105589041641768395453/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhckzE_UOP-jSBrd11v7YBAFLlCAzzy0AW-jjEitEV4SJhRzMa=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "Worst experience. Untidy rooms. Attitude is 250%of each n every person of staff. Doc and whole staff is money minded,, pathetic condition of hospital and unprofessional setup and uneducated staff… completely shattered after watching rooms condition…",
+        "time": 1746151857,
+        "translated": false
+      },
+      {
+        "author_name": "meghna parwar",
+        "author_url": "https://www.google.com/maps/contrib/104601069512098763914/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6lsBSym4voBIS11xTyDkv7VATzhgiN2YeTMZw2uD0tbb26jYr=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "Ver bad experience, pathetic management they are just taking the patients without knowing if dr. Is available or not to take them. I waited for 3 hours and the lab staff is pathetic specially the sonologist Amit Jain he is literally very rude he was taking my abdomen sonogram i was in pain and it obvious we react in pain he was like “kya ho rha h…kya hil rhe baar baar…” in very rude manner Abe yr ek hi job h tumhara vo bhi agar chid k krna h to kyu hi kr rhe ho, that person need a training specifically he should learn how to attend patients first and understand someone’s pain, pathetic person..\nI really don’t wish to visit that hospital again in my life.",
+        "time": 1743573548,
+        "translated": false
+      },
+      {
+        "author_name": "Jagdish Chandra Chouhan",
+        "author_url": "https://www.google.com/maps/contrib/101490933616186225140/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgFhVY63IKYsChzVF4efOJeB1MIuLNUQz4cvVXjKKEz69Jd1s=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Homely environment in the hospital. Cleaning and management is proper and on time staff services. Wellbeing is fine. Treatment is satisfactory. No issues from patient and attendars.",
+        "time": 1739881109,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:38.285792",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Saharsh Hospital",
+    "address": "Ring Rd, Mangal Colony, Sethi Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJq_q-xYlzYzkRPITpjK1CnUI",
+    "rating": 3.6,
+    "user_ratings_total": 50,
+    "price_level": null,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1770945,
+    "longitude": 75.80772929999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcGPF11077iKdsuWWiD7ahzl8R7SDSkR6Apa_EAWj_vDbTNwli9fRoH0BjT0DMY_RFUY-5kmskmz0FlwsDZB6SUr-KfFP1bbjmm-lJYNizMftM7Rb3YNpcLcRXHRTsX9reSOS4sK98CxoGA38CxSlJ1n0r3Be4Cb8l07_pZTaikJ6BXFkdiC4_TUgbplALy4Gy0GvU4VoNR09WfS-_GZlMv_7jxG3ZjymcUUteqhtU8rBVxRgczpMfrx6d-A-gljYPuHjxcWU6wd5AupH1vrFVTgVopuPPmLUEa4nD38OHe35W_7Nqs_bd56I23rROdaS_iBUOOIc_sH2PKMac8sv4KzSVefLBjghzgQDihkxKnfUHEsXD_23otIe2rmi43jwEipqWKxy2nd6zUJkuIdqcj7DQ-oqSCpKpSQF_r34XODfxSMDbH5_PaddnIUZ8whONr5WNIKC3a3DL0A2O_SoB5ViH1mAbmf6poBoawEQrEh-yp-aDCGZby-R0hRp-v38N23TtHZv8z_aIaS-FU4vfwKIaDo8Qz4omIV99UHT2XGtS4yN0PJM57CahGBSzj9x5QE68tPWZN5g&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "AK Choudhuri",
+        "author_url": "https://www.google.com/maps/contrib/109326407078568601739/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIoXK0au1pzIPvZ3WTRdldnBYIuJSA0AKYONpn8XnEQvTLU=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 years ago",
+        "text": "This is written while am sitting with a patient in the Nursing Home's so Termed Special Room. This room has a TV which doesn't work, a toilet with broken seat, mosquitos, no chair or stool.  One sole.Support staff sleeps in Room No.08 and everytime asked for any help has a standard reply \"ABHI BULATA HOON\" and then pulls his blanket and sleeps.\nThe diaper of a patient is not checked or changed even after 12 hours of pleading. Pity the people of.Ujjain who has to pay their hard earned money to such avail such facilities.\nStill waiting while writing this review for a nursing staff or Doctor who could attend our patient.\nIn short a disgusting place if one is.looking for Nursing Care which primarily the objective of any Nursing Home.\nHope the IMA  and respecting authorities take note of such facilities and suspend their licenses for running such facilities until they truly understand the meaning of Nursing.\n\nPS: No trace of any Doctor until now at 09:32 Hours of Jan/29/2020.",
+        "time": 1580806686,
+        "translated": false
+      },
+      {
+        "author_name": "Arpita Choudhary",
+        "author_url": "https://www.google.com/maps/contrib/107265551380772748206/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWb9aacqkWMfIXw7zaZWgS8y3WZOBryAV2ny4YrqjlKM13pOGw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "Doctor is rude and even staff is careless about patients.\nWe called the hospital reception to ask if Dr Sapna Mangal is available to consult.\nThey mentioned that yes you Can come\nwe we reached in just 10 mins which is minimum we could take\n\nThey did the registration and everything then told us that she is in operation.\n\nWas it like so sudden\n\nThey dont care if Patient has fever body pain and also if Patient has come by auto by paying money nothing\n\nThen too we went at 1pm again since they asked us to come that time\n\nWhen we reached One of the staff took vitals but she took temp reading on her own without checking as 98.6.\nwhen i asked her did she take temp reading which doc asked for she askd me do u have fever. I mean how can someone write temp on their own.. after i asked she took reading with thermometer but that too over my tshirt and from underarms\n\nNow doc started shouting we only consider oral reading as true.\n\nDude its your bad staff what can i do\nafter that she mentioned the best part\n\nshe mentioned that I will admit you because you are worried and under tension\n\nI mean without little compassion how people can open hospital become nurses and doctors",
+        "time": 1685626646,
+        "translated": false
+      },
+      {
+        "author_name": "Sourabh Harbhajanka",
+        "author_url": "https://www.google.com/maps/contrib/112847575092832540518/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgKYxIEV7eyxCcMvpx7FlTpqstqNDaGYeEeU4giQi3tnCtUEA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "4 years ago",
+        "text": "Never to visit hospital. With worst nursing facilities, people who don't even know the meaning of nursing and how critical a situation can be.\nIn case of electricity cut, it took more thn 10-15 min to restart power back. No one comes even patients keep calling for nursing help.\nFor critical Covid patient, no one bother to check fever for continuous 5 days and when patient shifted to another hospital fever was 104, while in discharge file they filled every hour temperature for last 5 days as 98.\n\nWorst experience ever.",
+        "time": 1620712610,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:38.367928",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Pushpa Mission Hospital",
+    "address": "Maria nagar, Dewas Rd, Rishi Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJVVVVFWN0YzkRz5oT7Zq5NeQ",
+    "rating": 3.8,
+    "user_ratings_total": 268,
+    "price_level": null,
+    "types": [
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1682959,
+    "longitude": 75.795963,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdz6OY4rmHxfx0pg9xe0-t3X4ZseRkkEkcWSkX2yRRE-D3Bxn6h5344rsh_ljztjXS_jyq7iyPzjo9YndNyLp_upyO4GAE2rc9e8wLqF2Kaq1FMNIZvjy0GsbQykm7RJKYZSpIVyd4Hmvk5YjJZFnSsSXgNLNxqysiOoRkdRb4SjE2D1kGX55pwqZ1Z_yRHG83wzYe7-OauKetvQegYDKm1A4rfhwkfTQcdKHM18XOIsKbmT6vB_ZsrH6CVHAQJSGHmenzIMrKxD22GtZaOPCd70X6z9xukBkfIl-6ux1kS7otQRxpx6_1tgVSiIDn38f2h8W6Erz8Azrpq0JjAYc8H4vp4nWDDRH4W1UL0DyQkNKYkzS_m857b2q8CKPHXL49zKkstMWMucj76xXotenx489yDp8cvwQx97DvLc3MDbVx_91GHNkbMQSs1b7CCCvhUFwEqOQ45F6aEXdYTKNUAb4buw44QoV-Q1tcFP84fx2amtDXxzMQ1NV0QsjJMrNnHqixUDDbRmJS1zK87EfmCbCVoAESd_YINE1xKYJcD4nTG-0OrBuCylr6CaAfY9kmepT1y&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 251 2933",
+    "website": "http://www.pushpamissionhospital.org/",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Himanshu Ranade",
+        "author_url": "https://www.google.com/maps/contrib/113251331189342568303/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfduM4CkDLFooQrxquMv5NZG2NBZ0YfQqgvo1lj3PjVUQ3je1U=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 weeks ago",
+        "text": "My mother recently got admitted at Pushpa mission hospital in June 2025 month first in ICU and then in private room. The doctor Dr. Jayvardhan Varma is very good expert doctor. However, I have very bad experience with the most of the nurse staff(Private room) handling my mother case on day to day basis. Most of the nurses are either trainee or they simply dont have been taught how to talk or respond with respect. Following points shows their insensitivity:\n1. Whenever asked abt the patients BP value range being taken, they simply try to ignore first. Then being asked again, they still will not tell the range. Does the kin of patient dont have right to ask this basic info.to know the current status of patient health??\n2. They come to room and ask the kin of the patient to give the 4-5 different tablets at certain interval during the day..my straight forward question here is if mistakenly by fault the kin gives overdose of some tablet or forget to give one..who should be held responsible for this???\n3. Some of the nurse staff give arrogant (rude) answers & looks to any query being asked regarding the patient health in polite manner. If one is properly educated & in nursing profession then how one should respond to a polite question??? It was very frustating many a times for me to bear their rudeness...what if I could also have done the same in response to their rude answers leaving aside my politeness???? But I have kept patience till last...\n4. A nurse forgotten to give saline scheduled during the day time..so she literally came at midnight(12 pm)saying she has missed it during the day and now will put on the saline...How one can forget it???? Do patient has no right to sleep in night after so many doses, saline and injection during the day??\n5. When Saline are being put..ideally it is duty of nursing staff to come and check if the saline is complete or not( to avoid air or blood from veins getting up)...but all the time..myself have to monitor it and press the bell button which toobwas on extreme corner of room.\n6. The response time after pressing the bell was very slow..one has to press the bell button a couple of times for someone to come and attend the case when needed. Most of time, nurses were busy chit-chatting in their main room.\n7. The medicine prescribed by doctor or the bill to be paid for any test downatairs during the course of the day should be either given in one go or atleast a couple of times...it happened like I had to go downstairs at the billing or medicine section 4-5 times leaving behind the patient...who will take care of the patient if the kin is being told many times to go downstairs...why not only a couple of times????\n\nNursing profession is very caring and kind profession in which admitted patient is being treated very kindly. It is absolutely unacceptable if the caring staff displays rude gesture and talk like they are the bosses, even if they are confronting a polite individual. \"WHAT IS TRUTH REMAINS  A TRUTH \" and the god has seen that there..whatever I have said is what I have experienced, no doubt about it, even my review is not taken seriously. But ignoring it will simply malign the image of the hospital as this will happen again and again to someone in near future. The nursing staff must be given thorough training first and foremost on \"How to behave or respond in polite manner\".\nFew nurses were kind and polite in answering, but some seemed filled with arrogance & lack of mannerism.\nIts upto management of Pushpa mission to understand the gravity of situation. Ignore or respond and please take steps to train nurses to speak in polite kind way and not to throw their responsibilities on kin staying with the patient. My mother had been admitted to Room no. 219",
+        "time": 1750078626,
+        "translated": false
+      },
+      {
+        "author_name": "Pragati Rathore",
+        "author_url": "https://www.google.com/maps/contrib/107099207737322252772/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLBquDdZziYq5FXZhW4PIEbgpGU4TpwvxSZ7uqGneyGHaMcDU=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "Worst hospital I have ever seen. Also the doctor Rekha Chandwani. Here I delivered my baby in 2023 and had a most scary experience of my life. They treat you as if you have done some crime. They mentally herrase you and doesnt provide good care.\nPlease dont plan going in this hospital.\nThis hospital and the doctor used to be good in the past. But now nothing is same.",
+        "time": 1745744485,
+        "translated": false
+      },
+      {
+        "author_name": "Shashank Nagar",
+        "author_url": "https://www.google.com/maps/contrib/117590221768932465531/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdI2cxKd-cEgjgiFvFZ6AwP9zn_IKDFyKoctVfqExtLCr8HI-gqw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "- Nurses require additional training in communication skills for interacting with patients and their families.\n- There is a lack of available doctors at night, leading to increased responsibilities for nurses during handovers.\n- Staff are unfamiliar with the use of xylocaine for numbing during procedures.\n- There is a significant delay (3-4 hours) in informing or interacting with families after delivery.\n- Documentation errors, such as incorrect dates, are present.\n- Overall, there is a perceived lack of compassion and cooperation among staff.",
+        "time": 1742581910,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:38.448736",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Sanjeevani Hospital & Research Centre",
+    "address": "Dashaahara Maidan Rd, Sethi Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJc3kcgnB0YzkRFOb6HaHZ5uQ",
+    "rating": 3,
+    "user_ratings_total": 110,
+    "price_level": null,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1732046,
+    "longitude": 75.7940581,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcYoutQCV5DpjLkhQDBnYW2Mi4SyWWkQ4BKegzRykcLY0oPdsULkOHhfIpXogKy1TsXum5EYcs7IKHpX2fT6e5TuL-IYrXHZMmW3YFNTPsEi1HPkPwJce4GgzBR3eeAOByo59fvTxDhWVryFMkI0Z0fGadeRSzMJOVxzsd4lqKQThZ-SvmAgpCXM9ou46DNE-yGaNo1XuEDcP9jMcOK-GtAsXPg5xPhaItww7_igBfcfN-jtEAqRptgAQlKTNkNAewWXXQmPTPKBkBF7E2IV2y3J-oaVEnoBpGXOjTsdLHXbpWlsfXrIUwxY9UhvqhQALRnL_5eDywnt_RAbThz_zzuAdPMOmHNEIqF1Zts5CmBkCIhOtbmU7sOdrrhZRA2V6_5ofxQoUNOVL6vWK7aAi_s2SoFX9XsAmFSDywqyp2ib3fbnyHcQqV3ylcGERGS2AI0vTnKwEBqGLmXPf76L5rgzJrpjYLrd1rK_GD9o2FrT1_c0nTFPKiaiaxifdcRTjOvVyOahhjZZXT9BAZH1DTPCXuK0x9uplI-MZPumkmJInQNBzvK-94-gOg2GJ-4k2SiQGRIFEMNZg&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 298 1777",
+    "website": "http://sanjeevanihospital.in/",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Shubham Parmar",
+        "author_url": "https://www.google.com/maps/contrib/118132460426741176929/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIsrlKHyAlMPOQc03vpoVCqoYFO2V_HFqfA5QvbxqMxca6bAw=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "3 weeks ago",
+        "text": "Hospital is good..but the maintenance and cleaning staff is not atol good...there are not allowing me to stand or seat out of patients bed room....\nVery rude behaviour",
+        "time": 1749663395,
+        "translated": false
+      },
+      {
+        "author_name": "Rekha Sikawar",
+        "author_url": "https://www.google.com/maps/contrib/105112991079100297689/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIe9xIkEku9SclUQW0WH7voJgoDx28OlJAHTkMjRmiAIFVSAg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "Worst experience I have ever had please don't go this hospital because they do business and want to earn money nothing else..\nUntrained staff specially nurses and co doctors\nThey have no emotions for patients behave like a animal for patients...\nDon't visit if you want your family safe..\n\nMt Jana is hospital me kbhi agr apni family se pyr krte ho to inko kisi se koi mtlb nhi bs paise chahy",
+        "time": 1741325602,
+        "translated": false
+      },
+      {
+        "author_name": "Naveen Naik",
+        "author_url": "https://www.google.com/maps/contrib/108384978607385075584/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCfRiJCKYRb_srSWgI0NXFRyDKX8UPJ3EzwvZ-vmDrjKOSqc5_jw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "5 years ago",
+        "text": "Poor Cleaning, Poor Hospitality, Poor Staff (under trained),\nMy 2 and half years old daughter is admitted since 9th Oct'19, During the treatment my doctor Mr R Rathore was on leave and I request to hospital management for guest Dr S Bhoraskar visit mean while Dr There's leave. but hospital did not responded. From past 48 hours no Doctor visit to check my daughter health improvements.\n\nOver all poor services, Completely disappointed!!!",
+        "time": 1570880618,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:38.537385",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Patidar Hospital and Research Centre",
+    "address": "Ghas Mandi Chouraha, 12, Kshapnak Marg., Ashok Nagar, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJwQ5B2D50YzkROp09nVEzCTY",
+    "rating": 3.7,
+    "user_ratings_total": 229,
+    "price_level": null,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1807512,
+    "longitude": 75.7940378,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfkbdQqeyTxe4yToik5JeDV17PM1o3skPjohtoRorUE6BrxiDcQzL0bli58c7UkEg_voR8ja2V08_B_6v09cy_68G9lEhHimbfmqv-oG_q-0uLgxD0lOiktlhVJRS0V_xyj7bLLmZ2Hh0gpiHKszLcNgnn7sumoj2_BssffByeiBZjQk7_69VVQX6BC7kGXVN_oyVoDhgkIdIdsCCZCHiiqc2CJJpM16zseJS-L_3UFJCJPZv79X2x8ALSxU20mbaLAwAQ4tfFQW4hPklKi_8HZMgIAtg6CqxrX8KqqpEhvsSEcFiwzkem7japkmFFogDnmKCOKY0A0B4qv1FdohvhXMK_HZrUjWAgaO0Ftlx9NtKFRBeYgBEls5qBPm9MHk0is4PVAZo1FWa2c_bBr7m6kl2dfMZPaA4VgauXGdhPzrrUTa-6FaE0cNDNb7ivNn2Ego_pXUTpwWgICJwjIyfDgi9Na5mm8HuSmPPNrxhQmS3vKULgyFopiU9KfvT4QkYaO5nTDulD7C3E-WitRJTVHlyQkhpbZtrIZIMLoE3C9b7XEGh1p1jJPvTkQ3TfYIxrenPZ7&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 477 1000",
+    "website": "http://www.patidarhospital.com/",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Rohit Rao Rao",
+        "author_url": "https://www.google.com/maps/contrib/113479059074016934960/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIsTbsRGApeY5pa0khUwZqBqJ7OwH3xxCQwK5W_A59muMVZRw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "I am a patient who as admitted yesterday. I would appreciate the state of art facility of Patidar Hospital's  ICU with all the modern  equipments",
+        "time": 1730902141,
+        "translated": false
+      },
+      {
+        "author_name": "Aastha Soni",
+        "author_url": "https://www.google.com/maps/contrib/103664283347620915085/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKJfzDK1pcFSY7Oj5nYk7nHCraK-0rF6FxRj3o_-Vq7Pv3TFA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 months ago",
+        "text": "Worst experience....ICU made our case more critical...they take you inside with no intention to leave u ....just to take  your money...greedy people...",
+        "time": 1745922644,
+        "translated": false
+      },
+      {
+        "author_name": "sonu jatwa",
+        "author_url": "https://www.google.com/maps/contrib/118319290922327306677/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAFuHMuCT8nbcLfwaDA4-eSD6uPhGq2teEqz9Xp_tVaIM8C_au=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "I am the family member of the patient name Lali Jatwa who was admitted in the room no 201 day before yesterday. I would like to appreciate the management services of the hospital . It's really good how the doctors, manager and the nursing unit streamlines entire operation to benefit the patient. I would recommend every patient to visit this center. Just a small feedback there are still lot of amneties such as handwash box that could be installed in every room of the hospital",
+        "time": 1731297220,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:38.621817",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Best Hospital In Ujjain - Shree Ji Hospital",
+    "address": "01, Desai Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJX5N-tKx1YzkRP9JzbSHVm0w",
+    "rating": 4.5,
+    "user_ratings_total": 17,
+    "price_level": null,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1787217,
+    "longitude": 75.8007312,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcrE35aQpwUR7w5wipTAJ4zrE-9Jarpwz51dcGw9RuclgiQiKxbCSUYfiJUdTzBZkJ6uwgNOPPVoyCDnzIXxv8S919K5a1xAJ-hB5Y2uZQLqrx8xzOapaFpV6Zya2R_ObBne8otQF6HcEGCMquyOmjj0ARYhVa1kT9mzRNC6-vkqCp9rdJj4U_NPwiHyV_r3pSITxjRXE9u8z6WD3JlrBGU4bAmKQqRXRLlegHFyyHY8FY3aBVnFFCDj-ZZJVErxeCtwZDKs31_QseCMryz_wUGdBKlDifw0A51R5O-_16rQNFVLZHtmHx96MEf8IDnQs2Iw71ZitIAj1NtX9N77t1AK2eKhwFc0K6F1yCoivocSYHRMauGuMJFDY5io_bg4uD9tUSMRY9acY8wOQfzvZ5IfCavSb2hLxmGjuGexVvJSnyomhLJlZdra6njeGGo_Vzf1gun9vfx_62FStaRk2TsOiNsZ4pQblUt_AMqE-_Fh5iFrANd3zev9oUoi3nznAejmqEucsQL5lEtvbwFUUJ9NAG5UZLpAj1ziCwhMb45jIdeI-W08JtwN075SkTknJqIh_fCylc-ow&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "093000 64168",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Lata Malviya",
+        "author_url": "https://www.google.com/maps/contrib/100248014569432813056/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRMBakC37iKgInBDhynMzf8hrGql5oipx363nFj37v9OxN=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Best multi-speciality hospital in ujjain",
+        "time": 1697619268,
+        "translated": false
+      },
+      {
+        "author_name": "Kumar Shanu Singh",
+        "author_url": "https://www.google.com/maps/contrib/100463808264757986860/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLCXqNxqxklC0IiGwXKLgC5MOy33GPEz0NRUJMbYynIJ-Oog=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "All doctor are available in shree ji hospital and staff and workers behaviour are also good",
+        "time": 1699450718,
+        "translated": false
+      },
+      {
+        "author_name": "Uttam Thakur",
+        "author_url": "https://www.google.com/maps/contrib/105568686129806795274/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhmzHh0PRTLtiejdo2BEpNDdX5UtS1vfWNpkofiLohAfBwbn_E=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Shree ji hospital is one of the best hospital in ujjain",
+        "time": 1699450614,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:38.713570",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Global Multi speciality Hospital",
+    "address": "Kshapnak Marg., Desai Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ5T7GW5V1YzkRgW_sbCfT7NI",
+    "rating": 4,
+    "user_ratings_total": 101,
+    "price_level": null,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.180155,
+    "longitude": 75.793627,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpex-hAgPVwxg2tf3LUHE9guAbiCn8kpW7v9HxzvOVa0ZfTQlu1PASSw-ItAwXwaeOTjiIVIsTW6ojHy7CaE-2nyT0vm9gtvB6IjlD8GxEHcu8jg3GuFzUlTIr7-56QJNw9vATRuR8iHVcsSWBJblNyEULe0Z6vPX0ZDTC8uqTubSnAN9owmHO1OxBonV0TydKAj9CE7Ogoa5UNVGBl3oyUmM8NAAYrUeA2trIbtm9JntIf8GKW5ZDYKYciKPOU2i7PT-wSVkzSo8R-5eUAl_riiuGsvzl8tBZbGwNpYo3MjedPj1Wzhbayv9QG4Tm96UcfBidyilXy9JPCNRZ8DWX7Y81q9bM5rULwBIyP6qH6V1nCYT6kqPBzBtiSk_rVGlXiwMNkU420HjlSgrYGqnfIzDhZZNVsoqD58ABM_zXDj8WoozDvI0wha1oCqSLi9vqgXWdQHPksfAhUbjKwGd75Hia41v8-qH2J1szU5vSyLE5LIpBdPp1LhbYH1DI7skfN1dE7G2s8KQMS7CGgkXqdhwN9lgFmUzKi6ZKIgo_kfjRvvzcNdlO8a4KyU1q1khaK1fvpg&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 490 1505",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Suryansh sharma",
+        "author_url": "https://www.google.com/maps/contrib/103818003822427194689/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXv9z-ZR-DKp2t0kaG8Bsgt2goMXMuIaUZ8q9BIT3lankPz71oX=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "I along with my colleague Dr. SPS Rajput went to Ujjain and my colleague unfortunately had an accident, but Dr Khare Sir was kind enough to offer us immediate treatment and surgery at his hospital.\nUndoubtedly, one of the best Orthopaedic Doctor in Ujjain with Kind Behaviour and Excellent Facilities with Reasonable Rates.\nMust visit for any Orthopaedic Problem.",
+        "time": 1732120577,
+        "translated": false
+      },
+      {
+        "author_name": "Jai Ho",
+        "author_url": "https://www.google.com/maps/contrib/101363325100796371454/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtjSKOA3ngkfNtUsHwg0dVkDIvl9jdjs80bWA5rfYHkGrrWCMP=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 years ago",
+        "text": "Good facilities. Staff also cooperative. Infrastructure also good. Neat and clean environment.",
+        "time": 1669656237,
+        "translated": false
+      },
+      {
+        "author_name": "Diksha Chouhan",
+        "author_url": "https://www.google.com/maps/contrib/116998017413499759269/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrbBX_9qhaRC7jZetCJlBgBQ4nX_zKeuFIC2Gw1QNhrkQSKF9JvA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Best Hospital And Lovely Staff Service...🦅🫀",
+        "time": 1739139440,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:38.800350",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "✅𝗔𝘆𝘂𝘀𝗵𝗺𝗮𝗻 𝗛𝗼𝘀𝗽𝗶𝘁𝗮𝗹 (𝗗𝗿 𝗔𝘃𝗶𝗻𝗮𝘀𝗵 𝗕𝘂𝗻𝗱𝗶𝘄𝗮𝗹)- Knee Pain And Arthritis/Cancer Pain/Low Back/Sciatica/Pain Management in Ujjain",
+    "address": "A-1/19, near Cosmos Mall Road, Nanakheda, Jawahar Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJAQUUag91YzkR0IggvC_JdZg",
+    "rating": 4.9,
+    "user_ratings_total": 399,
+    "price_level": null,
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1565868,
+    "longitude": 75.79352970000001,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcQuTZHlvYun76Fs_en7gYWSDj3vzrsNNhajLQ3ehL6eFPgknzQvK4jEEqdQ5O6fNQ8nn_e-7T9fICciTNUwZ3cuLfsOiOQhmmr3jsqTeA-2xTd7V0h5VD3TEtUvGVJwQwbEz0D9Rvy06icwmP7BjKq2eqTUcMRJZGs_ovj0bXugp7uNEnejDmcybQ6losWpr9IUq8Wls_JVU3G91Yz0PH92m-5ZkiRQ5YtnQMyHqu1fp9V39Mhf99IYoM_Zs206VfXCjO52zHzk2AyAIZLAHdLJAco05iBEuVK0Dk1owCW864qAKi3kikeiBX4LaP0HgbBMbrxwE-ErCh9-AH54Vl7NMB0oHsmGVfszrZQ8WBYTaWldJVSeI8blUAZZMToc_yBOkDuCGg13jqU9BQppGlP4eJdfYowssACmFkkbWYcUxQPgGDx5tIsSzZTxsihV4JYdzCW-xVpdL8OspySHZSMM5LZfVJV6C1XfA3MIU2Jut7s9pajYoqXoDalrPjsVAw4mKHfaWxluZ82aipC8oVQj491mavIn59PO4Avz4S_Oxgj2nso5Q3tiNEOq6r9DcV3uDtI&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "098264 13225",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Sandhya Anjana",
+        "author_url": "https://www.google.com/maps/contrib/117552295099682754425/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9KWcBXSQXdw1PzRMOuhZa1nmH6hB0UZ5WsfkIHdYvn_z9BA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Dr. Sapna bundiwaal is the best doctor I have ever Or experience. She had a great behavier and friendly nature. Not just a doctor but her staff is also very good. And the facilities of ayushman hospital is also good.",
+        "time": 1747903304,
+        "translated": false
+      },
+      {
+        "author_name": "Megha Reshwal",
+        "author_url": "https://www.google.com/maps/contrib/113878283657328678636/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLurqElHO6MZskdD81SdYF7tf4HEgQWprhQPYnIBSdh1CxXxw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "I had an excellent experience with Dr. Sapna Bundiwal Madam during my pregnancy. She is highly knowledgeable, patient, and supportive throughout the entire journey.",
+        "time": 1745923861,
+        "translated": false
+      },
+      {
+        "author_name": "Durgesh Patidar",
+        "author_url": "https://www.google.com/maps/contrib/107536617223064150430/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJu_09vxIk_aCKlAU8v4dNGvCGj53ff7397aeqt-OYt3lRvQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Medam experience and Medam behavior is excellent.\nTreatment process for follicular is step by step. My wife Treatment and follow up Dr. Sapna bundiwal\nThank u 🙂",
+        "time": 1744962797,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:38.897982",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Veda Hospital - Best Cancer Treatment Ujjain",
+    "address": "C24, Vasant Vihar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ58fDlEt1YzkRBoKu0DNj4W8",
+    "rating": 4.8,
+    "user_ratings_total": 67,
+    "price_level": null,
+    "types": [
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1506831,
+    "longitude": 75.7940685,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdHXy9U4belHMGXPE-3cxR2nLsjtIEvlsGZckr1dpUW5uC7-xHvk_WDLFFgtmFNdD1ywnVrSqWjkUb6vVxA5wV8cVvOdxXVgFchVHDmsI_WQpWsX0Wxq991JC7a2X-KmVS9wIXN3iWoBHJq2fhK3khj5iFGYsTfIz13HDHRs0Q2DThVo7ivEtCvc0iPzNvfRc22Xo9b-VBdIzpLYbnrTmhXV26XPLwFlSDqfIY9j7uEKw7XlPCgGnUyAxYRkRTdWLJF-y46uXkj46oy3ETWfQKWUzzGh7E4OIuwZeuvjA67KrnYKNLXP1Ef_GvEkpkdtOsFvJdWYewoZ8khBSVE2cOFAN7EKO55LXYwjOFGD_pH5i_e0iSOCgHhA6dFYkI3iHOpWKFPOdTSGGyEF4ls-l2vtqlbJ9larYpVlTci7X7Ix44GhlJGFO8zn0bdsVW04UzP5yy7CIoyhO0thtbFiDazvdgE-Xk6lGcbi_B1yBZJ1ZC-kmo4sRXnrLBere5sIHAIb_H0Lu63zoBMo0Khw7wXVAN4XXqs-Ms5QOqcYd9PV0AUsp1SBobzv5WcfWGxSaYzww&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "088188 44480",
+    "website": "https://vedahospitals.com/",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Khushboo Mulani",
+        "author_url": "https://www.google.com/maps/contrib/114268965839601443861/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBIXIC_4ZyQFKfrZINrD2Gi9lckUOXk7lJGai0mchuNZ1-AQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "3 weeks ago",
+        "text": "They have machinery support for Radiation therapy but doctor’s availability is a major concern. They do not have any doctor in the facility from past one week and the patients are clueless about the issues they have been going through. This is critical and should be taken care of on immediate basis. Having doctor in the facility is the least patients can expect.\n\nOther staff is really helpful and caring and the hospital is well maintained and neat and clean.",
+        "time": 1749451539,
+        "translated": false
+      },
+      {
+        "author_name": "Manisha Raghuwanshi",
+        "author_url": "https://www.google.com/maps/contrib/108741129364820913996/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLjqWmobGlOuk-Fs0v3Mtgq8e5UM5rdYtjxMAXKLTc1hIia3Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "During the health checkup, the team of hospital and Staff are very cooperative, polite and provide the service in time. Dr Bendwal guided us in a very good manner.",
+        "time": 1733989083,
+        "translated": false
+      },
+      {
+        "author_name": "Meenu Jain",
+        "author_url": "https://www.google.com/maps/contrib/105993819285953606190/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLDoF3t5J5XzobQZZfARggGaT7P4oUlkKYSQzIL9Y9F0vV54w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "My father is getting treated. Dr. Vimal is such nice doctor. He gives enough tome to each patient and made us understand the pros n cons very well. Food service and quality is also much satisfactory.",
+        "time": 1730740279,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:38.987400",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Lotus Hospital",
+    "address": "24, munj marg, Freeganj, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ-7zQtjJ1YzkR5rYM-i2JY_4",
+    "rating": 4.1,
+    "user_ratings_total": 58,
+    "price_level": null,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1796989,
+    "longitude": 75.7919455,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpenY6_6ksdkzEHwCpMS911XAiWWDJ3x6KGYCS8Hl23F0dj_L_C5AGVzGvcZfDkKEoAi3npr2WmoeyUhO6iopqsaYyTj3ZgALYIOKZGyJ2Cc8H6HOevH9aSzjtPtczwvfN5ft77aafiAcQ1tj7tkTjzCn8G7h4SdM3S0i6Rk_3PrWFbR8VFMahN2WkW30RxiwmvdzgH7BGI5z7LsaZC3SkZmR7hvuXnrApus9ajOpbJpUvNShdFTyzwCnbt2_lDJPSn8-Khhdhhe4uHdlsmVAp-9nEOdTFcG1LtYeJoqKeCtdVlm6ufsMKcL_TwRrUriHCiNvw8wEjHKy8y8TDgboY_MPT1iXGTFTK-aCbK2erYQYN_dP0eNuXHlqrqwzFaMeGKxonXMS8SPAivvMrlS_YpFaNvaYe33xIpXIewf2QquJsjLW3qBrOyJv5CtiKFXst5DqAr-OUHUxGZGkpqg9AFiNdNQn093licR53FSwe1i7raI5iVV4f5GJZUUPE4_JRDXCszU6iNAK3lP7t5DfaYr3oCGZZFMk8Qel1zSmBHG5rcfIIDMQMcwF7L1jNxFhLnyAARq8rlO4w&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "093030 89355",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Prafulla Parihar",
+        "author_url": "https://www.google.com/maps/contrib/109580124182542309107/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVudyk6URKaIROK2NAq7_8aL4yHAzgS9gfNlrR8GMBt_8pB4o8aXw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "This is my first experience in Hospital Lotus.\nHospital is situated at very convenient location.\nHospital and room's are very spick-and-span.\nRoom's cleaned at regular intervals.\nHospital staff including Safai mitra, Sister's, attenders are very helping, supportive, friendly and cooperative with pleasent smilling faces which helps patient to recover rapidly.\nWould like to convey my gratitude and regards to Dr.Sarveah Maheshwari Sir for his superb care and best treatment.🙏\nAlso I would like to give regards & thanks to Sister Aarti for her support.👍\nAll staff is very good 😊\nWould recommend Lotus Hospital for better treatment.\nThanks to all for their wonderful support and care.\nGod bless everyone.🙏",
+        "time": 1723974347,
+        "translated": false
+      },
+      {
+        "author_name": "Priyanshi Mulgaonkar",
+        "author_url": "https://www.google.com/maps/contrib/107766813596030023360/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_gC2dKa8sMPPXahbslMAlgX0ZDsJgaUEqGg2LZDOeuuFF0g=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 months ago",
+        "text": "Horrible hospital. Will never recommend to anyone.",
+        "time": 1739003685,
+        "translated": false
+      },
+      {
+        "author_name": "Shyam Gir",
+        "author_url": "https://www.google.com/maps/contrib/104647253950483625703/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocILTsldNDSgXij5LiDfc7bPztragU8jJfynTGVrixzBIZjkcg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Its good hospital  with good service doctors nursing staff here are good  specially thaks  to reception staff 😊",
+        "time": 1717228721,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:39.083491",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "MP Hospital Ujjain",
+    "address": "infrot of, Madhav Nagar Police Station, 11bakhtawar marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ1VyOFGR1YzkRbHdA92dESg0",
+    "rating": 4.1,
+    "user_ratings_total": 24,
+    "price_level": null,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1759649,
+    "longitude": 75.79241259999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpd9WgMCLrjNqcowDTMvdrkUO7envK8RmFuCU59xJgCg9plPK8tuzM-ia47fP72jnfK0qwRF72PdWvsuJMPiD8beIc74NYxXAjiHs3sbHuq6-uGiTcq_Ldq4nPyMqFarD-NhAB4rKMdpJUo8xemNPM8FmwrCfSpaCsdJYHVsG5uY-OEk27Nzrfq9s9a4e0py_yPJ6q737THfjex5R0K1bweuD43cYispMciMyEe_-1RY95ZIO_1LnBdGtXUhFmv07gy2QtM7kr-zYP_s7CCbwlCYZ_7zCioLBKoQk1XqUV22oW_ZbVNvgnL_LxoRre4_uPas_HPp2yT8ylD0jddoLK2K1mX7TTDi_nUrGF3KaKsAAB6fykjQMBwmLAwk4V-IFXhc9MEr0aY1LXcrfXxYHB7Iaw0INjHfJFOsAhglRmKvbd3RmKTytD4R1wqrwQzuIVCeKxwFdjw-i0JQBkWtSOxWrkeSN9igoXAWQM3UHjE8PquGaGvRpiThmd_TryBPj3rG8ypxTunnAevSwTIPlEaGZtknOzxiCdWscp3hV5k2wlxmX4YdRhCmsNNEDcWsQG5znSGM&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Rahul Sharma Ji",
+        "author_url": "https://www.google.com/maps/contrib/104288345843442427234/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_UOZefIVKs1xF9jl0GXkZSDnMpfj71riRHO6gsnI5vOfQABqLsg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "The patient received excellent care from your facilities, amazing staff, and affordability, and were made comfortable as much as possible! Literally, everyone was friendly, kind and caring for the moment patient entered.",
+        "time": 1692971113,
+        "translated": false
+      },
+      {
+        "author_name": "Chandan Singh",
+        "author_url": "https://www.google.com/maps/contrib/111022601097171766642/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0zkJuW69ISMzN-7unqFserPnVyUryoVp0zrFITztkehjPRKSxlg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "Very good experience and many more sarvices are available.\nLike ortho, gynaec, general etc.\nLocation is good",
+        "time": 1691032356,
+        "translated": false
+      },
+      {
+        "author_name": "Punam Tiwari",
+        "author_url": "https://www.google.com/maps/contrib/117120917673181682823/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTWGs7I1HNRo-kYEFvov_pQURLktsvWnoLsDba_P8fLIQNWxWC=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Very good hospital,affordable and very good facilities.",
+        "time": 1709879579,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:39.159614",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Shree Gurunanak Hospital & Research Center",
+    "address": "18, Kshapnak Marg., Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJkzwSvm50YzkRYLbVGxyBP60",
+    "rating": 3.4,
+    "user_ratings_total": 46,
+    "price_level": null,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1803337,
+    "longitude": 75.7938674,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdwh17BRrqYZOe-VaN-W3JSSMKgk5Ht1alVYu49_ReJXMZLEnAoatrQhUuGpjSsdVUGXO-4K38j1kUE4z14qYNgHn-sasEVAyoOU8DgATtTeeJMgkCG1mbzmrBDGJhFtWoXvVR0l19mRnP-Aa43pDj7wMdaAK_VVVaht1B5lMISYEUC38otQ4gw94YLMlMPt2ExvFFTdrSf5oCHuENmI15prehL7XBBhg5NQrVz0ubWzZxLqM4fWUcOMPxdEgIn2HcmT8uOqOeAXLj_yICbVOS2t8RpX62-oZsJrJQY_W3Td98nwSagyds8J5KeRbzoseUNawPQYzTJWtMXC17a_rcJB_nAajzx7miXnvmFIs7pMWP8yWFVaCe0lmGnOKuK2afruG54OWnNZ7R1x1NMVVBAmrR5atzTXeL7ahWA3PnlBClQrkOsNR2GTWRaib18lAwhxoipK8mB4hn2btbvBjrvQTUBwDJ2nd3F56oLxGOSedyDU3yUPZX2220PU_96l38fMl_aaRiVEM4wApSqwXJQUBkaDc_d1TsS2J5dfZM9fOToUXpkCM3AMwPbgHo7sH8hiuO2&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "072259 28637",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Nikita Verma",
+        "author_url": "https://www.google.com/maps/contrib/118094319046510926515/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBL8bYMcGGlYuNfZhrPaE4cNbWidJJKd_14Kvnc6VxVW_UrQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "5 years ago",
+        "text": "- Staff is extremely unprofessional. The first thing you expect to be done to a road accident victim is wound clean up and first-aid but the doctor and nurses kept waiting for 4-5 hrs for God knows what. We asked them to do the dressing again and again but they didn't listen. They do things on their own pace no matter what u say.\n\n- ICU ward is no better than a general ward.\n\n- Nurses, ward boys, on-call doctors and even the housekeeping staff thinks of themselves as some sort of royalty, extremely arrogant, slow, unprofessional behavior. Don't even know how to talk to patients or even to each other for that matter.\n\n- Ambulance driver will talk on phone while driving a patient and when u go complaining about it,the receptionist will say that it's fine they can receive calls while driving sometimes.\n\n- Cleanliness and hygiene is pathetic.",
+        "time": 1571867434,
+        "translated": false
+      },
+      {
+        "author_name": "tarun Goswami",
+        "author_url": "https://www.google.com/maps/contrib/113299282206212958098/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKayO7xJIE0j9otv9O-nMhB2rrh6f7LuC64cKAByu2yCCzHmQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "Staff behaviour verry bad",
+        "time": 1746957447,
+        "translated": false
+      },
+      {
+        "author_name": "Vivekchaturvedi3885 Vivekchaturvedi3885",
+        "author_url": "https://www.google.com/maps/contrib/102603418209512498970/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2-Bd9w_ahdqaLWwzYIZn8qBKeKzipTKAhpxoecIpuumQnkQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Excellent hospital\nVery good treatment for trauma and cancer patients\nStaff also good",
+        "time": 1598858597,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:39.267230",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "District Hospital Ujjain",
+    "address": "5QPM+45P Shrimant Maharaja, Agar Rd, Madhavrav Campus, Malipura, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJBTP61D90YzkRRCjiFyb0cOY",
+    "rating": 3.3,
+    "user_ratings_total": 70,
+    "price_level": null,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1853289,
+    "longitude": 75.7829656,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcOeAC0NKhqaYFT_NHSFXJBDuvYy6TGxkDROxg6zO-b7goswwlE8ZaXVV032vLeT8e1JdLc64L1OyirbDaE6LZe0ZCw60NVEPXfn8SIuzo20cR9g967J-w4CHg2bdx_pZeu9nCloOSsMVVpXs87z36P11o9qgwz4NCaNsda4lFKy-0AkkGQXZs6F5YOryxvCpreILLrAiIneGzSmZlypZagHrWRpP6VvwJwotw7kWJmgCUKaRtV_9uB5rA0vwKvIxzqMEZBriZSn8vdW4TLy_dbHqic__xFiHHF0E16VbrlIqxHXT3cYtQNIwAWHG_LB1fnffsERyxsNrNoUSujkil5aVatsu0k67Q8MAn9ahv2GWuhMaQLyVgxAtk4a3NKN5NGyzcXHT5WpPfIYyXF9teADo2S6zx_eJVGP_jkTtcsYv3-qaH3ipnOwPE6O2qLUlvYuz5TfFgaz9ViqfnOAWJnpg5DTdEPEEbmhlpdK7cZSuS4dRTy130PwBjdM1v3spYDZqfj76-hvnvXE4UQvcPQmaKwJ2Bgm0HB9TW78JFyYJEfLhXa-Z7InU6bnMdkyP4iSxcINuJv0Q&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "reviews": [
+      {
+        "author_name": "___ yeeshu ___",
+        "author_url": "https://www.google.com/maps/contrib/117166726253469033286/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6qMk6DKQuKjx_3APr2Fvl5udrC1oFBKBopHXvtAn1jEHnLE4l3Q=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Very clean and good services. Far better than other private hospitals. I didn't expected this much from govt hospital but it has that level of services for you. If you are coming as a visitor you have to take slip of ₹5/- and also for the patient. Here i am attaching some photos, you can see how Better and no so crowded it is.",
+        "time": 1645978606,
+        "translated": false
+      },
+      {
+        "author_name": "Dr. Anjali jain",
+        "author_url": "https://www.google.com/maps/contrib/107001465652876383464/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKiGeuUJFn6073h5C179kZwjTHFpdGmMUacoOulOR2iEfWi5A=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Ujjain civil hospital\nLocated near chamunda mata chauraha\nWell organized OPDs\nOperation theatre well equipped\nCleanliness upto mark\nProfessional Doctors with beholding speciality\nStaff is well behaved and helping in nature.",
+        "time": 1609309962,
+        "translated": false
+      },
+      {
+        "author_name": "Bhupesh Sharma",
+        "author_url": "https://www.google.com/maps/contrib/111506900163947326355/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7R5LO5VpG7D0FqprJgQNs8X7rhsvk2deBq7fzqqpcLmBPjQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "One of the worst hospitl i ever seen in my life no facility in this hospitl bad not avilable",
+        "time": 1630672830,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:39.351311",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Balaji hospital",
+    "address": "50-b, Dewas Rd, near shri ganga, Ramkrishna Colony, Rishi Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJgYmkI2J1YzkRX5xmDIWCCEU",
+    "rating": 3.4,
+    "user_ratings_total": 57,
+    "price_level": null,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1710587,
+    "longitude": 75.7963659,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfJWDlleoxueM4jxM2OaxHb5H5TtF72ZSLE7kx_fmdrUUGDEXU8JiZj-aAFw3FDE_gAgBMy1xZBNPXqFFN_Rhd4ENkeAqb3hXXhzGIKaIjx2hjqVh6rrfyYwVVCT4PMpbAsk1aMX4IzwBK3K2-sT-1O6-xKf112snC7zr4v8tkqY88eAi9vOUMG0hfH5PJzr-LSrdzcu7E5Awlp7Etjf1VtjrZP1TXHvtPaSbLCHwRCIfVmwJAj4CKEd_ya2hVe_k3VVaT3UN2O11rmoIbremkp-3AFhn8EFr238voV6yWy-v9azEqlAQvw__R6gTUPgXsGKEmQAVWHzpLAfKKtJzuLPVtkjgJs_0ZZsjUVRvO5le1ShRiQdCtoVnWoXnbbK_hb_kzra4IUY_kSIbcY2BIGI39L2J33RMnxdqII1cI_nIx-1ccPu_78_Ez9LGWBMALJVsbBTIi4PnC63-1JKc12Lvtx0356E3fxzf7Ppn4vswEIL1P9WYF2OfP3ey7vMrvo5tweCcTNwh1xhp6ihzsU-LUx6xEPd1TurjqiVebozw0YAapjhR3fvlIo5mXGgwBxK8NWJ2hwfw&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "091797 49019",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "bhupendra sharma",
+        "author_url": "https://www.google.com/maps/contrib/114691160415611872452/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJl1JLJGSFVMR4vXTciQEfrm2sDjTIg-mKGnqztdJyDb1hetg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "Very bad hospital, just a business to make money from patients.",
+        "time": 1748862657,
+        "translated": false
+      },
+      {
+        "author_name": "shreeya neema",
+        "author_url": "https://www.google.com/maps/contrib/115503509802766844432/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHQBCxzqIRcYf0XCeDANcDGGumc30Og-eJBRaPX9KaB0qLhlk=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 2,
+        "relative_time_description": "a year ago",
+        "text": "Visited today for checkup of my 4 month old baby to this hospital. I had a incident here today. I parked my vehicle in the parking zone and when I came back I see my vehicle wasn't there. The very first thought was it got stolen. Asked to Watchmen, he had no idea. Asked to hospital staff for the cameras to check . The biggest surprise, this hospital doesn't have security cameras at the entrance. So if anything happens at the entrance, hospital won't be liable bcz there will be no proof. So definitely going here is at own risk. Definitely I won't suggest this hospital and also they won't accept online payments at the reception. We have to go to there pharmacy pay online there nd thn they will give cash to u than that u hve to give to reception. Ridiculous working.",
+        "time": 1710229591,
+        "translated": false
+      },
+      {
+        "author_name": "Priya Jain",
+        "author_url": "https://www.google.com/maps/contrib/103299693327861412247/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKtLDbw8iGuDJZEUNkIi3i3WjXLtMIgRWl6EPlJjQgxcNcOcg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "One of the best hospital of the city. Dr. Archna maheshwari is very brilliant and polite as well. She made my c section very smooth.I have also gotten my baby vaccinated by doctor durgesh maheshwari and it was again a painless experience for my kid. Highly recommended.",
+        "time": 1684391362,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:39.443188",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Shree Ji Hospital & Research Center",
+    "address": "Vikram Marg, Desai Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJD1wFJ7l1YzkR2Qe2RKDifBM",
+    "rating": 3.3,
+    "user_ratings_total": 10,
+    "price_level": null,
+    "types": [
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1787235,
+    "longitude": 75.8007311,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeGdYcR96OvDfXDwjdnne3tstl8FiMRviklqURwHvi3z40WGKHoTllRe00VgGMlKOG3oNx2DyXwCJCOQAo1-C4g6QHWXLyLR6wYh1E8HjixAB1lxqphzvdEdnffYCzQatc_dBZqzv8t6Wb1N_bRf54wSsfamuQCnxOiUJjjccICB5h9UbYS8hqRIQd7AN5Q5HsNZCDr3zz1KzG9gVuIWCGwGmI_IGUWvqkvbO9wuu-2_RrHi9uaCK5BjVmV4Y3sXpna2zz7vYQ-mgEHByDuVLR6WdVzzNCbfxUmr256ScbZb1cEtxzK-X0HJrFqT0f9fOdToSGIFk-82rpZOE1o7ICZObfgb3sDQr__nNHiid99PGWA_5q9OZC1YSF9AhekJXtU265jmiLC_wnUOvqFTPFnDRvgYEkrdanV9xRM7n7sBLksngr4gi20ne9wcXvW9wFhHFhHtzi8j8Wc9dmbF-BmDR0PFeEEV_UMPIBnznqkWGGz8e3tIvUJZAlnl9gny-OtRIaXNGQrZhgXwC7jBbiLuCxTr4KULX-VQjXqyRJXbGPJJbt-ydZD4i0CggM5cFgzAIyX&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "kishore patidar",
+        "author_url": "https://www.google.com/maps/contrib/102670284514384714514/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWphNixoISMBi-mqUDG0NU3m_pcNlWCmp0lve98zta08OFwVmk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "All facilities... And good environment...best hospital..",
+        "time": 1676805296,
+        "translated": false
+      },
+      {
+        "author_name": "Ajay Joshiya I भैया आपके नंबर कहां मिलेंगे",
+        "author_url": "https://www.google.com/maps/contrib/108662496740472993974/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvDDX2EoBL3zcr3pAS7jCV3J2LuowbtzPz2Od9ELKEfhIT=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Best hospital in Ujjain",
+        "time": 1695971680,
+        "translated": false
+      },
+      {
+        "author_name": "Vikram Anjana",
+        "author_url": "https://www.google.com/maps/contrib/116269537514637132345/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvxy5Qdpi_gOcNsfdIbyEOubINxCCDu_Sue2mGB6DWprvehWhy=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Best facilities.. in Hospital..",
+        "time": 1676805056,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:39.544975",
+    "source": "google_maps_api",
+    "data_type": "real"
+  }
+]

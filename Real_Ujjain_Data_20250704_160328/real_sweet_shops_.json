@@ -1,0 +1,1411 @@
+[
+  {
+    "name": "Sapna Namkeen and sweets ujjain",
+    "address": "18/6, Ujjain - Indore Rd, opposite railway station, Dudh Talai, Subhash Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJq6FYH0F0YzkRcXOjkchVPrI",
+    "rating": 4.8,
+    "user_ratings_total": 720,
+    "price_level": null,
+    "types": [
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1802213,
+    "longitude": 75.7810155,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcYGzIuH-7bQVWmyQJThZ0J8Adn9gQW90FJ087xoG1wyR3-2XJXS3aOUqnaw9Prq89VaMt_2zwhfZCKzKE_KUXRc0bb26zvz5zXIn61R3VV8ldtYavZl_FViWJBOfJB4P4i3WRJfjlisstyyAlDP2zXDTzhj7mzv5hV1TTDmk7ymVn4hokAe2qoDNlJ1DUOgkF_bp9KAqEKJ-r5pi7r1DhDWxK6vPDvOFqPZW-WvDKGwu9CYRbrt0VhtGRUtYgQUb4XR1BVXznj0i0CxeyD89KBr_f9OgTRwN_HO2bgK88VGU9UNxkXCSyTG99D4jm-okH2bdCRVz6sHsSuO1ampAPUQ6KP0CH5L-WK4QaikQtsJaZdDSAfbwrCol19Vt4cWydrWW2SkL90ibpyyNGBi7S-yllNm9YxYAMjkel0OEkiKI9OGJWE0GHiNogPodIL2jQCl_R0kG8_fEhbXHu_oaDeu-gLnWRIJC0lG5BN_DXI9nPOzPkcDu79HAs5REGGVFB7kE3G8jr_KjuWc1I33nZXSnSDohQ-kA3HElu4brJ-wqN0IkS2KY4ANiCBmhsS0CRt1tDpx3UJAQ&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "094240 14520",
+    "opening_hours": [
+      "Monday: 7:30 AM – 11:00 PM",
+      "Tuesday: 7:30 AM – 11:00 PM",
+      "Wednesday: 7:30 AM – 11:00 PM",
+      "Thursday: 7:30 AM – 11:00 PM",
+      "Friday: 7:30 AM – 11:00 PM",
+      "Saturday: 7:30 AM – 11:00 PM",
+      "Sunday: 7:30 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "The Cruising Soul",
+        "author_url": "https://www.google.com/maps/contrib/102491427448454580178/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURmhVIQyn4GgaxpX3cNmhaVRwp04bitpyM9sM-u7H3ZrJnUM7ahQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Perfect place to have diffrent variety of fresh sweets and namkeen in ujjain. ambience is very clean and hygienic. The owner and sales persons are very enthusiastic to help customers and offer sample sweets and namkeens to make selection. Price is quite reasonable without no compromise in quality. Overall a good experience.",
+        "time": 1704813161,
+        "translated": false
+      },
+      {
+        "author_name": "Himanshu Patel",
+        "author_url": "https://www.google.com/maps/contrib/101438071897546842081/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOqd3h2lNPkxX831WSzMW5o9LRWlqdEPANcSxxtGFHTckdpg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "This shop is the best better than most famous shop in sarafa bazaar.",
+        "time": 1743333998,
+        "translated": false
+      },
+      {
+        "author_name": "Akshaya Sharrma",
+        "author_url": "https://www.google.com/maps/contrib/116934446484479758383/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUh_knQwIvCZ13PPwT_58Q3wj31Qu3MGHcn3MonigbW1GI1xuuQ-Q=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "a month ago",
+        "text": "I was quite surprise with the quality and taste of indrani and sev. It was good . If you are going to ujjain you must try indrani mithayi and sev if possible. My overall experience was awesome",
+        "time": 1746910276,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:31.863067",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Bafna Namkeen Pvt.Ltd.",
+    "address": "sati gate, 127-128, Kharakua Colony, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJKd6lYjl0YzkRGuLdhw3BcII",
+    "rating": 4.4,
+    "user_ratings_total": 2812,
+    "price_level": null,
+    "types": [
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1877861,
+    "longitude": 75.7756958,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpc3aVHy4C7C2s3p--I8FUYT9HUMazEOlsqz_077Pt3IQoc8RaLRyebNBgArqSva8ESAFMyf8Zuq3sBkE-QDWl6BB_HyLBxRcA99zdRhQyHX6aVoe5GwLKRWy9r8vlf2OITjxmhorFYmlwQ20dZWvkblU4AcKlZJSCmLdckeQf_7spnwMv2PddniYCP_ObcyrB9lud9qdYTNp0oACaqBVm-KwDFSnmCG9wPHanMahDWfN3NfMftqdgcwuYXsbRsVapEa75dl6yS8Wx4xWbaUwscdbpd_4vX5EabCgGLHaUXC7i0f9eAtyuDN-RdIEFxB_p3hz_iw79rJGRyDjRqCiuyqM1Qs0QF5BVb3vfWzyfLludOoNLD4O29a2Roydi_7wTM0ZBxPj5HbRM_c4VM00oc2zWxL-Qr9UuP4qrz1L6vDq21GLHz3O9LinRiAXzVO4KmbLE8Z-uIN9zKxLc2Wyn8teJi5jaQruqpHYU0sa4il3dWczpFjXPlafOWenzxa8YC_Sbf0wK3co3jVWTzcB7QbZDME5_E-upt1P6iD7eB4HibhZqgzozpKlwC2eSE94QHMtQ&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "095167 17772",
+    "website": "http://www.bafnanamkeen.com/",
+    "opening_hours": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 10:00 PM",
+      "Saturday: 7:00 AM – 10:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "MAHESH YADAV",
+        "author_url": "https://www.google.com/maps/contrib/103875519850406820437/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUeTwQLB83odHJNTqxrLO1Gh8HGke2WH7MwOKseG8C9WOg0ueyj=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "2 months ago",
+        "text": "Very famous in Ujjain best quality Namkeen and sweets available fast service very tasty",
+        "time": 1745842771,
+        "translated": false
+      },
+      {
+        "author_name": "viplav_936 shah",
+        "author_url": "https://www.google.com/maps/contrib/110265427368000102086/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMYxnHFGkPkY09WXTFVMwNk7U6nXfb3PAgqSApcf7I9u6F-Q=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "We eat sev and other nice namkeen. But we want to order of Rs 2000 but delivery charges two much higher it's approximately 1200 so please do something for this",
+        "time": 1750585452,
+        "translated": false
+      },
+      {
+        "author_name": "Max 'V' Kuori",
+        "author_url": "https://www.google.com/maps/contrib/110589213401671904594/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfkXzMwO0OvEuWgr4V5ChTVR6DgvtgWT0FULjrx99qKLeBSIrM=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "A location providing premium Indian Namkeen and Sweets. Definitely worth the trip if you travel to Ujjain!",
+        "time": 1704701123,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:31.962601",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Maheshwari ke Namkeen And Sweets",
+    "address": "Amar Singh Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJH0fMpW50YzkRfLScalLrFmo",
+    "rating": 4.2,
+    "user_ratings_total": 382,
+    "price_level": 2,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1772373,
+    "longitude": 75.7904187,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcsIQvOnt1hWG8rmGsZgjj2ebNoO_FEqibMZXF10jH757BTZtb97n7rvWly6RozMPuw0n6kfYqOp_7sQtlAEEvYo65hwwUfqLgY7SpPF0Zi6r2jcKvWigdLtHFiPUCINENyfsmkrZtStxk7y-3zzJjCXnHXc3wr9xGDkBFnl2guH85kQokSLmPTNrUUIoroPUXY6mhZH_pi0_SBUufq6ru7gRH-tnlt-2ZYulaFIVYjtdRCcuGGoPAvjWz-1gXaPlEVNAt_PfniDmXut6mLpQsQUP8Xx_eCjd9RLo2eeorYDX6tKZfxMXDqh9UtHJgJiCp-Q15ruEaip4O3he4AO5FsIoVpokON9L8q_44fSHaqnYzjs-i7jI4lJ1kcCjb0vr9tCOofsNh7a76YwK0IIR70nKYFM76qAjrSeLwns2MfBZIYxcRUB05ETBjOUqZf-sjnMSxq6SzRsH1APPHcMwlRwfmyRMpzRpcKVuMkHrNUWuzDJ_MPO9RDuPsV2ibtzk2jvLEqbRme87C2arjf1aq4hynfCG6mViZVZG-odxc4-evx5gbAMYXgrblZWUb674YJiztj&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "097520 57634",
+    "opening_hours": [
+      "Monday: 8:30 AM – 10:30 PM",
+      "Tuesday: 8:30 AM – 10:30 PM",
+      "Wednesday: 8:30 AM – 10:30 PM",
+      "Thursday: 8:30 AM – 10:30 PM",
+      "Friday: 8:30 AM – 10:30 PM",
+      "Saturday: 8:30 AM – 10:30 PM",
+      "Sunday: 8:30 AM – 10:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "PAWAN DAVE",
+        "author_url": "https://www.google.com/maps/contrib/114631773010379221258/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQ2DFpXQb-gyR60MzJTuhvYJX60qz_Rv94_fPfKLiEmGZ4bA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "What’s the secret recipe?? This is seriously addictive! We ordered many varieties,the  taste is just incredible, and the hospitality is even better. My first courier got returned, but Arpit didn’t miss a beat—he sent out a replacement the same day. Truly impressive service. I’m definitely going to be a regular customer. Please keep up the amazing work and never change that signature taste. Jai Mahakal!",
+        "time": 1744824479,
+        "translated": false
+      },
+      {
+        "author_name": "Suyodhan Reddy",
+        "author_url": "https://www.google.com/maps/contrib/116634735330970250181/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1WMZifh7Fy4W2nxLiyPpg2e2INAsdv892sTgkMgg3K5BJ27lSxA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "Visited again in May2024.\nSame level of service and hospitality on top of the variety and taste.\n\n-----\n\nThe hospitality is amazing and so is their offerings variety and taste. They infact make it right in there store.\nThere is parking as well right in front.",
+        "time": 1723553548,
+        "translated": false
+      },
+      {
+        "author_name": "Huzefa H.N. Wala",
+        "author_url": "https://www.google.com/maps/contrib/116725308716699648618/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUk2CdOHZAZhqO_lMDM6uh9g8CJgA2exHUkVsVccILshAeAU73F=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Nyc place. Good quality plus taste. Shopkeeper m staff is well behaved.",
+        "time": 1540200677,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:32.045368",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Apna Sweets",
+    "address": "Dewas Rd, Sant Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ747d4np0YzkRQ-H8sEja41Y",
+    "rating": 3.8,
+    "user_ratings_total": 8202,
+    "price_level": 2,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1695703,
+    "longitude": 75.79741829999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpc-9tR1tDBxpcmBt5H_yvKMZr3YSeu8ATcKK0EKo-F8xVKIEJ1gQ8E_hEeLiCWEN8OjxXw_mJEW7WPql2YO40jbkvmBMl4R1SEL_gIa-trCgmyur7wTAiViN64NNTYZpQPG-flAqtaue4lrwC2tWHSnp4UdNiOE_CZWjGdYs3vy4_Wm43seOi9Pw0fT5Bx_cZImMZYFmJoAXNPQ_OcDDctBSbylmgVDmkuHhuzLnJr5SrzdUWbpHM_j1qr_w4o2LYw7N4fARsElvwlAtsijv7rbyEvD7acfq0iF-RWQHoUDI5u4qQGNpb9TrXnDDWgPTfptcybt-q1dA9peFzAmcY50d026gfTjoH5GB3FWyX2amsPtzpwpa-XxNMC_zpnpVhGbHj01-bnbnE88iZLp0DOImfeVbrDKpWubW978o8y1ODPPGuvOtFxQrRwo6xajlD26_99xt77FutQRzJgGKPQwCXQGmcSgE_sZVmAeMADwUQ9qjFfZoyjV3y0N4J8VM6-L0giFSi4FQ5c0dG91FVzgNpzg9Pk-OsORQu1aONAPSOrkvkaYryMP6Lubr-P_IKUJWw&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "076111 06942",
+    "website": "http://www.apnasweets.com/",
+    "opening_hours": [
+      "Monday: 8:05 AM – 10:30 PM",
+      "Tuesday: 7:30 AM – 10:30 PM",
+      "Wednesday: 7:30 AM – 10:30 PM",
+      "Thursday: 7:30 AM – 10:30 PM",
+      "Friday: 7:30 AM – 10:30 PM",
+      "Saturday: 7:30 AM – 10:30 PM",
+      "Sunday: 8:30 AM – 10:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Divy Bhushan Sharma",
+        "author_url": "https://www.google.com/maps/contrib/111292583170634500596/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWwAlcJT_eK5md_K8HPp0WAPMYor8Olw1d2CCaJVSkDheGZ_Sn_=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "3 weeks ago",
+        "text": "\"Apna Sweets in Ujjain is a great spot for breakfast and snacks! I tried their Poha, Samosa, and Jalebi. The Poha was top-notch, and the Samosa was awesome. While the Jalebi didn't quite hit the mark for me, the overall experience was good. Service could use a bit of improvement, particularly in terms of politeness and humility from the staff. However, since food taste is paramount, I'd give it 4 out of 5 stars. If you're coming from Ujjain Junction, take the exit from the back side (Platform 8) and it's about 2 km from there. Worth a visit for the delicious Poha and Samosa!\"",
+        "time": 1749718865,
+        "translated": false
+      },
+      {
+        "author_name": "Lakshya Malav",
+        "author_url": "https://www.google.com/maps/contrib/115597713199395480234/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULWEJaYh49Y4Kf3nxqeNC5zV6S67QCPCsPDrnRXsl1C9FiHj-t9g=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "⭐️⭐️⭐️⭐️\nNice little food spot recommend by LOCAL with tasty and affordable options.\n\nPoha (₹20): Fresh and flavorful – definitely worth it.\n\nKhaman (₹30 for 4 pieces): Soft and delicious.\n\nSamosa: Just okay, but still worth trying once.\n\nGood seating area and clean surroundings. Hygiene is well-maintained. Also has car parking, which is a big plus. Would recommend for a quick and budget-friendly bite.",
+        "time": 1751001287,
+        "translated": false
+      },
+      {
+        "author_name": "Mandeep Pahal",
+        "author_url": "https://www.google.com/maps/contrib/118235242366175196027/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJGUWE0OoqTNaUQ7yglfXXl1wTDs1qPXJ7WmxmxqgW3zJr-vQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "a week ago",
+        "text": "Worst place to eat in ujjain. The process of getting order by filling the coupon/card is very unpleasant as you have to keep going back and forth for getting the coupon recharge and then order. Food delivery time is too long and the quality of food is bad. Tawa roti as half cooked . Waiters and Manager were not interested to witness the queries of the customer. Overall a bad experience and I wouldn't recommend anyone going there.",
+        "time": 1750669913,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:32.147219",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Mahakaleshwar Mishthan & Bakery",
+    "address": "Shastri Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJORjRAmZ0YzkRMM3GykjGudI",
+    "rating": 4.3,
+    "user_ratings_total": 200,
+    "price_level": null,
+    "types": [
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1715259,
+    "longitude": 75.78876389999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpf9eRVIPpK4hFA5qfbbs_1WD-Asd_cE4CSQqz-__KMlxDAn68ARB6M90QhJped4NbsU2Au8yMoar3kxx0418WalXg8pfpUHgnatDQTIphFNu5uzM0oDqc2hIftCKYmU6VUPyOI-_x0GEY8-xdvL8tlJrgaf4tmlDtvRrSV5ja7w5S2i1yi6eUuLuhCKxUUqa-yQXK3CXCLC_YYIWp1SwEYP_2HsdJGaPNUtQhEjYi4yoi-tnnpTcr352gsbYWb-YZU7KHHJax19WC9jueibEjnKHp_mwxbQV3EWBq3mDWOzYc3B5u7TyKUzftiqMid0GKrxQgJYKcyjg5NxEtzQizBcc4WnH2CwbkknnNdvhQW6U299OoNqPbUmhjZqlL3YK-82ZDIE7mFdmlX3I9BcR_RDOS4OxtQmP0VeBz257z_t93LFm3xMgbxtD1eeKbdsPLfnhRY4C0GApW8h61QXICpD_z6yC9fs893offuALfRen9kwQBnJgqKrQaTQ9ixZR7AHczsY8gG581cgUbLQAcofGP2UYVAK3jjfSOA4RlJF16hrKwKWkV60P1y_4hxYYeV3BFWId3ntgQ&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "090093 09886",
+    "opening_hours": [
+      "Monday: 6:30 AM – 10:30 PM",
+      "Tuesday: 6:30 AM – 10:30 PM",
+      "Wednesday: 6:30 AM – 10:30 PM",
+      "Thursday: 6:30 AM – 10:30 PM",
+      "Friday: 6:30 AM – 10:30 PM",
+      "Saturday: 6:30 AM – 10:30 PM",
+      "Sunday: 6:30 AM – 10:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Rana dilip singh Sisodiya",
+        "author_url": "https://www.google.com/maps/contrib/113787255367253583630/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5P3OUIRSAsWnCco74NK6KBfOnFgAiVRmFmdT9__hXQ2TbNbNG=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Very tasty sweets and namkins",
+        "time": 1745047892,
+        "translated": false
+      },
+      {
+        "author_name": "Harsh Sorathiya",
+        "author_url": "https://www.google.com/maps/contrib/102613401188110531999/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwwa-9beJdeew5DcUXswlpYiori9pASGWExWTrILuAKWFUBOjt1w=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Bought paneer puff after confirming that if it was freshly made, went home and saw that it had fungus.\n\nI would strongly suggest to avoid eating at this place.",
+        "time": 1698996678,
+        "translated": false
+      },
+      {
+        "author_name": "Priyesh Yadav",
+        "author_url": "https://www.google.com/maps/contrib/107636245412991730942/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvUU_p9gbj968qPLHpwHH-riA6C1wKoUfz957aMkfePvM1qjRz=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "Very good sweet shop at Indore road which allow you to purchase good sweet without even visiting the freeganj.\nAlong with sweets, they offer Dairy product and chocolates.\n\nGood taste !",
+        "time": 1642266310,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:32.238259",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Swagat Sweets",
+    "address": "Santram Sindhi Colony, Shastri Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJeQ4MxGh0YzkRpnx1paBN49U",
+    "rating": 3.4,
+    "user_ratings_total": 38,
+    "price_level": null,
+    "types": [
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1735078,
+    "longitude": 75.7881274,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpc0bt8-bW0ggvlKP64_iy-SrxtjHM5DJzYTeA2MP8CJh_XefHUeYvrXKwBVurhP96p8B1aiQml4GHK5XbycCkqMuSMx-551uiily6Q8f-2AEnC7qm3dkqWvG7e4KEcpIVWp5uZZ-2DtrBlyPStX_Ds58vMiEaNrnNZdeB1l7ebTKUnAVfkQy8mHMboNrtcdkSVhmIk7lkTZFUQCR-I9bHrJu_ZIB5dIrdrdMWVGtHDeiEYUy9TB_RLCG3PN4aGUuhGbkWzoiCYmEKxncqp0P1VlctgaqQb0nupKDEcLGrUqBnCSomyDpwvwtb4PVafIPR9i5h_fvDc3Elcc8SjmVXR4mrFvMSqjjHxQugFEfAY_T6uchnsore40ogGjvGtHEH5Ic8rEmlhKRAKRZKMn6kjOblcY_QygmVzqX_zgvEl7PDFkuSJLTEc_HBl137tnmGoqYA3w54j0Rzl9cc689HenYz7bmxzO3vhrUXolj40FNqoO20_l_xvKra3zYRrVF9N5xLAdjnBe-SvArWVngthH34eu4qMtXF3nxGvel2nNKfU9447gJW1BabqUzjTKsSfLdg_5&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "099075 17661",
+    "opening_hours": [
+      "Monday: 7:00 AM – 11:00 PM",
+      "Tuesday: 7:00 AM – 11:00 PM",
+      "Wednesday: 7:00 AM – 11:00 PM",
+      "Thursday: 7:00 AM – 11:00 PM",
+      "Friday: 7:00 AM – 11:00 PM",
+      "Saturday: 7:00 AM – 11:00 PM",
+      "Sunday: 7:00 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "sonal tharwani",
+        "author_url": "https://www.google.com/maps/contrib/108102023460859998459/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFtKoe6M7MA_z5MbEhKb16pRYTQ7Avo-UyNKBxYbES_qJVwg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Every thing here is a must try dish.\nIts usp are Its hot dog, kachori ,pizza and Manchurian dry and last but not the least veg lolypop",
+        "time": 1581501195,
+        "translated": false
+      },
+      {
+        "author_name": "bhartesh jain",
+        "author_url": "https://www.google.com/maps/contrib/103167674435223139951/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUns2FoRNOVaAMivJFCCsdCnfIe2gsn0XpiK7xa_wt5wES7WPw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Very nice taste n service ice cake is very nice giving service on time",
+        "time": 1620824443,
+        "translated": false
+      },
+      {
+        "author_name": "Lamat Droid",
+        "author_url": "https://www.google.com/maps/contrib/113309077036910104147/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrkT10dkuWrHOapQx8HlRrvH-Sd2i5hAdxFR4kGfiv_qfdOmaW=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "7 years ago",
+        "text": "Good place to start your day. Nice local breakfast options..",
+        "time": 1501036014,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:32.335460",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Lala Shree mishthan",
+    "address": "56, Nazar Ali Marg, Hira Mil Chouraha, Agar Rd, Ujjain, Madhya Pradesh, India",
+    "place_id": "ChIJ4dGlBRZ0YzkRcXftnjRR_b4",
+    "rating": 3.8,
+    "user_ratings_total": 468,
+    "price_level": 2,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.18926,
+    "longitude": 75.78425899999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfOAlKfJ0xvNOKLpwlhEGTeFTosIp0LJpWcrkSazOWnIcgyTzfrl_wPCIDgMbU2saiWIBju6w2BlsOV4cjKFfhRgXa4oHnJciCRQQdA0a-e6tKztCupPa-1G3pLdI5rDZqKyQ3Qs2_U35kf3ONbMpvkw9t3VZTrL4Hzpat8X-RMecHSqOtVdwF6ufDa7TuarwvhF2zHHa8az3yODUrBNG5BR6ABGfZ8N_SjYNtkZq_sUs4HJ9rtEBK_EK1c66UimFCd-68SW3_jzDtcSIKvyW0SYjFq6SZjQ7ygNk-Duo9xUs1gMCg8s7AgN7plsWwgK346gltUCciW5NLMfihJIkSNNjMs4wvIIbFqrwvKdDIbms7UTEAoW_0JLz4YOJx0_OImyoFXPoq83971BokwOzQDeNF4kwhQ5ST2ERcUO6IMuU-8qXL92nMBB_DvxSPJAETDH6-dNBPyILx2o9rBaP_rXYezI0GXkobAE-cSUkFaPbCD2gFNaK6-9n-gT6vYe2-YBnSM-MS5ZQ2SYE43tTR-M0I4A_VWklrT3gaMXkjYuoGHQX9duK8g-fFvhuzqyFGU_w&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 407 0410",
+    "opening_hours": [
+      "Monday: 8:00 AM – 11:30 PM",
+      "Tuesday: 8:00 AM – 11:30 PM",
+      "Wednesday: 8:00 AM – 11:30 PM",
+      "Thursday: 8:00 AM – 11:30 PM",
+      "Friday: 8:00 AM – 11:30 PM",
+      "Saturday: 8:00 AM – 11:30 PM",
+      "Sunday: 8:00 AM – 11:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Hardik Dave",
+        "author_url": "https://www.google.com/maps/contrib/102880766186738738133/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHNODYWsiyExhL7YpUfZDcnx2ltyM5inON1uZShh5aEyapFqA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "8 months ago",
+        "text": "I bought thepla (methi Paratha) today from lala shree mishthan and while taking it I asked if it was fresh or not? your staff said it was fresh. But when I saw it while eating, there was mold (fungus) in all of it. This kind of food can cause a big disease or someone can even die. Your license can also be cancelled. I did not expect this from a reputed shop.",
+        "time": 1730108760,
+        "translated": false
+      },
+      {
+        "author_name": "Atulkumar Makwana",
+        "author_url": "https://www.google.com/maps/contrib/100456810243972626322/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIm0_urf9FCbWfUTtjWkqnZEt-GVUvKwzKjH2IMt4fAWEXBCg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "3 months ago",
+        "text": "Food quality 4 star\nService and atmosphere are very good",
+        "time": 1742469436,
+        "translated": false
+      },
+      {
+        "author_name": "Abhishek Lokhande",
+        "author_url": "https://www.google.com/maps/contrib/102117902996874804143/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjyFulXYtSJTyz2RKMk16IFFJGHhAg3jYDRT53acz5-L-pD45Rwg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Food taste is good.you can enjoy with family or friends.",
+        "time": 1738096022,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:32.420487",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Gopala Dairy & Sweets",
+    "address": "65/1, Mahakal Sindhi Colony, L.P. Bhargav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ6Vhb-Ep1YzkR_3zqEZM9LG8",
+    "rating": 4.6,
+    "user_ratings_total": 32,
+    "price_level": null,
+    "types": [
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1680431,
+    "longitude": 75.7894472,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeQ1QUm8pEjRcac12izcpCBqfu7za_StJu8SmleqPOrYybjX9llxmiVB6kdb0HCpxEMmImkminQsJ1kydNVoeBfPtp1wnKCGqceW1K0Lkb_iykUzJqfbw1JllfNWIUWKzp7oIixE73caJC13iidEmtV0Wb4Zm1j7RNeXDBnLxKnxgwhz83ngbT0CjQneSGbgb-Uhp5iwMf4QqGivqfawQnnpS2IunVffdRhOfXwEmM_KInLTk23dO_rR_oZ1LmXwxBrSY3HDR5qRRBhxRT2sWUMoqtcZl9PDnI579Gz1uxGyXLfRlo&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 10:00 PM",
+      "Saturday: 7:00 AM – 10:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Manglam Joshi",
+        "author_url": "https://www.google.com/maps/contrib/112671104672892658830/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkIvL9zV3TQVDoT5X9A-jT7X7kOFeTgX2fEPX3Tmik9Op_nS67=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Awesome sweets shop and dairy\n\nAlways have fress sweets that are very tasty and delicious\nAll dairy items are also fresh and extremely good in quality\nBest sweet shop in the area with reasonable prices and excellent quality\nNice and trained works good in behaviour\nCash/online payment facility available\nSufficient parking space",
+        "time": 1633865486,
+        "translated": false
+      },
+      {
+        "author_name": "Mayank Mittal",
+        "author_url": "https://www.google.com/maps/contrib/115956803402204738254/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2qVAE-oGZHVdvbaHyS1LCQPlKLXt4YMS4QmdfWoD6lYluEvTu=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "One of the best Milk dairy and Milk products where one can get all the varieties of Milk and milk products like Buffalo Milk, Cow Milk, Curd, Mawa(Khova), Chaas, Mattha, Shudh Desi ghee, Cow Ghee, lots of Varieties of Sweets freshly prepared from Ghee, etc. They are increasing their products day by day. They also prepare Ghevar,  Phini, Gujiya, Makkhan Vade, Imarti, Gulab Jamoon, various Bangali sweets, etc. Their Makkhan Vada is the stand out thing which we always prefer to buy from here. They take bulk orders for Marriage gifting and parties. We are their daily consumer of Milk and various milk products since last 2.5 years and still continuing buying things due to their quality and freshness. The owners and workers are also very kind and humble to take care of their customers needs. They have now started selling Dahi Vada, Hot jalebi and Imarti. They also sell Kadhai Milk with saffron and dry fruits in the evening hours. People love to have their Kesar Hot Milk in the Winter nights for a feeling of warmth within. Highly recommended for Milk and Milk products in their area.",
+        "time": 1727595763,
+        "translated": false
+      },
+      {
+        "author_name": "urvashi shrotriya",
+        "author_url": "https://www.google.com/maps/contrib/107026695144756150374/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVhHfmfOZXU1byjldDtJ7zSmtLt5__1XXsto9EHcElC7eylXmabBQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "The dairy has fresh and tasty sweets...the quality of paneer and mawa is very good...the place is clean...well behaved staff.\nWith sweets they maintain everyone's culture, tradition and smile.",
+        "time": 1715741086,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:32.531811",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Apna Sweets",
+    "address": "3, Mahakal Marg, Jaisinghpura, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJDQ2qtjd0YzkRFJj_dAFB40w",
+    "rating": 3.6,
+    "user_ratings_total": 980,
+    "price_level": 2,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1834056,
+    "longitude": 75.7694911,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpe81QVE-vUftDt9K5hSIm6gC5tY8-zg7y25XoITb2J_LRBeYwFBvcxJOvEoOaPuQvyAF8Tqt_MIblMSrTvjrfT0ahZZ6-6JVGgFvxQl_DFBiWW2F-lVuKZwFhTSBXFCc6WzDhkorNbanj6KJS9SWPvvHEHMxbSPxoe4TSeAb77xH6hJa8ZRpXipkrV9q8IBe42q7m057myILAG49R5WzrCwv0eFoNTGGQtQOrVOr6Ykn2lwvadhXfoujXhlXz9vVDXv2h2-gS-feqV0gpy6sKqbkBTRRRt8F6GOBljHwAl9k6Yq5yQU2fpjcLKFhn8VjvdTHV8ot3hh6sUaPl2TTMwMHFxJAhWmJ-R7CwWpsCnKGGNcYHpAerfGZeDRl2olF8u_CTklUFX_nRWiqzykXaU_5KH5YA2kV54YCgdlJGV3JB4fIXKSMXZ1t9BYiQIZSM8SsdaQIexq7kHhF2hjGv-xjSfN4XOBsBoNYv5AtLWpVu2ohXx68ef_FRPr3ZniV8KvN8VjSM_6pdaPf4oGAjhUhsXelsJYb7BcmJqFeJ22F2czW6NwJr8CVNOZ40HSHhkPj9BQ&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "076111 06942",
+    "website": "https://apnasweets.com/",
+    "opening_hours": [
+      "Monday: 7:00 AM – 11:00 PM",
+      "Tuesday: 7:00 AM – 11:00 PM",
+      "Wednesday: 7:00 AM – 11:00 PM",
+      "Thursday: 7:00 AM – 11:00 PM",
+      "Friday: 7:00 AM – 11:00 PM",
+      "Saturday: 7:00 AM – 11:00 PM",
+      "Sunday: 7:00 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Bhavya Gumaste",
+        "author_url": "https://www.google.com/maps/contrib/108576650129871443164/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwlcSw02ddsWaDu7CdOMiXqwiNt1UQXZde5m6yb0HXLw2ah4aQgQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "3 months ago",
+        "text": "3 star for the attitude of the person sitting at the counter. Otherwise the place had good food compared to the ones in this area. Its on the Mahakaal Marg,  so pretty convenient after darshan.",
+        "time": 1743058586,
+        "translated": false
+      },
+      {
+        "author_name": "Amit Vlogs10",
+        "author_url": "https://www.google.com/maps/contrib/112055320910671250266/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUW573U3ZM16ZeKbO1SUGjSMBrrE9uw4V3SzUNqyu0cY77ki-KR4A=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "a month ago",
+        "text": "Famous nearby mahakal mandir pure veg , have a variety of foods ,chole bhature must recommend ,\n\nThe cleaning part is missing and this has self service",
+        "time": 1747878965,
+        "translated": false
+      },
+      {
+        "author_name": "Sujit Kumar",
+        "author_url": "https://www.google.com/maps/contrib/102904084165909071688/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNwHaw3O_KvkMsPf-4M-rPyrrX90qS096S4B7JrrGTJUzmMKg-=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "3 months ago",
+        "text": "Went to the Restaurant after the darshan of Mahakaal. I tried their Chola Kulcha, Masala Dosa, Idli, Kesariya Lassi. All tastes good, especially the Masala Dosa and Chola Kulcha. Must visit. Just the sitting space is a bit limited so you sometimes have to wait for sometime to get the seat.",
+        "time": 1742912468,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:32.616169",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Apna Sweets",
+    "address": "37/7, Ujjain - Maksi Rd, Pandyakhedi-Rajivratn Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJba-EFm50YzkR_YIyfG39SSc",
+    "rating": 4.2,
+    "user_ratings_total": 99,
+    "price_level": null,
+    "types": [
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1862791,
+    "longitude": 75.8179328,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpe0w6c3BCIHG3M06dbF5EvcQaDRbseYKb4oaiagGkwFc-V_RoyhMi86rQU_PizGUDD0S6pNXexIZ4MxYkDRz4FcIAfUJ4k9hRqh_MOMB5ThrSFnDeTSt18j-gnH5U9EoLOBu-8fXFOyWd6-KUOo6DNnzp79xaYbXjyajVETeK1_npWKyvf5KH8oJ9vx7Lemkb99nVnjPPD0xI7c5IgjgMXi73oRWdzTKhvpFQpCN_KCoLkrpH1qtrN1XGEIy8wdYPXrnboD0-WfKIcLkABxOQpYt8GyMRcw45xRImmwI6UpPiSgkLuUQgHsD5y11ykVW_l5iW0dNZDJKiGpThQr26wFoWUqCEJSBZFgkNt3OnmXrTa-WX1JB0YUapX-nAJcoyu5WEUe6fFMJ1L5tEMtKW7Jo6HQB_IMSU_SqS-S7PeAB5an6F-X1NHh--GSiXPb2x-9hnIe0BswQ_V0VdLgB5jmz0xLmJHTKabizy4S9-c6bjs3Eu_BpGfEz9NCiThKF-V8xiMk4zVcNOcslwdXcLUx9jmCddLIsj1wjpbI-BXcnbJ26y_u2LdY4IQsSPaevKqsgC7G&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "076111 06942",
+    "website": "https://apnasweets.com/",
+    "opening_hours": [
+      "Monday: 9:00 AM – 10:00 PM",
+      "Tuesday: 9:00 AM – 10:00 PM",
+      "Wednesday: 9:00 AM – 10:00 PM",
+      "Thursday: 9:00 AM – 10:00 PM",
+      "Friday: 9:00 AM – 10:00 PM",
+      "Saturday: 9:00 AM – 10:00 PM",
+      "Sunday: 9:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Madhavi Vuppalapati",
+        "author_url": "https://www.google.com/maps/contrib/112575606155829161007/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWZpPlwCwck0gBk2USxM5OJP2g3eBIahwY88CHahllTKNI3NL40Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 months ago",
+        "text": "10/10 resturant if you want stomach problems. BRO I HATE THIS PLACE SO MUCH. ME AND MY FAMILY AND THE WORST STOMACH PROBLEMS AFTER. Please find a better  place to eat. You guys suck at making food istg even I could cook better. Please go find a better way to spend your worthless lives and money\n\nPs - \"rajma rice\" and 3 and a half pieces of rajma.",
+        "time": 1735226225,
+        "translated": false
+      },
+      {
+        "author_name": "anju sharma",
+        "author_url": "https://www.google.com/maps/contrib/116666625153582543137/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRnygxbdZkx5UNGMZaueFW934x0YhSTNdjjiYEXng7VfZgTeoO=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "V good atmosphere, don't order cheese 'dish.",
+        "time": 1688037180,
+        "translated": false
+      },
+      {
+        "author_name": "Neha Singh",
+        "author_url": "https://www.google.com/maps/contrib/106605271609481427910/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdCAiYH5lzss7TK6V7LdUKY7o3deSYiHrrQqKZG7rWy-ODWvUV=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Please don’t go with the positive reviews, this restaurant is now just on the brand and not on quality of food and services. They tell they have upgraded themselves so they want every customer recharge a smart card with minimum of 1.5k to 2k post which they will let you place order but to recharge the card they only accept CASH. Food they serve is horrible in taste. People taking order on counters are least bothered for customer service. Waiters consider themselves as the owner of the restaurant and they can make you change your table at any point of time and serve you someone’s order and they don’t accept serving wrong orders. People visiting Ujjain for the first time easily get fooled with such restaurants because of their name. Big NO!",
+        "time": 1719853440,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:32.713570",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Shree Ganga, Freeganj",
+    "address": "No-50, 1, Amar Singh Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJd97fEGx0YzkRNH28Kq4Zs0Y",
+    "rating": 4.2,
+    "user_ratings_total": 5244,
+    "price_level": 2,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1786499,
+    "longitude": 75.7902527,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdS0q44WjJ4E--Y4qxUjCbfIOPq_9059zPdD7sgfn-KzJnwhOj-0Qd0Z2V-3S4KtIqfgtFSD_6UCp6ue5ic2Bue4gqbPoMF9N-3UtpQjSQdcoQIuhy8rhQhhPVfW-jrq23DIMdLo8Qf4ll0xuSe74aX6u8RVpiVcmaNVCUzWhADjIWt6B2IA4GxrtpUIYA1_6vm2EJqnXC0wXHCsyQ9QZDaqItJrApKI5LvIOI0Re7cae6xHGOqC_iDSGNT_M44QF46q1M7ogE86IIpMwBzLPfFotgJUnSx11aC1C58lHHx0XdPx_Q17tNlPTQwz2Nk2dOMiXVB--H7vg0c5YsevD8xpGPesOSww0oib2bzRsg9FLY_AJ57QLeAJYfH34R3c5h_OEM4mf9hCGiBRVJ6ZjV-_KLihzJCoQAuHGpQnZDicMDVBGuXdytLTTgaz5glapuJJvucc8J0mAXX53KpoXnZzK2apwVYnNA4ElbIczpL5BsHX5n8f6d0GCQ4P2IZGQVhyjaarzjN2o8Yt_r07-IUssPx2SGYuM7-Arey14o9tbPp8ts3sNJxTfEByDLtTmget4cG&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 251 4853",
+    "website": "http://www.shreeganga.in/",
+    "opening_hours": [
+      "Monday: 7:30 AM – 11:30 PM",
+      "Tuesday: 7:30 AM – 11:30 PM",
+      "Wednesday: 7:30 AM – 11:30 PM",
+      "Thursday: 7:30 AM – 11:30 PM",
+      "Friday: 7:30 AM – 11:30 PM",
+      "Saturday: 7:30 AM – 11:30 PM",
+      "Sunday: 7:30 AM – 11:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Vikas Nagar",
+        "author_url": "https://www.google.com/maps/contrib/113730925395414112888/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUj7RWWmaedmosyEekhe7y7bsjuv4RCRO8Pdviz16sU4r6Tdw0AMg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "Very poor service and bad experience. The quality of food was also not good. The behavior of the person on the cash counter was very rude",
+        "time": 1741665633,
+        "translated": false
+      },
+      {
+        "author_name": "Hemant Verma",
+        "author_url": "https://www.google.com/maps/contrib/114762266492971972098/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZHa_tlkTnIR2uE8hlNqzkF3XuEyTMZKk3fl_wg9mdA7SCudDnUg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Ultimate place for food lovers. Specially of you are vegetarian. Clean and tasty food.",
+        "time": 1744134119,
+        "translated": false
+      },
+      {
+        "author_name": "Darshan Rangani",
+        "author_url": "https://www.google.com/maps/contrib/106898088588781728151/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVI8HD132k2ooaiN2UmJyEvsm-bjkBHzW6Cp4hTqCt5O6j8Y_3I=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "Had good breakfast after the mahakaleshwar darshan over here. It’s in the market area so if you reach early maybe you’ll find a parking spot around. Don’t get confused if you see a sweet shop when entering as the restaurant is inside the sweet shop itself.\n\nGiving this place 4 stars only for the quality and taste of food. The service is very very unhurried, especially the guy who was serving food in the self service counter as you can see in my pictures. Man that uncongenial guy is totally unwelcoming as if he is doing a favour by serving us. Dude that’s your job. You have to continuously repeat your order till he makes it properly. If you order kachoris he won’t give you chutney, if you order poha he won’t guide you where the spoon is, if you order something else, he’ll not listen and pretend he didn’t hear. What a lazy bum.\n\nThen if you ask for a bill he’ll be like kaka ko aap hi items bata dena to bill ban jayega. That man just does not want to work. But all this hassle was easily overcome by the delicious kachoris, idli, and poha. They need to improve their dhoklas though. You just cannot leave this place without trying their warm delicious jalebis.\nThey have a limited menu for breakfast which is alright I guess, so please keep that in mind.",
+        "time": 1704061547,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:32.806340",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Shree Mishthan Bhandar",
+    "address": "50, Amar Singh Marg, Freeganj, Desai Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ177Ejmx0YzkRhQo23GXgIjc",
+    "rating": 3.3,
+    "user_ratings_total": 13,
+    "price_level": null,
+    "types": [
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1785066,
+    "longitude": 75.7901921,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcDehWazCpDAGPVuVee9Xtgw4hzKwVomihwV2gONfocGk98FCkt7Fw5Q7FKvMeihNBFhakriCo7sLUOHZuzQygrEM5ANqSpEYtZ76HCyuXSbfCw3jMGbJdjpOf9XiCdCEpNhK--p-SQAdP6Hyj5mVV-8XmYeaU_RNAlijwFqRuEDwojjCZrUA6iZdpCjDBH4scpFX4w1ZKSYqh5wFInoca8sI7cCFSl5ko6OEp6um8WXiKfv42UNU0MiSGLEst-pevxvoyi7nKY_6U-14SGSfCwjsZHNwJitxPKJL1Ngg7FqdwvNwOTXMWrK1hVpyQevovid60_w1sUWD7O34kmhaLtEoMittvu61qSPqwzacNg1qP_R3gSx_wUWY9I31w_KbA7De3VmfnZjcFx5bEyDzxTh_gQdoOCFGe1vd4kelQ_2YoaaNeRsbIF1dBQV7oePwq1sWJ6f4Id3JhD0aq6REzhUJW0ZRzViyflFWy0s9L1W8Sv-1M4qe3aWOmkkXPuBDvYWlhxRjHavXxw6ZIbAcls0YP6bNvvBjmaGhoEGtu-BiadR9pJTtCQ_ZmCFJq1S-LG5T8r&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Mohit Malhotra",
+        "author_url": "https://www.google.com/maps/contrib/108708100677976641798/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVE54oF_qeNaV4UOVkxQC7V1D9XbdHdFiNsxG7Jjsn8zHisM_A=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "Very poor quality, i just bought mawa baati and perda. Found hairs in both mithai. Suggest  people to eat carefully by your bare hands and by broken in pieces. I will never ever buy anything from here.",
+        "time": 1746947517,
+        "translated": false
+      },
+      {
+        "author_name": "Kᴀʀᴛɪᴋ",
+        "author_url": "https://www.google.com/maps/contrib/104434872968428273370/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXp9dqO2sS2LyLm79alWTfj_5d3OFKGqIVaDx5OTwMGawtYg0QK=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Nice Quality Sweets and Snacks 😋\nI like one thing about shree misthan bhandar is that there environment is clean and fresh.",
+        "time": 1741014319,
+        "translated": false
+      },
+      {
+        "author_name": "nikhil singh",
+        "author_url": "https://www.google.com/maps/contrib/100836202139966847418/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJI4D60ETcL8Bp2gk_9xkPrPiyG8ZP7qUXmVVGjAdzDCojnvQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "Do not try any dish at nana kheda outlet , worst dosa i have ever eat",
+        "time": 1672164096,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:32.889296",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Shree Ram Misthan Bhandar",
+    "address": "Bhagat Singh Marg, 51, Amar Singh Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJOf8ADmx0YzkRQ31LJ3YpFT8",
+    "rating": 3.9,
+    "user_ratings_total": 50,
+    "price_level": null,
+    "types": [
+      "grocery_or_supermarket",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.178668,
+    "longitude": 75.7901965,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdDFG80_A-koutsJKtcl8oiKvN4Y-zEjztFStnOA1-qmEEr-ElyQMlpyCa7AFZWqOw5BLPysMp5ANyNLN-aEgGWUAaoo1SuUqb3uYnpMCcbHszdOHMJMTDL-51cXIPKrwooRs44TaCCFk7s8e0M8EdFg5qNYmL0HtLql_63YCB4xu9TltASbWhOwm7VtV2qKolFppxBBw5aHjGzUr8es2xouz5aNAu9pKlRQizHVQgf3dCEzQj4dfrzdeJFO4VRgZFDkmSdrfF50wIqMcBnwakW8N-bU2TA9_pMda-o1TAQ1ByeJN9ACSXa_S-TskU5AXB3uvU6dMEAI-4IVACUtBPipMR0O2agU3cFXsdxa43VmdFK13ADcT07Ki5yzJ0FZYin094F0yals851CauVOTfl0hEcih_nXvEGZ2OO1t-94aKQmeSehK8DSApOUhJyIkd6H1uCFE-xzQSN-gbLCmE00-HdOfcwfJR8UVz84bs-PzOgCpmohhPtC12PW0MPQ2-XSHEiM-7zTOEFNTdhe4CfmO8StfJwJpHvo-bi0m9bw-oxjQfQzCMKF1yoZC_yfAPHyaANuHjGqw&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "098277 40259",
+    "opening_hours": [
+      "Monday: 7:30 AM – 11:30 PM",
+      "Tuesday: 7:30 AM – 11:30 PM",
+      "Wednesday: 7:30 AM – 11:30 PM",
+      "Thursday: 7:30 AM – 11:30 PM",
+      "Friday: 7:30 AM – 11:30 PM",
+      "Saturday: 7:30 AM – 11:30 PM",
+      "Sunday: 7:30 AM – 11:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Dr. Anjali jain",
+        "author_url": "https://www.google.com/maps/contrib/107001465652876383464/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKiGeuUJFn6073h5C179kZwjTHFpdGmMUacoOulOR2iEfWi5A=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Located just by side of Shree Ganga in freeganj.\nIts a misthan bhandar as well as a restaurant.\nThe serve Thali.\nI'm saying it after eating their meal.\nThey serve the best meal with best taste\nAt a pocket friendly price.\nI love the taste.\nCleanliness maintained.\nHygienic, spacious.\nMust visit.\n👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻",
+        "time": 1701432532,
+        "translated": false
+      },
+      {
+        "author_name": "satyendra bhadouria",
+        "author_url": "https://www.google.com/maps/contrib/103638048322948340413/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIH54n_QVXtqCy1bPNTIHpwYGNs0HUQbcoGb8hpIcnQEQ80Gg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "4 years ago",
+        "text": "Most of the dishes made here are having great taste also cleanliness is there not only so called show off only",
+        "time": 1608826075,
+        "translated": false
+      },
+      {
+        "author_name": "Ojas Gupta",
+        "author_url": "https://www.google.com/maps/contrib/109959914198080415053/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbeeJKLBSp2sUx_Vw-UMdJMyYYanFEqO21UNBZWJX6UEuAAfP4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Best Sweet Shop🖤\nEspecially Rabdi,Kadai Dudh and many more",
+        "time": 1602472717,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:32.976960",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Shree Sanwariya Namkeen nd Sweets",
+    "address": "6Q2P+QC2, Indira Nagar, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJvQTCIh90YzkRlKPoeM_YrVU",
+    "rating": 4.3,
+    "user_ratings_total": 61,
+    "price_level": null,
+    "types": [
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.201878,
+    "longitude": 75.7860496,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdAQziFNMs5ofLjIt_1RQubSd1Xsv4B8EfLAQuVoiBc2H-LeI-IkS8z87c7qTpCaDA1DbJuUIknQfi0l9HMc4Tswc8769SOH_-PokhaLq772yOPzdFRNtzuKZc06qd3k5kt7tXhqNeqptsaurSdDz8w1Edz2rfEEgBC0pbAGygeGM81FpaZ5iUnByrQu5KYalGrC6KUsg9Vr4f1pzrb51QIpRq8vsER0jWORkekNj0_fumMn3oznr6AjKRNtHxrhgJ0FdcBNI2GfVQT75wHK3dlSg0CPlDjZpWJaJj5bKIHalarCZgl4WzINceP0Nbb0MfniyzuXp_zwOUJFQnQj_XU0_CPwIFDMBi1ZIuLkHix_n-pm8nfAxZMACK6Hs3xBMGyXiTlnZk2mM1NY8BPX_jiKtjxi5EAE1PvwubC5pNGBF_D_iy2WzpB38a9Q1_oNwQLt4Dp3Vu_OcNO50IVgqu_G8PkybrqxzLqud6JEVBohK49BoQeOXJ-cpphKMMZf9Xk8OZPa_5Ijowo5FZDsikKwlayVWLoX4fPYg9B4a2R08GECYUJA7LEHtS26p9NBzjgg6Mu&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "091799 25324",
+    "opening_hours": [
+      "Monday: 6:00 AM – 11:00 PM",
+      "Tuesday: 6:00 AM – 11:00 PM",
+      "Wednesday: 6:00 AM – 11:00 PM",
+      "Thursday: 6:00 AM – 11:00 PM",
+      "Friday: 6:00 AM – 11:00 PM",
+      "Saturday: 6:00 AM – 11:00 PM",
+      "Sunday: 6:00 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "abhideep chandel",
+        "author_url": "https://www.google.com/maps/contrib/113129153376291309037/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4PcV0c-eAGyOmWLjcLr32VXRkMj52LJ_OhkFXc77DZxDb9qy6=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "One of the best place of indira nagar\nYaha jalebi aksar milti he winter me.\nSweets aare so tastyyy....\nVarieties of namkeen....\nSo many delicious sweeta\nPaytm available",
+        "time": 1548696545,
+        "translated": false
+      },
+      {
+        "author_name": "Achal Jain",
+        "author_url": "https://www.google.com/maps/contrib/105401502207380137509/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHuiC5kMR1QwNahrAZf2iMiAa1DuriV4uxH1Rr-QdAUTSfbQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "It's popular for its sandwich and can try baked-samosa here. Very tasty at low price",
+        "time": 1656493252,
+        "translated": false
+      },
+      {
+        "author_name": "Durgesh Bairagi",
+        "author_url": "https://www.google.com/maps/contrib/104718702973537266882/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKk2yUBHH_FsxrIJCMSQmP3NpjmgoRJywI2OrtbH9W9YaMDCg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "sweets are very delicious of sanwariya sweets and also namkin",
+        "time": 1544327286,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:33.065163",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Naman Gajak & Kulfi",
+    "address": "72, Chhota Sarafa, Nai Peth, Kamri Marg, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJcTNGmzl0YzkRHVYciDAMHAU",
+    "rating": 4.6,
+    "user_ratings_total": 31,
+    "price_level": null,
+    "types": [
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.187761,
+    "longitude": 75.774452,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdSJUnmW0Gwqpuk8AjdaCK7AND6-QHOlPBPsiNkOG-4lYePkzeINTowM09hpUlyNnceq0pOMJuzzMrBm57kNGvLvNk_xTVePyEzsgBtu8SxUobiEmBtWuMnstP7yE6nDIcfqFEnnC-QslKujKlShbXj1fePAymitf8va-2yBR4_W5QgT5PfX94lNCicuY3FLsva_DlTAiJrP5MXO6lJpvJiK_JVyGdeV6kRXHHrppQ0OQ4tkE5duPkV4aOyFKTummfRWeH59FvlodEDywG9gqEoRXUEooHyjNZSofzqfryQyZBGYEmt3MhzoGdDp_T8v_grmY_7Muaye1rrR6p1nvuUIYaqmD6rxHwGcpDGOFktoHBKf6kCfUApGN4Kt4Oiv0MY4u9hUCV5HpPWc109QXQZDReEKxl28UChedBngq6bkbx9Ej4zjPqPoKwkUgqkyqzoy06DWWJspDGbSUhUbK4GpoRpxaDVrEFOG-vHliWFFB8qsS59ddO9DLjxFEn46HZDdiS89lypzRr3u-XV0x-892snGAAhuKYktSy600SK4MFc0K9ZZnnPgsEc_va7gTJ-nNdC&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "094066 05478",
+    "opening_hours": [
+      "Monday: 10:30 AM – 10:30 PM",
+      "Tuesday: 10:30 AM – 10:30 PM",
+      "Wednesday: 10:30 AM – 10:30 PM",
+      "Thursday: 10:30 AM – 10:30 PM",
+      "Friday: 10:30 AM – 10:30 PM",
+      "Saturday: 10:30 AM – 10:30 PM",
+      "Sunday: 10:30 AM – 10:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "santosh unkule",
+        "author_url": "https://www.google.com/maps/contrib/102922185500988164461/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdeMiXl2pLeVPkJKdDBGc8s_OiUgQAMrKcAwl11ZUpJygEmKt3kw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Must visit place whenever you will be visiting ujjain. All items are very tasty n yummy. Gajak is there speciality & it's super awesome.",
+        "time": 1574952389,
+        "translated": false
+      },
+      {
+        "author_name": "hotel nakoda palace",
+        "author_url": "https://www.google.com/maps/contrib/101915158004153442357/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJ5MnPqYPPcmVXkGteknXjxv5rjodwT3sAFDYip3rJ39R2WndK=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "pathetic naman namkeen sweets , in ujjain sapna namkeen is most famous also you can try",
+        "time": 1652266367,
+        "translated": false
+      },
+      {
+        "author_name": "Dharmendra Kemkar",
+        "author_url": "https://www.google.com/maps/contrib/105883913703029416358/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVi6sC1NeA3khcWKMaNVYtcXV27hKEg3_OmQEamoEpaBYMOqz_9RA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Very good nature and fast service and I love the test of there's sweets💖💖",
+        "time": 1641689323,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:33.153280",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Bholaguru & son's",
+    "address": "25 Ram ji ki Galli, Mirza Naim Beg Marg, near Sarfa Bazar, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJ6zJnKTp0YzkRL9XyD85uMZY",
+    "rating": 4.1,
+    "user_ratings_total": 2816,
+    "price_level": null,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1881018,
+    "longitude": 75.77455010000001,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcq_bSLsC_x4p9yh1unCN5_qcNb3mTNwp0V7uTfph66I2KjQCMlgrEaiXjvGAjZmOXkbFNUWC8Z9H92xk0TypG5uGeg9koS58dbJh06v2jFGap6R0EloGbL3Y7_rMTwxxP16fQZyZ9ylGrjKj2I_qiTYmOOUV-WjHmrLaqShDr5y1suPQSGiUWwYHxYCOpTb-K0WMrUfQijp-SdHPj-eSSYhuVEDQa2n6fVVu8d6Tj2kPU5aYlQ_ycGczlax56wLEOKme7XzSJAeNe0E9mit8sykoSs6PWe9ZzqtKN_N0Fuxp_HYQUspq9WufRCHALVspxaNzEbBcKyyRas6PhngntiFt0YubisumNk7Lb9lZV31fSHItzBvB59lFK-8eSavxZVjZ_XLYoBu544b_NaeXwH3b_Dt1bRlXtN3DpZocB1A12HmtK9dbOBeZdR3L_EFtlE-rkyO4gQCZgFTMotziq-RsujP0ENRiESmvV--qv3yWCbnsIfs_WHuN62QXUFbjm-l91k4K0FF296fsnDd3BBygx-aGCnh8QqGHn1JiZti0Q77n5AxzeHzIW6jzHAKxjkwzi3&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "070001 52328",
+    "opening_hours": [
+      "Monday: 9:30 AM – 10:30 PM",
+      "Tuesday: 9:30 AM – 10:30 PM",
+      "Wednesday: 9:30 AM – 10:30 PM",
+      "Thursday: 9:30 AM – 10:30 PM",
+      "Friday: 9:30 AM – 10:30 PM",
+      "Saturday: 9:30 AM – 10:30 PM",
+      "Sunday: 9:30 AM – 10:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Ashwani kumar",
+        "author_url": "https://www.google.com/maps/contrib/101521333704974555207/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWohnsp9AgVQVKTzkyjWY7i4uejrI1FstOA7FmCkgBvvlqdP0mNiA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "3 months ago",
+        "text": "Limited Thali Cost: Rs.130 (in March '25)\nConsists of 5 Poori, 2 sabzi, besan chilli pickle and chaas.\n--------------------------\n> Poori's were made from Desi Ghee, good & crispy\n> Aloo sabzi contained heeng, was okay\n> I refused for rayta because of my personal taste reasons.. don't like sweet lassi as such. Rather I opted for additional bowl of Aloo sabzi\n> Besan and chilly pickle was unique and good\n> Second subzi was little sweet in taste, didn't like it because of my personal reservations against sweetness.\n\n---------------------------\nOverall, you can visit this place for a unique experience, may or mayn't like it.",
+        "time": 1741592735,
+        "translated": false
+      },
+      {
+        "author_name": "Herneet Singh",
+        "author_url": "https://www.google.com/maps/contrib/110213960229261061149/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5PzT22WizTsw5cXQ6DTVfNYE6cCxhxuJl-aMIW1B1nfL322L7qQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "They serve amazing pori sabzi with Tomato chutney with Raita . The staff is amazing,  they ensure to serve Hot Puri .\nVery Helpful staff , its 101 years old Restaurant in Ujjain . They use desi ghee for the preparation,  no Extra Masala no spicy food . Just Amazing Authentic Ujjan Food",
+        "time": 1741985242,
+        "translated": false
+      },
+      {
+        "author_name": "Asutosh Behera",
+        "author_url": "https://www.google.com/maps/contrib/111386403584016362660/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVlaly_Lix2GggicNtlTXStTRri-KBxwCR3GDTmNxJm_efJxklmtw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 2,
+        "relative_time_description": "6 months ago",
+        "text": "A disappointment I would say. The dahi bada was tasting so artificial, it felt like biting chewy tissue paper. Rasgulla was no better as well as the moong dal halwa. Poori and sabzi were good, but didn't impress me much.\n\nOverall it was a let down.",
+        "time": 1735264989,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:33.233949",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Shree Kakaji Sweets",
+    "address": "1, Shopping Complex, Rishi Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJZ_f-p3x0YzkRNFTgwVVTrUY",
+    "rating": 3.9,
+    "user_ratings_total": 54,
+    "price_level": null,
+    "types": [
+      "bakery",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1665442,
+    "longitude": 75.7960567,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcVriBgvHznxNVo25YL6SFHtY57oQiHqszFJgzT2Ujrodcityni0caUR6LA7qWUJvnI4TgFp55v38vPm3JAFSsz8akxwlA6fxtfJvG3fRJeZ0gEQAKJJx45l458e2YWYWGSJF4XTCUn2_1DZrQZ_LnXso7m1yA83KdyHcOaq1j9mhjKfSljBh-z_hMG15X3oLFbug42AhN90VRiqHrQ_fuZhSxrb2sXbhYgCylxphVM9UO47ZgoYf0kLA6lH71W-u-UylRC-SgD--aYViPO_0yfXTZqNjhDW29se_zq_fySk81MlOI&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "098270 99432",
+    "opening_hours": [
+      "Monday: 8:00 AM – 9:30 PM",
+      "Tuesday: 8:00 AM – 9:30 PM",
+      "Wednesday: 8:00 AM – 9:30 PM",
+      "Thursday: 8:00 AM – 9:30 PM",
+      "Friday: 8:00 AM – 9:30 PM",
+      "Saturday: 8:00 AM – 9:30 PM",
+      "Sunday: 8:00 AM – 9:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Dhruv Batham",
+        "author_url": "https://www.google.com/maps/contrib/103165692206779940570/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXII43Eoc2uakasu7KY6JeZPjPv3WG_PzCAIMcvrvWpPHcvfAOL=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "3 years ago",
+        "text": "Shop owner maintain the hygienic like the kadhai were not all black but personally, for me the taste was ok.",
+        "time": 1637731225,
+        "translated": false
+      },
+      {
+        "author_name": "Clubclassy Clubclassystore",
+        "author_url": "https://www.google.com/maps/contrib/118337738392789109804/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUeWTcHKTh-RKLkAYCkQHAySCDvxvsmT637EnPQeiTL2Q9opMY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Good less spicy samosa",
+        "time": 1750586943,
+        "translated": false
+      },
+      {
+        "author_name": "ashish samarwar",
+        "author_url": "https://www.google.com/maps/contrib/107910358801620612044/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgtvjNcVkMnexp7D10M-XsqZ5sublSRVse_44bCJ6hdROTX_2TyQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Great taste and dishes shop",
+        "time": 1734181305,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:33.321172",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "New Sundar Dairy & Sweets",
+    "address": "18, Betal Marg, Ashok Nagar, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ70LGWWx0YzkRKNuXYXsBnjw",
+    "rating": 3.9,
+    "user_ratings_total": 322,
+    "price_level": null,
+    "types": [
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1804492,
+    "longitude": 75.79136290000001,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdBU6y-fvYpp85gyX7A2YwCewgB6k8SXZl5skdXaJzecZlqxpeWy0CZUzqOni2P8c8Au_7s0q7rCzXlDpAmjiMDj_PP-dt1dOdqbTY07oIIeuwuHfmPYhVpF0EGFTlmIK64ziZw9WaE0YVajLFv-pSQthNlVM2qZbp8h9hsxxugNGU62bH5SNxeWHptcfH33EXjDTmb2GCCFjtTSa4eMTSmUparvYiB8R3rAl22Wv05SEtmoNe0gNwGbqNYTk_SMAOuX08bTPWiOSHBQiDmy_lrATySy1T7Q66Opzno5u4Fkc7eWp3RClAf7jc_MuKc7muKOFTXqRCl4PwEwgJ9aiikjsg8KrbbWc036viI46SAG_8pTmwq6lSzk_gu_GJlBNRaioGKGJNw5ZcYGQ1GqlrQ0sepg0NW-l4E0tTDelNRbM8DP8A7dlwocIcT41OVnHvTZ48GpAKVcqpWVkbkrHF8f66NgKOuRdi4B0zNpL2irc9TjbYmvbm81zolKTxTWkJwYR7sL6ChhiG5H-843S1Z-ldMUi0SzVU-SrC9R9SeMoDqAhfGOyVYpEoCrdCu0eodyiEZw5sQLQ&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: 7:30 AM – 11:00 PM",
+      "Tuesday: 7:30 AM – 11:00 PM",
+      "Wednesday: 7:30 AM – 11:00 PM",
+      "Thursday: 7:30 AM – 11:00 PM",
+      "Friday: 7:30 AM – 11:00 PM",
+      "Saturday: 7:30 AM – 11:00 PM",
+      "Sunday: 7:30 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "PREETAM GUPTA",
+        "author_url": "https://www.google.com/maps/contrib/100109390157990248654/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFa40VSX7mA5b4uuXgk8UZpr6-VSKXaQ141m6qy4X20akFJ4Ck=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "Best quality dairy products\nBut sweets and mithai are not the best one.\nBangali sweets were better than other mithai..\nThey must improve the taste and quality",
+        "time": 1648508459,
+        "translated": false
+      },
+      {
+        "author_name": "Suresh Rawal",
+        "author_url": "https://www.google.com/maps/contrib/111301275495247605664/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBGZACz5i66Sd4wrQzAXlikd3o8GyoXyJ0gxYZOdk0JzkoNC8aMw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "It is a good place to purchase best quality of milk products like milk, paneer, curd, butter milk, ghee etc.",
+        "time": 1730615687,
+        "translated": false
+      },
+      {
+        "author_name": "Naveen Mandor",
+        "author_url": "https://www.google.com/maps/contrib/113760065656371369139/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbqlkEId9cueBaLmHP7O1Tod8PLVE25vGhzkK-PCjp9rurwltg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "50th anniversary celebration of New sundar dairy and sweets",
+        "time": 1629033355,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:33.437259",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Raju Sweets",
+    "address": "5QJG+V2G, opp. Kherathiyan Masjid, Topkhana, Nagori Mohalla, Toph Khana, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJYe5OgDh0YzkRNthNzEbmsmw",
+    "rating": 4.4,
+    "user_ratings_total": 13,
+    "price_level": null,
+    "types": [
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1822294,
+    "longitude": 75.7751072,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfghkfOWu3CcaOZ-VpK6LL6kHJ9kHTdwidgMY2JmglmXpBYwOqy9ft707PCnHeI4vxyw43ypJmcwNebO1NER6foVyywvhvVgnvb3_HFYhzCVjARA-5j7dqYx9YguXcsuZnuy3g7yjRFyUHFs3yJanGdNwWGMEPkwYPXonWPO84C7RduJlvD9X4HLyKDA5OLhtbOsMRBVAzhaCa2CXTvuaC02mS9yAoLotRB573WioLxOm_vIi-S9MyD-7g9ywKRNRccQPjju55hZ6GMnkMAm-0NjptUYQuqfKUbP-ttQcZW6e7rHnj1ckdW27QR5v9rxsnHPS8RY7GhhOgx83gd6Tg0LfjT_grQq7z_PaDLa7wpBPeRdtJ2iync_jjlM6hzNbqaD7wuP9DfAyFl_vJaLY2yV0Cjitivn57IlMCikGMHwzAt9AOoSiQe_SqEIMSPJcdA9c35tORYa5DufwlaopnS850m64OZVqk_XDZdbIYjsVWrBX62-f4RNruyRzYniBC1F2UI8pVBVwvIU07fXlb2EwadEyHBa59NGdKFHlM-zrNhk41zVkJCA3TzU_xSWZpDQfUIa2jgOw&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "098270 65964",
+    "opening_hours": [
+      "Monday: 6:00 AM – 12:00 AM",
+      "Tuesday: 6:00 AM – 12:00 AM",
+      "Wednesday: 6:00 AM – 12:00 AM",
+      "Thursday: 6:00 AM – 12:00 AM",
+      "Friday: 6:00 AM – 12:00 AM",
+      "Saturday: 6:00 AM – 12:00 AM",
+      "Sunday: 6:00 AM – 12:00 AM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Faheem Usmani",
+        "author_url": "https://www.google.com/maps/contrib/108763660944868183660/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWY6SOATaZuljGCcdL-zBxrf4ac4BHpgjEZmuQ-P2cgGYkDAIX1=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Oldest shop in the city for all your Sweets Craving !\nBudget with quality !\nMust try their Jalebi ⭐",
+        "time": 1641956663,
+        "translated": false
+      },
+      {
+        "author_name": "Mohit Jain",
+        "author_url": "https://www.google.com/maps/contrib/104511255453301624431/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLM1Ke0U0HjBt9pvQyVeUPspd-nmK90jJn9xiJWJGot2elNiQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "3 years ago",
+        "text": "Ok ok but ,you can try Ujjain famous Sapna Namkeen and sweets much crowdy place",
+        "time": 1634411425,
+        "translated": false
+      },
+      {
+        "author_name": "Deepak Kushwaha",
+        "author_url": "https://www.google.com/maps/contrib/110125233529718717901/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJ0c3g2vcj20MndwBF6G24emmhR3e_6Cyyw5_XjtWUm3sIXHX4=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 years ago",
+        "text": "Must visit for breakfast",
+        "time": 1664263521,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:33.506262",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Khandelwal Misthan Bhandar",
+    "address": "5QQG+7QJ, Kanthal Chauraha, Milkipura, Bada Teliwada, Kharakua Colony, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJ4erdWzl0YzkRPWnl5OjZDwA",
+    "rating": 4.1,
+    "user_ratings_total": 50,
+    "price_level": null,
+    "types": [
+      "grocery_or_supermarket",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1882139,
+    "longitude": 75.7768607,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfvSUyFB8O4jxLKmRPpH4ypTSRSW4ZrKguL8Z5msT8luLP9ooLygj30bHYrsJvcON2gR9SNoP_IJi3Gs7ZV_x7OWNEietkZryowpKWMkcZz1fC1LiCzWLhbs5ZQzqWfJdLTCFB9cT1-UE7LnIgB3-J7sy9q6KJNygargbcEyzsiIBK3BEwSUVgxT-SLnmX46nFJFPDXbDJGxpKsVmIa-n0DxgrtGWTyREDLhvRWAlfaty52SZt11QN84upxzVPzMXbQTc9XoiBD_dYUKLB3MK--Qu_Bme7PE0TD8uE5SLI2oAAaJCaCqRKLgJt354g9e34ESC-4GF6wz2eXhl8lwdLj5mmhnou6LLuWgSIoOlEp267pUaqEyNKD08Fk5x-enEE-jtvd9j6i97s5YfkxoZLPF2nW0gf7rldhXuo6guX6m0kDlH_0zCCPd7jy3zg0FN085RKS-Pr0YOdLoaNRu1ZD_Ml9gvGm7wYZtjU5TQUQ1ARn0lg98g7YHZwNzBnrZcR1K3rJk4rTre4jCnDcZ6Vu8Rq88oKpOLSSE-htN8HISNn_AZtt0G_aZxKR0wqnQYUCHQFwB3zASg&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "099076 39057",
+    "opening_hours": [
+      "Monday: 5:00 AM – 12:00 AM",
+      "Tuesday: 5:00 AM – 12:00 AM",
+      "Wednesday: 5:00 AM – 12:00 AM",
+      "Thursday: 5:00 AM – 12:00 AM",
+      "Friday: 5:00 AM – 12:00 AM",
+      "Saturday: 5:00 AM – 12:00 AM",
+      "Sunday: 5:00 AM – 12:00 AM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Abhinav Pandey",
+        "author_url": "https://www.google.com/maps/contrib/103415911731035229295/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmMw3THkG-ISGtqTmfLLAVujSHza0-5dY0VC8BStEkW8kBhIsB=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "5 months ago",
+        "text": "Just ok to have some lite tea and snack. Average place. No love no hate.",
+        "time": 1738496367,
+        "translated": false
+      },
+      {
+        "author_name": "Yashodhan Joshi",
+        "author_url": "https://www.google.com/maps/contrib/114558047693901436134/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU20oKYyadr6Kgm5rphdu19bxGD0rOGqxSQnYFCG7n5WRGERkpxDg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Very Tasty and delicious food... Every items is top notch..\nChhola poha is highly recommended",
+        "time": 1727845747,
+        "translated": false
+      },
+      {
+        "author_name": "Piyush Padhiyar",
+        "author_url": "https://www.google.com/maps/contrib/104654412085329317112/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqSyUZRgwuAeCwdzRRdGCwXvey5TEcY8vls4VpB1M6Q2W_SsWx=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "3 months ago",
+        "text": "Khandelwal shop items samosa with chatni & kachori is very tasty and famous &.  Reasonable price Shop owner behaviour good",
+        "time": 1742438503,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:33.592476",
+    "source": "google_maps_api",
+    "data_type": "real"
+  }
+]

@@ -1,0 +1,1422 @@
+[
+  {
+    "name": "Magick Oven Bakers N Cafe, Restaurant,Hotel",
+    "address": "Gaurav Tower, 48, Amar Singh Marg, Freeganj, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJ4VQ7G2x0YzkRJWjvGiVpLFk",
+    "rating": 4.2,
+    "user_ratings_total": 988,
+    "price_level": null,
+    "types": [
+      "bakery",
+      "cafe",
+      "lodging",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1780079,
+    "longitude": 75.7902343,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcin1AytY8yX1u3ZWmZYG871VQZzoWTHZ9qUHE-5-FRMyf7Kk5sT6YRmGKV-FVz4LPDkI8RaGHQYX_GVys_wBm5B6YqTnaGgTUYiFqIo_0UQwKcJGR9X9MPt2524vpDcoD0tkLwltTQN6sKQtEBUydyUF3NhdNrMyqUlXnSnb7JfkcGh5mib_gnrr4e4Q2-l95nez6m1eM2I4QKzdIisfoaW7evE7NREcj6lhkrYzmiac8_7jD_BiAOHpIpcOJwP16aYk6XXr3mdmQv73Cgo9MZgYlKhqvIC0HHnUzgNIRqiYb4LAeh59VnQNDlh22ASSqz7pjfuRIEhNGHcwt9YF-WNzSzAnQoH-eltzV3nR00xz9EUJtwOpacjsq2Vk71SkaK53fhltf-9r7aqgLOow6pmGAqfDPcMdVdyMP32xHU1XFr7jPJ1tbF2V1ToPMps2dyxe1o2xGS32fmVvPeBMcfEKwFnynryvLhPPbftmEBXNd8TcIUvIC7LNiGs0TJTgHG7MfptlqG-2gIPle-9ZN_sj3iiXhXzKKynxH8LlXzoBqGOb2bu9yZljwp2juIe5gNV_UI&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "094253 32484",
+    "opening_hours": [
+      "Monday: 9:30 AM – 12:00 AM",
+      "Tuesday: 9:30 AM – 12:00 AM",
+      "Wednesday: 9:30 AM – 12:00 AM",
+      "Thursday: 9:30 AM – 12:00 AM",
+      "Friday: 9:30 AM – 12:00 AM",
+      "Saturday: 9:30 AM – 12:00 AM",
+      "Sunday: 9:30 AM – 12:00 AM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Grisha Agrawal",
+        "author_url": "https://www.google.com/maps/contrib/115273163419028687516/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYxWadepPfBPp7nUhRt8BWmQ2NmvHeJpqiZZseSc_NODnIig=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Never have I had a more pleasant meal. \"Magic Oven\" was so polite and helpful, going above and beyond to make us feel welcome. Thanks \"Magic Oven\" for the wonderful care given to us. Forever repeat customers!",
+        "time": 1732818942,
+        "translated": false
+      },
+      {
+        "author_name": "ashish sharma",
+        "author_url": "https://www.google.com/maps/contrib/118064596832435488123/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLHWgxbPKju3mhRwPIp8EN-iSixM45QQwvbDODSKRRzGrAPFQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "I have ordered a cake for my 1st anniversary cake was delicious with timely delivered. The taste and look was awesome.",
+        "time": 1737629557,
+        "translated": false
+      },
+      {
+        "author_name": "Harshit Jaiswal",
+        "author_url": "https://www.google.com/maps/contrib/110910093775325681627/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKR2ESavcjxmKgDvdZbkxbt78fd5_tIqDVWCR_yma-KHjG-yA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "9 months ago",
+        "text": "These are 3 class hotels and cafes, there is no taste in anything, there is no proper chef, if you ask them about anything from the menu, they do not know what is the name of the service, the staff does not know anything, there is no way to talk to the owner. He has decorated it for mere show. If you ask him about something, he will say it even if no one likes it. Don't come, he lives in his ego. Why is it just a waste of money? Why have he made his rates as if they are 5 star while his taste is worse than a pushcart? Just opened the business of cheating a new person👎",
+        "time": 1728102007,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:36.204173",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Cupcakery",
+    "address": "8/A, Dashera Maidan, Freeganj, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJlTMzCcl1YzkRyYzvOEOjaS0",
+    "rating": 4.8,
+    "user_ratings_total": 180,
+    "price_level": null,
+    "types": [
+      "bakery",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1739506,
+    "longitude": 75.79415999999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcYZvNV3qblY99mFZsoo3iHx8LOkbTQyw-45AbUsBJd3biq-ZqPgESnGWPi8yJX4Afo_VBy1qzSjNRVx7A6ym-vkJiNvgQaKr_biuDfKt9PLNIZUupsTSxJzwvUayP0kYfhvWlhaLIfTVgshZOalTlnsHUSLnqRiYKbtCXzmFjfBmxG-39oojrPohbBcl9zFjYLjTAPpA1fQ-Fs2hFHN-UagVnaNiWhmIKthh5-DqIdyv_9SuOUIeoFAMJrracEFhB4uwcMIHCrJtE7tw3Ia_cJCFVhviwwlXH4dILvEnedfOdZFWmcJ6N5WDp1Y6aCD_A3d128BK4EDm2Q1hVF0a6bSJUHsOoH7s33NlgrZIOVmpeQWweDSfpaiBTrLUlqDRvKLHhpbZho5tFg-keTjclqBGgRPERl0DFfYD7xLLle3-UOIbU7w3KApBUePluK0dT_I3Pim9huDC3QiO_NzYqQJcDZy8orrIwVEgHMbpurqq_E69LKcK957QwRjZsgnPlDsaY6XG28VwWb_QAV1PUKMlCgWebbXCS26ejmrwhfFdYqqwI1C0L-pIU1hydR0zojo651Tpl3wA&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "094066 60087",
+    "website": "https://m.facebook.com/cupcakeryshopee",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:30 PM",
+      "Tuesday: 11:00 AM – 10:30 PM",
+      "Wednesday: 11:00 AM – 10:30 PM",
+      "Thursday: 11:00 AM – 10:30 PM",
+      "Friday: 11:00 AM – 10:30 PM",
+      "Saturday: 11:00 AM – 10:30 PM",
+      "Sunday: 11:00 AM – 10:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Rashi Sharma",
+        "author_url": "https://www.google.com/maps/contrib/114627633460331912162/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuK8OnKmAsO6rw6Ib8MrM6ddJf1y192XvqzJAyvRLI3RuS2g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "#CUPCAKERY ❤️\nAbsolutely mesmerizing! The artistry and love poured into this cake are beyond words. The adorable green characters, the tiny hearts, and the heartfelt message make it more than just a cake—it's a masterpiece of emotions! Not only does it look stunning, but the attention to detail reflects the dedication and passion of the bakery. Every bite was a delight, a perfect blend of taste and creativity. Thank you for making our special occasion even more memorable. Highly recommend for anyone looking for a cake that tells a story!\n\n#BakingWithLove #MasterpieceCakes #BeyondPerfection\n#LOVECUPCAKERY❤️",
+        "time": 1742813074,
+        "translated": false
+      },
+      {
+        "author_name": "Shri Manibhadra Car Decor",
+        "author_url": "https://www.google.com/maps/contrib/107064476524339021124/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwqmVSlFRCFePopmNJJvIIwERgEdfP5hiZhrrKxBdpTgUch3eq=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I ordered a custom cake and I was absolutely blown away The design was stunning, exactly how I envisioned it, and the taste was even better moist  flavorful and not overly sweet. The attention to detail was incredible, and everyone at the event kept asking where I got it from. If you need a special cake for any occasion, this is the place to go",
+        "time": 1739084929,
+        "translated": false
+      },
+      {
+        "author_name": "Abhishek Patel",
+        "author_url": "https://www.google.com/maps/contrib/112878864545320181998/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWELhyGe5qylQPpn1QeKmIYSATu3Uc-sLxIuxdwk8W6NPMZcYdm=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Would highly recommended blueberry cheesecake and the mud pie, and can confirm that they're absolutely worth getting into your taste pallet\n\nThe place definitely has its own charm. Cosy, warm, located centrally. Menu is pretty exhaustive and has great options. Coffee is indeed great and so are the cookies.",
+        "time": 1690041322,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:36.297879",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Shree Nath ji Bakers & Restaurant",
+    "address": "63, Chhota Sarafa, Nai Peth, Kamri Marg, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJWUcYhzl0YzkR044L9a_gql8",
+    "rating": 4.3,
+    "user_ratings_total": 388,
+    "price_level": null,
+    "types": [
+      "bakery",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1872749,
+    "longitude": 75.77448199999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfu7LOkhY8KP6VtbfgpDKPtN_lzRjZp5Jyl9BWD7xJQ1k0x_eYnCRZE2Upon8Q2TvLCa5z65aYBCGkrGe5301r7Aro1G_1ZGE2_n2Mfi5TKbN49AAul8x2KdjTzgeozdclBwW_rUkLhaUhfaLnJPlHimuMg84ubhSDECyyTjOcQJt5X9Q8XZb6yhg9aqe3QUwuy86oXul0EaEO2SF6Gf2sQBfMP9zxn1mAAIT7FcslaWxCZGPyKGlM2KlbPtUR_2SCqFoCX2D9MKfNX-dPvxQ7wKRX43BFbZj3G8ExNBCC3LXc1q3uy5Ep4XhbWzqTW69KA33CDge1Sqsk6ICLobJL1bou7q0nNgGNFg9HdoPg1dm0Z6Rn_Oy5tHoKOtQAuvP2HoW8APl-mZCNH_dowhOFLqFiA9fD6_WvCwfJJ2H-PFco2I4jfV9LGB8s2tgeTLEAXltB3LhlzdcXuOgqULsmqYHwB3goXljNUXfNaDvsWx_u67jDFAu3maT2i46YvPdhXGT2H-RlmP70EfWXQfB6h5UWRa9C8vR-hSZab2_qbcRXIUItqzldKjOFvTcmcq1neI-21&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 490 1542",
+    "opening_hours": [
+      "Monday: 10:30 AM – 11:00 PM",
+      "Tuesday: 10:30 AM – 11:00 PM",
+      "Wednesday: 10:30 AM – 11:00 PM",
+      "Thursday: 10:30 AM – 11:00 PM",
+      "Friday: 10:30 AM – 11:00 PM",
+      "Saturday: 10:30 AM – 11:00 PM",
+      "Sunday: 10:30 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Nirav Joshi",
+        "author_url": "https://www.google.com/maps/contrib/105094465657464972375/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcVqqKOMaaAscfPc_2kPu7trN9DWhfbKBcxysHe6fiaDlZA1EW=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "6 months ago",
+        "text": "This is a vegetarian restaurant where one can visit with a friends, Family or even alone.\n\nRestaurant is having good veg food options especially the snacks items are good to try. Restaurant is located 1.5 km from Mahakaleshwar Jyotirling Temple.\n\nCity:- Ujjain\nState:- Madhya Pradesh\nCountry:- India (भारत)",
+        "time": 1735805522,
+        "translated": false
+      },
+      {
+        "author_name": "Yashwant Singh Tanwer",
+        "author_url": "https://www.google.com/maps/contrib/110545792889926311967/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvrn2IGHXGu37m5c3vG6i_TtB5Zh7hvZ7eq76izCi41G8vUm1v=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "6 months ago",
+        "text": "Pretty decent cafe in the heart of Ujjain. Shree nath ji has a legacy of it's own, this cafe is their new venture. To no surprise, they do a fantastic job. Starting from the Italian pizzas to jain spread, everything is pretty great.\n\nAs it is in a congested street, you'll have to either visit by a two wheeler or by foot. No parking space and the seating is crammed.\n\nAll in all it is a pleasurable experience.\n\nAttaching photos from the most recent visit.",
+        "time": 1734966686,
+        "translated": false
+      },
+      {
+        "author_name": "mayank joshi",
+        "author_url": "https://www.google.com/maps/contrib/105239202517879312441/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKyLLSua6JUaT5pfc-finnr1J2p4P4KTBHY5OaYcQH5soZduQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "3 months ago",
+        "text": "Food is amazing. They have maintained good quality and hygiene. All the bakery items are freshly made. The service is fine but yaah can be improved a little.",
+        "time": 1742188661,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:36.391791",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Golden Bakery - Best Eggless Cake Bakery | Wholesale Bakery Shop in Ujjain",
+    "address": "Near Gopal Mandir Anda Gali Chitra Bakhal Mawa bajar, Madhya Pradesh 456001, India",
+    "place_id": "ChIJ3f5590F0YzkRtsI2f_8u7F0",
+    "rating": 4.3,
+    "user_ratings_total": 62,
+    "price_level": null,
+    "types": [
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1888608,
+    "longitude": 75.7722417,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdXFiKAbzvI-HSxdX7SX_VC33g4zS8bZTaOl8mm-1KZFTIZ2mudCmg2gi3B4oGNrsnwaU7mMGN9BpiihyKbyL42SfjAdyHhs6TMfm2cxe19GBn7s00cCRlmsRr2r9tc0Vsp1s8MbJc8HnDx3ql040ifaTfhi3p6X3F3Ejx3e5js3828CiR9J8MpkKXnF3-n1oVK0tvm2hgGmGooOM20vTH_LwT0lkpVtMwG7gEX5PZGgq45uP2FOqSo1yX2MuzMI2p79oPnXz-vCwumxQB31hS-wbbHMo4uMm7nNYLca8AhVepbh9Q&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "098260 67862",
+    "opening_hours": [
+      "Monday: 8:15 AM – 11:45 PM",
+      "Tuesday: 8:15 AM – 11:45 PM",
+      "Wednesday: 8:15 AM – 11:45 PM",
+      "Thursday: 8:15 AM – 11:45 PM",
+      "Friday: 8:15 AM – 11:45 PM",
+      "Saturday: 8:15 AM – 11:45 PM",
+      "Sunday: 8:15 AM – 11:45 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Huzefa H.N. Wala",
+        "author_url": "https://www.google.com/maps/contrib/116725308716699648618/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUk2CdOHZAZhqO_lMDM6uh9g8CJgA2exHUkVsVccILshAeAU73F=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "Worst behaviour & substandard quality. Everytime I visit here staff n owner's behaviour is inappropriate. They deliver poor quality n refuse to exchange too. U literally have to argue with them for everything. Highly overrated. Not recommended at all.",
+        "time": 1742533317,
+        "translated": false
+      },
+      {
+        "author_name": "Muhammad Kashif",
+        "author_url": "https://www.google.com/maps/contrib/116350410561947262441/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPiQPZRlsoOe7jImDk5Zh3eeleH6hlyzN2kubL4h7W1TW-Scu79A=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "I am from Pakistan and work in Kuwait... One of the Indian store got these special pista toast from Golden Bakery M.P India..... And couldn't resist to put a feedback.... Very tasty and good price.\n\nLove from Pakistan",
+        "time": 1532077202,
+        "translated": false
+      },
+      {
+        "author_name": "Dhyana Solanki",
+        "author_url": "https://www.google.com/maps/contrib/111338778801131965385/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5RAHzYQo3p-abzdqTOjXJk7eEgCtb7gbk0AS4yVhhdvVreho=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "I love toast from this bakery, I am from Ahmedabad Gujarat but whenever I come to Ujjain (atleast once in 3 years) I buy toasts from here... They're amazing even they have youngest award of toast.",
+        "time": 1631786292,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:36.494253",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Shree Ganga Bakers & Ice Cream",
+    "address": "33, Bhoj Marg, near Chote Shiv Mandir, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJA4FBGWx0YzkRcVARG0GPtco",
+    "rating": 4.1,
+    "user_ratings_total": 1228,
+    "price_level": 2,
+    "types": [
+      "bakery",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.178109,
+    "longitude": 75.7905629,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdhGjNxNE_jRuVAVfdZjRDV28dtcOavS9hn31DDwuAeGuOn7zrM4PqE1IRNb6E9UtnPsOaKkm0oRVrqiZ5M9z55u6XLaDFzWkv-PEcHCdC1WMpvktbcIpFwLeWDnfXZR1ME6n74HzpyYrmwy3vUIAucjaHoeKhaWTmpGjqVgK9hmSPu7tinhgrubrkVAyhYs7sBPR2W16aRuz1w2r-S16YqVChjRb322v-Y0Ke0vms-YnbyPSCh_oTMCcQZAe-PuvywoYBcj5ciQuPdytoos8TivAFNKfd57oPttTCMk1t92Q8tK7vTPL7T7fvbW-vVXE2ScWc3sKyqroaG62MfzeLptD7LvXNFFgPoopbwrh1E2KFp8ESLFSy-JXatgPuqo0-KOWmJ04IY2Qd1IGFhyMIgQE8kIcsjNJZLF-n949ctBTJBxRnFbzFq5sMuipZRsp8lLA9v2eLhcxf8Turqfxpnk50ua6CzSpD_7BfcVK3Og6XWqDThR4uyrE3MuUP2s6QsASsjHxTZYDPbBUyKa5qZPr_CdyqAlEsfZi24bMj91uHeYzfRxBDVhK2eiHA6pE4o0Q&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "098260 71210",
+    "opening_hours": [
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 9:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: 10:00 AM – 9:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Meenu Abhyankar",
+        "author_url": "https://www.google.com/maps/contrib/102531463466734458401/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKuXNb1nrOH4Qf39Px76uXnBwsUsOzcnsXW9GF2oiFxLBRXGiQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "10 months ago",
+        "text": "I had paid rs.3500 for a birthday cake.but they provide worst quality cake.they charge according to cake image but I got all artifical thing in place of natural candy.please view image what I order and I got from ganga bakery.",
+        "time": 1724206916,
+        "translated": false
+      },
+      {
+        "author_name": "Harish Kumawat",
+        "author_url": "https://www.google.com/maps/contrib/116591440056954768913/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUfxMxRSAPhwUMCGlLTONlxx85ZlUBqbRXlDdx8kL3J5LLDw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "5 years ago",
+        "text": "Very fresh cakes all the time\nAll flavours are ready on order as well as ready for the customers\nAlso the cakes can be prepared as per the customers desire and will and wish .\nRest other items are also fresh as well as tastety\nBest in cakes",
+        "time": 1565586135,
+        "translated": false
+      },
+      {
+        "author_name": "163 Pearl Telang",
+        "author_url": "https://www.google.com/maps/contrib/103783925803675178444/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYJ53jwxHo48EA7ljIerAd6tiURfxajN9K4nsQ_QDtaqL03M4M=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "The staff here is so rude plus the rates at which they provide stuff is also very high.....not worth spending this much money......when you have to talk to this rude staff.",
+        "time": 1748078380,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:36.594786",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Baker's Lounge",
+    "address": "49, Amar Singh Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJfa9dF2x0YzkRqZfbfa_l5n4",
+    "rating": 3.9,
+    "user_ratings_total": 258,
+    "price_level": 2,
+    "types": [
+      "bakery",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1785775,
+    "longitude": 75.7902397,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfosk_D1ZKkhxgNTDLL53LdNz9x4oAV0cV8-vtfRgYvBS_ydUoqKxiZyrKtrRS4AA97XQrPqMDGLtLG8GvY3kX1Hdo6z7Ho6HL-URBqXhe2z3fn0edsfhm2aD71QOZEP5iAl28gRVSwwEgnBRHIcn0pnsa-n7SUj4W-mlj1mg6p96mu3R9chDllFEdGSuKGTYA-sFMDJtTI3Ffk3LmImLnliJ3sbF8VIyJgb_yJp5TJvIdi05YfYmE2StFZJhyJdsUMFSUYrolU8sVvUMTxQlp7FInyFcamrfPA3RwtzvgsgfZtbETWqCa0Gj5UDDoxZHjxQqnFjzCLTTCBVPCH26I66nob6BqZdrrUNDkj-aAa05H7Mkf2GwBqKQEkecdDGa3OI8m1yo9YvU5mppE8GS_ChcexF9LEvFySafiHc4_SMnLcKn1s_M58UCgJTdyHIhMMQNR8fFM121sNOhJvMMybj5a9Wt54emjW34eVx0BkKZhURY13g7B6X-t0V4uJM1KEKB8Bk6cEY2zXE7imP0kdkoo2D1DKnAt0m6zl6vWDDkQchtI68KH1nzhFeOK3iM4Oyi5G&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "097805 37433",
+    "opening_hours": [
+      "Monday: 9:00 AM – 11:00 PM",
+      "Tuesday: 9:00 AM – 11:00 PM",
+      "Wednesday: 9:00 AM – 11:00 PM",
+      "Thursday: 9:00 AM – 11:00 PM",
+      "Friday: 9:00 AM – 11:00 PM",
+      "Saturday: 9:00 AM – 11:00 PM",
+      "Sunday: 9:00 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Sumit Ratnaparkhi",
+        "author_url": "https://www.google.com/maps/contrib/103121019911621962473/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDEPLGvgS5O2gM3ee50xGl_4h-cVTeln7UGdwsWOMBZp4D65HYSw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "3 months ago",
+        "text": "The ambience was poor. The food quality was good and quantity was generous. They should work more on interiors to make a good atmosphere here. It is on the first floor over Baker's lounge backery.",
+        "time": 1742493032,
+        "translated": false
+      },
+      {
+        "author_name": "Rahul",
+        "author_url": "https://www.google.com/maps/contrib/116293502472077812750/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsfpb36MyBFUTVo1d-QrcflX7uFP6iIE2KO796-gLcKt8slc2g=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 1,
+        "relative_time_description": "6 months ago",
+        "text": "I found a rusted iron decoration piece used in cake I bought from Baker's Lounge. This cake was served to kids too, does this store's staff and owner even understand what could such things cause to people. Serious quality and service issues.",
+        "time": 1735369799,
+        "translated": false
+      },
+      {
+        "author_name": "Abhay Singh Parihar",
+        "author_url": "https://www.google.com/maps/contrib/110716454773346385056/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVM-_3X-UB2XqFjRaqPSec1XErLirAsTbcxXj-BURpdu8v2BDwm6g=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "4 months ago",
+        "text": "Cake breads is like too much old\n\nWill never recommend for cake",
+        "time": 1739881645,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:36.681717",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Haidery Bakery",
+    "address": "anda gali, 158, Chandrashekhar Azad Marg, Kamri Marg, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJP00rCzp0YzkR3ObHFmGHoIc",
+    "rating": 4.1,
+    "user_ratings_total": 188,
+    "price_level": 2,
+    "types": [
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1891719,
+    "longitude": 75.7721396,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfwM6VotY5aIJ20F_A66iNQpRRM0akE-imlJA9uNSQK9Ybj2IZ8BftN-GsjlJ27fZ6v7qVHHc6Knpw9Z_lFZ8pDVFU8bhpgZUKsVPJ8eM2NKpWBksEtZGQI1TXEW_pt6oOwcwm2aZ6t-lKCleN16i543TPuZn5Y7b294Sboopyj-A66bU6xxUF_qNtb0FGQx4CD0pk5mJUXE8gkj8FBUjKhMilMLVom023kD0yQdlqZpQeFzcjziAs_yZQU29nLqaKCElRdTtO6VMUPeD17nvKxqTqXFc5gl9rzGD_cGm3QhTTRTb09IB5ofYgGfYDV5Z3qbmToR7BdB7vW9FQ8iV_YU6gWQXBXBZ248Le8Ks1-uVQv2g6rkT1mmWShbQhlPYJ6IengnzlVqTwtYTdFbWRf1JlXxYLjq_SgcM9EMiDhklIhYKLvtoMqqv9pLC8njHDcQnE4CVhHhgWR2HRxHBG0p799KLbuF-CzsMoZ78nLJO2L70FKKoFZzDlzOhdRm3eDjOxVrIY_mxTFIu-wGTp72pPEO0SUNO1RR6t-hJte-BwNmYEUSgdb16pUTWVBaqa30S3NNXz1qA&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "096302 56105",
+    "website": "http://haiderybakery.com/",
+    "opening_hours": [
+      "Monday: 9:00 AM – 11:00 PM",
+      "Tuesday: 9:00 AM – 11:00 PM",
+      "Wednesday: 9:00 AM – 11:00 PM",
+      "Thursday: 9:00 AM – 11:00 PM",
+      "Friday: 9:00 AM – 11:00 PM",
+      "Saturday: 9:00 AM – 11:00 PM",
+      "Sunday: 9:00 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Nayan Rajput",
+        "author_url": "https://www.google.com/maps/contrib/109495423194688129599/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUx0nuTqax136_q-fpIDeOXoF7aD0czDcapDvW2sIWnLltewbBjaw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "6 years ago",
+        "text": "Good variety of rusks. Shop is located in inner area but famous for it's rusks. Pista, butter dry fruit, mini toast and many more toast varieties.",
+        "time": 1536126521,
+        "translated": false
+      },
+      {
+        "author_name": "Vishwal Mehta",
+        "author_url": "https://www.google.com/maps/contrib/109084859681640972446/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIitFWMvNqbkHp-hHvsNP6PViCwi5O6R3LBlGVeiwFcHgpYxA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I live in Maharashtra and I ate their mawa toast once. It's very rich in taste. Whenever I ate I used to finish 2 rows from the packet at one time. I get cravings for it now and the local store person says it's not available since their bakery is based in MP. Will order it online now.",
+        "time": 1673326667,
+        "translated": false
+      },
+      {
+        "author_name": "Max 'V' Kuori",
+        "author_url": "https://www.google.com/maps/contrib/110589213401671904594/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfkXzMwO0OvEuWgr4V5ChTVR6DgvtgWT0FULjrx99qKLeBSIrM=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "Considering the number of options available in Ujjain, this is worth the quality and the pricing!",
+        "time": 1704701475,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:36.778518",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "The great Bemisal Bakery",
+    "address": "52, Mahakal Marg, Topkhana, Nagori Mohalla, Suraj Nagar, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJef0AgEd0YzkRPw7ZSHrY-gY",
+    "rating": 4.1,
+    "user_ratings_total": 356,
+    "price_level": null,
+    "types": [
+      "bakery",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1820479,
+    "longitude": 75.7749259,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcXtUSejSGcld9On-qiP1yt_iIyaVza_pf5masefZRTsWNr612frm9mOSnEmrZA9Zoxu8YULaKuEOJlyWt0sQ28TVIsjYATB-qk_YEjjDF7jzivQCQI7GfGdKHdtQZdqUrAYwFA7zUo1WFXP-aqLNIskT5jW3kyxku7BUjm5Th6uzcuPHKQkeCRkpGinWCjneoDPff9JBVPRcxSNaiKxCJnE4zimLOlEzyOPsKZ7DB01wszz2EDW8ayzcAvdABXu1rF_EuKUMSHV7dXXHEnvG6l2C3Zs0MaTdlNkhoDhOOFyZYn9kU&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: 8:00 AM – 11:00 PM",
+      "Tuesday: 8:00 AM – 11:00 PM",
+      "Wednesday: 8:00 AM – 11:00 PM",
+      "Thursday: 8:00 AM – 11:00 PM",
+      "Friday: 8:00 AM – 11:00 PM",
+      "Saturday: 8:00 AM – 11:00 PM",
+      "Sunday: 8:00 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Dev",
+        "author_url": "https://www.google.com/maps/contrib/118041165284794139309/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpdf-DFDWLu31IA3aj1WZBLAdSN0dBRzjtfJidO9jKtDO7ErPG=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Best bakery for toast must try butter toast with chai",
+        "time": 1748784016,
+        "translated": false
+      },
+      {
+        "author_name": "Zoyeb Ali",
+        "author_url": "https://www.google.com/maps/contrib/113018949112762028335/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJSHdM4phczdaoFbBfs_rBZe5WrmrynzmV6XTdTW6AxM268-w=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "They don't Accept Any Type Of ...UPI... Payment.... service is very poor ...They don't Attend customer's seriously..They ignore coustomer s ....My personal experience is that.....I purchased some toast from there ...the toast is not crispy  so that's why I went there to return it ....that person speak so Rudely  to me ..... That's why I'm not satisfied",
+        "time": 1633546390,
+        "translated": false
+      },
+      {
+        "author_name": "Basant Pandey",
+        "author_url": "https://www.google.com/maps/contrib/117929002202473195002/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7dhlH-pNHezTgu8EcONHlQ1bQ_kGdZlpQZyP7n0nVX5A9wzM=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "A friend brought me a half kilo pack of Bemisal Milk toast when she came back from Ujjain to Mumbai.. and it was simply the richest crispiest toast i have ever eaten. Wish i could get more",
+        "time": 1640280102,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:36.860964",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "New Shipra Bakery",
+    "address": "Tanki Chowk, Mawa Bazar, opposite Shri Dwarkadhish Gopal Mandir Ujjain, Ujjain, Madhya Pradesh 466006, India",
+    "place_id": "ChIJzZWVDjp0YzkRkWj4w13E7yw",
+    "rating": 4.7,
+    "user_ratings_total": 115,
+    "price_level": null,
+    "types": [
+      "bakery",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1888095,
+    "longitude": 75.7725613,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfW3X5q1zE6J-2fp3jcz_YScEpEWs-_JwXRfBRfdY0HFtOizimkpO7sC57Ky0K0QYDaAnFYbllY3IHNL69lwj21uELt7pqjAGTDW52Ar5LDdk_0lJdjNx2KKy6guL11URJ7Kq2_lIF6eUYB9HrY2XjkTHpgYII0nBvlC4pLfilGDqwoEnSnCI4ZrwxyCW5Nd3obHaH8UsWsN24gXPeeM-pbqRfIOSgx7KHrS_XPM9WfLkoILdIfeU9UKjFnBollHpM_wYWjtjqzf-c3gcPabjmFLWeM4GBqnhsXH5BfV4Q81sI_GCM&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "090090 78644",
+    "opening_hours": [
+      "Monday: 9:00 AM – 10:30 PM",
+      "Tuesday: 9:00 AM – 10:30 PM",
+      "Wednesday: 9:00 AM – 10:30 PM",
+      "Thursday: 9:00 AM – 10:30 PM",
+      "Friday: 9:00 AM – 10:30 PM",
+      "Saturday: 9:00 AM – 10:30 PM",
+      "Sunday: 9:00 AM – 10:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Sujata Ahirwar",
+        "author_url": "https://www.google.com/maps/contrib/114942017966372360261/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfwS8v_ge65PnqE4WAUC5MHi8It2ywY8owwv9DCmCWkeM40D04_g=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Beautiful and tasty cake. I ordered this cake for my niece's bday on short notice. Still they deliver on time. Highly recommended for customised cake at an affordable price.",
+        "time": 1692382493,
+        "translated": false
+      },
+      {
+        "author_name": "Subham Roy Choudhury",
+        "author_url": "https://www.google.com/maps/contrib/114789402678497245740/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-q5nt07USj939Lw7jwfB9HRaZ1vok1fLJ5Bm8dT5g6ob0Fg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "The cake picture that has been attached is of Ras malai flavour, which was really unique, lucrative and tasty 😋❤\nAlso the staff's are really friendly and helpful.\nPlease do go for variety variation of cakes from the Shop, I am highly recommending the shop.",
+        "time": 1647180313,
+        "translated": false
+      },
+      {
+        "author_name": "Farhana Poonawala",
+        "author_url": "https://www.google.com/maps/contrib/101563188241824582223/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYcDoeu0vYA47_7IljQfFemQMLx9DidMoSdKIsV0ew4BGdSw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 months ago",
+        "text": "👎06 Nov'24: 1 kg Chocolate cake feedback-\n\n- Complete disappointment\n- no quality, only quantity\n- full of low quality cream, not a chocolate cream even\n- little base & full of cream\n- no value for money\n- please improve standard of your products\n- rating 1 on a scale of 5",
+        "time": 1731044994,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:36.947466",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Paridhi's cakes and bake house (Fssai Registered)",
+    "address": "Ingle compound, 64/8, Dewas Rd, behind future vision college, Sant Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJBda-icB1YzkRVnaHnWtFtuA",
+    "rating": 5,
+    "user_ratings_total": 101,
+    "price_level": null,
+    "types": [
+      "bakery",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1700346,
+    "longitude": 75.7959602,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpehJPNPBNHYMzIOvFQUvR7-uWj04t7xDeGO0EDcRf2sfCeg9be24ZwE4xbZcFZv8ksQxzkTjh-apYwEjIWeBbe3P1E5B_EFd5e8NCVas351bNyKbsCZPKnzOFds7mBjhLzm1Xj4D6OAvSoVX-rNMxW8X6SWCukQ7EfTI_a-JCOch7okeUSDvBRgPO67BIXvGcuhcDDmwdo8WvbZYwDQiOb096b1XvpuFHxKoyu6M9d53ic1-AqsW_IeUar0-yPmVLHuMKm1F1Y4D6HbbURPutfEoURHPMRtAKESVL_rET6BslVtl1k&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "096171 00050",
+    "opening_hours": [
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 8:00 PM",
+      "Saturday: 10:00 AM – 8:00 PM",
+      "Sunday: 10:00 AM – 8:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Shatakshi M",
+        "author_url": "https://www.google.com/maps/contrib/112625110319047193112/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKqy7fImudhArKO4O5TOwUCZjCHo3Z9bd4OD6NHDY65v-ZWeg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "I had ordered an engagement cake for my sister's special day, and I must say — it was absolutely stunning! The design was so damn pretty and the taste was even better — truly delicious. Everyone at the function complimented both the look and the flavor of the cake. It really added charm to the celebration. I highly recommend this bakery to everyone looking for the perfect cake for their special occasions.\n\nA big shoutout and special thanks to Paridhi, the lovely cake artist and owner,\nfor making it just perfect!",
+        "time": 1750052099,
+        "translated": false
+      },
+      {
+        "author_name": "Shubham Vyas",
+        "author_url": "https://www.google.com/maps/contrib/111331747795849584327/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLn1MTvlLB9dMYEyhA4Ph9v3CPMM30em-ZeAXDk5imjc7U-fA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "It was so tasty cake . My family members love it.All things either cake taste, services were superb.\nThanking you for making my day😍",
+        "time": 1744943841,
+        "translated": false
+      },
+      {
+        "author_name": "Nikita Goyal",
+        "author_url": "https://www.google.com/maps/contrib/114325138134978214406/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTWJsC9AOClLW4NXqJU4Uoi8uW5Zvtka5w13XmTrjdKcpBvg-A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "I ordered 3 tier cake for my sister's engagement. It was delicious and beautifully decorated. Very fresh. Everyone loves it. Thank you mam for making our day special. Your cakes are our favorite.",
+        "time": 1743005217,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:37.037710",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Cakes n craft",
+    "address": "25, Bhaktawar Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJY5HIAex1YzkRtMm-0MLXrJk",
+    "rating": 3.7,
+    "user_ratings_total": 143,
+    "price_level": null,
+    "types": [
+      "bakery",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1762116,
+    "longitude": 75.7906881,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcM-vOPLTnquddKZg-LcEf4m7m0ka7xQ4iGs9878e8gvegwRHAt9wYtSk6Qb3swsRumgFsYZOlRDXjB881r2an24-WT8zAHX_6vRpD6LIYyVWq3KGbFQFH0J6rQEaePMinna7hAOGN_zqRG6scvTvHSe9Xvybpzt2ma8ngCZ_Qet6hkn7ZZx-x99ggLlIynrkJjbEU3wo10E4iPCR6XLHorNGZ-y4-WP9KbvekMfIwLnS4y4F7oYaFMleXIuhQqNPcTmyHXeFYuSsqNXZtKlulgnlscVPkTJS5RnNBysKnCDDE42zpSvmq5zqcqMgWXa6PGolRGbqQz7rc82DPpFnVDszlcYrpIdiDv-4wnmTrEutpEVqdhmlmY9zBfA_6CiKIK7j93EnKS2FcdgmGPUqWc9of3X_v1uyNY3ocVJQVg6zVYzwhT30nUP1mYlLpIkcwNmPHRvOkn1W7RLCUm19061_kx945GtvRzQ9jHKUXmZAX-iiDtEXp0fqrN2-gYRcbrtgWX_hFuphlajClYh5hiplFd_ijrjvZHpmH1Lig4ClhO1z3ys6Z9j4yb5v1OowgOmIoV&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "082240 90909",
+    "opening_hours": [
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Meenu Jain",
+        "author_url": "https://www.google.com/maps/contrib/111695668095819459012/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUaJzU745BGa4dNFasnJdMSsr8U5qKTVlUr-JqLlYMlyPxdPZI=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 weeks ago",
+        "text": "Cancelled my order at 10pm before the big day. Could not arrange an alternative cake. Owner was v rude (almost abusive). How are people like these running anything in a sacred place like ujjain!",
+        "time": 1750305773,
+        "translated": false
+      },
+      {
+        "author_name": "RAJ SHARMA",
+        "author_url": "https://www.google.com/maps/contrib/112580742238841682228/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKHBpCaW9ORrP-0IqJ2sZzeWpIx3w6lfgyQu_TcA1EZZRZoRQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "Inner layer of cake taste like made with cheap  ingredients at first they were really great but now cake of 600rs not worth more than 200-250rs",
+        "time": 1748798743,
+        "translated": false
+      },
+      {
+        "author_name": "05 Abhyuday Singh",
+        "author_url": "https://www.google.com/maps/contrib/114078849700885704702/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWheesS1_Z_jjAY3nqlRnjSRH4p7WHojZ64JvcKLZ0Zjhe-N9ehmw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "A great place to chill and have brownies.",
+        "time": 1741765750,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:37.117838",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Baker's lounge",
+    "address": "C-21 Mall, Nanakheda, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJCwsi4SF1YzkRCanyJSx2bqk",
+    "rating": 4.2,
+    "user_ratings_total": 65,
+    "price_level": null,
+    "types": [
+      "bakery",
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1566364,
+    "longitude": 75.7869027,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfsy-ZNE_kBP7nA9UZMAWncGLxXKqroU-yQHEOoQ58H93jPqD2y9oioHOtjAWdXWVQG5eHtEJXtSUOQBwzpodiUG5pRgGP5VIeFaKNXWumLB3m8cbeCcAJnKFCPbFRsKvkZiDRUK0lNosRNWAVrylruv-prfCQqSSkXrDp_hTF5Op2Ms2wIW9IGIZVo2KWVqjrKWE6sevx63-0FO7_K3Ta_QpNwKZQNLXdS-6ec9AgRvxSRHGjVPApWRgAtgGjqSe7eFguU5AiUt2rqfOrsRFdNP7-bTEhy1qDN4sHq_2fABKvqS08&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "090092 30809",
+    "opening_hours": [
+      "Monday: 9:00 AM – 11:00 PM",
+      "Tuesday: 9:00 AM – 11:00 PM",
+      "Wednesday: 9:00 AM – 11:00 PM",
+      "Thursday: 9:00 AM – 11:00 PM",
+      "Friday: 9:00 AM – 11:00 PM",
+      "Saturday: 9:00 AM – 11:00 PM",
+      "Sunday: 9:00 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Mustafa Motagamwala",
+        "author_url": "https://www.google.com/maps/contrib/107610023476511324372/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyUS3RDJDIVrj3YcK0SiQ2zWxxTBNP9vNWYX8RnOr0q_0u0cI=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Bakers Lounge, once a reliable choice, seems to have faced a decline in bread quality over the past 1-2 years. The current state of their bread is disheartening, as it tends to break easily, making it challenging to enjoy as is or use for sandwiches. Even on the day of purchase, the bread lacks durability, and after just one day, it transforms into a collection of crumbs, leaving consumers with an unsatisfactory experience.\n\nDespite the bread concerns, the cakes at Bakers Lounge maintain their appeal, being both delicious and affordable. This positive aspect contrasts with the disappointing state of their bread. Moreover, the bakery's advantageous location adds to its overall attractiveness.\n\nTo enhance customer satisfaction, it may be beneficial for Bakers Lounge to address the issues surrounding the quality of their bread, ensuring that it aligns with the standard set by their other offerings. This constructive feedback aims to help the establishment maintain its reputation and keep customers returning for a more consistent and enjoyable experience.",
+        "time": 1706140867,
+        "translated": false
+      },
+      {
+        "author_name": "Rahul Suryavanshi",
+        "author_url": "https://www.google.com/maps/contrib/102688121291728811012/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9qvu45f8BR9n7h5VJhMNH5uGVIRoH_yuiNjNuZue3mpemyFDltw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Fresh cake and quality is good all product very nice",
+        "time": 1729937008,
+        "translated": false
+      },
+      {
+        "author_name": "Pawan Malviya",
+        "author_url": "https://www.google.com/maps/contrib/110835156402181211660/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJohEPX5-U6-LDfJMoGEnR755-y1tVqwso_JaK35Ol9-YMd3w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Very fresh cakes all the time\nAll flavours are ready on order as well as ready for the customers\nAlso the cakes can be prepared as per the customers desire and will and wish .\nRest other items are also fresh as well as tastety\nBest in cakes",
+        "time": 1729915016,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:37.204624",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "The Homemade Cakes",
+    "address": "Daulat Ganj, Suraj Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJJy_XCB11YzkRVSF_JBpDecU",
+    "rating": 5,
+    "user_ratings_total": 205,
+    "price_level": null,
+    "types": [
+      "bakery",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1815324,
+    "longitude": 75.77711939999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeP4pERGiJ1u8q3RuoOrsZMr5EQlrPHdcnl_GHrtjS24dFmGMVNxo1qom0rvq7HMd2b5Fj-4iGHjXsArxX5IyElEZ9liI73M9V0fLOLemxPcG7U2TfOqgYxNWosxrhEp4ojXkSCmnbaXua1jJX41WWBbcQ3m5qwoJ_CWvDUG7P2hn4Nh8Q7OzLF0SlLKvZHq9CrL5z-iDlb1ktV6lZ1R3ATcnC18Eyl7TQwDNPYqYcIap2tKyV8HVLBBGyvSu6c0UpI6Gtbx_EiyUmIEhfQVphMoASuzF6EscRILA53rOfBO4bMsMM&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: 9:00 AM – 8:00 PM",
+      "Tuesday: 9:00 AM – 8:00 PM",
+      "Wednesday: 9:00 AM – 8:00 PM",
+      "Thursday: 9:00 AM – 8:00 PM",
+      "Friday: 9:00 AM – 8:00 PM",
+      "Saturday: 9:00 AM – 8:00 PM",
+      "Sunday: 9:00 AM – 8:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Ganesh Jha",
+        "author_url": "https://www.google.com/maps/contrib/100219958314999799846/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0YLTYBwXnWhg2YWpqW7-_OofZ4vmV79FaowoxqZQJkQUz=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Very good service, staff very helpful, and food ameging testy",
+        "time": 1750043968,
+        "translated": false
+      },
+      {
+        "author_name": "sahil chaudhary",
+        "author_url": "https://www.google.com/maps/contrib/103512492919974264236/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4voyXSS-fF1Tkbayo-KctTowr7GrvgHVvUML03tA6QEnu2d1j=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Just visited this amazing restaurant — everything from the food to the service was top-notch. Can’t wait to go back!",
+        "time": 1750043978,
+        "translated": false
+      },
+      {
+        "author_name": "JAGBIR SINGH",
+        "author_url": "https://www.google.com/maps/contrib/116768120373525100731/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKlNy3fCRdz1aZcsoqYJdi4h_dJhdeepT9TITDGAAaoK0dkSQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Very beautiful food next time you visit",
+        "time": 1750043585,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:37.286797",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Candy Cottage",
+    "address": "Hig 7/24 Saint kabir Nagar, Madhya Pradesh 456010, India",
+    "place_id": "ChIJk5PT6vR1YzkRqU50897nvOg",
+    "rating": 4.7,
+    "user_ratings_total": 66,
+    "price_level": null,
+    "types": [
+      "bakery",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1547791,
+    "longitude": 75.7923698,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdrRG-XqlteUYJQnBUAqgqVzglAeSqRtyiCYmUKr-gJR_JfBk99RFJejcxYDGHwV27lLaBkqvEV-3zYbPBUSVUdw4RCU7w4uGgv4wn5OcR_xLv4YUWCtOSx0p3v7S8YzvFOQdgYpCLH_7L1wI_j_evhaEyb7HoMt-Ob4Gt1hg8-hWlaPYP_tvwIOgXfSfdYWnRMlhGHNiiaSMiefFbNsE-6jkh2n071xXdn5kzl0tcXmOMIeB_cxF2DGM27wkpgNnvLD659OMNEGWhW22WW1tLp8PCXKEu8yR19jDIx5464Fn13aqI5v05wSASDl30OEBZJgnSULFOmDnT_mIWXf4nsICAqp8zyiCifQIzMzlAFYvCJnCk_Uf0zyI0q_uZVSH2NfTLc_DabqVw0rPzBJp2eCpw6KCFc1L6Uxt6vJer5sOSj9ZM5E8ubYnFsdd3ipMyTI2u-lXd8LOLO_cM6e_fqz1Zsxy0p10o6ak83R2yRVZpLzLwrXFBQPOE0NGUjjQFKRpBILh6zZ1V8xV4-N3tG3mvScP7S8Nk2VkdNz-dV5oUjfOtMoy1L6FBhpzpYc5OE6wsOXF8b6w&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "075098 88834",
+    "website": "https://www.candycottage.in/",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Ayushi Yadav",
+        "author_url": "https://www.google.com/maps/contrib/102760766770225018391/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXH7jQ2hEcMJB4zrIKOkl5i80SUT9u_UPwaF9jVPzR6kRUOFc-5=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "I recently tried a cake from this shop, and I can honestly say it was the best cake I’ve ever had! The texture was incredibly soft, perfectly moist, and the flavor was rich without being too sweet. You can tell they use high-quality ingredients and put real care into their baking. It tasted fresh, looked beautiful, and melted in my mouth. Highly recommended to anyone who loves good cake—you won’t be disappointed!",
+        "time": 1746442187,
+        "translated": false
+      },
+      {
+        "author_name": "Nisha Yadav",
+        "author_url": "https://www.google.com/maps/contrib/110429708658574497750/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPiVQHCDQSeBkhC0K5RCFltm0I119y4JryYCC_nDc14QG9ww=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Just a quick thank you from the bottom of my heart for the fantastic cake you made for my son's 3rd birthday!! It exceeded my every expectation - taste, decoration, EVERYTHING!! I loved it as did he! You were fun and easy to work with . You do amazing work. We will definitely remember you for future orders.",
+        "time": 1626796736,
+        "translated": false
+      },
+      {
+        "author_name": "pranjali saxena",
+        "author_url": "https://www.google.com/maps/contrib/100712299868407984424/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUY35CVn3n5ybHReHrLOB-JUIVrdSf__csaY3xyCbi5LvvPMPgV=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Just amazing work and taste by anubha and great service you provide ..very helpful  ... Keep it up all the best❤️❤️",
+        "time": 1746443701,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:37.379339",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Hind Bakery",
+    "address": "KD Gate, 66/1, Kamri Marg, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJnYyJdjB0YzkRVyicGoztEU8",
+    "rating": 3.9,
+    "user_ratings_total": 66,
+    "price_level": null,
+    "types": [
+      "bakery",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.191488,
+    "longitude": 75.771855,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpciZzeePeyrH7MZbuerb-cmxTVSTtOu7GojH30fqu3IQrp0qumiWWXCNA5CI2zRERgU9Ykuh3x80hYCzpvrK7vrXgd7QGi5s7EGRmRFOM4Dbd7BozYG7s86ER6tC96uIQQdcM1cvfl9dwsXRHqRvE6DuQN88tWHd8anWCZRQevRGD38EnSjovLs83cks1gSbOFFZ-GfRfqOWa55sazZlqLmAoV3isZbLirAlMKRjOWF9HZ0yyvukI2RiIbjPWP732yJrM51ABFMl9J9gI5AzvUjReHsc628RASgLxWmeDbnUzWf59xCUrzm_5jWRf2s3HRedOE9aOhkNSQL7OweAIwTB8CXTlB58N6EHDsxSAFjchjVSMLqDnWyhdfm9ABzktfnYUdpDajq9rfYDT-8SbPTxUaU7FeGalPxN8Z_-CV-_ep2sGvJ9ij5sETD-dKvG34fxop4718vfDo8PH1IZVTNzmoeLiWzgA8bxkWrtg_n8AVq8xJEUfw2NqSkWE6NdxJYrDeyecAR48W71QkpZRJXsLuUKxVMyAinc_LLixh2_tTJGksyBlnxb10JaXlzeYTx6_6G&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "099266 22509",
+    "opening_hours": [
+      "Monday: 9:30 AM – 11:00 PM",
+      "Tuesday: 9:30 AM – 11:00 PM",
+      "Wednesday: 9:30 AM – 11:00 PM",
+      "Thursday: 9:30 AM – 11:00 PM",
+      "Friday: 9:30 AM – 11:00 PM",
+      "Saturday: 9:30 AM – 11:00 PM",
+      "Sunday: 9:30 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Gokulan Natarajan",
+        "author_url": "https://www.google.com/maps/contrib/101544918309556917169/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZblovKhT9CRh5mWnYU32sUAmFNdAeeiSo6KhIdw-BfzKG1F4OZw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "We used to buy rusk. One of the best rusk we eat.",
+        "time": 1513470243,
+        "translated": false
+      },
+      {
+        "author_name": "LK DABEE",
+        "author_url": "https://www.google.com/maps/contrib/105755661502077504134/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKuTKFmKP-iu3ocQ-Qbg7f4stVsI_RWPQY7adVtBM0mDJMk-bSb=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Very nice",
+        "time": 1741626334,
+        "translated": false
+      },
+      {
+        "author_name": "Bhoot Bangla",
+        "author_url": "https://www.google.com/maps/contrib/101910473905473514777/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVKg9YUnhB5rBlnhCiw1mXGSkeqYNE7r5EsK_u8PwKnwWP_lOC=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 3,
+        "relative_time_description": "3 months ago",
+        "text": "Taste is good",
+        "time": 1741547974,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:37.461166",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Bakers Lounge",
+    "address": "59 Agar Road Koyal Fatak Chauraha, opp. Samajik Nyaya Parisar, Arihant Parisar, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJ674V-xV0YzkRg9i2ReJ0sRs",
+    "rating": 4,
+    "user_ratings_total": 83,
+    "price_level": 2,
+    "types": [
+      "bakery",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1883638,
+    "longitude": 75.7843516,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpczQihAFAViGkwW5DuKAmLb0AIpfoBspyS976mXKFpgeGgFCePEzjmIEdqJDdFI-ZAOTfqYgPI80fdKbY1iEAYd-In4bN8gRor_rQgE72ungdlQTSJ5lwrCi9Wg4o4pB5nAwaJthPgnjDfoXHIXfdxguZgoE8ppeLb6d-fodBKXOdKgkZRY85ZO-ypeS74A2LXGY1kC442N0ck9Kg5XarXKYZEZsBUx-WvuZEDudENoYvHSes5YSqC_RaBcKMhQOjD-e9_4tEXb7MWEACqj8v46KnkwTrC4uTpCklFK2wI7mKKukwMJRaQS3pqf2LphD0bbiBLfawn_xuEUIut7fO6yjIAN9EBu4IftPQT41FbYpyrLtCEFF7UHBCvCeIjYiT4VpJlkvbzubQRaIvwpV8vEqSBVQdmvAtvCSIbgsQtQdZqYhVC8nAdUcABBZKas28EjvC346R7NjCzviSTz97srxieRWZOt48_vhJpnairWjEjcosZ06LebaUQdGaDGzwHxthL6hnqYKcAZ4GhNoF5P1CMSdBARltH8VunamBv4_b6qhd0SiZtPk0r2oEezG1bQwDqT8TotJQ&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "094253 32474",
+    "opening_hours": [
+      "Monday: 9:00 AM – 11:00 PM",
+      "Tuesday: 9:00 AM – 11:00 PM",
+      "Wednesday: 9:00 AM – 11:00 PM",
+      "Thursday: 9:00 AM – 11:00 PM",
+      "Friday: 9:00 AM – 11:00 PM",
+      "Saturday: 9:00 AM – 11:00 PM",
+      "Sunday: 9:00 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Vijaykumar Joshi",
+        "author_url": "https://www.google.com/maps/contrib/100558277737002760021/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU08uh_PfwxLGDkg4JWOaNb0mp8SwylSoz8xfA5jUGDXAwL8rBH=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "Even after requesting bill was not given saying on each item cost is printed but unfortunately not printed on  maihi ki mathri.The cost of pastry was  told Rs 75 each. I THINK BILL OR CASH MEMO SHOULD BE GIVEN. Sorry for bitter comments.",
+        "time": 1673443679,
+        "translated": false
+      },
+      {
+        "author_name": "G S P",
+        "author_url": "https://www.google.com/maps/contrib/118303313926095582142/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCF0XVFTI3cpJVWl9ct6ibbJBCVmwJk1PCQUEqasisHqOlYQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "7 years ago",
+        "text": "Good, tasty and fresh fast food varieties",
+        "time": 1501440310,
+        "translated": false
+      },
+      {
+        "author_name": "Uzma Zehra",
+        "author_url": "https://www.google.com/maps/contrib/115013238163656018250/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdTYia72v-PRtVauwIGPDQ1G8mcL_oLi9j1ENR0zokf0bF_zaQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Loved this place visited many times.\nAnd cakes,pastry,sweets and snacks also is very much delicious for me.loved it and loved this place",
+        "time": 1632332026,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:37.541785",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Aakash Bakers N Cafe",
+    "address": "08, Gudri Chouraha, Bakshi Bazar, Harsiddhi Gate, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJT32mdDd0YzkRgdMJlEys7XI",
+    "rating": 4.5,
+    "user_ratings_total": 37,
+    "price_level": null,
+    "types": [
+      "bakery",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1849069,
+    "longitude": 75.7706128,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpf9eHjxD16AWbUuWUQMKvIhWahx0s4nFCxmQ1HpFvCJUOGTt1Uf05JiAhgpHCSLXBFxga5VAkkOmIbC-DxNZKtCtbx95uLTpi0QzjNd9BBnHy-MAefauUxqWaLbpwJ-wgaw0iC9t5Exe3Qun8SWuipTWXXBm3Q2HYYsLDbBzKwkjbcHlpY0rh90eN-SiGdqzLH60E5yayezxRq1GyTcL8A2iih976EYzDwGtlcEp-Ize5MXCDAcnrxhQ1ZcwlifLTsLoSe_1IFzkP2dP17zMUkX5T8PrqT2KDRj1zBJBkIODn3FCXtu0jI2KHRYbbXB9J60H9HfV8AgRf3eT20Pcbr-9bMhUHD6ZkTyFzJ8C8C-fdAERt6CGFynFxo0Cyol64p0pebuom9p3aewblwBOaitu0lGKAFVtJ2_nPsFVHireK67NG6LNKujqUySnUeuG5HVj9QhzcVMi7TgZvebAK-Q4zk9Yk-tO7MTOlP3UGe-aACSdJDvDgHqFiR4C7uT7Sw_YgRIa6T1N6aGjBk-YRf0kXOWmuOP-ETr1mFaGhWqttmoSNRjUNiHzX_J2A1SnuuskzrK&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "096912 75781",
+    "opening_hours": [
+      "Monday: 8:00 AM – 11:00 PM",
+      "Tuesday: 8:00 AM – 11:00 PM",
+      "Wednesday: 8:00 AM – 11:00 PM",
+      "Thursday: 8:00 AM – 11:00 PM",
+      "Friday: 8:00 AM – 11:00 PM",
+      "Saturday: 8:00 AM – 11:00 PM",
+      "Sunday: 8:00 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Ritik Kumar",
+        "author_url": "https://www.google.com/maps/contrib/118005067046038498198/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdSqH7qv08fdvNkDgfeWOSIyUEfzrtrey4jRikyjlPax6Lu1V6ag=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Taste was so delicious and design was also very beautiful ❤️",
+        "time": 1745063934,
+        "translated": false
+      },
+      {
+        "author_name": "Manoj Shinde",
+        "author_url": "https://www.google.com/maps/contrib/108083752607496277439/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIkcomL4pVIWVQ9aOaMI716FMvzC5Bkh0rB4CLMhuZP_7b6THT=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Good nd crazy service they gave to us by their car.",
+        "time": 1743433104,
+        "translated": false
+      },
+      {
+        "author_name": "Uday Chopra",
+        "author_url": "https://www.google.com/maps/contrib/105733000669526357557/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWE5BWcg44rHbS9GqQ7oxgTZIAWutnMJEKBGiSx3RtVBtF2JK8Ygw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "I was try this around 2-3 year     very hygienic and taste was awesome   must try.",
+        "time": 1632935513,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:37.627357",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Kadri bakery",
+    "address": "37/11, Ghonsa Darwaza, Danigate, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJk7ioUzB0YzkRO7GjXZWmjMs",
+    "rating": 5,
+    "user_ratings_total": 9,
+    "price_level": null,
+    "types": [
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1907563,
+    "longitude": 75.76929559999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdv9ffQVLglUnOZG22gKLodylfNcwYHt723Iyun2tBmJNvkib_MC-s7-Wh6ODwuCruUPMCWw4pZ3FtSK-Yg2Yb7yiGnu5WcOQw9ocnQTDP-CnbemF0he8tgxd1KHQ8epVDCx-AEALmq49Gbit0ikp1fVTqEIZpOC1tO-haGGI8z5QdQJ0F6l-xSXHnKl6dlSqOKmd61H7Vm6t9_bd4qzDXe3Ee74ZXiuWxN16s96Wp9v5Y5y2DKF8LmGdp7o9VB43tQB_iF-U4HdK8QVpK8CsQo_8NNqBQYCoHYWcxHyEL9RGu2td7HBhmf82D7zkB4t2hJTXiguusa2gIKgJnaq7EO53m350NcYeVt0yLlRuIC3MEzCteX9uN8cn__VNfnhhE7nSE_CfJLokjmeo9T_1qEMOlITw5YVtzJo91l-jzT1r88MzDM_9YUgMiJ936HQO1jKO0ATTPd3PrcqJD7O9U2JB1MXokaiYitCN_QrdiuIyesnQiX2-fRWBDIVQxPJ56oizAsns4iw7nUE-BlCSPn_38nyOEqjWfXXeJajcbZ3MX8Fye37rKlRzMeVPSmvi3HZxBZ3FB05Q&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Juber Abbasi",
+        "author_url": "https://www.google.com/maps/contrib/110760831435043677917/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFfatgS913sZcvivHuhojO0LV24y1PiDuNa76xV0FxzRMzqpmhTQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Best Quality Best Products",
+        "time": 1656237492,
+        "translated": false
+      },
+      {
+        "author_name": "Juned Haider",
+        "author_url": "https://www.google.com/maps/contrib/100412284219209863356/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVL67xMLCtK2tG-5W8it821QJiiIY7kQ1d3Cb0fa8bENF77-0s=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "best quality and tast",
+        "time": 1681126031,
+        "translated": false
+      },
+      {
+        "author_name": "FAIZ",
+        "author_url": "https://www.google.com/maps/contrib/111156673472417088559/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPTGyATTaWNRvpzG4PSvDPY8QUcxwIOt0-jeZbEOh3UOJZtLQAxg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "best quality and delicious",
+        "time": 1523615273,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:37.707511",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Bakes24 cake delivery in Ujjain",
+    "address": "Shop no. 108 groung floor sunshine tower, near hotel prem palace, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJg5RMXu11YzkRPF3e4UQFM9I",
+    "rating": 4.5,
+    "user_ratings_total": 19,
+    "price_level": null,
+    "types": [
+      "bakery",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1771428,
+    "longitude": 75.78807139999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpf9lgfa3LZSExn8Rau5Ffdp_KNQejAzUamorIB8MkTAlSSenygpousPFOmvAjNwWEo7nvNgCPVOW1EIEnup7TDjMSSpGWjJj_7MhGkmVLv7KVUsMXlIyhUn6oS0GL3yDHvXrv4_fjyQzbrxAdsZzHFnNzIj0oqxoDrhPkXO-ZVsglC6uWEa81GHTfJSqNp8ypwDZLngWqoBTeaNExeQIY7E7DPLunfDg_W8Z4kEIp6sU-R8IYM6ZCICPHGbaE9JU9xibxZ80ksrPzdk-1otYDANnSnJTEU7wa0J2PuQ0LFivmq_&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "096850 62989",
+    "website": "http://bakes24.com/",
+    "opening_hours": [
+      "Monday: 9:00 AM – 10:00 PM",
+      "Tuesday: 9:00 AM – 10:00 PM",
+      "Wednesday: 9:00 AM – 10:00 PM",
+      "Thursday: 9:00 AM – 10:00 PM",
+      "Friday: 9:00 AM – 10:00 PM",
+      "Saturday: 9:00 AM – 10:00 PM",
+      "Sunday: 9:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "anusha dhanekula",
+        "author_url": "https://www.google.com/maps/contrib/107182715449501633960/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLN8wRpGUwL9McDhQT-U4_jqKJrvOJHHPzhVfUzFk0YmA8jCg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "I am very surprised that they did the cake in very less notice and delivered on time when the time is limited loved the cake presentation to everything ..highly recommended really loved ur service",
+        "time": 1749578335,
+        "translated": false
+      },
+      {
+        "author_name": "pruthvesh chaudhari",
+        "author_url": "https://www.google.com/maps/contrib/113711083271065896747/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLs8LUnz00N6wJVW4_lnPKS7LkRClRLCMGR4D-gP_v-5k6Weg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "They really need to upgrade there product\nIts very cheap quality i felt compared to the pricing they take\nIt was a dutch truffle chocolate cake\n400gm for 700rs\n\nIt was with white cream",
+        "time": 1743352709,
+        "translated": false
+      },
+      {
+        "author_name": "Vikas Kumar",
+        "author_url": "https://www.google.com/maps/contrib/117456223964840302435/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWydW1QR9iBejX-f6HhihWBDibmVAk838-ionKvogsw0_1iwJAPsg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "Cake was really beautiful and taste of chocolate truffles was osm.",
+        "time": 1749472397,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:37.798804",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Urmi's Cake House",
+    "address": "Tirupati Saffron, Road, near Mr 5, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJI2hKX4Z1YzkRTnWXp4-uDFI",
+    "rating": 5,
+    "user_ratings_total": 69,
+    "price_level": null,
+    "types": [
+      "bakery",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1929446,
+    "longitude": 75.79729429999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdlySGVV1RrEgvTzIWzkdztyhG_XAimAmonB2H2bBT2krez7zJzFAmE0qNGJjsE-xLmEzkmArmHPSA3psawqBF83RYerioUYMEwpCbW12ZB36Z13FsAXFY4jPS4hGvMb9GPQvAB7Zj-l9uD6uHNO1foBvVSPiGgalO56qgpydxOpURLyFTJl0xg0UvbMy2gk_1VCeg5yoEWP0ttZ6JSieTc1cO6sNgI79Tx_7n6dOjGm9WCZ7aCwTZRBD073s78DMqylnnky5JV1xi6IKSq3qj1VBv799pcOaozjI_DxKtd1WmvspZoEAUAY_-pMluTKF63NwhUuq-ublfFiMOI8RMAHmzNLMNfWEXRfZCK2rZdRKHv2ZhICum4kmwyISd3AqMjdX5lJBsaB7yrJX-2C4YPjJ_EBxzusxkAvIYjrrHVCcqK_IfGFJ1DiI_ENCPhriUZMnY9Ife3RBUgOzw6xOZcoRhyxF1GEb32ZFvpVkcah9KVv-F-nz9Lhbc3u1RAnV5_tH-4E86k6rbk99WNbc-S3gCOXQNzcHuitUZLVBc7VBJ7FtRYFh8O5Rt9pNdB9RNxZZgj&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "096696 07125",
+    "opening_hours": [
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Ashish Sharma",
+        "author_url": "https://www.google.com/maps/contrib/109120813609332172318/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTqUlpfdMfHGbm_QN8O2pTXGH5oTvOOqlhs1yA9BxGCDwEAEV_QA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Best cake in Ujjain. I tried plum cake on Christmas and it was so indulgent & smooth. Also, I'm a fan of the rich chocolates they have.\nMust try:- Cup cakes, brownie & Jar cakes.\nKnown in the area for softest cakes for  kids birthday party to wedding functions and the vast varieties of party props.",
+        "time": 1703529312,
+        "translated": false
+      },
+      {
+        "author_name": "Anubhuti Singh",
+        "author_url": "https://www.google.com/maps/contrib/110549527889108786205/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJosebhQw6lSyr-QR1KW6mtw3ry_p_SfoJgokcA-Xpr9E-u-Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "To be honest the \"BAKER\" 'CHEF URMI' the best!!!! ❤️🎀\nI know her from my mutual colleague and she's our permanent baker... She has been serving delicious treats and cakes for more that 5 years to our family and each and every thingggg of her bakery is really mouth-watering 🤤❤️\nI've ordered more than 10+ cakes and chocolates for every occasion and every thing is 🤌🏻🤌🏻🤤\nShe's really sweet and kind in person and very much amiable!! She is very considerate!!\n\"If you're a first time customer I bet you'd be her permanent customers...\nIt's a must try\"❤️\nI've shared few photos of my cakes",
+        "time": 1736699205,
+        "translated": false
+      },
+      {
+        "author_name": "Raja Sen Parmar",
+        "author_url": "https://www.google.com/maps/contrib/102260345785273145971/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0JiRWlpzjnjCbsVSrbMiuKJEv4SWUdUl0bnpTQ6AYDPoGshc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "I bought the cake from Urmi Cake House. We really liked it. It was very tasty and delicious. We also liked the service here.\n\nWe hope that you continue your service like this.",
+        "time": 1728560834,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:37.895152",
+    "source": "google_maps_api",
+    "data_type": "real"
+  }
+]

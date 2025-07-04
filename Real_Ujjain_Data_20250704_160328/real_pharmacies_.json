@@ -1,0 +1,1360 @@
+[
+  {
+    "name": "Wellness Forever Pharmacy - Madhav Nagar, Ujjain",
+    "address": "Shop No.1, Kshapnak Marg., near Police Control Room, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJi5ppk191YzkRLDOrsJlCyrc",
+    "rating": 4.3,
+    "user_ratings_total": 35,
+    "price_level": null,
+    "types": [
+      "pharmacy",
+      "drugstore",
+      "convenience_store",
+      "store",
+      "health",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1759028,
+    "longitude": 75.79356910000001,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcz6ceM5Kvw3r9YjecXLHIsXcMv7S05E5DRcrpgMN9fx6ozv1yubCHBHxWL1X8j8c0G5HvBlO9rb0sPjxpU6fgoC4JYLatPfj9L23MFdzJ-Z2XcI8N1Sx_wmAMMT7lg9mh3WMlIU059K9vjaSUJKmrqQHofQoqIWltDFiItfkf7FAJZsl8wpQfgPdWhmclQkYmZ4rrhcFQEjQYNJiUcJvXgau1mAwEXZbgu-jaabbKa0lDRAF5AXAjGuOE4bLjNi3ZW_q6F-Ve2o6q-BVYn2E2xpDAhLhL0nk9cr90gOXIeWbsnmpc&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "077381 82742",
+    "website": "https://www.wellnessforever.com/",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Astha Tawde",
+        "author_url": "https://www.google.com/maps/contrib/107291078351996677800/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvEg5t4_PwsqO0Qhf2RMdKzajI3XMEmxc-XMYMf75hEy1XpdVySA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Best services! Be it delivery, the staff and rest everything is perfect\nMainly what i like about wellness pharmacy is that they have the maximum products which I require! And even if they don’t have any of it they can order it for you. Which is very helpful.\nAnd they also have good discounts! Thank you wellness! For making my life easier.",
+        "time": 1732920997,
+        "translated": false
+      },
+      {
+        "author_name": "MAYANK SHARMA",
+        "author_url": "https://www.google.com/maps/contrib/109864680637870598093/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDCBnLCavuqfCPYBDs-VXBKfvKwkj17RTU29r8iC8VA-4doC4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 weeks ago",
+        "text": "Very good service , free & fast home delivery, staff behaviour is good , Thankyou wellness",
+        "time": 1749211324,
+        "translated": false
+      },
+      {
+        "author_name": "Deepak Upadhyay",
+        "author_url": "https://www.google.com/maps/contrib/106721936160341766952/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXMuGJiF6XbuWw7bFpngm2G1HpE10eArAdqzIzZ8er7p5w-_Og_=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Wellness Forever ensures good availability of medicines, reliable delivery, and accessible locations. Their staff is helpful, and the stores offer a diverse range of products while maintaining excellent hygiene, making them a dependable healthcare option.",
+        "time": 1732875938,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:44.325934",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Wellness Forever Pharmacy - Sindhi Colony Ujjain",
+    "address": "Shop No. 1, Near Mahakaleshwar Mishthan, Sindhi Colony, Shastri Marg, Sant Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJ5Q3STnx1YzkRTR7Jqm3AE4c",
+    "rating": 5,
+    "user_ratings_total": 7,
+    "price_level": null,
+    "types": [
+      "pharmacy",
+      "drugstore",
+      "hospital",
+      "convenience_store",
+      "store",
+      "health",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1713466,
+    "longitude": 75.7888394,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpc6DXHH1TcZMG3MK5HhHQaPCqlum-kKFote_o3bFUf589kE9YEhyxyu3EDJCkzG2HvemgGHhfRnowyjYYBMmZOKLi2eSeoShYeIdKncP096iJLVAgJ6mGaSzQTIzm9DTxCb3Pj2VAZRt2v78_1pbgN9fRKCea3ms_juOM-NgaV1-0vFgcVeAQlC1w0Kit67i_wwvaUe9u_74x1cC0ilW39_6eRK5MR9MbJ_7PTz5f4iy1i5JJzmQRqH-7baxKS2s3usIn3Nr3acthzzEYtyu-FS0eK3fdZtWEhOCKDaDTGdpmwnRsxP3_jn_4HzGcNEjlZuNKmzUkkAqgJsJ7V-XlMP2DDpKwy2ijAkB9CqdcvgFVfi2nSwm_hIfpGOSeJpeQAJardr3BM_20lnfkpskqImjt5GZsMDzXxgJnoxHwWzf_pN0xx31ijcF1SoH2v2dC3guMyg2BywbHnRNvtKtbrtsTVgWDXADV2ZAC4U-aHoa8yZ&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "077158 05492",
+    "website": "https://www.wellnessforever.com/",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "SANJAY YADAV",
+        "author_url": "https://www.google.com/maps/contrib/111082238166789342976/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJB7TvZD3kJIqTggW7HsJocJpAKdBmugxM_hRzMcb2gli59TRWl=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 weeks ago",
+        "text": "Superb Medical And Supermarket Store\nGreat service and product availability! The store is well-managed and offers a wide range of essentials. Especially impressed with Wellness Forever Sindhi Colony – open 24/7 day and night, and they also offer free home delivery. Super convenient and reliable!",
+        "time": 1749210761,
+        "translated": false
+      },
+      {
+        "author_name": "Richa Sharma",
+        "author_url": "https://www.google.com/maps/contrib/118027575823684294863/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocICfdqtkGIAWeKpOc-I5tnk88t1ky3YbxZxe5GLBfz8j-8Z3Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 weeks ago",
+        "text": "Great service and product availability, excellent store ambiance, fast delivery process and all the staff member is very supportive in nature.",
+        "time": 1749211582,
+        "translated": false
+      },
+      {
+        "author_name": "Deepak Upadhyay",
+        "author_url": "https://www.google.com/maps/contrib/107274034676033045033/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpODQAZRcDz4Nvn2UmcxV2D_tXxkkB9Z_6J3WxRMopbobX1A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "Fast and free home delivery",
+        "time": 1749376891,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:44.406014",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Nahata Medical And General Stores",
+    "address": "5QGV+VFP Police Control Room, Navkar Complex Gurudwara Road Opp, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJQ9vMbG50YzkRCLJ17EIMGs4",
+    "rating": 3.9,
+    "user_ratings_total": 24,
+    "price_level": null,
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1772019,
+    "longitude": 75.7937038,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcvTs1pWut_Z6oJ8tVGYi9vcdFm7BYA5sgH5J3rZPeLZuWEYNAs8OkariJLVkDdEdsRj6x3t8Aus_SLRdsY6qsV0S2jKXBxOIz7KAvM8faZaRQIQADCT77IrgtbQbzA0Zv6Ff4OFrFrBTUQq5gOOf59huDyyR8bFaJ6c2CabuGEC5wS95FAszbDavv24My02jkq8VLJ989YbYnRVXQTt9pvBj0VnmHPwCNuZCPQyJylgMaT7eKMUq0t7Bzy7tOlk-MKbdXeGWoN_ey_QgNrkMDvqZWYP3zS8w8Kg-oyjVnl6Li_-KtsgstiNIXLWhXck9ZBNDD3Vge1NxH-aafna5VHl_sejYtYLQUIjbdNJpGoXnGrVCTGsG1ITN_Puhwpch3oPxJ2qjr5HxIvq8QqXiNLBywVZg17p4ffmavkcOOb_3afCH1qrfd8Wx_wsMKHTEKSrE_aZac68gcawTsO9o4SIqUGKYFRYQ4ssxNXhmxsfmyI&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 253 0345",
+    "opening_hours": [
+      "Monday: 9:00 AM – 11:00 PM",
+      "Tuesday: 9:00 AM – 11:00 PM",
+      "Wednesday: 9:00 AM – 11:00 PM",
+      "Thursday: 9:00 AM – 11:00 PM",
+      "Friday: 9:00 AM – 11:00 PM",
+      "Saturday: 9:00 AM – 11:00 PM",
+      "Sunday: 9:00 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "charitra kotwani",
+        "author_url": "https://www.google.com/maps/contrib/104137673632725733149/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPGiFEuyiBl667HGUCistL9m9UVStiB82iaK5n6ZltLGCp9_Y7=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "The most corrupted medical store. It never gives discount and have setting with dr sonali agrawal. Dr sonali will prescribe heafty amount of medicines and if you will not buy anything from Nahata , she will literally lose her mind.  Never ever go to nahata and  chor doctor.",
+        "time": 1640171539,
+        "translated": false
+      },
+      {
+        "author_name": "Vaibhav Maheshwari",
+        "author_url": "https://www.google.com/maps/contrib/107331938453750064692/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVahC8Z8GufQvcC5n1dSx7L2wmqwHXTo_P_AFfsdvUzYaYlx2Ik=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Almost all medicine available fast service no need to wait much .",
+        "time": 1532485896,
+        "translated": false
+      },
+      {
+        "author_name": "Rameshwar Nagar",
+        "author_url": "https://www.google.com/maps/contrib/103203864364636697949/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIaR2PSYV9TllUjTOHDlcLK5wGHsOR1iJ36CSJ6Env2HR7KAQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "2 years ago",
+        "text": "No discount yet",
+        "time": 1679370898,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:44.439537",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "SHREE G PHARMA & MEDICAL STORES",
+    "address": "27 ,vidhyapati nagar, Ujjain - Indore Rd, opp. Hotel mittal avenue, Nanakheda, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJsSKQVvh1YzkRQOKu1kKha4U",
+    "rating": 5,
+    "user_ratings_total": 2,
+    "price_level": null,
+    "types": [
+      "pharmacy",
+      "drugstore",
+      "clothing_store",
+      "store",
+      "health",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1596962,
+    "longitude": 75.7804469,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpc_Ms_uW1WJmSGX2UdT4lX5CyUApHDxqa4twjgXHu9WSN2NfLiMc55ecRKAOWFIbtiojEVQ_E6tV8MJlQ3zMLHdrhFLEkGqw9tPc_TfKlHul4nqDVZXqIRbydBeti3W5pIlSoMahfJ5jK1JzaixPO-EEBnvsdlxpOB6rSHe_IetBlbnFckSo40-xJxLnHjroU9Q-9SYosp5Unmi7S9AGOgUFpmG94q90ygDi32w0KgYO8-ykvW6wH0PG6UamiDlnARnmBWQd220MVHaotYk7-UOLhPEKTCVDP4QSu22OmFKMFrBWOo&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: 8:00 AM – 11:00 PM",
+      "Tuesday: 8:00 AM – 11:00 PM",
+      "Wednesday: 8:00 AM – 11:00 PM",
+      "Thursday: 8:00 AM – 11:00 PM",
+      "Friday: 8:00 AM – 11:00 PM",
+      "Saturday: 8:00 AM – 11:00 PM",
+      "Sunday: 9:00 AM – 9:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Nageshwar Dabiya",
+        "author_url": "https://www.google.com/maps/contrib/100504179636990412966/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUuo04pREpRqTsGsDDicsKO7U8QDPY6lAEgd6Fvt5Tr6Ew7EkmZ0A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": ",♥️♥️",
+        "time": 1650943974,
+        "translated": false
+      },
+      {
+        "author_name": "vance",
+        "author_url": "https://www.google.com/maps/contrib/117450086301414616112/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvDU_oFY41CEJJHP3gmuX_sSvyC-9F1BEsZbbmVYK2SzCW8w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "",
+        "time": 1736413890,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:44.476909",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "S.K. PHARMACY [Medical Shop]",
+    "address": "CHOURAHA, in front of PNB ATM, Mahakal Sindhi Colony, Subhash Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJGQtQ8m11YzkRdkgD9arv37Y",
+    "rating": 5,
+    "user_ratings_total": 11,
+    "price_level": null,
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1681096,
+    "longitude": 75.789413,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpf5yODgIEYFHNGjH5CdymOHWQwB4N0lTL7mMTds69pk5wAsZZudU2oR0ujjUz6cLjfJRL7nS7xd4jtdMeilZ3upK3PQL4jGkQclF0HiFik0EPTD8dlG1Pm646mfu5eQOtzn7MKV2LywYd4ko3PXkdpDPpRYWMQsvxJ-NSgHueVx0EzCJbGaBs3Z7OjBpkUfgs2YHqYSyNkx8NLISZNsyh0sIUqp-jqVhEV3FdDRipurWMBIDKaJcwy6zjshKxzTZIvaAs4zzHkNr4okt4MkTXgIvvRA5EkfuzM8p5dh6Yh0rzXrBEk&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "079871 18553",
+    "opening_hours": [
+      "Monday: 8:00 AM – 1:30 AM",
+      "Tuesday: 8:00 AM – 1:30 AM",
+      "Wednesday: 8:00 AM – 1:30 AM",
+      "Thursday: 8:00 AM – 1:30 AM",
+      "Friday: 8:00 AM – 1:30 AM",
+      "Saturday: 8:00 AM – 1:30 AM",
+      "Sunday: 8:00 AM – 1:30 AM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Govind Verma",
+        "author_url": "https://www.google.com/maps/contrib/107067563475745759820/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLIbPxNE56ZR8G2kUcJOyBbwRwxqCfHWxRQWI7z3HJkxueIpw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Very good service and staff is very friendly",
+        "time": 1750308835,
+        "translated": false
+      },
+      {
+        "author_name": "Dr. Cenu",
+        "author_url": "https://www.google.com/maps/contrib/108629071086285209185/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVg6kaUPa4Dt7TkVnm1r5xLjE87T7W8H0sNvANHZBYSjTVOQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "\"I recently visited S.K. Pharmacy in Ujjain (Shubhash Nagar )and it was a fantastic experience. The staff was super friendly and helpful, guiding me through their wide range of products. They had everything I needed and more. The shop was well-organized, making it easy to find what I was looking for. I highly recommend S.K. Pharmacy for all your pharmaceutical needs in Ujjain!\"",
+        "time": 1703166662,
+        "translated": false
+      },
+      {
+        "author_name": "Utkarsh Kureel",
+        "author_url": "https://www.google.com/maps/contrib/116370904466651903305/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKp1mEL2pxRTRq53RN-JKlB05j8EufRVP05sUQg1fuz4rcKyFHG=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Good medical store in Ujjain city",
+        "time": 1745348322,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:44.511175",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Om Chemist",
+    "address": "Kshipra Complex, Indore Rd, opp. Bank Of India, Ved Nagar, Square, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ5-U8l2F0YzkRla_ijAM_T38",
+    "rating": 4.7,
+    "user_ratings_total": 9,
+    "price_level": null,
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.162072,
+    "longitude": 75.7880775,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcV811cwRu6nACO5PZmkcT3nGOiIChzFtBl8oNPwMC-QcesiFv6-N0syUmDbRJCYOoOp-gLxfwuVUN3PzRAL6LVMpRCDYQCn5G7zM39NnSffMQWTjvH8wZw9DuLNOOpM_oEP8NINTAKb_7Oqh7wsDGdTRorTWxzVYiYf2X6Qvxyofn5jdPz0cAb0WqmcnH1xluflgEc5ExNBfUfa_NXZMYP8cfR7Nqe3bas8_BuBAgPQydcqMjrT2taabU4r8lvPTabVKFt4jckQ_ooJ7JUyTo4I7-2OGFBl0pKpQKvD4noNfDccJj_ZM7O0K15XFSymgClNZnavLhx0aKa3DDKuWvuwWdgILkoC9T2x88bzTdiw2jQaMdhnB1D4tITm0jsQZHRlMQ34cZIh6PMXsH_nMiEEftTiyHsHOy7CdmGSWqh5NuPg-_-AWwmSGjoiFmF7VufcGLJWPWOGfcorwkZj0DXj2yGpbKLwn_lBZ2ftgMvOQ&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "089828 25340",
+    "opening_hours": [
+      "Monday: 8:00 AM – 11:30 PM",
+      "Tuesday: 8:00 AM – 11:30 PM",
+      "Wednesday: 8:00 AM – 11:30 PM",
+      "Thursday: 8:00 AM – 11:30 PM",
+      "Friday: 8:00 AM – 11:30 PM",
+      "Saturday: 8:00 AM – 11:30 PM",
+      "Sunday: 8:00 AM – 11:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "NEELESH KUMAR KOSHTA",
+        "author_url": "https://www.google.com/maps/contrib/109060597455353726908/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPgw3d3e2kbvf_-tSjf1KtIL4WUH5m3fI527NryDb6yLvtQygL=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Nice, generally all medicines are available",
+        "time": 1585725624,
+        "translated": false
+      },
+      {
+        "author_name": "Rahul Sharma",
+        "author_url": "https://www.google.com/maps/contrib/115805553507021752759/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJd_9nJRJqEVLREYqiuS7HiOJz-1hap9w8xVYgOYPYK-AZcFA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Good chemist",
+        "time": 1719062155,
+        "translated": false
+      },
+      {
+        "author_name": "Abhishek Mishra",
+        "author_url": "https://www.google.com/maps/contrib/109167967680948017900/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXovxHC28EZHZBTota5nMbN0wFEGgK4i2iGrEUDGFwgNeDRkICIBQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "2 years ago",
+        "text": "Good",
+        "time": 1659889439,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:44.557752",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Avantika Pharmacy Healthcare and Wellness Ujjain",
+    "address": "270B/3, Panchkosi Marg, Adarsh Nagar, Nagziri, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJz1KF9QV1YzkRzmNMLItKruI",
+    "rating": 5,
+    "user_ratings_total": 2,
+    "price_level": null,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1401516,
+    "longitude": 75.8138614,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpezoYbeYVm2RFp9DCQScP1Q-77zJCu_E7fhoRLzdTzhgBYUC_yT3ADBeVC81cVNA73qdNcsZNcTrsQYw12Z6D051BRwiaSNC8QDsXekSIGJqtrUuF7Kvx3gapaxnk65vIdY12RuaETTh8WB0g_D-U9_RDTcTTBRRvdYkvaD7dpBm0gdMJdPqVhddSPAiVwJotiZGBoT3TBSmUfjEmACZf_jh1VxEvcs1xWTb8T-LjSswL-2ecJXpzVvTTXEbeAjbpLhLkx82gx_CdvZVcFNAOnX8kvTcK6iIp6oiQTC8QmqzJ0NFHU_URSn5PRgSYFlW1p1vgnDdZuuQ9D5KEdrH8SUxgfQogNxKqcIpKkJhtZ2U1NUl_t2HFoAdN4-fu8A0808_1AV0-XdILITEKqJCl1BNRGH_ZqyJ9KRmGbpQd07nyLyxH2mEPByh20pIFi9WjllCgwyqx3dB9MXuOFVfph4yS3Q71nPOw8dje13TXNGaGOr&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "082698 45378",
+    "opening_hours": [
+      "Monday: 8:00 AM – 11:30 PM",
+      "Tuesday: 8:00 AM – 11:30 PM",
+      "Wednesday: 8:00 AM – 11:30 PM",
+      "Thursday: 8:00 AM – 11:30 PM",
+      "Friday: 8:00 AM – 11:30 PM",
+      "Saturday: 8:00 AM – 11:30 PM",
+      "Sunday: 8:00 AM – 11:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Rakhi Pandey",
+        "author_url": "https://www.google.com/maps/contrib/101752450991098098634/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIIKrLytytvMi9umy_Wjti0mCTn5tWUq1jVMJTfMkOr0VUU6A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "It's very good medical",
+        "time": 1730830131,
+        "translated": false
+      },
+      {
+        "author_name": "Sameer Singh",
+        "author_url": "https://www.google.com/maps/contrib/115602210386565839987/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNcULQmfNL2uJ2htb4-g73jQhgdpC6itERj8aiNC3ta6X2R81L=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "",
+        "time": 1726213971,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:44.634771",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Shankar Medical Stores",
+    "address": "Chatri Chauk, Sarafa Bazar, near Gopal Mandir, Kamri Marg, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJJfCqHjp0YzkRLOIQZUz3S0k",
+    "rating": 4.6,
+    "user_ratings_total": 12,
+    "price_level": null,
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.187983,
+    "longitude": 75.7731824,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfgNVkmqpgGpQCY9gh1WNWl8zBepp_D6NoereCnzkNJ-6iFjv6KU-dFG8IGYyJiKBhNN2NOmoLTr5xKoT-m2wfOh6NGHtlIeRlgWsaXMuzA9UFAD4aSy-7dXO5au2cExqKaJSahhgBjUYUgfAPIiQbhQ-6udTTl8xurvW2QqfMMUpSF46AO7cEV9yZdZcW3aUWu17c7TJvxJ7Ef-uMmiVyIlnbWhmXeYB-463NfIm-icezm3Zh7qtT9gOOH9TS6BBuFJL6bgmNq-r0vQwqgyEiTyaQc1oHAApVPqz6gP93cKxnJ8wfRlT3xJwgHLLPnrwZFG1K_dZKOGMUq0PszxyI-CGB3ngXeh6eYbHQjX6HmXU95-KvdGjm2dN1orSSXxzzscJttr4gpoStpBVTs2FR1H8sg2jfbWarDfkvdHQfpvgGc-NtamjgBc2nSd-9nM3_ln-497H7CpCkacUpkEtP4ghVS1djV5TxSlRe5kFI1Ww&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "094250 92435",
+    "opening_hours": [
+      "Monday: 9:00 AM – 1:00 AM",
+      "Tuesday: 9:00 AM – 1:00 AM",
+      "Wednesday: 9:00 AM – 1:00 AM",
+      "Thursday: 9:00 AM – 1:00 AM",
+      "Friday: 9:00 AM – 1:00 AM",
+      "Saturday: 9:00 AM – 1:00 AM",
+      "Sunday: 9:00 AM – 1:00 AM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Yashasva Tungare",
+        "author_url": "https://www.google.com/maps/contrib/106260233408202256433/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMv2KnlWTGeStpUgPNQ5u5q75wRXkeTxEsZ2rE24531gKa2HjX=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "They provide free home delivery services across the city even after midnight.\n\nBest thing about them is that the firm is a reputed one and has been serving the customers since 1988, so they hold a good reputation across the medical association.\n\nTrustworthy people at any point of time for your medical aid.",
+        "time": 1703081552,
+        "translated": false
+      },
+      {
+        "author_name": "Ankit Goyal",
+        "author_url": "https://www.google.com/maps/contrib/116276694416019116238/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOyIxRzd_xkWxdtX2w-ZByMHhEf_eqDUDhFu1i34LUyzQgjNHI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Amazing service and most importantly very cordial and cooperative behaviour. This is most preferred place to order your medicines even if you are travelling from outstation. They do delivery even at midnight which is rare. God bless you sir",
+        "time": 1711823320,
+        "translated": false
+      },
+      {
+        "author_name": "Indus Hospital",
+        "author_url": "https://www.google.com/maps/contrib/100483843696111132344/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLHyffy89Uj7yyNM8w3R5ncBc4rGhiZPRp_BNdE9egsNzBT0w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Very good and gentlemen\nGood service and kind nature",
+        "time": 1743506082,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:44.671763",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Unique Pharmacy",
+    "address": "A 1/11 Ews, Indira Colony, Bagambag Colony, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJ0eapMN51YzkREZpFT2QshXM",
+    "rating": 4.9,
+    "user_ratings_total": 10,
+    "price_level": null,
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1802034,
+    "longitude": 75.7708983,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpe0MGdljEcq-_N9smd7EyQ-p_IB85f9iYWOQlS1_pdxp-KMaJDImbocYO7Zbu6aV38ycJuL4oN2quWZEP6p7Hao_8Nd8gB00KIeVAQ75gFMEKz0zfVXUw7WTNiTa6cr8CnC6ohBDS2Gwu8_A0SrjlEdPu0pdkpjEIDswoSsN_DTP-ENyx1BI-9mezqVAsIM7NbeNg97GSE_X2TsI97N74orxoSlV3oB3OdFqksFbu0QGzvwxg0NF0nTUz4D3DkGmQM01hlT51SBp7COfAr_oJGP39dZ_U_sdAbsmNRbZsOvGe3GkVT1HGjjZElw8vIdfdaZEubwHFyQdXPVqKecyfWCyU-9-eq7vX7EkbbBv5oLBTke3boltUonZyEYAiAy6O2DYZr48vU21lp6iWr-RaEubTgSY-L3IXYCg7cvzYiQx52mNn7VeMLr9eq31ZcuJZPsyF8bRUafJtqJxK6LUNQNzOZS_vIcIeqW18bZ-GqNwQ&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "094245 53337",
+    "opening_hours": [
+      "Monday: 9:00 AM – 11:00 PM",
+      "Tuesday: 9:00 AM – 11:00 PM",
+      "Wednesday: 9:00 AM – 11:00 PM",
+      "Thursday: 9:00 AM – 11:00 PM",
+      "Friday: 9:00 AM – 11:00 PM",
+      "Saturday: 9:00 AM – 11:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Saquib Nagori",
+        "author_url": "https://www.google.com/maps/contrib/105896097118570297783/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqsBBKrk41M057ap_5AoFywVUbaFP9zMKH432MyZzUE7qlng=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Good place . All medicines are readily available.\nThey have Clinic and on call doctors for consultation.",
+        "time": 1576217164,
+        "translated": false
+      },
+      {
+        "author_name": "Anonymous",
+        "author_url": "https://www.google.com/maps/contrib/115331440015595732345/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLWMOYMnxezkgdsBRfamyP0AOc9Ergqi3LC9_NCNsNDXKvYKw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "",
+        "time": 1576467518,
+        "translated": false
+      },
+      {
+        "author_name": "Tariq Nagori",
+        "author_url": "https://www.google.com/maps/contrib/105632652623243486165/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKrEzrdd3nkyHLTDrUtc2twwIaBWkQAw3jI5Y53s9EJuvf4bQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "",
+        "time": 1576311602,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:44.754334",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "davaindia GENERIC PHARMACY",
+    "address": "No 3/1, Ground Floor, Kamla Nehru Marg, Freeganj, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJf6UXCnZ1YzkRVV-lg7T7w2Q",
+    "rating": 4.3,
+    "user_ratings_total": 6,
+    "price_level": null,
+    "types": [
+      "pharmacy",
+      "drugstore",
+      "store",
+      "health",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1784631,
+    "longitude": 75.79355799999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfynGbhhEPWcCG52a97G7xFBRe2qQ0-1240fYz_hiZGSREbdWUOEgwGj5Nobz-QruPvSC0l7a9-tCDgzJuZb-js1cx-E9ceaMnAhqWm62MTG6neiGv-dGfVsnlMnBb6tzIgoYKGL65kzhFqIXVo4PMb5fwUiYi14kaqP5cRqOmSAjQZyE052KJ8_Q7tUhWyVP9jBnWg5N7nCaMDGWHMNRhc8T9j4yKg5QQbS0TNCFslRP-rfPRzIOnuMVG3uHv3aqHBHPFtwQbnQMeLfAYOwYE0eT1PsF01CTR_Hcj5LuDC7U_zre3G9r047_QqBjeBjk0Fc6OsiwEOPvj0emZl1Eiy06ad_J800IfcLIUD5C_JtULJiB-cf1bOCANMo0nYpmCnFTzKT0hKx-ihicqsU6VpQhPQrXbChRVUzN7RODXweyDpGWbyH_yCND2ZFXw2F3xAyPVRbVTxfT6G6vhMfnIE0niTTcD-sY4axN8qofzVm7Xx&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "093404 54445",
+    "website": "http://freeganj.davaindia.com/",
+    "opening_hours": [
+      "Monday: 8:15 AM – 10:00 PM",
+      "Tuesday: 8:15 AM – 10:00 PM",
+      "Wednesday: 8:15 AM – 10:00 PM",
+      "Thursday: 8:15 AM – 10:00 PM",
+      "Friday: 8:15 AM – 10:00 PM",
+      "Saturday: 8:15 AM – 10:00 PM",
+      "Sunday: 8:15 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Ravi Patidar",
+        "author_url": "https://www.google.com/maps/contrib/117802103463479125650/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvYc_FiHkHPPTvPhqZj_lEl1SDFyeADqjrNE_TvaVsfz7pJepJ4A=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Davaindia is Generic Pharmacy shop in Ujjain",
+        "time": 1608466198,
+        "translated": false
+      },
+      {
+        "author_name": "Govind Mundra",
+        "author_url": "https://www.google.com/maps/contrib/111198754545547547696/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJD-dnnY93s8w9xLU-GDkY81RBxpwN6vojVUZXFo0eOUuKqVA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Very good",
+        "time": 1718169453,
+        "translated": false
+      },
+      {
+        "author_name": "mranal bhargava",
+        "author_url": "https://www.google.com/maps/contrib/101382714682192523452/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOihzQ5zYeayzfRY0LYJp5SpWKe4vCl5FWjcfpgM74GS-HSV8o=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "",
+        "time": 1658731062,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:44.835905",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Anjali Medical",
+    "address": "6Q4R+X6H, Agar Road, opp. Gani Tractor Garage, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJYUHZRqd2YzkRJ575K-0O4U0",
+    "rating": 4.9,
+    "user_ratings_total": 10,
+    "price_level": null,
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.2074471,
+    "longitude": 75.79062929999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdrDInJdMnkB4xW2kxOsA2aUNNMcOoUpVKaY2YIrY1NNMdoItDUJFtu01zYi9Sf0PN3yEPe59JmOUoPJIkPRs_rqx8g5bAU5pulDXqaFcd4oJtiHB1Fueb3KRaHsVPvlC9hT4ND33WQFn4-b4nGiJR_JjjL2S10w-B9Da546heK7uYBnipScJQ-ypI19IYwzDASYwIekUcqW6FxxCk-PoxTntgLebXUL-d2OmwjoU5eOu0E7OoGkgdUbuOkszYbGcAcQz6uUkf10SIjoEti53Chqiq7h6DljPMZ9TeEvcqxzmtNi3r1YiUVm1YD6MBXVCj3xMmCHKeQj9j2LFlsYx1XTZpioG0bnnr7rXTCEEBpUVLaFZFcE9CNLpxG8lv5XRxMz1s1f6Zo6W3RNDAlsAaXG3MDCKhdwjvVpqXWcbOevgH3XAjIcIHUJtGL5Vilbbqd50GTjF4WeixyY3SS61ODMhoZfE5asQwWdOx0nTxiLA&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "089825 86390",
+    "opening_hours": [
+      "Monday: 9:00 AM – 11:00 PM",
+      "Tuesday: 9:00 AM – 11:00 PM",
+      "Wednesday: 9:00 AM – 11:00 PM",
+      "Thursday: 9:00 AM – 11:00 PM",
+      "Friday: 9:00 AM – 11:00 PM",
+      "Saturday: 9:00 AM – 11:00 PM",
+      "Sunday: 9:00 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Deepak Rajput",
+        "author_url": "https://www.google.com/maps/contrib/113448104893558910174/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKB8wXgNI321C2yOLacsABCQdb9PLYcLrp4_ngfpgbUPdLKLg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Good experience",
+        "time": 1718983013,
+        "translated": false
+      },
+      {
+        "author_name": "PANKAJ CHOUDHARY",
+        "author_url": "https://www.google.com/maps/contrib/115071607745741020039/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCADuQxoDiga3flmjbwBs5q_Piuw5VYcU629V073LP374Wb_kH=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Good service...",
+        "time": 1581065241,
+        "translated": false
+      },
+      {
+        "author_name": "allrounder",
+        "author_url": "https://www.google.com/maps/contrib/112560239547207484451/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3cEFLwnsSSGOkJ20bL_MyvJNxCDnMbC5QwTiFR05cYd0a6xBwfg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "Good service and easily medicine available",
+        "time": 1512127455,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:44.869920",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Ramest chemist chemist & drugist",
+    "address": "rajiv nagar gate, Agar - Ujjain Rd, Rajendra Nagar, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJp0T0yWF1YzkRdBrYFcVbIBM",
+    "rating": 5,
+    "user_ratings_total": 6,
+    "price_level": null,
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.2024009,
+    "longitude": 75.78964479999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfIHlGOgEEmlruZcuBaWAsDk8YMedbaXAdUpF9OfJZzhHYXVLhg_vpFvK98JDA-5RCjvaxi_xNTFYYoJ5TI6898MgjRu-JescMnO9NKhtLTCEQiAg9-IZH-s0kEfKJNlWibfJaxSNOGCbEHJG5psjbuwl_CdXYwnNmQWlQ28czquu7hrPpVOeg0wmQTrus_1Bzuecv_DHaA3r_waqWTvhBST8MglQK2P6zKoAQBflssuN6pDGWgx3RzCSUrUadivzNzry9rCZ6wiuJtuddEE-UqCfNZWO-ZBrl8UEcy_ugN9UDoKWw&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "088155 65043",
+    "opening_hours": [
+      "Monday: 8:30 AM – 12:00 AM",
+      "Tuesday: 8:30 AM – 12:00 AM",
+      "Wednesday: 8:30 AM – 12:00 AM",
+      "Thursday: 8:30 AM – 12:00 AM",
+      "Friday: 8:30 AM – 12:00 AM",
+      "Saturday: 8:30 AM – 12:00 AM",
+      "Sunday: 8:30 AM – 12:00 AM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Priyanka Solanki",
+        "author_url": "https://www.google.com/maps/contrib/104587138348424140328/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLywsewWbO_BX3v--1X1ur6919Kc7AbMxK1HDvafXEadzOqFQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Ujjain best pharmacy nd very helpfull chamist",
+        "time": 1746387262,
+        "translated": false
+      },
+      {
+        "author_name": "Rahul Solanki",
+        "author_url": "https://www.google.com/maps/contrib/115005161226600732927/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpSQSUirEF7uHq7qUQVPPmgLT3ohyxDj2zGwKuT5Kmln2MFw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "this medical is very helpful for me\nall drugs available....",
+        "time": 1678014824,
+        "translated": false
+      },
+      {
+        "author_name": "Gourav Chouhan",
+        "author_url": "https://www.google.com/maps/contrib/117090817717493392435/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUR3s1iUleC5GN7UVg9RfHVRfVl17ESh2uV31mWAOU5b4a-xic=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Good services",
+        "time": 1746381977,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:44.961257",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Vardhaman Chemist",
+    "address": "Jagdish gali, Jain Colony, Nayapura, Kajipura, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJ-QJ7bCV0YzkRLi63TOei2RE",
+    "rating": 4.6,
+    "user_ratings_total": 8,
+    "price_level": null,
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1954141,
+    "longitude": 75.77327509999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfBZZbupzAyTf2TxNA_Y4fiaKCwFDvJCU6ChaTHraH5n5Y2gYjDlxGR993fxm-403fXZoLKlXv3EVEEUwM5DfAsGPFW_9O5lIX0OV2-ijIGUxpQiX4mcJFeUV1edm6s2qvtjZf-COUP045QzkO4JtU_GgKeQFpcd8FFh-RRx2ncqmuS_30itN9X6YGXdJM9_UopHs8YpHPF54EZKaSR2sTvl_N3wAe1GNnJBzm376Ndnsw3096YH62RtBPzR_r2d3tIGHBpFT4iYzMF-3vAOCH6OdQl4-DkNz-GIz9c1Cwhajj6WQbN1vZCADT977WEYLihdRpf7cJW-vu4718oUfS4Ff2rqDPrfo1EM8J16IwxmxVeIAYu6mzvaD0TOqaCviS6-kt25B6fV6aomJRFBVn7x5yawruC1Cwt494soSSLFBMJQc-MR4hK5RGSoOaVB3OeGgYkTk6-0e_gMj7JOlAVknmmQI3cYg_5bTc9&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "094259 15206",
+    "opening_hours": [
+      "Monday: 9:00 AM – 11:00 PM",
+      "Tuesday: 10:00 AM – 11:00 PM",
+      "Wednesday: 10:00 AM – 11:00 PM",
+      "Thursday: 10:00 AM – 11:00 PM",
+      "Friday: 10:00 AM – 11:00 PM",
+      "Saturday: 10:00 AM – 11:00 PM",
+      "Sunday: 9:00 AM – 2:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Shteyansh Giriya",
+        "author_url": "https://www.google.com/maps/contrib/101091643458003425195/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMUPlYnKwvOOo9JlYdbsL5qVN6vDD-YLhAuYjjOtVDtwTtaQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Good service aal medicine available",
+        "time": 1616307679,
+        "translated": false
+      },
+      {
+        "author_name": "SAFAL BHAMORI",
+        "author_url": "https://www.google.com/maps/contrib/106617111293912608095/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDBiiCOzp5o2OTGkdJrnc3r89GHbyXmYH5HCXgfUP0ZiQdhtE7=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "✨",
+        "time": 1668480886,
+        "translated": false
+      },
+      {
+        "author_name": "Dev Panwar",
+        "author_url": "https://www.google.com/maps/contrib/117599941489878460316/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWj3ihZ88EbTW6apGeFPLqXWNrt5dhw0yoaA8ziTvl4QOu3M1_XaA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "",
+        "time": 1562826597,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:45.049365",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Saransh Medicose",
+    "address": "Shopping Complex, 9, Rishi Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJm8Hcp3x0YzkRpLMB72CPmAs",
+    "rating": 5,
+    "user_ratings_total": 19,
+    "price_level": null,
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1662745,
+    "longitude": 75.79613119999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcP2J9pgCB8qSdrwF0ewcTByDkv8_hoxHEYXKorn0AVVWfAJh6HHYtuyE2YpZWm_bhWaeT-pUkNIypxv5uYRHE33llo9TCjzky2yBD7hSH4bDMuDtnb0vTCHyV1lLRj685vYzWBfxKEgKbeJhdy2QmKxJYjLj0zCOD_1KnqqG3teRimzWzhee51vPO_YDr2mR29cUtA_U1iFj1LilINxhs8oIoDjoSgvZuvw78M_HcwGDzefb9SF6MiYg8C3hA20KQ8m2HgZToFnqH9SkIV1mXoIZjd_b7Zh4-uwG8u8KoaeyauNOKSiQEL62E9gYnUCb0WvbrhowQe0G54EFrggza5mtQnKuPzRH7QuRj64w6j1RM2YyggldOyCSj2VCngjKPRUoVhF_pS44W1oj1XYaIpdY2Z4EZqX8lt8ObXq2u5P50833VlrB2gAYpAJaDZrwfRhaoG499ePuNGCdKVtIBmnRoTxCJqsE6CgvwPdVWXnQ&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "099265 24352",
+    "opening_hours": [
+      "Monday: 7:15 AM – 11:30 PM",
+      "Tuesday: 7:15 AM – 11:30 PM",
+      "Wednesday: 7:15 AM – 11:30 PM",
+      "Thursday: 7:15 AM – 11:30 PM",
+      "Friday: 7:15 AM – 11:30 PM",
+      "Saturday: 7:15 AM – 11:30 PM",
+      "Sunday: 8:30 AM – 9:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Dhruv Sehra",
+        "author_url": "https://www.google.com/maps/contrib/100903133497270407148/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4ef3lgzKR8ENqKvBngrMwdYicPKrUOSvfHF704GbQq_bcb5Yj=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "All Type of Medicines and Cosmetics are Available here.! GOOD SERVICE!",
+        "time": 1543942687,
+        "translated": false
+      },
+      {
+        "author_name": "rahul gothwal",
+        "author_url": "https://www.google.com/maps/contrib/114233615430010319432/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmlI3Fvx78-Nc_CFHY-43HpEWyl4UYRC-py-tP-Lsa6BQeS8w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "We provide good services with home delivery facilities. You're welcome here! 🙏",
+        "time": 1528818825,
+        "translated": false
+      },
+      {
+        "author_name": "YKA Deva",
+        "author_url": "https://www.google.com/maps/contrib/110348664875727981678/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjBie8xy5AldwtGaMUKUzJgRaiIIS-nO7G1LNOUBEPWt_5BE6-=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "Have a wide variety of beauty products and other medicines.",
+        "time": 1500148147,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:45.142425",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Samarpan Chemist",
+    "address": "4, Dwaraka Mayi Tower, near S.S Hospital, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJP-JozW10YzkRx3x8s1m8fno",
+    "rating": 4,
+    "user_ratings_total": 5,
+    "price_level": null,
+    "types": [
+      "drugstore",
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1786247,
+    "longitude": 75.7924101,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpei8soQOlxd8iVq6EnKVFX5y-xi_-8brJPNwGuQviIgpHFBSAYU5ZKzhmDSRm0XqdL4RS_YygZkZmKC5KcwOteVcAVScUucjiksK9AaFuT4r-7e7eCfw9PkLro7vp9vjRmo-x4AtyuOFNLYMX5b3BdJ84FDgnCvL2_ClDPw4P_OfVfaxAndZrQFAxV7Z92gzt5ErlK11E10yCLKgLLaV3A2oHATbPcMjbvz9KgCoFU3RafJe3FtizueaZvvHyfj81-UH5YUEb7rwMllc5rhZBnIJLS_6bDev8aHYGMscRidUFG_QHw&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: 7:00 AM – 12:00 AM",
+      "Tuesday: 7:00 AM – 12:00 AM",
+      "Wednesday: 7:00 AM – 12:00 AM",
+      "Thursday: 7:00 AM – 12:00 AM",
+      "Friday: 7:00 AM – 12:00 AM",
+      "Saturday: 7:00 AM – 12:00 AM",
+      "Sunday: 7:00 AM – 12:00 AM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Mahend Patidar",
+        "author_url": "https://www.google.com/maps/contrib/117264628948156109415/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMROd9TPXLJyVf3UQc5eq-8fyQE1yfSI8790mY-90pME1fhA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Best",
+        "time": 1698053572,
+        "translated": false
+      },
+      {
+        "author_name": "Sachin Patidar",
+        "author_url": "https://www.google.com/maps/contrib/106723898321751360769/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIKmkOK6VIVeCEti4fiNif8bG3arUjqcFw8luemR-KyOJ6MCA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "",
+        "time": 1698053350,
+        "translated": false
+      },
+      {
+        "author_name": "D.S. Gurjar",
+        "author_url": "https://www.google.com/maps/contrib/100294861513127833312/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULLYaOXRru8F4sY3EYU-cvCO6GkA-7mHyDQzhqLXy8FBoA51Xg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 years ago",
+        "text": "",
+        "time": 1593326546,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:45.221447",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Nandi Chemist",
+    "address": "Ganesh Chowk, Nandi Bhawan, Namdarpura, Urdupura, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJJ1mRySV0YzkR0gE4zHn8zTc",
+    "rating": 3.5,
+    "user_ratings_total": 2,
+    "price_level": null,
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1984632,
+    "longitude": 75.77429339999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcYzuk_M1Gx08XqzgAmsJE6F2OkBMcyAJ4QWgaX3XC9ESP5DpaCkCttK1y5BmMdO2AjIaQeMDGBhYjkND_OKSMWZTfc1UhttZPqXGqVX45Gsmh0faATP3gisfhhAg1zwe1DmcyVUCFrKKSynwKnBo70DbXAy80xMntCLsaK2bFGjH6_nt4CLIO_BtD2gMZ_2TcMTjtrXCZf3eFJt_HGZZ1wO_JLRUH0yAQXsdl2OZvcvSQ1nS0SxeAf0HCAeJgE9LXYxptCMHRdMoJ3E81mdxRE5jBDruq1IS7U9Vt7zRpQ1BrqNw_nzQacyPw_93l7K4KC8x-YEkLxtH9vWlch14kD9brFYE78eHjd6Ji7LKKum1Eqj0X36ZOghQUrpz5iDSG5rGp_piLb-1VFurUPlbpnUe0IJWlO0APka1WH5yUoB6xnqesRAe7ORXm7D_rk19erJPf7UNDIDkNu80bSfBU_-csG0EkHgqHWvPZBxL5PDmFv&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "098268 28370",
+    "opening_hours": [
+      "Monday: 9:00 AM – 11:00 PM",
+      "Tuesday: 9:00 AM – 11:00 PM",
+      "Wednesday: 9:00 AM – 11:00 PM",
+      "Thursday: 9:00 AM – 11:00 PM",
+      "Friday: 9:00 AM – 11:00 PM",
+      "Saturday: 9:00 AM – 11:00 PM",
+      "Sunday: 9:00 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Yogesh Solanki",
+        "author_url": "https://www.google.com/maps/contrib/108456649426645424632/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTygq2FkDtH1JJU-7X98Lg5V0PL1KxSUageWOREeDexmR8zw=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "7 years ago",
+        "text": "",
+        "time": 1529254664,
+        "translated": false
+      },
+      {
+        "author_name": "RICHI k VIDEOS",
+        "author_url": "https://www.google.com/maps/contrib/113335944713894925367/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-cdyDqgpBHRaW4fAHX5Ruzm3pidajVhQCp2ZdR7ryRRZrYqgS=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "8 years ago",
+        "text": "",
+        "time": 1498848828,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:45.298869",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Manorma Medicose",
+    "address": "55, Ramghat Marg, Harsiddhi Gate, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJ3dkSrjZ0YzkR-E8ggNhTWG8",
+    "rating": 4.8,
+    "user_ratings_total": 8,
+    "price_level": null,
+    "types": [
+      "pharmacy",
+      "drugstore",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1860791,
+    "longitude": 75.7671518,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpe4_I3kUGx5675gYwz7byNNuHCjHRxUUlgkfwAjVEvPRQ5HyFoWtGJ6Ho_X2vWiei22652hdM8-GWRaHP8RGAbieRxdA4PzUFSxWQu2HWBGFMXOyeShG6yQASNl7tKO91u6hj5GIcl9PLqWb3IcHQRJR1VitKjpzj_NiQfId1SKtNUape04Gk9KMSoObzY4QAsOJmdfYMcbDhmIi8NrJBCgXSPujTMtQ3HLHpb8DVnP5AouF5qPF3hWv11UBlxBLKbldq8w45565anHoHlzd7arwH7cQg7zM5D0_ba7Hbfx_Wc_B6Me0TBJeoOAn5tOMA5RyjCDdCcSD7EOU0i1pe9Wje3NxCYDH_YxAJyMPhlqvP1v8Km9-AXpPQh_sqO2sIMhnMHz0x7jDyVJN7QxAVKdzZYP-67EAHVvKdMJ0rmXQQLY2FrcnSfFni0T-yfo3zniUShXChvQTeF9cUl7md33-e9DBFPwC00lT9RP&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: 9:00 AM – 11:00 PM",
+      "Tuesday: 9:00 AM – 11:00 PM",
+      "Wednesday: 8:00 AM – 10:30 PM",
+      "Thursday: 9:00 AM – 11:00 PM",
+      "Friday: 9:00 AM – 11:00 PM",
+      "Saturday: 8:00 AM – 10:30 PM",
+      "Sunday: 9:00 AM – 11:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Arvind_. Verma",
+        "author_url": "https://www.google.com/maps/contrib/104927821203629561443/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKHDJh3qK6Hj-R9XxQSoRKki9rsJGfMUb5t5jpHny5Rjx517A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Nice",
+        "time": 1694783802,
+        "translated": false
+      },
+      {
+        "author_name": "Avani Bhawsar",
+        "author_url": "https://www.google.com/maps/contrib/101767555028703040766/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqCFkUCygMdbA6IoCf7v8Wy3f_jvj5y9qQsv5-Y_WjolmM3MT0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "",
+        "time": 1735640942,
+        "translated": false
+      },
+      {
+        "author_name": "Shivesh Patel (A Traveller)",
+        "author_url": "https://www.google.com/maps/contrib/114401198291898271332/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWBajWHET-zVT8T6c0htXbCePIppYMxq6oenHMYtZD6S3YFOkkXg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "8 months ago",
+        "text": "",
+        "time": 1728534990,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:45.397878",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Pavitra Medical Stores",
+    "address": "4, Bhargav Complex, Teen Batti Chauraha, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ33-bXGl0YzkRiSd_KcEDLD4",
+    "rating": 5,
+    "user_ratings_total": 4,
+    "price_level": null,
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1768621,
+    "longitude": 75.7884566,
+    "opening_hours": [
+      "Monday: 9:00 AM – 12:00 AM",
+      "Tuesday: 9:00 AM – 12:00 AM",
+      "Wednesday: 9:00 AM – 12:00 AM",
+      "Thursday: 9:00 AM – 12:00 AM",
+      "Friday: 9:00 AM – 12:00 AM",
+      "Saturday: 9:00 AM – 12:00 AM",
+      "Sunday: 9:00 AM – 12:00 AM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Aman Garg",
+        "author_url": "https://www.google.com/maps/contrib/117664224036332879085/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXY2UwthkHMHvzSqH_njWa8FrrANbw5YZt8Bcpn3xtXpzCpz2HW=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Remains open till 12 midnight..",
+        "time": 1641320892,
+        "translated": false
+      },
+      {
+        "author_name": "Ashish Lashkan",
+        "author_url": "https://www.google.com/maps/contrib/101122623931480826838/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGiTrkeb2e0TlghGyOJMJX25BkuNlu71YFpuXQtGMWsDWejczqig=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "All medicine are at discounted prices at any time",
+        "time": 1536288341,
+        "translated": false
+      },
+      {
+        "author_name": "Hemant Dodiya",
+        "author_url": "https://www.google.com/maps/contrib/115518686993034895425/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIU4xpgn88f0M0usVnEALcFV0OTDOhvbQwDnFqtkYgQRxlRoA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Best Service",
+        "time": 1601112267,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:45.429734",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "best Price Pharmacy ujjain",
+    "address": "kanthal chouraha 1 ankapath marg `Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJ1xP4yKp1YzkRpds9WjTUjLI",
+    "rating": 5,
+    "user_ratings_total": 5,
+    "price_level": null,
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1879995,
+    "longitude": 75.7769217,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpc-PARj7lUDw9Q2eL4YidLPN4bW6wg-U9adnupYkx3TwbY6GzfyPw1rRun700n9atgHU-_P6LKhEFOmsfAbdrGySsn-afHEsQ89O3-EE9Uc2orIAVKdSzV_iQ7EB4lEGrzhR6IM_WKNM2obmujpe1zhjWU0W9iqt_uhsACng7MciAJa5S35TqG6yLWOsG_vJ2OVMpvzVRLWzrgOlCNMhCScg5DCafCFF1yEvVrCHkjht3i2ubBXnHYAzag5d6MaLWe5waJDTpbyfHuSyY2ngSu2h1yhwOsjC8GHw67EDfNpwrpqk8I&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "098275 01339",
+    "reviews": [
+      {
+        "author_name": "PK JN",
+        "author_url": "https://www.google.com/maps/contrib/100475349717251357815/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJGuJSpejSx7phNFyWigPR54uxqrgHFxVM4eQeIm9J-Cb1CQhA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Best medical for retail customers",
+        "time": 1719341901,
+        "translated": false
+      },
+      {
+        "author_name": "Dilshad Hussain",
+        "author_url": "https://www.google.com/maps/contrib/104312987076098598992/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzXyceHOVsUkQZX-kY-1hfx0TCWpfeOkXOtIiXVNdiUPJAyXk=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Genuine.",
+        "time": 1659242811,
+        "translated": false
+      },
+      {
+        "author_name": "Swasti Mponline",
+        "author_url": "https://www.google.com/maps/contrib/113995437051565006615/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNJwaAxnwtEjb2TSt1U33L1ukfFFA08vQjXjOrd-kVzMrCUgs=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "",
+        "time": 1737883928,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:45.513578",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Hind Medical & Cosmetics",
+    "address": "Gandhi nagar Main Rd, Sairam Colony, Gandhi Nagar, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJH5N8QFZ1YzkR_mpBGchTRvw",
+    "rating": 5,
+    "user_ratings_total": 11,
+    "price_level": null,
+    "types": [
+      "drugstore",
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1988917,
+    "longitude": 75.7826249,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcXm4DThwM40aLRtTx-fhGS0vMEvSf3nnw9uCiUwYZd_SQW1zi1iTw8T9gxWlC3pmGqr8pZRuUXrMmYr3oX8ir9r_Uut6dPuqgEaCPnTxfpF6xs3isq1grveaWl2PqGCmI3FuCFQq-QiJwluZVHp2f9rXvvIGPtIDXn_oOMfWTvqbf-fDQRThXPaP2wPDUtiWxzwywU2KWR1RcgvYSRGCN3HDcWBSOqDfl43R1i6h_1N1xeO__L85PnovCvEF_qEF3zqkyAo5rIJbJE5c2iMyrrZGYXB_1EU-bXCLvfjRllHifpzSI&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "093007 06370",
+    "opening_hours": [
+      "Monday: 8:00 AM – 12:00 AM",
+      "Tuesday: 8:00 AM – 12:00 AM",
+      "Wednesday: 8:00 AM – 12:00 AM",
+      "Thursday: 8:00 AM – 12:00 AM",
+      "Friday: 8:00 AM – 12:00 AM",
+      "Saturday: 8:00 AM – 12:00 AM",
+      "Sunday: 8:00 AM – 12:00 AM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Raj Sen",
+        "author_url": "https://www.google.com/maps/contrib/110689076720951179073/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8s7PHLO8MLUdXRv6y2EKzSs0Ns9Hx3qThkvyMwZ8DzZgNdMQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "This medicinal was good and healthful medicine in all parpas .....",
+        "time": 1704276005,
+        "translated": false
+      },
+      {
+        "author_name": "Nadeem Ansari",
+        "author_url": "https://www.google.com/maps/contrib/101207111483390667924/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLOscCv6YO_v11_Bf8msqcQx3T28461kBcwTPhwlA4RuPT6Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "",
+        "time": 1718780766,
+        "translated": false
+      },
+      {
+        "author_name": "Rizwan Khan",
+        "author_url": "https://www.google.com/maps/contrib/101286069168808261223/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKt9l40sIiEbIntpqmCV_IViAUKuF49_t5e9H5PMNad9GrsWQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "",
+        "time": 1642171548,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:45.570513",
+    "source": "google_maps_api",
+    "data_type": "real"
+  }
+]

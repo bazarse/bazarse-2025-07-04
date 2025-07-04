@@ -1,0 +1,1221 @@
+[
+  {
+    "name": "Bank of India ATM",
+    "address": "5QH7+PPQ, Ganesh Colony, Jabsinghpura, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJ4Tgtbkp0YzkR1JJLEqu6nJk",
+    "rating": 4,
+    "user_ratings_total": 1,
+    "price_level": null,
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1793489,
+    "longitude": 75.76433639999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfoM0oU95deikZykAOsOrpDqnQu2sKGTza7XREx7eYw9iVTOdJF6hdn0S6C_24Kk6adbsrzonFoV176K_DSN8nkILtAyuGQDnNJtRycPDBHFd9ROB2q3d5AL5SfOdaZAJQR2MQEq-VxyL88UiLKAM9oWXV43_UjX6hNSOAFobDzd_L55oBtgg-x1g-H2NvfYCH1aDy_l9QpdpKv7UdP-I1-Brlq-gIEsPcem3SCkSrlnllOIbL1pleOOhMkMr7vD1oQUQlYXRkDDTZqywn6fGYnvqVrjC7rzprONpGJoy-TzuNDsMwMLJjrwc6EoTV6Ckg5D0HB930yUSBTng8IWYb2jDTXa-GETZ3nmHbNh05lfLXs-zrHRuJ0ogETBa5eGySsYjAyZU26kx3WQlzTceFpumZ67igEIXG2vfN8ryhGMLiQAftW4-aSLJhM75qlFUj4lqIB4URYvhV1jjOxxW4re-4ouNKTfBj8njSMei_due9Bg-BzmAGbOkjd8I-pdX5gePZglU9mtufxiV6FNJAKnvQzAKxIEV8RcxXllme0VTyN91yqcoyGcVnPpgwOIg_2z6wb54hbnA&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "kapil jadav",
+        "author_url": "https://www.google.com/maps/contrib/103301802328711160834/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXmOlw9wwWaAcAxlcg2kRLxvnr_SsArB_5PQVQtXrvwUw_Cutf=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "6 years ago",
+        "text": "Near to Mahakal temple",
+        "time": 1553781904,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:56.492900",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "address": "76, Vikram Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJ55t2xm10YzkRYGZdHy5kJFw",
+    "rating": 3.5,
+    "user_ratings_total": 2,
+    "price_level": null,
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1791129,
+    "longitude": 75.7934191,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Antim Mandloi",
+        "author_url": "https://www.google.com/maps/contrib/109876054537925580996/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOu9s6IYup_buDPALeQ-0qZI2SAVVWkUea5D8O_6ImACGsMA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "",
+        "time": 1499957836,
+        "translated": false
+      },
+      {
+        "author_name": "shreyans jain",
+        "author_url": "https://www.google.com/maps/contrib/112498474483204129465/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWshFVZ8B1FQbUWCHfSxzVRm0dgW0Fvj5XDeWyCjqhXVZUvH3kZgg=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "8 years ago",
+        "text": "",
+        "time": 1499111033,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:56.571341",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "SBI Bank ATM",
+    "address": "5QGR+555, Kamla Nehru Marg, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJoVko2m50YzkRao9DZCyBWww",
+    "rating": 3.7,
+    "user_ratings_total": 3,
+    "price_level": null,
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1753909,
+    "longitude": 75.7904509,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "sadik mohammad",
+        "author_url": "https://www.google.com/maps/contrib/112414789695960210887/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAc84smMnCj9yjLcWnV3_jPNfTdpgXLywXGHCPGh9O5qHxNKRS=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "7 years ago",
+        "text": "This atm provided cash 24*7........",
+        "time": 1507796597,
+        "translated": false
+      },
+      {
+        "author_name": "Suuryakiran Waanapalli (Sanni)",
+        "author_url": "https://www.google.com/maps/contrib/113255810996611460514/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5q0M1zrojfCJjLyr1UJt0nmr7DQPt16NEYvnvc0_-HrOvBg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "6 years ago",
+        "text": "",
+        "time": 1532516354,
+        "translated": false
+      },
+      {
+        "author_name": "shreyans jain",
+        "author_url": "https://www.google.com/maps/contrib/112498474483204129465/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWshFVZ8B1FQbUWCHfSxzVRm0dgW0Fvj5XDeWyCjqhXVZUvH3kZgg=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "8 years ago",
+        "text": "",
+        "time": 1499110867,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:56.650230",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "State Bank ATM",
+    "address": "5QQJ+3PF, Nijatpura, Malipura, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJZ3Ztbj50YzkRZdQK6a0K5oo",
+    "rating": 5,
+    "user_ratings_total": 1,
+    "price_level": null,
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1876847,
+    "longitude": 75.7818571,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "solankijeevansingh",
+        "author_url": "https://www.google.com/maps/contrib/112404312086756987505/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWevo6_RDmDZ4_0xQXzlvgqRnedm_gI55ftrfZU3OmJYQGmrqRy=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "🙏🏼",
+        "time": 1662022450,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:56.722542",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "State Bank of India ATM",
+    "address": "5Q4V+W3F, Nanakheda, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJsRQn_4h0YzkRTkIFN0sjnEM",
+    "rating": 5,
+    "user_ratings_total": 1,
+    "price_level": null,
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1573159,
+    "longitude": 75.792675,
+    "phone_number": "1800 11 2211",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Yashvardhan Singh",
+        "author_url": "https://www.google.com/maps/contrib/107332177580439324217/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRmkE6GXRwUZJHUYaLY3zstZXzfaCIoJGHgNchMPPAMIYQOmO5=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "",
+        "time": 1571230189,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:56.799861",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "State Bank of India ATM",
+    "address": "332 Sethi Nagar, Chauraha, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJOUmOfHZ0YzkRNn00fPJH4rk",
+    "rating": 3.9,
+    "user_ratings_total": 15,
+    "price_level": null,
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1782205,
+    "longitude": 75.8041254,
+    "phone_number": "1800 11 2211",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Utsav Jain",
+        "author_url": "https://www.google.com/maps/contrib/102382950958251289817/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULj7bgRfb8m95qjnS__C7SooUYZNWahBdpM17mzo8qFSQms702=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "8 years ago",
+        "text": "Never has cash wjen nedded",
+        "time": 1476285931,
+        "translated": false
+      },
+      {
+        "author_name": "Dharmendra Patidar",
+        "author_url": "https://www.google.com/maps/contrib/105078707809161891398/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHcs2-MKfePAZplRRxRcn6Bj_jNUqjKi8EyXJ41rL_95WvFcTR4w=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "9 years ago",
+        "text": "Give service maximum people",
+        "time": 1463931000,
+        "translated": false
+      },
+      {
+        "author_name": "Jairaj Bhatt",
+        "author_url": "https://www.google.com/maps/contrib/105386441597798389491/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLiU9wL_9FcIjVER_G5-CAq1FgcyUmqfPfDPmCzg-vPZu37xQs=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "9 years ago",
+        "text": "Needs more maintainance",
+        "time": 1453277987,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:56.885325",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Union Bank Of India ATM",
+    "address": "5QJG+GCX, Ghee Mandi, Madhya Pradesh 456001, India",
+    "place_id": "ChIJAcu4aEd0YzkRQnD4xAJxek0",
+    "rating": 3,
+    "user_ratings_total": 5,
+    "price_level": null,
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1813437,
+    "longitude": 75.7761301,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcVgeZMor-XI2FTsvUZFbMB__dbjmwo2V8pfRO65IvdgoyFrAG6h4Re9jIBwKxdaiw0a4yP_TwR1gjBsj-2JyH0hyLKLXU8OIutwTf3F075haBp95-T2frBjcEA4s7j1Hz5AcOZsd3fpfdMy6b9t6lk5J6kcZ3gN7zMBh6i37g5JrduA8lSy6x5RrHowPeJ2FQNne52e5d-x9o-TqDU2dxel2tdbahUNY0KjLZ149uRUjHeSaWeYzh-vnn23m_4OHslTqGVhGXsLkd0xWs95TTeUIqLjrBZq2r4z2ja6jTL6l0H3dvUOaDqIqf1GyOIiBUoF0XnH9lF6W6j-AIZIftzFj0jAABgIKBt5p65-7USImfXMkbdl8-va53VKHqF926QKBVs4_I669D-I5uJ2zLBoEweR_V6wJ6CbUEDj96VAncSM7ewfq0wrxeo8NomxmHE21KJRxRh8aMoxSwCwBKkaqCG3aMpUuawQU0v3RW6EF1old9xIbshjKLcqPHc77R83D7g6pBkuKDqKghnRy8UeoZ5RsI2YOuBOokEtmlrVIFZtd3wKo3mfcbUoV0YKHSdsg&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "abizer sultan",
+        "author_url": "https://www.google.com/maps/contrib/105968353512490816036/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGt3eELgO6fBENfuMQUv9UUDq9TEjwvmDWZvo7td7IzLjRKfdmCg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "8 months ago",
+        "text": "At least update your atm branches or dont issue atm card to fool your customers",
+        "time": 1730563125,
+        "translated": false
+      },
+      {
+        "author_name": "Sadat Khan",
+        "author_url": "https://www.google.com/maps/contrib/101901125274022154511/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_fsx6cxzRcfkdnyGjCn9POA8mcf1qaN2vykgTIoz1tWkkGRsj=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "8 years ago",
+        "text": "Not showing branch code??",
+        "time": 1484719999,
+        "translated": false
+      },
+      {
+        "author_name": "Ravikant Choudhary",
+        "author_url": "https://www.google.com/maps/contrib/107223113245622243522/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7nd5mXlvWMVPZOAnYdxmjFg1FOT8espWmz4t9oB63wUwzyyNo=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "7 years ago",
+        "text": "Always out of service",
+        "time": 1503145064,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:56.968328",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "State Bank of India ATM",
+    "address": "5QQ8+MP2, Dhaba, Road, Ujjain, Madhya Pradesh, India",
+    "place_id": "ChIJdYN9AzF0YzkRjnxiyNpv8v4",
+    "rating": 2.5,
+    "user_ratings_total": 6,
+    "price_level": null,
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1891339,
+    "longitude": 75.7667651,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdKsnNawUQGkvzIlj_Wri0kgUzaOHYHjK2Qkjq-7140PQK8YZvztPqMQmU0pSzSv_QaMm9nUIPFWP4TdWHJY1UIgIXXL2ffcp-Bd-i3kuGgGah_A8AnOTFNy2uEskzrmavaZ5-tMb97C-7H7Vvo5yfFvnCV9kdkTj6_hrDLtJzpM0f8NoVIltKL-t56xtnQsSad5letQS5Yi2wXtkVM6kTzcWs40dpR6unY6ddZPJWewW4ep1LHMVyGRMDGuai_5eW6Ml7FgPe7GXzhrpsmBNSix0BIQgW4ZqHTPr-hQ3DAlnErx3w4rWP3ALNbp9qubjqpm3iTm_UG57jxPjAZBxfM4ETsHjr82jX6g8khQN3UZ0wv7H5UGdb01SvVvsIT3zjVnm4Vqv5DQxjuLP7jysq7b29PyzAlZve3Z5F-sXmC09hmtAs_7qFqEOOd8D3CqC6V5Hj-C5Thi4e-Ooq9lv_mwOMMtjGPiq4-1f2naET7v4c0D6bZ09yHeCAgHlFCCMyPbWZXKQGSNK520-VJytLAh_Gp0XjHZSuTpwSHNRuoGMvE5gUoiMjzsXfcu9D2p2NuAHF2&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "1800 11 2211",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "hakim dewas wala",
+        "author_url": "https://www.google.com/maps/contrib/113956264144819246601/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNKNvOso57Cp5BFjggxKOol2ao7uZAsC2Cb3oQEV_NQkTJH_FVdQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Very bad bank notes ....\nI withdraw 500- 500 two times but I got torn notes both times",
+        "time": 1718557616,
+        "translated": false
+      },
+      {
+        "author_name": "priya sonwan",
+        "author_url": "https://www.google.com/maps/contrib/113210374206148513895/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKyf2V8fCljru3_VxFMHgt8LHoAujLTPwPQAnNEOeuSo0TMeA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "a year ago",
+        "text": "Most of the time this ATM unable to withdraw due to insufficient balance.",
+        "time": 1694603079,
+        "translated": false
+      },
+      {
+        "author_name": "ADITYA MISHRA",
+        "author_url": "https://www.google.com/maps/contrib/100348058574368476516/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3Jii9kDafkSh7CcWjKEKh9_fIQ86aplOFajsm_UmwhaMNYIU=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "ATM was working at night\nlive saving 👍👍",
+        "time": 1718213670,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:57.051666",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Bank Of India ATM",
+    "address": "1 yantra mahal marg, near manchaaman colony, 456006, MP SH 18, Keshav Nagar, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJJXIgjUR0YzkRFD_-YsmYK18",
+    "rating": 4.4,
+    "user_ratings_total": 5,
+    "price_level": null,
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1736677,
+    "longitude": 75.77393119999999,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Pushkar Raj",
+        "author_url": "https://www.google.com/maps/contrib/100697292891029703754/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlDrRBwaOy8SYJPxIz1H5sE4fiS7u203hDv0uBiqG3GpZs6zLxrw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "7 years ago",
+        "text": "Not always but maximum time case is are available . Good one option near by",
+        "time": 1521745433,
+        "translated": false
+      },
+      {
+        "author_name": "sameer husain",
+        "author_url": "https://www.google.com/maps/contrib/111332618864961174049/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJawLo-nFA1HPB2XSeO-caPg5Xodzrh1eRteEQOm3V66UyApA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Neat and clean Atm nearby",
+        "time": 1590478464,
+        "translated": false
+      },
+      {
+        "author_name": "Keshav Vyas",
+        "author_url": "https://www.google.com/maps/contrib/108225559180190563190/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEvlgNvtqM9VL9fXQMYJDwbehKswwnoYCxwV5NN2QlXxB0aig=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "11 months ago",
+        "text": "",
+        "time": 1722383079,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:57.125704",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "STATE BANK ATM",
+    "address": "Railway Station, Bhartiya Gyanpeeth Parisar, opposite Madhav Nagar, Sindhi Colony, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJI2hRbWp0YzkRMdwqT4zz_NU",
+    "rating": 3.5,
+    "user_ratings_total": 4,
+    "price_level": null,
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1785772,
+    "longitude": 75.7843567,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfklX9aBkWpPRtZ8LBDsa_S6mOdSNCu203oKH-nY-niF_LkwYHKnVICPWE3DlPpg-1qDVh2ZGEjnj_vKabBbYg0u9p7tBJwl-94AMzQHRsJEFkoJADn-12_BHeKaPXCafyrx0l1D4EDtpurVRqNxKJEQinjJU3Pfziw2m02K0STMB9C4Iju-X-UPM_uyzEXZT86kpxq3Pn1hr9PDylCgx6Y6aYN1e9Btn-0U8p4lV8KVLnIFd0IwWCtMIHpb2g68u66W9x-CudH_IBMwPB3YflZES77npMCTlsnXM696r_qnEHxKkXIoJtbyTkOD2WIoDk-pawW4P-bp9C8kfkL2m5mT7Aa41q0qSMcZ6UI3yHEhp_8D7-acH7h7f5nqm-hOrF65wLc2jXfhFR6HtBZrYlNwyNOA5C61NbwhzbVuHtEeWHaSZpuBtUAbemmcIxLN9EwmnO9zVTRddaOfyZEo_g-F71dX-BSpqWXENIbGVE-dq36Q1fH1_FmjY6mH8MVdGWPdeTaiCZcsYJJ7mq-fbDVb4xCCSqlQ_ojftTW-q0n_qUycv11tkK8fx34xJwGY2aJnfki&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "___ yeeshu ___",
+        "author_url": "https://www.google.com/maps/contrib/117166726253469033286/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6qMk6DKQuKjx_3APr2Fvl5udrC1oFBKBopHXvtAn1jEHnLE4l3Q=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Always available with cash and working condition, near to HDFC Bank ATM. You can use any.",
+        "time": 1648713403,
+        "translated": false
+      },
+      {
+        "author_name": "KUMAR DEVENDRA",
+        "author_url": "https://www.google.com/maps/contrib/113371992972390984797/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWBmR-iUUeP3tHzEbCJFlsk5u8DAADjyYDQ4FsmLm04mZQ1uGM=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "6 years ago",
+        "text": "2 atm are there. Near by railway station. Freeganj side.",
+        "time": 1537073591,
+        "translated": false
+      },
+      {
+        "author_name": "Shubham Jain",
+        "author_url": "https://www.google.com/maps/contrib/110797108344036874559/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGODBnURk6yBbL0pl7OQU4Da3rz7I6iochyvKe81l3SRcG2eGe=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "9 years ago",
+        "text": "Good",
+        "time": 1458670745,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:57.201944",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "State Bank of India ATM",
+    "address": "5RC2+5VV, Zilla Panchayat Parisar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJwY7Zm3l0YzkRXLEfpqSZ-rY",
+    "rating": 5,
+    "user_ratings_total": 1,
+    "price_level": null,
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1704869,
+    "longitude": 75.802165,
+    "phone_number": "1800 11 2211",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Avinash Vashishtha",
+        "author_url": "https://www.google.com/maps/contrib/101450291509575810620/reviews",
+        "language": "en-US",
+        "original_language": "hi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMBjLrQZ30vS-RNj30SxMnYoHs97c1NAILFppEAr7m743V_uSK=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "it's safe acha",
+        "time": 1508568004,
+        "translated": true
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:57.279503",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "IDFC FIRST Bank ATM",
+    "address": "Shop No 32 Ground Floor, Durga Plaza, Vishwa Vidyalaya Marg, Ujjain Dewas Rd, nearby Jockey Exclusive Store, Freeganj, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ7cyjUZF1YzkReuOz49OQW9o",
+    "rating": 3.7,
+    "user_ratings_total": 3,
+    "price_level": null,
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1755426,
+    "longitude": 75.7906745,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeTd_UeiDbhia97ORzztx9TvFDtppyqy5Qctwzz5k0FNvw3lgNxRR7j0XOJyAYiizjBZ5Y6uRrAFDO1rZA6YN4ca0BKHQM8JWZVQ61PLfkhHbvmDLE2fRo4zQRqCca2xjvrjnGTXHnOERdD3SUYOAQPtCNMwhHk6HGaIkYmbXsbF2SEfB970fx_Rem5qH-BLHT5bx1Z9JHjh71znAXGW3WmT3sneFwoHJQBvm5HDjrexp6DrQx6b8CwP3lsjV3dX7vK7G2NZza4Rzm8rlMtX8Aj5CNOnaXUiRvVSjEf25z7VJSJKS4&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "1800 10888",
+    "website": "https://nearme.idfcfirstbank.com/idfc-first-bank/branches-in-ujjain/branches-in-freeganj/idfc-first-bank-atm-in-freeganj-ujjain--fda11d08-9bc4-44ff-ad5e-c812f31f8c6a/home",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "jitendra sitlani",
+        "author_url": "https://www.google.com/maps/contrib/115518430482361255485/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI7EnEnK02j4cLGdDMMLks_NtWlqSa9phWVGSsy7fGq3a44ig=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "Extremely disappointed with the service! I have been trying to open an account for three months, but the relationship manager is unresponsive. Being out of India, I expected better support, but the experience has been frustrating. If I were in India, I would have personally shown them how to open an account properly! Pathetic service.",
+        "time": 1738568978,
+        "translated": false
+      },
+      {
+        "author_name": "keval Vasa",
+        "author_url": "https://www.google.com/maps/contrib/111456219886782208642/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzSyIVO7E4QxEBbNzM-k_M9KzfwTxOPnb1IRit9VA_8UvxEdOc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "Good service 👍🏻",
+        "time": 1724586343,
+        "translated": false
+      },
+      {
+        "author_name": "Pankaj Baraiya_07",
+        "author_url": "https://www.google.com/maps/contrib/104269607066496607873/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFdghEkKdNETFYkq8LEbiAnbSJWShKX-haxiIkxCOTCMTqeDj_=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "",
+        "time": 1724585701,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:57.361545",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "State Bank of India ATM",
+    "address": "5QWP+6X9, Agar Rd, Chimanganj Mandi, Sandipani Nagar, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJhW4jxRl0YzkRpgS2ud3_ySw",
+    "rating": 3.8,
+    "user_ratings_total": 12,
+    "price_level": null,
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1955345,
+    "longitude": 75.78746559999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpep-pWfv_yDpJDnKSknpoMNLjHNqbkiePMx9CjZ5VHs2mtVoP5r6QhJ7lgdEFFCytc95NjSiHh6RAI_byNZiQNlYoRKDS94gm-wmQjvBzHjUnmO76eKCBmjsb4niKxZDnKaeDLbbXhXXIbpV8yNx-jVyuzi5DtxIEWUGVZoE4LJPXhqGaLixznD0ruARZoJ6nLUT5fUceo93kAQP0VnlVXklyiAndXrMPuitl9GhTmBdJjWly-PCsOu_iRuRfpch_m5g2gVUTjGATLqOLPnmYxxgnlB-uWPvf4IioIKlctikyStFCEqGhVkiFvkGgekWyz3sTn0W5CRNbwYCb1QPejuz2W-UdUbPcYkbhtrdCSdqQhsGxRVnAUVpJH0DIvtvioYCpjNLKuj6VYXdfkNAr3Z9d7bAJcMDozmF2saji_BMOjyYFQGX-Bv-RrAiFLAFG794P9XD63UvFna_omV9s-x-au2Oxv0Zjx9GEt7fSpdHDFkswsFLI73r78wGwKh8irUY9Xf810I0H3xkXC_m9lexA2z3F4yvmbdkVKX-xvuWw2ACqjVqgBOVSgNErVXrdJKVldd&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "1800 11 2211",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Anuj Katiyar",
+        "author_url": "https://www.google.com/maps/contrib/106282772995031355864/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWV3bEOzPOFQTvgYC1oHr5MICRfjZG6KezQajVe2ZX3xV_3E1Ym=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Make the best location if you are in a hurry to get cash on the main road and near the petroleum filling station",
+        "time": 1687060739,
+        "translated": false
+      },
+      {
+        "author_name": "sadik mohammad",
+        "author_url": "https://www.google.com/maps/contrib/112414789695960210887/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAc84smMnCj9yjLcWnV3_jPNfTdpgXLywXGHCPGh9O5qHxNKRS=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "7 years ago",
+        "text": "ATM +CASH DEPOSIT MACHINE +PASSBOOK PRINTING facilities also provided 24*7",
+        "time": 1508003512,
+        "translated": false
+      },
+      {
+        "author_name": "Arihant Dev Jain",
+        "author_url": "https://www.google.com/maps/contrib/100362003793450128031/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdxDz12z0jX_LIQ_Ig-vipwUVZNKuO5RcUoc8oaVBhW5oceF8=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "Doesn't do any work",
+        "time": 1636645560,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:57.444200",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "State Bank of India ATM",
+    "address": "A9/24, Sanwer Rd, Shivalay Twp, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJbTIViIp0YzkR4YJoTmQrNA4",
+    "rating": 4.1,
+    "user_ratings_total": 8,
+    "price_level": null,
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.159272,
+    "longitude": 75.78658349999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdSZ81ABFu2QCdvSF3bZ09IzxlvUJWI6uY6ALW9BYoAUeqzXtjWLX7qGWW2G2OcfG46B6bBgfxz9ORVgi86AeCIfm49QQjjqe51G4qn7HPT_U9ItgAp6_bpA5qQZUSHK3aFKsw9y-MILk9IPXx5zkHcjl_IgNk0Sw_Fj3-qud1dutm0_G6_Ir-ElZ--_VN0glQS0jljQTmWr9LlE-Pkn0QWjaqbebzPahDt-FLaCJ126pjL5vwmRIeFiew7HkD1md1I3LVjMktnKsQCjgVoUc7ZROj55HpcAYnvMkKqXHQpEQ6u1CoodPbwHBztFTCzQNkx7JhiIle5P3VAjhVh-hJJOc0PLN6HitA5nHk_uVF5sJ_FeRgK_h5-4MKNGkc2SZ5nodCSInJBZP785kWcK6t1oBDpYJJClwEg3yDOQjJHSiFte7TZAsrk7hf0ZNEhAQg6IM_v-Y3rGz1reVza-zkZ_bUjv84dbnl7ko6aRmFxzc7ZyAuvIkGM-Lrs-U47gjhLGfBfYlaXhxVjAfCeF_QJfUilS4o6hTDLAhpyofpOreYmzu9_1uKgYSyoxEE0usD7KrUM&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "1800 11 2211",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "G S P",
+        "author_url": "https://www.google.com/maps/contrib/118303313926095582142/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCF0XVFTI3cpJVWl9ct6ibbJBCVmwJk1PCQUEqasisHqOlYQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "SBI ATM - Best in class for money transaction",
+        "time": 1501610510,
+        "translated": false
+      },
+      {
+        "author_name": "Manglam Joshi",
+        "author_url": "https://www.google.com/maps/contrib/112671104672892658830/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkIvL9zV3TQVDoT5X9A-jT7X7kOFeTgX2fEPX3Tmik9Op_nS67=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "3 years ago",
+        "text": "Good location, can park vehicles too near atm",
+        "time": 1625745286,
+        "translated": false
+      },
+      {
+        "author_name": "VIVEK BASIWAR",
+        "author_url": "https://www.google.com/maps/contrib/106742730586202205893/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuiPtmC3lqXPsE2K87zAVHqJMzIVE84W1odgHE5wpnHg9DpzNf=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "It's in GAIL Premises",
+        "time": 1721872625,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:57.520615",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "HDFC Bank ATM",
+    "address": "No 31 Ward, No 29, Ankpat Marg, Nikas Chouraha, Patel Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJP1l_njt0YzkRM6LESV3houA",
+    "rating": 1,
+    "user_ratings_total": 1,
+    "price_level": null,
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.194631,
+    "longitude": 75.77739679999999,
+    "phone_number": "094097 67967",
+    "website": "https://near-me.hdfcbank.com/branch-atm-locator/hdfc-bank-atm-nikas-chouraha-atm-nikas-chouraha-ujjain-21125/Home?utm_source=locator&utm_medium=googleplaces",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "rahul kumar balech",
+        "author_url": "https://www.google.com/maps/contrib/114367560782357358693/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxUOdqiM5cCdZ8W4zUSLwicqFqWlaDZANocHEjK_jy_RqL2YFSJQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "",
+        "time": 1712678034,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:57.594551",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "State Bank ATM",
+    "address": "Dewas Gate, Malipura, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJy_4VaEB0YzkRk98yST6_hzw",
+    "rating": 2.8,
+    "user_ratings_total": 6,
+    "price_level": null,
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1813997,
+    "longitude": 75.7814571,
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Shubham Jain",
+        "author_url": "https://www.google.com/maps/contrib/110797108344036874559/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGODBnURk6yBbL0pl7OQU4Da3rz7I6iochyvKe81l3SRcG2eGe=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "8 years ago",
+        "text": "Always helpful",
+        "time": 1475220207,
+        "translated": false
+      },
+      {
+        "author_name": "Rishi Rajput",
+        "author_url": "https://www.google.com/maps/contrib/115773115690482494950/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8igh1GWPycoMSROTHCN9cQ1SxL5IdxX_XaAw53vuwrAz7ziEySA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "",
+        "time": 1665033621,
+        "translated": false
+      },
+      {
+        "author_name": "Abhishek chouhan",
+        "author_url": "https://www.google.com/maps/contrib/102396159767963690227/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVITGKpFfu4wV6Wy2hUgeoFoKtaRWyGYQF7Jx5NCTDIqI6awXoy=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "",
+        "time": 1640857113,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:57.676286",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Union Bank of India ATM",
+    "address": "5R82+94P Divine Valley, Dewas Rd, Rishi Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJA1WFEHx0YzkRdW9Xt6AdJDI",
+    "rating": 4.3,
+    "user_ratings_total": 3,
+    "price_level": null,
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.165958,
+    "longitude": 75.800325,
+    "opening_hours": [
+      "Monday: 10:30 AM – 4:00 AM",
+      "Tuesday: 10:30 AM – 4:00 AM",
+      "Wednesday: 10:30 AM – 4:00 AM",
+      "Thursday: 10:30 AM – 4:00 AM",
+      "Friday: 10:30 AM – 4:00 AM",
+      "Saturday: 10:30 AM – 4:00 AM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Vishal Sharma",
+        "author_url": "https://www.google.com/maps/contrib/116628210923644694970/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUexE12qZXFVHK7Z8NO-9QvhegQ0h1KZDJwuCwsMRbgLRI0naIYrA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "ATM in working condition, quick responsive machine, no Cash Deposit machine here",
+        "time": 1640428164,
+        "translated": false
+      },
+      {
+        "author_name": "Er. Atul Kumar Pandey (UniQue ContriButions Tech)",
+        "author_url": "https://www.google.com/maps/contrib/105546372975417323313/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6qmaNXtpWhytX-P2fVUQgGEDkGXgDHDrJGBNFRCzZxr4P9h11cA=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "7 years ago",
+        "text": "Good services and place attached main city road",
+        "time": 1526753486,
+        "translated": false
+      },
+      {
+        "author_name": "navin upadhyay",
+        "author_url": "https://www.google.com/maps/contrib/117792826905894598212/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlSpGRcfBsfV9aEQ9f1RpNKXC-jN_7NBbd6Sq4hnAxAOVcuWKw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "7 years ago",
+        "text": "Nice service",
+        "time": 1503036607,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:57.754585",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Canara Bank ATM",
+    "address": "Railway Station, Mahakal Marg, Malipura, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJ9aW7qkF0YzkRZWWJMv2e27A",
+    "rating": 3.8,
+    "user_ratings_total": 4,
+    "price_level": null,
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1793833,
+    "longitude": 75.7814764,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcaWD2_EmxWQUqMy-KR9YkI_hkRlzl3tphS1tLF-s66HhDHFetIHuWmrCLcrN8pxErGtn174d6LsBH-R8PGgnEKDUvqbmy69qjbTlAlBJM-eiu2L-xkMLI5VwVfV5_-VzadKCGUl35CXPGFViGEMTkVh5rJS-2CRIVs4TcHb39V7diXBMjFVbiWW3XBHjvFEZYTm62YbLqRItuHVGihUlU7SoiEX06OnKontj8pU73Ta_-Vbv7Md7nUaH7O30qeVg9pOI499ujCBZ_yWH6cp3LY2Polq-PrrHrbFIbOMrnKM-Y77DE0NO2qxZOgjx4HJ_HExtKVVB8CIsdu1WhoYGGyOshNL00IHseVFUD3VXPJrrQnJgDVHy5cQOPAO89rGZOhgBk89JlLTcrolATyOM-rPpnC6O3mbpGNgNjFsfRtO4rj3RIWMnckUf8L0mRt0t2wwPBNyOTdaITYhIUk2nm3GK7WqqMiW4OYg54ZEOpORYGLrlAdO7Vuvs5a-I2rNhm2BV1Ihs8I4gaj7PUL8ixSnr_1j4d2NrXB8lfleUnw8OU2C7KUhhJf4Tggp23xoNnIms0VyXNiAg&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "1800 425 0018",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Israil Khan",
+        "author_url": "https://www.google.com/maps/contrib/104169239632486412274/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnW1Uv-kB3cON0zWXGZDCCiCNFU76mWB9YyfQvd4wnmhwY1Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 months ago",
+        "text": "ATM closed before 3 year, now no ATM available at this location",
+        "time": 1731244195,
+        "translated": false
+      },
+      {
+        "author_name": "Shubham Jain",
+        "author_url": "https://www.google.com/maps/contrib/110797108344036874559/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGODBnURk6yBbL0pl7OQU4Da3rz7I6iochyvKe81l3SRcG2eGe=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "9 years ago",
+        "text": "Near to railway station and reservation office....and very helpful",
+        "time": 1458759685,
+        "translated": false
+      },
+      {
+        "author_name": "Dinesh Gupta",
+        "author_url": "https://www.google.com/maps/contrib/111315301793954461755/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGkmuPR5p3T11oUYC1Hn5ZUBplszQ0LDTr7ai07MrBWwKaxB926g=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "8 years ago",
+        "text": "Good facility .",
+        "time": 1497834577,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:57.838154",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Union Bank ATM",
+    "address": "5Q4V+V5X, Mahakal Vanijya, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJJdss8Yh0YzkRayxwcq3cV9U",
+    "rating": 4.2,
+    "user_ratings_total": 5,
+    "price_level": null,
+    "types": [
+      "atm",
+      "bank",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1572466,
+    "longitude": 75.7929918,
+    "reviews": [
+      {
+        "author_name": "AJAY RANDHAWA",
+        "author_url": "https://www.google.com/maps/contrib/114502584523822387642/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINkl8PzwdirU69EpVoGBv-nPKazydLMYGWIzgSywF-WY5CtjY=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "All employees good job",
+        "time": 1625513214,
+        "translated": false
+      },
+      {
+        "author_name": "Ayush Mandloi",
+        "author_url": "https://www.google.com/maps/contrib/113673208376707493831/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUcbuh9kv8aFkB_zMAXKp62Qa3Jc1IeIPzQpBta4s8sn7avybuAAw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "8 years ago",
+        "text": "Cash availability is Good",
+        "time": 1498010557,
+        "translated": false
+      },
+      {
+        "author_name": "Hemant Esway",
+        "author_url": "https://www.google.com/maps/contrib/100055089366107631041/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJ7s8wxVSfw7Qij95iilJ1RvyJhQcf_IKLkqQ65A_isRSLHWI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "Helpful",
+        "time": 1498738994,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:57.915833",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "State Bank of India ATM",
+    "address": "5Q9X+3M2, Dewas Rd, near Petrol Pump, Rishi Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJaXB-kHt0YzkRcb57s1HBaVE",
+    "rating": 4.7,
+    "user_ratings_total": 3,
+    "price_level": null,
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1676466,
+    "longitude": 75.79912809999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfhQTEeA8mBVfv-dlopFa-rTnokew0-DYOxOZyShcwCekPUQNftCccyB6TKDE8B7IlD6DYxbcasMtbjjtQBCtnOOjGBXaQhHanNeHx6l9VlY51ITyN8DGFTGsWk0FomcPMiKslb5fQUJaKCGI2sPXOO4MI0pbULx4QUQIADUW0FYZS1iDAHBxiWwfB3TTVL5FcLDc3CGeKXPLYzUPgOIYi1pocbwEW6s1cP7sawiT0ZveGNDHbQKCehWdNge6d02XnyWtA4rMJnhk8z7tr2td2JOOgxlp_nHbGT5WngJ1KOEwcNpYm-XpnQ7T7JZg8Q1CvK2Rs0uR5x3ICT4mKsBWeqgD4FkMDm4zPMf_mqbY9aJSXJ_tSlz_nnDLvQXhqWBjzd6Z57eQmXH6Y4CSkNyG3EcYPZWGDXnxHK7OWYW0MY7xOUxnsy5151JzOWOM_mUIA4nhy7X-ioYKTpEEvwLwhEx4wH_YrOj3PP60v-kg7S-B1s_NVpb6bs6oL_z_Gvs8eRRNU5rRUa4_WC70IDrMvEDJsbDZoXBLt9IGD4QpLrYVh5tJrmDVEstDKVMjUdc9UwpqXBlzsUlg&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "1800 11 2211",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Lalit Pratap Singh Gaur",
+        "author_url": "https://www.google.com/maps/contrib/101171755506640911260/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOnMNBdxqji0yMov_uh6LoSN8muu9pyd3GJaY1580b2tWyQjsk=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "7 years ago",
+        "text": "Good Service Available 7×24",
+        "time": 1516458152,
+        "translated": false
+      },
+      {
+        "author_name": "Ghanshyambhai Trivedi",
+        "author_url": "https://www.google.com/maps/contrib/104746081081885747098/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkyEVIyTzVkGd6k5VvWvRcPROGTQ09fm-cM9JgKn5YHc9eMq4adQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "For urgency it's good 👍",
+        "time": 1693059213,
+        "translated": false
+      },
+      {
+        "author_name": "Pratham Rathore",
+        "author_url": "https://www.google.com/maps/contrib/111817811004058821553/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDHChO9OSqoR0_VDffTSv7Q49V2cusjoSY0MJK53xtvsMLTg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "",
+        "time": 1735048882,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:58.011381",
+    "source": "google_maps_api",
+    "data_type": "real"
+  }
+]

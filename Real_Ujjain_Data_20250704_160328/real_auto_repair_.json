@@ -1,0 +1,1293 @@
+[
+  {
+    "name": "Unique car garage",
+    "address": "Agar Naka, 5, near Tejaji Mander, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJVVVVVUh0YzkRDI4hKpolAoo",
+    "rating": 5,
+    "user_ratings_total": 50,
+    "price_level": null,
+    "types": [
+      "car_repair",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.226196,
+    "longitude": 75.79943349999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpd7sZ533kx6H3O84kA-IddrbwKCHZ2Exs8JEv-61ttEAPGwTWO1VCv7eg7fT1RViqcdGuS6bCyk59cJmMufZwwlXyalAgI_2gjt6lS-BgM_niEVyA4l2LRF8eSNvlOcHSqcjnMrDycGSBepl52Olj-CmQm8cJNLWHHRtAJ8WvQNJWUqCfAYDDovWBZK4sGxszAEosBT3IbVFRCpsKAsYReYNpA3qMwfPX-F0jcCv39NgIVF_u6ISxiA2c9pieVBW_fuWZDFqDsci7egp-uLlqC0TWjnTuABN-MW6oqknGjFugrCYpU&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "088719 27741",
+    "website": "http://uniquecargarage.in/",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Asif Multani",
+        "author_url": "https://www.google.com/maps/contrib/104685242721649354827/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOXBzpDO1R_0x_VCGyN763pafmDPhsM_zy1RgdBeOU9HQFPA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Excellent work nice job hair fall low charges",
+        "time": 1750831413,
+        "translated": false
+      },
+      {
+        "author_name": "Kelash Sen",
+        "author_url": "https://www.google.com/maps/contrib/115724877161265343016/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLym_EE6YMC1okPpqVC3LNOxEN9RvfXiwtRtuZUAYFKNydvXi8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Super workshop and excellent work I am sacrifice your work reasonable price kam time mein achcha kam",
+        "time": 1742736516,
+        "translated": false
+      },
+      {
+        "author_name": "Rahul katariya Katariya",
+        "author_url": "https://www.google.com/maps/contrib/112595239945930385605/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTmJDAwQpifh9V8svJmCftVdGaQihND4v5aDa70R5ZYCOAJw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Nice work very good jod hai",
+        "time": 1736414032,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:40.334963",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Mahakal Auto Service",
+    "address": "Zero Point, Ujjain - Maksi Rd, Madhav Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJ5eyHmmx0YzkRq6UpiQcpBos",
+    "rating": 4.8,
+    "user_ratings_total": 17,
+    "price_level": null,
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1827461,
+    "longitude": 75.7933315,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdRJZ193_MEdrRA6DASn_SYu_VAWhZsVoQ391URDsNpknbge7aptN9FuS7TXjbowoqmPZipoPX077sCx0hjyX_xdIGFjFunnNLGxql0HbDtC7uMLtOV_VqtrQyUqyL5fZrCHEiu4OTBul30DlfKcaIV5KBKozDI-YqfkGK5iA2_eweDI08PuJFlo_WkmJwIK6vnqTOMpM1WDQBoUVQ-hYzPNaQ8EezMbswkPW5WpW7vjKW30XZvd41EwJBTIXUDYGZXcooK0p25TINyAROHVh4xbu7cjcO6J8BJ-ncRgxUjlVeC56w&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "089628 13278",
+    "website": "https://instagram.com/piyushshrivas460?igshid=MzNlNGNkZWQ4Mg==",
+    "opening_hours": [
+      "Monday: 9:00 AM – 10:30 PM",
+      "Tuesday: 9:00 AM – 10:30 PM",
+      "Wednesday: 9:00 AM – 10:30 PM",
+      "Thursday: 9:00 AM – 10:30 PM",
+      "Friday: 9:00 AM – 10:30 PM",
+      "Saturday: 9:00 AM – 10:30 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Shruti Dilip shrivas",
+        "author_url": "https://www.google.com/maps/contrib/102246633272033616572/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZKFDqSEpSPOnQEcRSgRU_-tAz-2JSUeZZOKotcM6T91xZH_A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Friendly and polite\nVery helpful and fast service\nVery happy with team down there.",
+        "time": 1710077612,
+        "translated": false
+      },
+      {
+        "author_name": "BUNNY GAMING",
+        "author_url": "https://www.google.com/maps/contrib/111966569037939137414/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8j2fwtBdZGX-5XWTtGcdVx8PU0Zledrdi9_18axOgq5nCiuY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "The behaviour of owner is nice and excellent work done by him.",
+        "time": 1710074641,
+        "translated": false
+      },
+      {
+        "author_name": "ANUJ DODIYA",
+        "author_url": "https://www.google.com/maps/contrib/109647649426527227118/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFkOKTZ67U4PmkHoHxwj1cMrFTIOL27ONRS68oAKhWVMsOQg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Had a great experience and also the staff was very helpfull .",
+        "time": 1710075132,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:40.416997",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Mahakal corridor Ujjain",
+    "address": "5QH8+JR7, Shakti Path, Jaisinghpura, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJ8fH-TQB1YzkRva5nrQi6KLM",
+    "rating": 4.8,
+    "user_ratings_total": 5,
+    "price_level": null,
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1790422,
+    "longitude": 75.76705430000001,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeTogX4FJ9KI70iZweLQqKUh5OwrXoD5LJbFuwOaseGVTezmpJHkS7fMAoz6-B4QoFL04kEKGLFV1rXnRuDk76QeNcTTOirVHi5t3R3QNwz_Nw9TJwn_MAJcsA54KAAAUjwUI8btUG7YZvmanmL_Dn-qudgIPaJA6zQerQFmrZumGH3ZBOPMXeHyOl8MX_jWEq7K3xDHHtxPZQmrPdEmGQUpNj7RJDlXkvfQLrzqwftoCvUrq0El8uGTR_60ftvSebn5yCwjGWQWDunWqP4E8kLHYcdiUoXTNAVzMzIJkUFdDio3xYgXUBcCawsd3phLBVcToP0wRTPlw0U7Otiqpxx23_HSkh8fsh2xWYGqBdJtNpGGE3xOqX2Q-d4kjmI9CTQ6m4uLeYW11CJ7dH7mkWoWSP8znOXRXlm1AQ1bkq55BsX2v09OwukePBcuuPGTbaHrC4RTkpNjSEVLKtAr_PVgR1ho0QQE7Ck-9AUcU4Ei2SjQodGn_UT7jXYFh2Q9tgl6aqYwO82H-0x4BXfdYejq8QUnLs1y_1D82FC9yXGL2ftPgZACUqQ8fiAqxpitks22_skZIfJvuF0NnIIYKOMphVTcA&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Rajeshwari Ahire",
+        "author_url": "https://www.google.com/maps/contrib/116318406844580822346/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3-L0KpRN5qnoTYsbuBwQztOp9B49yqA5PtDqP61-n8ppDitAf=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Really nice place",
+        "time": 1750607957,
+        "translated": false
+      },
+      {
+        "author_name": "Rajit Singh",
+        "author_url": "https://www.google.com/maps/contrib/100043073966135015190/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJs5Fdh466yfoy87c_snSga1JFISA-P-nzrdoQB0RZr09Mwdg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "A very stunning place to visit and feel the peace and power , I visited during night it was an unbelievable experience because you get to see different statues and there importance religiously believe which gives you so much knowledge about different things. You feel blessed to visit and want to explore more.",
+        "time": 1751487326,
+        "translated": false
+      },
+      {
+        "author_name": "Arjun Patidar A P",
+        "author_url": "https://www.google.com/maps/contrib/113016337921835081148/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8gHd4jFm0MSlNw5-Qp_hsqUEPMnoeztADLuWQUH3h2pMXSRyF=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Nice",
+        "time": 1751466869,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:40.500724",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "MV Automotive",
+    "address": "B 13/11, behind Canara Bank, Mahakal Vanijya Kendra, Mahakal Vanijya, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJv_AQu_l1YzkRVj-6DjfJPQA",
+    "rating": 4.8,
+    "user_ratings_total": 44,
+    "price_level": null,
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1574138,
+    "longitude": 75.79261699999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdgmncSH0aR3K2Orp6RX1RJy6G5BQRvG8-2vk8VJ3KqR67S1YZZGz7uMcURxWJLw2zEVLhzF5PuU4aHfo8ZEFZTJ7tM5c-UBzVS1TjKICguqifzI5-FbQuMuWZkx_Qq2q5xt09rUpwTP1Xjg-aUt3pD_k1jKMheiJ2jkPLrVngMIQRZqTVKJDSBRjDGKaLx-GCYH6hXUgoEDoz80W4-bYBWxilhoUrpA-3fwOGkFyLAOfCYFUixwGAfcZtbH1ZKmOonASDA5nK16exMMXVwMq_cX6sH-XrMpg4vhfK5-uFyEkhWwdRr5HOr0BhYmOxwrWrDovZFtNNwRtKR1v_qgfLlubCwcd3903ymMSjPO0CaUnaQyHLOC6alJOeXm1cS72kY5EQXZs7Fo5zqRjbz5P8s1teNzjVXWeQrPWsHtm2BhNNT2AC3TsZzzYFNzC-XTl7fLTqAsHGsO7pq5NFT9Jpc8IOt023j2m_13XpKzZI3QhMVm6yt7bxlucjZr7Zh7VvKho62zSurTv-cJ1Rt9L1wmwcdD2ViGgbEwNQBaa9qR-ltYapZLLOxUlAWsP3WpwaQ46hpiNLOHQ&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "077708 41777",
+    "opening_hours": [
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM – 8:00 PM",
+      "Friday: 10:00 AM – 8:00 PM",
+      "Saturday: 10:00 AM – 8:00 PM",
+      "Sunday: 10:00 AM – 8:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Arvind patidar",
+        "author_url": "https://www.google.com/maps/contrib/109391688023513330582/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2mC1-9jbb0UiDVdawNhnDZ4jS9HrJ9prc-qo78H9iyVkdsS66TQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 months ago",
+        "text": "Their prices are higher than showroom prices and they work very slowly. It is better to get genuine work done from the showroom. Don't recommend it everyone.",
+        "time": 1734667351,
+        "translated": false
+      },
+      {
+        "author_name": "nilay varma",
+        "author_url": "https://www.google.com/maps/contrib/108243868460965238846/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNiQplsQ4BPgH5tAMUshFV67BmRm1iCQBvNGc-gyRA60EIpMkl=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Decided to give a look to my beast - Fortuner, great shine",
+        "time": 1714522988,
+        "translated": false
+      },
+      {
+        "author_name": "Payal Porwal",
+        "author_url": "https://www.google.com/maps/contrib/112518622199667380512/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6Oquvprmqf4T43vS8OBPILfoGH7rlBv5gGtYauB1TtI1yQ5sS=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Thank you for providing the best service. If anyone is looking for a comprehensive range of car services, from foam washing, ceramic/graphene coating to PPF installation, general maintenance with wide range of car accessories. MV Automotive is the one-stop destination for premier car detailing work. Overall it was a great experience and highly recommend to everyone.",
+        "time": 1714501446,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:40.587432",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "ROYAL MARUTI GARADGE AND AUTO DEAL UJJAIN CAR MEKENIK",
+    "address": "Ganesh nagar, Jabsinghpura, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJSVd_weZ1YzkR2vE-cVg4xrU",
+    "rating": 4.3,
+    "user_ratings_total": 6,
+    "price_level": null,
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1785163,
+    "longitude": 75.7673211,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcW0s9tRxB4xaIu2AXAC5-XgnnZphJqbGo1g0BnX0xt7_krdP-nTZBmbIdT4pq18x33vO6PL91WpiqIfotv9QftR7Ik_zIrl5pseQiuMutI3JzIqnEJPQyLrc6zK35FW1oEMe9e7sXMNxwLI4voJ0HEiwWFGYx5cnFqXx_UQMOg8tHFxUOFx5imxbizJFkKKdIPjTCDPirTKFbd7LtimOHAoe-Z285rQ-8kTun_bPQdYHZm2E62Muf-0tajLvmvxyWnX0PI4YbIM9tEi7LvqxXZIdBaMNFfIkWqPIOay8ArNiVy9dWqolqPz9RRVOxtRgIc8E6AxjHexrj0pZdwswEUFBsXfE9UI90LglVxcc84N7gJC5FnQ6BtGe09ZWIHulLCCmGSN-DMNMLpsD6oCcF-9CuYDl4YsDOJAUZNCDlvuUJAZ6AXb1wgxfQnDKu8b4NcNDbEivm4Vy6XWUGILj2VZABogYHBD-x0QI74eVHanPof5knKLxUrJllF059YQs9ZtdArXmfw1OlKqHcWPuNxA6hrHoK93KFo9pVaNykdm40458HEg5M7leCGcbBnMzF0YpITxzoBOw&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "081099 80054",
+    "opening_hours": [
+      "Monday: 10:00 AM – 11:30 PM",
+      "Tuesday: 10:00 AM – 11:30 PM",
+      "Wednesday: 10:00 AM – 11:30 PM",
+      "Thursday: 10:00 AM – 11:30 PM",
+      "Friday: 10:00 AM – 11:30 PM",
+      "Saturday: 10:00 AM – 11:30 PM",
+      "Sunday: 10:00 AM – 11:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Shadab Khan",
+        "author_url": "https://www.google.com/maps/contrib/103444577299304811538/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI10vzgtwD_CFj00Q6U7thqi4zDn3NXAGYImqWeQ6VwTX2AkA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Awesome  work at very loo rate",
+        "time": 1607189820,
+        "translated": false
+      },
+      {
+        "author_name": "Anwar Ahmed",
+        "author_url": "https://www.google.com/maps/contrib/107139305613830974638/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLYflGLxrqcbATX7tcXLh5w0PElKQO_kpTXHb2Q4EDhhgpGfw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Good services at reasonable rate",
+        "time": 1666367858,
+        "translated": false
+      },
+      {
+        "author_name": "manish patil",
+        "author_url": "https://www.google.com/maps/contrib/107913594652327189803/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUKrNPbDcVkXeLq0gyEfjkjHpZjzQp6V250ouI8C_IWMbRWg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "2 years ago",
+        "text": "Current this shop will be not available in this place",
+        "time": 1674479141,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:40.672463",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Rudraksh automotives",
+    "address": "D 1/24 dalgani marg, Main Rd, near Suman garden, Shipra Vihar Section 2, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJtRgSMMFzYzkR4ndDSOlwL6Q",
+    "rating": 5,
+    "user_ratings_total": 64,
+    "price_level": null,
+    "types": [
+      "car_wash",
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1410225,
+    "longitude": 75.8119759,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpe2s53LGN8ukvByXlylbv2zYG1ldX9zGDhseK00zW5_l3lBNXYa-9WZZAe7wrVmDVFYUegPrpnP46WqBEfhVSRB5Sdv95GXqK2DRxDZRptdYOz-Zx-W8Z4OEyoFw6yxeHBBgN6vqlzkZmkZMZCp5LVYKdMpetqFnsSsYiTJWSBhmnJ_lqn-3U11Qc1Vb_e3tns5QWuxI81tDD7n8IuiD3VU5bYA47rJY1L82Vp0XibwwG9U_WN3axHN7xXrSSf75tWlq4ctcWlFEq-HS6yhd8eTVeQ2NJJPxchk24kHtWUC__D02LM&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "093405 22306",
+    "opening_hours": [
+      "Monday: 9:00 AM – 10:00 PM",
+      "Tuesday: 9:00 AM – 10:00 PM",
+      "Wednesday: 9:00 AM – 10:00 PM",
+      "Thursday: 9:00 AM – 10:00 PM",
+      "Friday: 9:00 AM – 10:00 PM",
+      "Saturday: 9:00 AM – 10:00 PM",
+      "Sunday: 9:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "RAJDEEP CHAWDA",
+        "author_url": "https://www.google.com/maps/contrib/105090013853114646264/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLC2FF9yDVaGc3RtG8A00WdzRf5QJNt28HOJ4GsMmhZpkmQlA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "📈",
+        "time": 1735542830,
+        "translated": false
+      },
+      {
+        "author_name": "jay mehra",
+        "author_url": "https://www.google.com/maps/contrib/107022327842405430744/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGjgQ_QQotMbXsSU-h1Hi6TtAJPJaZwZ8FAjwfVwW40jum7wRl=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "12 months ago",
+        "text": "Nice and professional work , best car wash in area",
+        "time": 1720349600,
+        "translated": false
+      },
+      {
+        "author_name": "pandey rohit",
+        "author_url": "https://www.google.com/maps/contrib/108225665053379071657/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqR9IfnqR03AKLphRCuhSkHd4l_JRzKtP1P4Yek0_FzNJR=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Got my altroz washed  professional experience must try",
+        "time": 1714828187,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:40.754833",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Shree Ganesh Auto Garage",
+    "address": "135, Ankpat Marg, Kajipura, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJk8cUAyR0YzkR7K4IDDcPMYk",
+    "rating": 5,
+    "user_ratings_total": 4,
+    "price_level": null,
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.198652,
+    "longitude": 75.7769198,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdbFvzW2QNu7LfQ6viSr3VzBDcW7YgTDejzybWXQH3gIx6Cg6YyR2wcFG4lsf9OsYZzdgQIPy9YUVRz1PbrT8HQt82EAY5A55pxmi5mKM0sSdvOASZLfVW_adxkXbMfFn_pPQ7QpWfW_lI4t2dW6hPWboYPq3-kRHScgjFyAfNCdHwBIqwKcoqS2N-8TXseIW3ml5LdSzuqOGHU321nKUzyWk27rFgoC46Vrts5R5y4-jAtrAQTTzQ8qbh9CXbNWRuNl2o1DxkH05uLPdFE8XSkjCFKLuVALQaryhzgnYRA_i2GoMA&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "097543 23223",
+    "opening_hours": [
+      "Monday: 10:30 AM – 11:30 PM",
+      "Tuesday: 10:30 AM – 11:30 PM",
+      "Wednesday: 10:30 AM – 12:00 PM",
+      "Thursday: 10:30 AM – 11:30 PM",
+      "Friday: 10:30 AM – 11:30 PM",
+      "Saturday: 10:30 AM – 11:30 PM",
+      "Sunday: 10:30 AM – 11:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Hotel Pratikalpa",
+        "author_url": "https://www.google.com/maps/contrib/103511841199064463812/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXp1ZDdMTltbL1xLQFwUcffc7kVNmM4F1jcTZ2n2De5qlXfpLA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "",
+        "time": 1741842751,
+        "translated": false
+      },
+      {
+        "author_name": "Pawan Dhakad",
+        "author_url": "https://www.google.com/maps/contrib/106610745271272335783/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOEo3QjeMLBzbOZAhNHTf6-6XfmJm87PywnCW6l6Cd6Uyq=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "",
+        "time": 1630997178,
+        "translated": false
+      },
+      {
+        "author_name": "Abhinay Jaiswal",
+        "author_url": "https://www.google.com/maps/contrib/100612140278476311325/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIdEhe_dtHY0y0PiH-ogUV5ablCUdu3X1CrvxCOv7OlCaB56Q=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "",
+        "time": 1628959305,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:40.862553",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Iqbal Auto Center",
+    "address": "Gurunanak Market, 8, Freeganj, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJW5kDyG10YzkRy4gMPBXu8BQ",
+    "rating": 4.9,
+    "user_ratings_total": 52,
+    "price_level": null,
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1792855,
+    "longitude": 75.7929861,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeffOxfsXWHj61fJCu3xnSYpFUnmDiOmvfKmyNtIOsNOZzlT8WtBuc9tEnONejQlT3ZbyueInFFYWZYtn9TTFgccWJKWlVhXK0V-L467WNviCZewCK2KTh-Gc0NienTJyf5baYeDQtg81OSHZmKmLAz1_jf-Bl49d_mND8M3lItTznPfEV6dDMU9WfzopHEZjQuyO_L2sSQJHKhR6YJXQDZV3HuNN4baWMiGmHNuiicKiwnyuHxmLiW8i_HGZGSYb0YafOWOOV6LQ-3y-SZpH-yb9sxdGINfc-Hm97nWPIMx6bGsjY&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "098274 32880",
+    "opening_hours": [
+      "Monday: 9:30 AM – 10:00 PM",
+      "Tuesday: 9:30 AM – 10:00 PM",
+      "Wednesday: 9:30 AM – 10:00 PM",
+      "Thursday: 9:30 AM – 10:00 PM",
+      "Friday: 9:30 AM – 10:00 PM",
+      "Saturday: 9:30 AM – 10:00 PM",
+      "Sunday: 9:30 AM – 2:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Jay Sunhare",
+        "author_url": "https://www.google.com/maps/contrib/109518806510649670330/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrlZwea6VAKoY2MYcba-qXHABWXL2XclA0fyvygrYF9SvBbQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Quite a good experience...fast services as well",
+        "time": 1743065941,
+        "translated": false
+      },
+      {
+        "author_name": "Mohammad Wakar",
+        "author_url": "https://www.google.com/maps/contrib/112025881679014303668/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXl8xeanQBLOuwriKWoQmH02M2n2rrXF0k5oFTV9BKEecU2AUnv=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "Good service plz visit",
+        "time": 1749632206,
+        "translated": false
+      },
+      {
+        "author_name": "Ayaan Khan",
+        "author_url": "https://www.google.com/maps/contrib/112370959909817652109/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIN3oFRemJaGGXOywpy-kYmP-HhVjlOEgp-0ErWPdln0ZgSw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Good service  for two wheeler vehicle  and bs6 scooter",
+        "time": 1743073899,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:40.943451",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Golden car garage",
+    "address": "Mangalnath Rd, Ujjain, Kamed, Madhya Pradesh 456006, India",
+    "place_id": "ChIJL5KMpqJ1YzkRngr7VTUZumc",
+    "rating": 5,
+    "user_ratings_total": 2,
+    "price_level": null,
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.2293882,
+    "longitude": 75.7914997,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpe4NtEiraCwWcVTDfv9XQXWZxkVI95rMopxgfJvPp8H9n8aHqq9_FniJQk3NnIOI1RqfAsJEqwET20M-PMrl4DuXOmffYjP6gswPLbhePW2_JP2V9RVS_iqkNrTnRfCdA6Xj6tGbgJZXI1Se8BdkhZq1WVfwDvPnry_ZYFYAbIrZLWryHN1DnM5UtDzTNjJf7Lz2FWk_SnH-d-X-46LiN5KPR--X8HyvO13e_q3HfK9qkwrfTTXerSFdfRgDdDbUf3nLZnThe0HqJBagchfoqLn14Y4qHJBVmjXK6h64yD7RYCkosQ&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: 9:00 AM – 12:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "rakesh kumar",
+        "author_url": "https://www.google.com/maps/contrib/103132092890487892531/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVn8LTMl6C_me1FCslAvXRvzll9kY3BW_fqq5gaNDTjefnT86k-=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Good work",
+        "time": 1737175712,
+        "translated": false
+      },
+      {
+        "author_name": "Tosif Shaikh",
+        "author_url": "https://www.google.com/maps/contrib/114093704823759829711/reviews",
+        "language": "en-US",
+        "original_language": "hi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaygCXAE9hy1O1k3mGBvDSfNZnPrZJuJHRVUg9C7ma2y9HU-A=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Very nice work of brother, I am a mechanic myself, I was going somewhere after driving once and that time my car got damaged, I called my brother, brother helped me, gave me water princes and has a very good nature, I would like to visit brother once, you were looking for a garage to get the car repaired in Ujjain.",
+        "time": 1736515478,
+        "translated": true
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:41.027330",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Bhaskar Glass & car decor",
+    "address": "65 , Ashok Mandi Marg , Naka No. :- 5 , Aagar road , Ujjain Naka. 5 , Agar road Ujjain In front from Maruti Suzuki showroom, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJx2ZgU_t1YzkR2DSRAYkN2k0",
+    "rating": 5,
+    "user_ratings_total": 3,
+    "price_level": null,
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.2066727,
+    "longitude": 75.79048569999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfCozEKqdbGRRlXfFRrBs0vv9kEsQY8EmsMBKP_WTzThzqLv9cTz0a8aOQd-CulGhUtiTCeErlkgg3qHh8yp-k48t4tThKIbXtOCtjaUM06XlD9MulJLUYKqTAlCingDCfQzOhUDZguP7qCj3lV1m1BKDOJGAgTqcb_K2lBgip2krBgmaICGsDffLzYKguBis2CKd9R5KRqEq9VllLJVyoBkesOw0EyVNIsXLo3v7TsQ1z0p-RxfVVw0PmPcaOTZVuhTUtO1gCygw1CsyDh2drWoFBKfmZjL_RO7JgPNCKZrsMOGhw&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "091795 06930",
+    "opening_hours": [
+      "Monday: 10:30 AM – 9:00 PM",
+      "Tuesday: 10:30 AM – 9:00 PM",
+      "Wednesday: 10:30 AM – 9:00 PM",
+      "Thursday: 10:30 AM – 9:00 PM",
+      "Friday: 10:30 AM – 9:00 PM",
+      "Saturday: 10:30 AM – 9:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "DEADLY GAMING",
+        "author_url": "https://www.google.com/maps/contrib/102835826482132929989/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmCI6lvJegrTOHN3Z3c_YIt712vYxN9GYxiueu1IPd3S96BQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Professional work & original parts",
+        "time": 1749044425,
+        "translated": false
+      },
+      {
+        "author_name": "Shraddha Kushwah",
+        "author_url": "https://www.google.com/maps/contrib/109287574299768394859/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlLhdkyzLFSN1vm0Ez4K45V0tJB8jlL9R1Zg3MgOqX2ky9cg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Excellent work done by professionals",
+        "time": 1749044260,
+        "translated": false
+      },
+      {
+        "author_name": "Bhaskar Glass",
+        "author_url": "https://www.google.com/maps/contrib/108560773285708606563/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKUlmXFRQvN29zKMAtNULd8m6L5cMcXzm2bZcrS_3dRsJYi2g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "",
+        "time": 1749044144,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:41.109931",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Jai shree mahakal car garage",
+    "address": "Gujarati Samaj, 32/4 Vednagar shopping complex, dharmshala k pass, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJGV8JDYp0YzkRYz2oFBNbVgw",
+    "rating": 4.6,
+    "user_ratings_total": 31,
+    "price_level": null,
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1617583,
+    "longitude": 75.7904933,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpf-ZaEIqgbKoJtA21WBw7xNMdDt27KgNTkQ40NrvocplZFNVPaCn2-jBF2DH7XHRIo6z_AAlFGiMmaWrL9o2Apz2OZfFH0ZcsfXi1YnZFC17j7Oek9N0b0Z6LC1ImIINp-8Yh0CH-rhRk6klnrGMG1BAdGSkWOVGTeYSotekVpGaV3KCtd4dmAIL4ObF5rjVaqCyjlvMyR3HIGKXLh2SS1u9T9VZzoNZo7llLPy-TzGgMOnrnS6vXIgWjLAJxwRQ75hKvC-Ftax_TGegKeoJq82N35_Zjo-TUH26CwyiV_D0-mIj2KEx-cmi5xJeNLdablGhwyIm_UtEM4bUN2LfnelMLPpMF_Vfb9elNS8JPAbSGaPqrAufRt4V8cLLZbHFCwbNjfbtki_jAVB7cqje8Z9CpR6aCRS7dIDmNOwP4vibIIShzTop4voFInYMtT2PIGHdfz_I7m5hjSxNorSb2dWQciyDk5Z3uCHJJpAnekR9qIP_AYRpTBCAyLj_qGY4poltPIIPPWrk-cuyZ0dCEdNqBkiTF--hY9ey_JuYbhvs-tStgOy8qnNbWsnUCvCn9E8wrKC&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "098934 73077",
+    "opening_hours": [
+      "Monday: 10:30 AM – 9:00 PM",
+      "Tuesday: 10:30 AM – 9:00 PM",
+      "Wednesday: 10:30 AM – 9:00 PM",
+      "Thursday: 10:30 AM – 9:00 PM",
+      "Friday: 10:30 AM – 9:00 PM",
+      "Saturday: 10:30 AM – 9:00 PM",
+      "Sunday: 10:30 AM – 9:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Abhishek Chaudhary",
+        "author_url": "https://www.google.com/maps/contrib/104520745186403575142/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6ujOkz1N2u_fVmYJJkx5EHzGcZ4pGu79faXkvrHgXIiQcHA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Jai Shree auto has been excellent.\nMy vehicle was stuck on Highway and his team was there in just a call.\nI am really amazed with such a professional response and the cost of service.\nI was thinking that it will cost a fortune but it was exactly opposite.\nAll the best and keep doing well.",
+        "time": 1692517039,
+        "translated": false
+      },
+      {
+        "author_name": "Kunal Soni",
+        "author_url": "https://www.google.com/maps/contrib/113346999775413089925/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWWEaDaciS1Mt7DhGbrRg7f-ulsDEgQvgOmcKJuw75E5-ls4RSpEw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Very good service, very fast service, very low service charges.\nI was stuck on highway in night and they give me service on spot when car not possible to fix there then they pull it to garage and fix it immediately. Thanks a lot to shyam ji and his team for very impressive work.",
+        "time": 1554696534,
+        "translated": false
+      },
+      {
+        "author_name": "Mohit Malviya",
+        "author_url": "https://www.google.com/maps/contrib/103733782654126055072/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSVUbtDYjGSlqnVOTtvcCPTN1bGoydfcUml6uVFNoKqLl-oCee=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "2 years ago",
+        "text": "Shyam bhaiya the owner himself and his staff is best at providing services to their customers ..They possess good knowledge of different cars and components..👍🏻👍🏻",
+        "time": 1675192549,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:41.207718",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Car Mechanic electrical work",
+    "address": "Indore Rd, ke pass mein, Suraj Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJm7yp8r11YzkR9eleZdJOwkE",
+    "rating": 5,
+    "user_ratings_total": 5,
+    "price_level": null,
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1781345,
+    "longitude": 75.7721876,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeKy9errgChNpFLzfpRQ1tdjf1i46mclkWnHrgxI4MPIbqe9D_XVHg7RGl7_Ycnr3hvmdLCQaoEpMwdTcYa9Bt21rqFD6QzdErmdYj-gMWmx-IUcu2K8CpU9AK8izdPnl75PQHN0uKg6gGFOvOW6hQs5m9YTTzwmlG0Wuq21QX8A-6zIEYVGgc684aXh4Ycx2OFxI2ud8uq5Gz1XgRSmdNliml61ZvQrFKU2S76CWv5UyD_EfdBbIDDhMPZnYdZ3MhJGuKKX1UITDnjIdbUNKcaQDxOmPRQ-lMOMkq6caaCCcd5xtU&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "096447 87842",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Sahil King",
+        "author_url": "https://www.google.com/maps/contrib/106052949375789302934/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVshzYi3hlYohvSTD3THIzONocMA405PCIl4s0uzN5Q24V-ml7g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Nice work 👌👌👌👌👌",
+        "time": 1743274491,
+        "translated": false
+      },
+      {
+        "author_name": "vinay singh",
+        "author_url": "https://www.google.com/maps/contrib/117511589032708005943/reviews",
+        "language": "en-US",
+        "original_language": "hi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8WLoD_qHQNf5Llva_E90W06Hnop-rPM1q5Ix1zPga4-3zc24M4w=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Brother helped me a lot in emergency in Mahankal temple parking at night. very good service.",
+        "time": 1745303401,
+        "translated": true
+      },
+      {
+        "author_name": "Imran Mansuri",
+        "author_url": "https://www.google.com/maps/contrib/106563034292798950173/reviews",
+        "language": "en-US",
+        "original_language": "hi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7KuD6Be9QnlPWvO-Wv_RB8Pgfg3YlyqJfm7sVi0Gdb_s3Sg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Nice work 👍🏻 great service Ujjain 👍🏻👍🏻👍🏻👍🏻",
+        "time": 1743272335,
+        "translated": true
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:41.285522",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "New Auto Garage & Service Centre",
+    "address": "Sundar Dayri Ke Pass, Majsid Ke Gate Ke Pass, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJz8dXURB1YzkRXXabadBsU2Q",
+    "rating": 5,
+    "user_ratings_total": 1,
+    "price_level": null,
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1849221,
+    "longitude": 75.7709206,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpe0V3iH3umNh9lmfOy0np7vSTFOqePGZKU-pfbXLrwBjQZXCvm2MiRbSkX44_cXvLU8mkGu331xDjMls0wTumGnnQIQLMfq3uuko1oLrdddKZVaxAokxbok3mnCS2E_Xhpbk08uexHyfLGjxVN_DOyqliDDq-blRupxayrxerfgrNxwcROpXtyQ7Bib2iI6AZ04W1IqOHz7n0T8WtJKUM5In0O2w4Q-xa1lmtP8uG1qNTHrs8AG0wYLcLHR8EBBoXnvm6nnnGAfiQHHFvb2sAmncmE17GD_UzSscJ32_dhxYwwidzQ&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "088894 09264",
+    "reviews": [
+      {
+        "author_name": "Anand DevdA",
+        "author_url": "https://www.google.com/maps/contrib/112650770553051350672/reviews",
+        "language": "en-US",
+        "original_language": "hi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpaFJ1k4_c5Cf79yeMnVYUpGDwYzq6y79h1W9L-dNeS7bxXIsZ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Jakar very happy brand",
+        "time": 1695533904,
+        "translated": true
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:41.364454",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "GoMechanic - MV Automotive",
+    "address": "5Q4V+W3W, Mahakal Vanijya, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ6QccYj51YzkRTSA0qRX4uqA",
+    "rating": 5,
+    "user_ratings_total": 5,
+    "price_level": null,
+    "types": [
+      "car_wash",
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1573125,
+    "longitude": 75.7926875,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpeBtjEN74VYGABE_Peo1PlXrAjxZFlKffybqUDZA3e9J2Iq_KQsZE0jmepb1GhA0urZONNcJbGhp_jTBVtDwedVZcYYvRkwCIW7SCVcHDaqUQJD1oDh7zAm4j-1QVag4RsWQMAGgg99l3pJ-qUXOHy5VIvvjT6Ueak8ooavO4SZyiy-TuoTE3qTDHmzc0Mi-YzsCw2zKYgerZRXxLZq1iQ9uC8MMA802MSc_SxiBSlTPun2XID2VUL_41oxdjRyCDcnxcTBHlUAwtLtBeb7IyZJdrdBz6GwVr9eslA9_xhlCyKrR3k&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "093199 26699",
+    "website": "https://gomechanic.app.link/gmb",
+    "opening_hours": [
+      "Monday: 8:00 AM – 10:00 PM",
+      "Tuesday: 8:00 AM – 10:00 PM",
+      "Wednesday: 8:00 AM – 10:00 PM",
+      "Thursday: 8:00 AM – 10:00 PM",
+      "Friday: 8:00 AM – 10:00 PM",
+      "Saturday: 8:00 AM – 10:00 PM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Vansh Minhas",
+        "author_url": "https://www.google.com/maps/contrib/106461241952485171317/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkoDyY-Z0e8YUkfPZj6J00NGa5Nalm66rKgCAwJvgLPf29zko=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Jony Motors exceeded my expectations.\nReliable and consistent in delivering quality work.",
+        "time": 1744871219,
+        "translated": false
+      },
+      {
+        "author_name": "Vansh Minhas",
+        "author_url": "https://www.google.com/maps/contrib/112890304110562395801/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLsghrPihc9favfOuDqpheQe7czEq_6uy3otM-PVwQwIVi5=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Smooth experience from pickup to drop-off.\nMy car runs smoother than ever before.",
+        "time": 1744871245,
+        "translated": false
+      },
+      {
+        "author_name": "Unorganised Gaming",
+        "author_url": "https://www.google.com/maps/contrib/118320207484086173552/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLoJkDG6sdhKuJdp0yNsfpwsfPQInguZxuXKsw5sqPDw5joSQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Great value for money and no hidden charges.\nThey use genuine spare parts, which is a big plus.",
+        "time": 1744871371,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:41.439502",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "✅ Shree Sai Complete Car Care 🚗",
+    "address": "MIG kspira vihar A-22/13, Dalgani marg, Nagziri, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJG9V5G2hzYzkRYWZEbM_s_mU",
+    "rating": 5,
+    "user_ratings_total": 15,
+    "price_level": null,
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1475661,
+    "longitude": 75.8095664,
+    "phone_number": "098272 68684",
+    "opening_hours": [
+      "Monday: 9:30 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: 9:00 AM – 5:00 PM",
+      "Sunday: 9:00 AM – 5:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Suraj Bhirode",
+        "author_url": "https://www.google.com/maps/contrib/109114972578327052087/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpCBJirwuGZ8htRRZXtis401OvVFR4E5Nm7sKOv7hDysSUudk0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "This car decor\nShree sai car decor\nBest qwality work\nGood nature\nBest rate other shops",
+        "time": 1740127372,
+        "translated": false
+      },
+      {
+        "author_name": "Deepak Bhirode",
+        "author_url": "https://www.google.com/maps/contrib/107810266542851137907/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJF2pDIw3C6RVOI5IgVYUXcdlPHp8tKPnHA_iog3rsjOwbGig=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Best work your shop\nGood quality mentain",
+        "time": 1740200167,
+        "translated": false
+      },
+      {
+        "author_name": "Dheeraj Dabkwal",
+        "author_url": "https://www.google.com/maps/contrib/113350233067058491111/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKPYFje_VaIl5AdeOUtxoHBivvPqix8_woPluCJUGqVBbX1dQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Best car decor Shop in Ujjain",
+        "time": 1740127139,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:41.519332",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Ujjain car danting panting work",
+    "address": "nagori compound, Neel Ganga, Shastri Nagar, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJu-k7G-R1YzkRtIzVDNAQ3bg",
+    "rating": null,
+    "user_ratings_total": null,
+    "price_level": null,
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1720268,
+    "longitude": 75.7803126,
+    "phone_number": "097706 81458",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "scraped_at": "2025-07-04T16:04:41.587907",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Top Gear Bosch car service",
+    "address": "Shivansh City, Ujjain, Madhya Pradesh 456664, India",
+    "place_id": "ChIJi4AfP0dzYzkRagBuuKi98z0",
+    "rating": 4.6,
+    "user_ratings_total": 65,
+    "price_level": null,
+    "types": [
+      "car_wash",
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1331162,
+    "longitude": 75.8283048,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdaNKfMFqEO3V3K2SZoxf42NfXydDvo9usy6HboeDjDxOXNc--LYQE5k4pWGn8nNWFcoKr16s_PM9Q0gG1tfduatiUPKFy4Lr8s3oLv3TwnWoSQOFZmDeStfldRbgQXJuaJIfGhfwGTRcijPWsl0sbweFOo_2kkBUbSDuKRd3HpcSI0CbnL_ecNmXrd_wkbQ1r8FnImCtCqbqEgF8KlF-5Iz9XcD8vhYecsFjCkPNMf_Hax6mA_7fQ07CzviKYa-aoj04lXZWAXzcKupN2FD8cB4Z1EdCvUgcddSeokLzfEvoGEz4o&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "074157 05848",
+    "opening_hours": [
+      "Monday: 9:30 AM – 7:30 PM",
+      "Tuesday: 9:30 AM – 7:30 PM",
+      "Wednesday: 9:30 AM – 7:30 PM",
+      "Thursday: 9:30 AM – 7:30 PM",
+      "Friday: 9:30 AM – 7:30 PM",
+      "Saturday: 9:30 AM – 7:30 PM",
+      "Sunday: 9:30 AM – 7:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Drashtant Rangpadiya",
+        "author_url": "https://www.google.com/maps/contrib/112195136231476125212/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKbEcf_mPCzOuAIuS1ehzYAIBx8M67XTvIJjBLscBPDf3McKQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Top Gear Bosch Car Service in Ujjain is the best! Professional staff, quick diagnosis, and quality repairs at fair prices. My car runs perfectly now. Highly recommended!!",
+        "time": 1740405628,
+        "translated": false
+      },
+      {
+        "author_name": "Maqsood Dafedar",
+        "author_url": "https://www.google.com/maps/contrib/103066272944503645310/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEzF4OmQf6xMu8ucEGUt1N0sSB8dbkOMRGmoUIJiY1BrBgzvow=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "xcellent work done in great time, most pleasant staff. I would recommend this car service garage to everyone. Thxns for vinay bhai saheb 🙏🙏🙏🙏",
+        "time": 1748423448,
+        "translated": false
+      },
+      {
+        "author_name": "Ng Yogi",
+        "author_url": "https://www.google.com/maps/contrib/106555570359522124388/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-alInwm_3mC9qf8Y_JrIk6j6-k9Xko4KeFMbMqZK_UegIdkB3=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Very honest and clean work... cheapest charge... honour is very nice, helpful and honest person",
+        "time": 1748689381,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:41.668826",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "R.K Auto Garage",
+    "address": "5QHR+3P8, near New Gurudwara, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJheD2gm50YzkR8b062-HWy7I",
+    "rating": 3.5,
+    "user_ratings_total": 4,
+    "price_level": null,
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1776577,
+    "longitude": 75.7918851,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcQgm_WqVX_jAGw3QaqIKxUpSFjruyjKxAeOhAnQDygMqgPylXVypmwFHXI1h2VN9aXBvAqibxhAcsAeuIl_tufEal478b5eDqLTwq8o8Ue2o07FQkjuj5VeF9QiMq89_SvseNw0xkLRXy1BdsRSHjR0olHMPD9IxtzGg9amSugkQsJNzcUpDUWy0-TnBxtMbE7M3s6SgL48Z9_U-YWiqOBy7m5DocrH0kru-vajbjnIz1cVGbo_mJe6w237TVCEPQ1KcerV6ItiCeOEPPJmlxIlFKgi9o1qhvnu30qpXcjOJODD13K7uPTOk36x-m4qZsl8iHBgSfKzkCmtRNYhQOpfsCwUlDpru9ybAEqRWBD0_8pRvggoq9jtUVV571HKsZLtQpi7gKSySnr0tkigBzUF02Vm8PlA_GoJU7FDhodR_6jEyJLGELp7PxwIObv500FmZnadHcmrZlVv1c4ijfsUaVoscdXsCMqWjr5PzBvUQFrRSYqV4dT0RQmcxwuJA3DE4Xy6PUJ7fCnfP5CGv3uSXeLqRuHAnnJome7v9U_JwEVwrZy4yT43s7co_oZynp-rUIfv_d29w&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "099260 60851",
+    "opening_hours": [
+      "Monday: 9:30 AM – 10:00 PM",
+      "Tuesday: 9:30 AM – 10:00 PM",
+      "Wednesday: 9:30 AM – 10:00 PM",
+      "Thursday: 9:30 AM – 10:00 PM",
+      "Friday: 9:30 AM – 10:00 PM",
+      "Saturday: 9:30 AM – 10:00 PM",
+      "Sunday: 9:30 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Aditya Vyas",
+        "author_url": "https://www.google.com/maps/contrib/106899121189377440107/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGAErQ2jQfP_4h31Ee95bFutaUezHD7LpTLwvB3qy61imIY3mp=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "Behavior of the auto garage owner and workers are worst. Even to tight a single screw they charge 20 rupees and says... They take 10 rupees for  handshake 🤣 so why not 20 for screw nuts , very horrible , proud and rude behavior",
+        "time": 1630647310,
+        "translated": false
+      },
+      {
+        "author_name": "Naren Rathwa",
+        "author_url": "https://www.google.com/maps/contrib/104841870310342315173/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL1BwqL4n0POfR2pGxciZvi2IgpUOqst1CWowPdosyWSHK6FA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Geniune guarage",
+        "time": 1631438559,
+        "translated": false
+      },
+      {
+        "author_name": "My pandit ji ujjain ujjain",
+        "author_url": "https://www.google.com/maps/contrib/115590318128579693920/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVttsGcVyqq_iqlChkckN_PgizNBkg3gPAHw5b3N8NYmGsEI1fyGg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "2 years ago",
+        "text": "",
+        "time": 1681481494,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:41.757179",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Jonwal Auto Garage",
+    "address": "12, Madhav Club Rd, Freeganj, Complex, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ_9QrOmp0YzkRO2wX9R67crc",
+    "rating": 3.9,
+    "user_ratings_total": 41,
+    "price_level": null,
+    "types": [
+      "car_repair",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1767713,
+    "longitude": 75.78808780000001,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpc-jjLmT0RigTv9tWhcHxfY-GAVadpYIoMgrxy26EW1lRmyXVVwd2_BLUqYghSSSZlPxJdwgnXVzgpeAMISRlspHrHmW_HkhhfwjFvCUFnzEkiGtEmi0ALU6s2sRqhSRTtIfla-CfVLIVglyhzwTEXFmxJE4AvLvkWTqSe7ojVNl_ShbptxHybFrssYaFHyx4GO4QXuf-odewBRcgxumPvTkYR9O-jYrjhomgy85Zwh2ypsCpv48S_JjvBgowqQJeTRhpdUtJOjhZdEMTXEF-9yXapwpidVPZBQn0cKro3Q-pU2txv6YYagTNj3YygrVlfIXVZUWtpjKoahD8rVAAwZhA1aZMgR-n1zLgm9KVwAO-BBAaqcrjA3kp942O7aMRDJ0bTfVcgoCGm3KL1Du1YsNS26kTHcab62fLumUb61xE5CkG4l7DdkvncQiaFUtOxtSL9MQCeuPyUa5gvsDCQXjtJxPZJi98POG3sacDzFtITg4EIiH4JD-4QrU0EY710Sx3TuQYGENrbdErH_mQIekfwpyOlIXHyT3Z8nC8fFTRxzQ4bfOVB1AmCwmlyq8Wq7QB_RE7Vvhw&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "099075 53836",
+    "opening_hours": [
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 9:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Ashok Kumar Panwar",
+        "author_url": "https://www.google.com/maps/contrib/114566024205989148367/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHnGck0gKREB8E7tV7-0aAKyBT0fqM0t9pdML4X8tTBs8lmlQb=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "One of the best place in Ujjain for four wheeler services and all related work very experienced staff",
+        "time": 1567073323,
+        "translated": false
+      },
+      {
+        "author_name": "Ayush Likhar",
+        "author_url": "https://www.google.com/maps/contrib/109455993104248259325/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW64thEytCkVMrId8Hkk64VsOJK2AZQHEuhH_2rrMvrOkKmaBDB8g=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "2 weeks ago",
+        "text": "Worst service... not recommended",
+        "time": 1750095648,
+        "translated": false
+      },
+      {
+        "author_name": "raviraj panwar",
+        "author_url": "https://www.google.com/maps/contrib/116079382096780891594/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOuPXUFf1F_In6slqDA_gnUGrgt3FqBVKTgHNIuMpMH4gjG0c=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Too good service with well experienced and well behaved staff with cost efficiency",
+        "time": 1614076960,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:41.837703",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Ekvira Automotive",
+    "address": "HIG-5 SHREE VISHALA KSHETRA RISHI NAGAR, Rishi Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJRbYxioN1YzkR_i_SU-h4xEY",
+    "rating": 4.7,
+    "user_ratings_total": 38,
+    "price_level": null,
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1673228,
+    "longitude": 75.7981002,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdWJFwt19Dr4pOd30ibE9waw2e2SAUpbIjzUK2n6dDS9QM7VCFGUa4aPR39iWlazZm0ClBjXegvXRup8aGBTWt3zKllYGwOT71kwCuTR7wL1l8YvoOdXO-lYLsUwDK0wAhlvlFI2lYl1Z8AQ0IF1v9kJeIVDJS0RZL63Q73DaTVE_t2xvejuYFosj_AVYXovgLh-JurxxW_wuK6r25umhPDsOBZY35ospi-h07xWc3OXjWfNFir1sW8-TK7aIdKLNcw0w6JwhR8OO3rHo0zQvCjkBfZSdukyoGgxV8pyny8o69-8Jg&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "094074 05670",
+    "opening_hours": [
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM – 8:00 PM",
+      "Friday: 10:00 AM – 8:00 PM",
+      "Saturday: 10:00 AM – 8:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Sanya Maheshwari",
+        "author_url": "https://www.google.com/maps/contrib/113058580825356683373/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXw3arbl8S_AEghJNbuyPR-RyZHl77iiWqzL6BD7rA7X6pE77kTlg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I recently visited Ekvira Automotive in Ujjain and had a fantastic experience. The staff was incredibly knowledgeable and provided top-notch service. They were prompt, efficient, and went above and beyond to ensure my car was in great condition. I highly recommend this service station to anyone in need of car maintenance or repairs in Ujjain.\"",
+        "time": 1715189381,
+        "translated": false
+      },
+      {
+        "author_name": "shweta nadkar",
+        "author_url": "https://www.google.com/maps/contrib/100299612933955855891/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLssKKYzXACBGX9pfapqDIGSZzFbtVm8Pyfa3lrj4cxHmODqw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Took my car to Ekvira Automotive for an oil change and was very impressed. The staff was friendly and professional, and they finished the service quickly. The mechanic even explained how to check my tire pressure myself, which I really appreciated. I highly recommend Ekvira Automotive for anyone looking for a trustworthy and efficient auto repair shop.",
+        "time": 1719423057,
+        "translated": false
+      },
+      {
+        "author_name": "swapnil zalani",
+        "author_url": "https://www.google.com/maps/contrib/102608247521716386374/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLnZclOEAQE7vsZmTimzWwN8H3jM_x2M-82Unx76IigHnsXoA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Best car service in ujjain washing and car maintenance as well as the staff concern regarding pick up and drop services are excellent ,the owner providing the car accessories on affordable cost as a home car service on your door.",
+        "time": 1727278516,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:04:41.920962",
+    "source": "google_maps_api",
+    "data_type": "real"
+  }
+]

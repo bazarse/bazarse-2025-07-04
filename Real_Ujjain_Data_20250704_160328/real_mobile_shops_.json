@@ -1,0 +1,1336 @@
+[
+  {
+    "name": "Devi Mobile Accessories",
+    "address": "Kanthal Chauraha, No-206/1, Ankpat Marg, Milkipura, Bada Teliwada, Malipura, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJb4-05Dt0YzkRpEphwC9CNEM",
+    "rating": 4.8,
+    "user_ratings_total": 1202,
+    "price_level": null,
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.188544,
+    "longitude": 75.7771041,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpd__tIhg3NOPHSqMzIsGuk0b-MOLPSvzI8OAnaFY6ADjqRb68Az3c7kBNJ2lgIM7Sw83P8amAywhMFeupi4aodgKEnmzFkEtLLdUGoAohEcQrw312j6DyAWrxYTTPyL3cNu20Ro_oHJPpOgjwogxl5ftBNSTAMndx4pgafEB0avj6WYD2UUx2llLq0Ny-MUtF0twqgu5GIjkq324bvGLymJw3wHpnGIB2Uaxlpmvbw5fsl_V-YwNB3Za2PvPTksaAGbus44uLvNMGT1HzmBri5_Gm5Gw_wi4BBPnU-fhkmVNqK5jvEgv6-pe_VXyDLvjNbBGwh3eQjp7rSqV1CemPrarNEJSDzdjw5sPVotWoeZ7JS9uZPZ6vjjmATJsKEOkU36YL8KnjulL-cKBJglEr1pKiUTIpWpMvuMUV_h1NwuFVExMWZkC43_K0npCyEnLF5G_89knHK7Sp5uK7_S65f2gYyAxooXRTCrmk0dBWrcfcD8rlsR8Dik7Eec9yN3njCb3GgKjaj5vAi0HuG_oNfU3nbEjezWpgtRWxhWukp11UhaqMTHHlPU54OVUiFbTXjKUNqJ&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: 10:30 AM – 10:00 PM",
+      "Tuesday: 10:30 AM – 10:00 PM",
+      "Wednesday: 10:30 AM – 10:00 PM",
+      "Thursday: 10:30 AM – 10:00 PM",
+      "Friday: 10:30 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Shahnawaz Khan",
+        "author_url": "https://www.google.com/maps/contrib/112752872169880634224/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrHc-P2n2EOTRb9pCIEtiS-VGkxHmd3tE8aqLe2zJKDSSItBc=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Almost all variants of smartphones are available here in centre of city... Staff is good and the Owner of the shop is too good.. very polite towards their customers..",
+        "time": 1684552644,
+        "translated": false
+      },
+      {
+        "author_name": "shubham trivedi",
+        "author_url": "https://www.google.com/maps/contrib/104627425579475893235/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXc1Uqpt4T67yBhkVFPk0uK96k3hzFHDrTlpcatB_BBvARglKweZg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "10 months ago",
+        "text": "One stop for all your mobile and accessories need, you guys can also buy smart T.V.'s and other electronics item from this store.",
+        "time": 1725612161,
+        "translated": false
+      },
+      {
+        "author_name": "rishabh kothari",
+        "author_url": "https://www.google.com/maps/contrib/109812049323046069795/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9gEzI5EKoPqK3h73sgTBbl-EmJgKkOw5x_-Z7wgACK8IoIjr2=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "I had come here to have the screen repaired of my Galaxy J6 plus device. The service was really quick (around 20-30 minutes) and the job was very well done. Best part was the repair was done immediately and i didn't have to wait till the next day. (I came here in the evening, around 8pm)",
+        "time": 1661930380,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:54.636406",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "A.j Mobile Accessories",
+    "address": "Laxmi Nagar, Sethi Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJj-v1QV11YzkRlZ5xTc5j6zU",
+    "rating": 5,
+    "user_ratings_total": 269,
+    "price_level": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1787756,
+    "longitude": 75.80320859999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpft_UpBaLQa3STYI8WLip1uxhsEy0nRKnY6wd_OYI3C345ElV7Otzumkl7ODMGBRTg8ufbOuRM6Ng2X3TYaC2XLxtSTyh70ckmWEmOq_enEyZDRc982wAgHyLckwNGjupYbN_O-f2xYaw31rx6IXUc_HkGOYXwAjARCgQaK0_svk0Q14bw56RB7VB74E4gAAkwI0lu4IoxaJtB7OuQii_t056tQigkDe5TO05nuJkXy0flqsi0vCLh0D3g9QJHHUvfUFESwS4ee3TAEN_FxfXqJy5BnmQ8pNFhALlLgY4SOnO-Y5u0&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "075666 85576",
+    "opening_hours": [
+      "Monday: 11:00 AM – 9:00 AM",
+      "Tuesday: 11:00 AM – 9:00 AM",
+      "Wednesday: 11:00 AM – 9:00 AM",
+      "Thursday: 11:00 AM – 9:00 AM",
+      "Friday: 11:00 AM – 9:00 AM",
+      "Saturday: 11:00 AM – 9:00 AM",
+      "Sunday: 11:00 AM – 9:00 AM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Pritam Prajapat",
+        "author_url": "https://www.google.com/maps/contrib/105860209466383786925/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5MLWURaSQj59Y_oWJAIutRvYIMyboHZ026bFu0GvPjWNM0MbDyQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Fantastic parsion and all item orignal",
+        "time": 1644314260,
+        "translated": false
+      },
+      {
+        "author_name": "kunal narwariya",
+        "author_url": "https://www.google.com/maps/contrib/117744343113558423092/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9kQFOh-AaEyA-uO60YzGQNzduYdkZjerfOtyjBW7DBF8D8A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "I sugges you every one , please visit this Shop",
+        "time": 1644381881,
+        "translated": false
+      },
+      {
+        "author_name": "Musical Series",
+        "author_url": "https://www.google.com/maps/contrib/105300250156426155581/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKoPr_lFjgomU6x_HrE23GlITnjJ2oyTHlFMzv6mv4lnLApryQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Good product and very nice price",
+        "time": 1640879242,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:54.712521",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Mobile Exchange",
+    "address": "13/1, Kamla Nehru Marg, near Gurudwara Freegunj, opposite Gurudwara, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJo-ekvzx1YzkR6wM3D_vhv4A",
+    "rating": 4.9,
+    "user_ratings_total": 92,
+    "price_level": null,
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1775214,
+    "longitude": 75.7916253,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcwSKanyIi8ZfBkeDfqumYWTWIkmWElO68bn6JW04bRvViDmBY8j3Lc_hlNmmOI90n37_gl1QyyiMDEYGjhlKsTO-xshHaYL1zfHPt3IPtlsf-_dY8JeTLZAXe30AZx_1NBkKmtvVR3jSCCR2or3byRttwZrlGlhyCOCsebmbRMs4ufJpM2jzdl5iIGljO7u_Cy_1MRxLfkwkRl3bvgUJMBCnVdxZAK7ghwWWIdhjjIRBd1eOOw3hKrAkOzQCTDkMHutuYTSMe45Tm6SVKmmQn-Ws5BJjhDCWyS1NSeT9lXvzzBjL8&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "098939 11128",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "anushree lavania",
+        "author_url": "https://www.google.com/maps/contrib/114826782693855973438/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXh2vuhxPJD_CbbIMWGAkPJftSFK3z1HUd4gspzN0H-Fs0mm8L2=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "I got my iPhone from this shop, it is the best shop because of multiple reasons:\n1. One day delivery of favourite product\n2. Best affordable price than any online or other platform\n3. Staff and the owner is very generous and they give authentic and trustworthy products\n4. Thankyou mobile exchange for making my festival days shine brighter. “☺️✌️”",
+        "time": 1730653506,
+        "translated": false
+      },
+      {
+        "author_name": "Deepak Betwal",
+        "author_url": "https://www.google.com/maps/contrib/107899655819473856639/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIN5pQ1bSiaRsmpLz4th5C459ihkDsAqvqzpIMA_NhxEU7g-Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "All most all product best ret and best deal",
+        "time": 1751042205,
+        "translated": false
+      },
+      {
+        "author_name": "amit yadav",
+        "author_url": "https://www.google.com/maps/contrib/103030244314367120844/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU35Uhb3EtprpxoJqE8cgzeIYgtyg6vzz6FzfcwQWguTyYczTl2Jg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Mobile exchange, Ujjain best shop all brands available Available In one place",
+        "time": 1719045532,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:54.801364",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Varsha Zone",
+    "address": "59/3-4, Kshapnak Marg., Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJB8BVVBCJZDkR2m_YxJs6Q9k",
+    "rating": 4.7,
+    "user_ratings_total": 12,
+    "price_level": null,
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1775357,
+    "longitude": 75.7935428,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpc2Why1c58FTSGjTxiT1b_ioBDtAuu5vtlLc61IgDEEF9Kb_QiCpF1cEQFM527jzl0jUgI-rj7A2ymEKJ-fHc0S6EzjjveB69gl5D-Ml6mQckMWZhFkzyZ1DM5TH1NmIpOfvlYPp55s4O4Hk4bVTbMHOx0_Tr68uiuidISo4rqVXY7BOVSjR7FM0sYJ9_Cufy3mQJuA2RaUCEDvNYfyH9g_pfptMwfJvan_72RFhURFTqaOlqzy9WUNFZUff3oiykvbGRVrTxZSpV6y_8LZxU_vmnofF1Km8cU4zWT_FrJcLRTVXpoEmWEwAazWISuan83UYKS8Np12KlDHWSIfLrRDaGOqpWZzY0nGiXo5bVaprmr39URcg-ApCEInZpw5NZ7KG6WEmoF19IL5mHxWEWCbioV4oEHaATLhF0sQreZcpRG47ELs1F3TLlNZI8sEUeNF_i42oepafSpOyGjhznnCDEPsz7-Gtab0fNZ9aa1YNZgqyUxxt_9F0UEdCfKlBRqcgMQuliN2aPFPwL5OtUGsekgJFVOT5ySyMS8oEVjDbn6NYXkivkzOj0-PrtYR5PFPLNbev0dzdQ&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "mohit jethwani",
+        "author_url": "https://www.google.com/maps/contrib/105964853746472832124/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEYcbLZkyfobmVuUn8tBlqc_PZEC2mitVsEviVerTw0wspkQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 weeks ago",
+        "text": "Good Shopping Experience",
+        "time": 1750386914,
+        "translated": false
+      },
+      {
+        "author_name": "Shrirang Karpe",
+        "author_url": "https://www.google.com/maps/contrib/108417724546631923216/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdYYmD4cKrcEsTnWV2HysHaf3otV0-fCSn2WfTljq2lMMQa58=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Best place to purchase mobile phone",
+        "time": 1710899600,
+        "translated": false
+      },
+      {
+        "author_name": "Rajkumar Gulabwani",
+        "author_url": "https://www.google.com/maps/contrib/109670061397488975400/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTJya1txlyTQ5fVw0-Nh_IAMm_ZSymAc75KEnH4SpUpu1pHA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Nice experience",
+        "time": 1681400958,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:54.877813",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Ak Mobile Ujjain",
+    "address": "Lalwani Tower, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJYepN3j11YzkRvzeKCrHmkwU",
+    "rating": 4.8,
+    "user_ratings_total": 90,
+    "price_level": null,
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1788796,
+    "longitude": 75.79191019999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpdHk1UFikwwSylQeIK7j2nLxyYdDL4D_yrbsdQeoyqXfzkUVNeGvGd0poXzQCqx_wOyEF8vUtqmftFJRbDpeVU9mkjeOfOZU0mJbiDE0CnApeLYhRkfTmmpCwBecmLBnAECJz1ll8FB37D68TnoicxU_EGMJH5aoK9I6cdFWfG6bf9-FtpzBOhFmwWsstNk_MSHr55aTgdXygZB5nmID8t885xDdGhimMksML8eXfEt_VYJu5kdXZQpwLKua_Vke90l0MTSD11OUkkUsrL1eMORX4NvWtODd10sz3ilPj2zbJtyFE4&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "091652 00591",
+    "opening_hours": [
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 12:00 – 8:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Saumya Ranjan Sahoo",
+        "author_url": "https://www.google.com/maps/contrib/109078389419479677211/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIm9sxqNTBDf39WIatoAwjIdUxunW9umxDX7aT5o-f3r89tefe3g=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "I visited their to repair my phone lock button. The person said me that the lock button is not available in the market also he does some jugad and charge me higher price and after 2 days the jugad is also not working. While opening the back panel, he is doing in hurry and because of this my back panel colour was also removed which affect it exchange value. Also after coming to my room i checked online and there are so many websites which are selling the lock switch. If the stock is not available with you then what is the mean of looting from the customer in the name of jugad.",
+        "time": 1693926492,
+        "translated": false
+      },
+      {
+        "author_name": "Vinay pratap singh Parihar",
+        "author_url": "https://www.google.com/maps/contrib/105500422758067073758/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcf1r-NFjFqTxcoyvbhFbQf4O3kJ652GnfwEmMiE_fDVORYQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Best service and lowest price me good mobile available",
+        "time": 1688890014,
+        "translated": false
+      },
+      {
+        "author_name": "Aditya Arya",
+        "author_url": "https://www.google.com/maps/contrib/108704315282185799365/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpzTk2pcz-C0H4MW8Ex4qsJ3QbqIC7okuTUe39V6dhH_tLcKsD=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "Better shop to buy phones & other accessories but not laptop",
+        "time": 1698161450,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:54.978740",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Hotline Mobile",
+    "address": "Tulsi Complex, 4, Shanku Marg, near Famous kulfi, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ4y0lEYF1YzkRXJX_8usOHPY",
+    "rating": 4.9,
+    "user_ratings_total": 82,
+    "price_level": null,
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1788833,
+    "longitude": 75.7894355,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpe3sOP48I1EKvNRMJNu4FV-lQcHDunLJMFWc3IvipOow3WvnmE_ZtlNZz496QU9q3cHFacghwyi2Ao7z1WFMeBbOZa4KdpfRpZEL6Jz-RtyOLwSuqH2EJ_eN-kIfE8OcjoaJNDab56IDRyC71EZcb1UrcoBe6w8N5-BZ1UcYING8HeA19TyjT5wU7MlXkLlG-vXVoHbfPJa-FfGL-LGGIH8B_MypJJfF9E08L24NpkFa4HwCLkuxQGhIM_HnFMANRQOgvZDjPliXuvLzQKgIm8Twsf8KmlIe31tag3FV4lLSRSxvsk&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "091115 93322",
+    "opening_hours": [
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 7:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Kushal Prajapati",
+        "author_url": "https://www.google.com/maps/contrib/109682907855066170397/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI81Ch1VIXkWP1Sqn2ayBsPhvwf7OQLRcbZnZQn_A0vBhRgPg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "\"Exceptional service and a vast selection of the latest mobile phones. The staff was knowledgeable and guided me to the perfect device that met all my requirements. Definitely my go-to mobile phone shop!\"",
+        "time": 1729245344,
+        "translated": false
+      },
+      {
+        "author_name": "Lucky Rathore",
+        "author_url": "https://www.google.com/maps/contrib/102258047228816630823/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgKGzpJJvKoKZfBDgk7RbuSdhPiUBUZ8cl7eqpaerDsopODZn9=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Best offer in iPhone 106 Par Day emi option is good",
+        "time": 1707206068,
+        "translated": false
+      },
+      {
+        "author_name": "mayuri sharma",
+        "author_url": "https://www.google.com/maps/contrib/103706008820148742792/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSb7meVswbdBu6CHmrkoILUcFmDx1zZNCFDuxyd8OTVXKo2BOhFw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Nice Hospitable atmosphere with valid certified products..",
+        "time": 1732526194,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:55.056935",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Nirankar Mobile",
+    "address": "Front Of New Dawa Bazar, 35/48, Madhav Club Rd, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJqUjT2Wt0YzkRJ1ffNGwWlag",
+    "rating": 3.9,
+    "user_ratings_total": 89,
+    "price_level": null,
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.177556,
+    "longitude": 75.787319,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpf90MmPI4rMG3QMDsEg2fOYJOFFDgmAN3lRzpBFKg_F0wmULAxcEox6dtQn7b-1nsVu44hJAM7pGbG2cGo1Ysm2GHhyinBZcnIPUa7DVdXdfAxnL2aXS1KuI1AoRZiPyHpmthlkTyFfiiYYOCexfscXaRuAhnsEvuESKHJCrqUmT6y3Oa-WRXV5iqoSIxaLkf0mhmXNSjh9IVgqnv26ubCzuTFrhRXTYDDZGuM9vDWcaXWdCHCdnH5lNqPU67TM0BHuJJsMCIpYnUzfG5LDZCSrBf9HRj-4C6WmkTnvHDR3ApcjZLo1HXkpBgpCj8K-U-jBC_aKar0RZtKdj-ZdFXy-3tDaDaIk_8myA8OOqcRyDjpFVuOlgnpw2SL1X2fcR_7sB_CLKyxMu-THD-M5CB1bALfQBNc-Q-_fOgk_XR6O-yLJtAkjyaRMuZ1CPJhvaNcp2Ns7i_VtDnq3Yfidi2vrzE65AZmKZA8LTy3LWJjd5XK5A8IVU9f4tWoLuIGry6UZP0I8B19kvjdsbC2FOPRaxKsJqz2PB_W5WRztJB3rbGCD5XFX0S-bDXEsK6QyKiAK389f&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "099770 02901",
+    "opening_hours": [
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Sayyed Rifaqat",
+        "author_url": "https://www.google.com/maps/contrib/110574510859854236430/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOSa4YvZRFsgemGCivcP7GXgLsWYBZ4bvQSgfd_0lqJ3V3NufoNQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "12 months ago",
+        "text": "If you want to avoid fraud, go straight to the Nirankar mobile shop. Here are the best\nMobiles and electronics in the best prices.\nUjjain's most reliable electronics store,\"NIRANKAR\"",
+        "time": 1720502937,
+        "translated": false
+      },
+      {
+        "author_name": "Chitranshi",
+        "author_url": "https://www.google.com/maps/contrib/112911197524904994416/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxE2wVkZb8IqmGs81nd3XOCxKexvkvwA3UohwykZO6ZI2Cig=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "The service is just amazing... They always help us choose the right product..",
+        "time": 1681953514,
+        "translated": false
+      },
+      {
+        "author_name": "Rahul Jat",
+        "author_url": "https://www.google.com/maps/contrib/113030495026138899412/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdeB7BLXS8o0HCFAtXCMBp9JAN_a727ebMWEiU9wYzjhm71DK-Jw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 3,
+        "relative_time_description": "2 years ago",
+        "text": "Good but seller's listing his choice forcely on us.... If we recommend other mobile they refer another.",
+        "time": 1684326811,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:55.147377",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Shree M Mobile Accessories Shop ( Mobile Cover Shop Ujjain ) Samsung iPhone Charger Glass Guard",
+    "address": "32, Varruchi Marg, gurudwara Freeganj, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJh3zEjm50YzkRVlmcKzM_psw",
+    "rating": 4.7,
+    "user_ratings_total": 491,
+    "price_level": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1769137,
+    "longitude": 75.7920755,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpck_D8p4NcPRJbnjCOJOlWSLVc_ooDncXI3DCRIm_v3b97sI9anZ1ZwyjE0ABGsH-3UeC7hVr627agM8KsjUtuENusrSHkdjMM1TAIoeBLPLsnoV39XmYPGgSlVreD7ratradY-A7fGDhf83ayYBrmJIgTqvqb3znyZM4X4VyY2WhDToHnQQ8GbfAubm1n7wgEQhCJL_nhFwcz5TbBu_qaVftvia04vwbR0d8I1vv0LY-Z8R_ziukTGXf_DPFxaSGdYh8WVPYV5Cc7K_CsiF0ipRSTe0XIISwv7QF7R5GyiGYIxx39rXDHBTSvt11BX7YekWeK_-AEkpDXOUxs0eoBI-rnF62Ve4udXgR1rl2ijY4Vi5SCt04rWxG0lxLG21zaTTFs0yaYqPaTULF9vBaHZKUby45AQdRQP9WBnhuWTr1cxYWvK5WhI6dMz-kq-1JvBDd9bsQPTsTfvZhy_lgVevl66vizmJRs4t7oWxkaL88i9H9H-8wPNPUous6nUBbBpVlgJwrdPR7MFl7tkX3fly95BEZMswMOSGCmb6961DIFfwVp6sy_ShhUJbPKJL-Oq-Ylj&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "098276 77797",
+    "opening_hours": [
+      "Monday: 10:30 AM – 9:00 PM",
+      "Tuesday: 10:30 AM – 9:00 PM",
+      "Wednesday: 10:30 AM – 9:00 PM",
+      "Thursday: 10:30 AM – 9:00 PM",
+      "Friday: 10:30 AM – 9:00 PM",
+      "Saturday: 10:30 AM – 9:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Tathastu Tours",
+        "author_url": "https://www.google.com/maps/contrib/106869838879762211135/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvYeM2yiV377MoNQGGS7Us7gPFUZzs9tjQvVbVDNNaQQWn=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "I always choose Shree M Mobile for their best quality products at reasonable prices! Recently, I purchased a mobile cover, and the quality was excellent. I also bought a Patronic Power Bank, and the after-sales service was outstanding.\n\nHighly recommended for anyone looking for trusted mobile accessories and top-notch customer service. Truly the best in town!",
+        "time": 1742682722,
+        "translated": false
+      },
+      {
+        "author_name": "Naitik Nagar",
+        "author_url": "https://www.google.com/maps/contrib/103844611940450988638/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJoAnS4XeOHaiuxmH_wfPm4jTEDHpvxoj2M9MvXAukyopr_5G0=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 months ago",
+        "text": "Completely Rubbish, I got a new screen guard installed on my phone 4 days ago, within 5-10 minutes it got air bubbles inside it. The moment when I removed the glass guard to fix those air bubbles, the guard had broken. It is necessary to give minimum 1 star rating, otherwise I would have rated it in negatives.\nFix your Problems and Maintain Good Quality of Products!",
+        "time": 1736680286,
+        "translated": false
+      },
+      {
+        "author_name": "Chirag Nihalchandani",
+        "author_url": "https://www.google.com/maps/contrib/101970987334867287487/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmtJIZwxdyIHlfvjKPHgiuv8sHjHya-r7ZD_9r6O7E3eXFauNJsw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Rates are very worth it and very standard quality. Rohit Ji is very hood person.\nworth it experience. Really best shop in ujjain",
+        "time": 1742682364,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:55.240234",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "New Baba Shree Mobile Shopee & Electronics",
+    "address": "7/3-A BHOJ MARG FREEGANJ OPP . DWARKA MAI TOWER AND NR . NARANG COMPLEX, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ_4roLHR1YzkR4AvtHDp1fAs",
+    "rating": 5,
+    "user_ratings_total": 2,
+    "price_level": null,
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1783296,
+    "longitude": 75.79235899999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpf7Z0VBYw5RhwbjZ51mumz2daYhjCti8ytukq84_Pi3wNYNR9nsXPzYNIitnRPrSYWWgPRzWM9GDiLuc_HWiv9wky3n-Ed-fTlhzKBx2PcpyemODbd2NvZKQfGguubpJkTdYMgrmKH8nCdy1U0zd7MIXBrAaxoufjrh_sfcfaJqul5gaqd36wYPeNNevkMs9BTS1IiLgqYCbpQQwLopQFq9jcaek0bM_GF-Lw6ACn2tC87pnIdk8Z708ueE4vvzKbS7wIFmmNLKRtbUP_gsIVKor1Yddq27yMCUutCm-9mWFkbNmKg&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "080859 25185",
+    "opening_hours": [
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Radhika Khandelwal",
+        "author_url": "https://www.google.com/maps/contrib/111932983529136935280/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLumH02ryWd75b_KjvIV9WVMgfOH3Ebbb3yEp0LzGf7vAoyyg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "",
+        "time": 1627414817,
+        "translated": false
+      },
+      {
+        "author_name": "sunita suman",
+        "author_url": "https://www.google.com/maps/contrib/108656346582666835624/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGcgZXijtYuhJnml4nJN03YpMe-7cMLPGo8qTOcLknHda3iIV7MA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "",
+        "time": 1610345842,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:55.320510",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "NM Mobile Zone",
+    "address": "N.M Mobile Zone 47, kshapank marg N.M Mobile Zone, opp. Control room, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJOflhSc11YzkRgm4h54sfPkw",
+    "rating": 4.9,
+    "user_ratings_total": 8,
+    "price_level": null,
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1760675,
+    "longitude": 75.7936246,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfYPxgP3uuciRZVomvPvuWX_Jm_eY8t1Cti00-dkT8X4MR6QI2sBYVe8_IuwlIoq6T8dEwp0xLVm_XIc5_m_-El3dGUgKbn7alF2yUfGYWkFUtwAHxaOjG1J8FU-zuOea7yTQ8PaZ23UikXGeXXrVZ0oKSqkCP2Z4VpTuor0I-aP8aP_ZtJdKmvDkKU5Ow7Oq_9ozTAKIMZn6SQLQB4lEyC5NmIDCetH7R72pgc2QtD7LC0ytztz12yYoKQYPPVswZye7NYz9n6xK6tKBboy3oTznPRPglr4OV23kwR91oq3zl4E88&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "090095 18708",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "reviews": [
+      {
+        "author_name": "Panwar Ji",
+        "author_url": "https://www.google.com/maps/contrib/116232929510259034429/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1UFw0voxqUBgA6wR6IXAthvOoqIaaQkxUmaw6uudIaNSuLAV8eA=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "2 years ago",
+        "text": "Vivo V27 phone very good service very good shop",
+        "time": 1687785331,
+        "translated": false
+      },
+      {
+        "author_name": "Atik Noor",
+        "author_url": "https://www.google.com/maps/contrib/109488403345252280117/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJNIXv2iLvQ4lGpm9ANhBYNxhRLFqSv7tCgYtR-ZOAq3FjDEw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Online rate se Kam rate me online phone",
+        "time": 1689184470,
+        "translated": false
+      },
+      {
+        "author_name": "Sahil Patel",
+        "author_url": "https://www.google.com/maps/contrib/103519978586220336854/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4mA9yjAFd4a0Msj8hSHnpVSw0sOF1i0uFM7U48kR-xKPBYQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Nm mobile zone good service",
+        "time": 1690877502,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:55.393525",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Lakshya Mobile & Electronics",
+    "address": "202, near SS Hospital, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJ0QVcjkB1YzkRQVSrBCGsd5o",
+    "rating": 5,
+    "user_ratings_total": 3,
+    "price_level": null,
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1785774,
+    "longitude": 75.7918715,
+    "opening_hours": [
+      "Monday: 9:00 AM – 11:30 PM",
+      "Tuesday: 9:00 AM – 11:30 PM",
+      "Wednesday: 9:00 AM – 11:30 PM",
+      "Thursday: 9:00 AM – 11:30 PM",
+      "Friday: 9:00 AM – 11:30 PM",
+      "Saturday: 9:00 AM – 11:30 PM",
+      "Sunday: 9:00 AM – 11:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Vikas Sir",
+        "author_url": "https://www.google.com/maps/contrib/106619151492838079323/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUY9qcD0jmfDiO2jIcLJ_0aNBdkbipjIFvKY8pmOnmrZO1OCgE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Best mobile shop in ujjain and Best quality of product 👍👍👍👍",
+        "time": 1747240843,
+        "translated": false
+      },
+      {
+        "author_name": "Vish",
+        "author_url": "https://www.google.com/maps/contrib/102468400558314396116/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcwRlJwxrNgBoX7kUvvQ77-NqN4LUO9Vz5A1jdWfJu4dcgN7c=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "very good service and solid product quality",
+        "time": 1747237939,
+        "translated": false
+      },
+      {
+        "author_name": "Mr Lucky",
+        "author_url": "https://www.google.com/maps/contrib/103309703931654176377/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImsvn1QUzxeBMZO6_-rS3t1OTswLx1s4jIiktwQ8FObkRdtQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "",
+        "time": 1747240902,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:55.494122",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Utkarsh Mobile Accessories & Repairing",
+    "address": "725, Ring Rd, Sethi Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJF0rqZsZ1YzkRp_Et2oE5ut0",
+    "rating": 4.8,
+    "user_ratings_total": 48,
+    "price_level": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1754028,
+    "longitude": 75.8060004,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpf-B82YyYmffUDUYnTq7BLe_wDVm3ICAtE2GLOoH_odkPK1TzInr301WrIVmjflgTn4_Mz44PsXeubXPhTrOwHDKsVDy1wQlvUBytDqVOk2dlUvauZVL2DT3-cQguqRW11v8Afb3KopwlJ9apSFKUxy9zC0mVcZtY_1OaU0UtH6Ajn7bgQWLSAp2-uaY8_GsLoXOfqIkdh6u2Cue1ZsKo5arWlEPYbBvEVKP4LRA9Iy97VDa_2hswvQPpCbqFxr4uxO4gEYCF9k5wmjRlPsJHZDjA0GbadhxyVbw4e7soDMuuXaos8&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "088156 45558",
+    "opening_hours": [
+      "Monday: 10:00 AM – 11:00 PM",
+      "Tuesday: 10:00 AM – 11:00 PM",
+      "Wednesday: 10:00 AM – 11:00 PM",
+      "Thursday: 10:00 AM – 11:00 PM",
+      "Friday: 10:00 AM – 11:00 PM",
+      "Saturday: 10:00 AM – 11:00 PM",
+      "Sunday: 10:00 AM – 8:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "shruti malviya",
+        "author_url": "https://www.google.com/maps/contrib/113299079375021346859/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5vjZPWGljXQPkn6aaBdMaiFZXOhMnmGE7hz-Dluogxec2cME=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "Good Quality products",
+        "time": 1749613711,
+        "translated": false
+      },
+      {
+        "author_name": "Siddharth Sharma",
+        "author_url": "https://www.google.com/maps/contrib/112169925417462650244/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCmkF7RuSXHFUFkeJqPx21nOYdMohN2WiyK90kFkZGLlHyvCr5=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I had a screen replacement from him he is a very helpful person nd he also gives free home delivery 🕺🕺",
+        "time": 1704449817,
+        "translated": false
+      },
+      {
+        "author_name": "ark vijayvargiya",
+        "author_url": "https://www.google.com/maps/contrib/110786264653203627899/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI7L5fCIlmNGJkekkKwvQ9DA-gfF9na7aUWVUmdVLQj2R32nQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Best Home Pickup And Delivery Service..😁",
+        "time": 1715429119,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:55.630439",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "JIO MART DIGITAL store - Ujjain",
+    "address": "35, Bhoj Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ7TtNKmB1YzkRxmylr--Q6zk",
+    "rating": 3.4,
+    "user_ratings_total": 17,
+    "price_level": null,
+    "types": [
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1781805,
+    "longitude": 75.7897631,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpemZ-6w9fA0xZy83lDBB5gf_6yFr_Uo5xnmoTe8WbKrBddKV-QofBkeaupoQlZDXDdh4hQmoDOACD8gnqwI7xyTYnvre6VbMMFp39SglV-Ulrq0Y9RJqal0En_FejBNLsZFzRCtimgufyTqQuwcKxY083a3jZHYF_K8WnFAqBOEHZ2Mhf_KdwdkeeYZhj0Ow6pjJKwxuGo1X2Gs48qyugPb-mAUMzv5jlac1Y1EKUDVHyQvbfx3fpPmUmcjws4L36LG7hj8ytA_8oXR4HtKA17lMxBdC7o_f89_xX8vITkS-JOegYA&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "092002 00125",
+    "opening_hours": [
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 10:00 AM – 4:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Kabir Khan",
+        "author_url": "https://www.google.com/maps/contrib/113023455776376785069/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCRjmx5NkQnbKqiXvXY6QsroBJpEiq-WAKoMhgMsvZ9GY7qno=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Does realme narzo 80 pro available urgent reply fast",
+        "time": 1744869291,
+        "translated": false
+      },
+      {
+        "author_name": "Sahaj Godha",
+        "author_url": "https://www.google.com/maps/contrib/113073118963696905433/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCXSh5CyP4nT05P3uXXLalcdURZOqhmfCvyn3zKJV041R4ZnmJ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "Bad experience regarding customer service. Staff delayed a lot for giving accessories for my brand new realme c35 due to which I had to make 3 to 4 visits at the shop.\nI would recommend if you are purchasing any product from here first check there are all accessories available if not don't purchase it from there.",
+        "time": 1652953686,
+        "translated": false
+      },
+      {
+        "author_name": "Shivam Pandya",
+        "author_url": "https://www.google.com/maps/contrib/104641641213833827658/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLeavNTFcQTQMkiika0oyzSAKgstoe05zSFkb_fREZ3uc8KCa7wA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 3,
+        "relative_time_description": "2 months ago",
+        "text": "Is Realme P3 available? & At what price?",
+        "time": 1745343528,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:55.718674",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Mi Store - Ujjain",
+    "address": "Dr shyama Prashad Mukharji Shopping Complex, 04, Nanakheda, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJj5kuV8Z1YzkRMQ3XHwW2GEo",
+    "rating": 4.2,
+    "user_ratings_total": 56,
+    "price_level": null,
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1568422,
+    "longitude": 75.788602,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpfHkT6bC4mX0rbRNG5-WIbuDR6WGfpdptPI7uJerE1dy56hxkfr4kNJlCsGxWUnMP3pwp1G-QsO5X_otDwbvIHbE31lZZFMMOLHZWB2nAf1wL9TywdYIhsOz_Ayj0YLh6v6JiMyaDepqYnYhFLLrqirXVg83wWUhJBGCU2W2Wj5qiu-osIfG7IPPW_PHiBfgtSh6R154-Aw1m8r5kPTIcu5mMJ5_PN6vBn0DEyEOp3jXge0jzh9KNQCbvomN2FC9q2zXFsWs-B3ibaWNl1vhu84Eb5Pab13nPXOe3sUHURhHq95fFM&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "089894 48222",
+    "opening_hours": [
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: 10:00 AM – 10:00 PM",
+      "Saturday: 10:00 AM – 10:00 PM",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Jaya vishwakarma",
+        "author_url": "https://www.google.com/maps/contrib/105791113382028032042/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUznfeVAm8NWx5tnYdZTuG3DoO7rWmozs9UgXQ97rVVq5XKNe8zBg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "I would rate this store as 5 star just because it's a mi store here you will find all the mi product at the original price as on the online mi store. I loved the service i went there to buy note 10 pro. And loved it\nI just request the owner to add there no over the map .",
+        "time": 1626205400,
+        "translated": false
+      },
+      {
+        "author_name": "Shivani singh kashyap",
+        "author_url": "https://www.google.com/maps/contrib/112084722335931323587/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNnU3Ix4DC_yvVFpM0a9qJBfLXNr8TgZK_9BEDCWXF_rveIQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "With utmost patience they handled all my queries...they know customer service I must say ( atleast more than sales people from so many other stores in Indore🙄😕) as they listened each and every thing that I was looking for in a led tv...they understood and suggested the exact tv i was looking for...I bought one for myself and m Happy!!!!\nWell, i definitely recommend this mi Store,as it has wide range of latest products....",
+        "time": 1658946462,
+        "translated": false
+      },
+      {
+        "author_name": "Fardeen khan",
+        "author_url": "https://www.google.com/maps/contrib/107351923086326744298/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXnnMdckpFYPU9qQnIqVsT-k671PBVCxykBvnkzmNqW5k2oh2GXQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "3 years ago",
+        "text": "i went there twice but the price on the online mi store nd offline store was different then i get to know this is not an official mi store anymore it used to but not now i don't know what these guys are doing they are spoiling mi reputation i hope Xiaomi will take strict action against them lastly i had a bad experience there i won't recommend anyone to go there if you wanna buy something online store are still better then this one...#peace🤘",
+        "time": 1628742114,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:55.801913",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "G World Mobile Accessories",
+    "address": "190, Bada Teliwada, Chouraha, Ujjain, Madhya Pradesh 456006, India",
+    "place_id": "ChIJqdNGX551YzkROY9il9vkm6s",
+    "rating": 4.2,
+    "user_ratings_total": 10,
+    "price_level": null,
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1893197,
+    "longitude": 75.7770334,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcKctt4UY0gYqc-WTnO_xs2kGioD0wTwC7bl-upVjlmOHzZe7UEgnrl_Lzpd5QpZTeHMR5TWp9LHgBVR9R8u4dJ8pfl236vfP0rptTF9HF5wmfFQMh9km93D6G5U5uS4Yi8Mo8N0uFg5wwrLGUN7HirDEouU7JKGtpdq5S3KtJLtAQQZ0-UKsh8M3A5dvHf0CyN008-ze8SnpLO3xdUntAoKfFDrLB6A7lOJFNhwRykwxq8fUQzd-yen3mdpvsJ2erCsfLDhM4Kc2jBR8gRpKTtgqtrlhEi0eFgTqbtbtYzk2a2upZ3hroy-F5yyR_Uc5s_NccU6dcFJ7jvzt-DzUqh6-ww3qIqElSY6eGP79EJNRX7r-DH58q1okycUfVMneawljuOWPt0zq1-_2-qRmUP4FJYbfLlhmkxaKvD3FHvuLHsFbfxYyhkRFteYgaNsfcf2IBntBB9JU3ClwfUtgId5ww8JAzTtF3X9aUxGHzpXg1lRA4odWaSHfro4n3xZdd9csh0AREelLYu76hlLPHgBNrKlUt7wUvAY-citjHCr6O-qUVwE10jBNuE9P3hTa9zZFCy&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "098265 00600",
+    "opening_hours": [
+      "Monday: 10:30 AM – 10:00 PM",
+      "Tuesday: 10:30 AM – 10:00 PM",
+      "Wednesday: 10:30 AM – 10:00 PM",
+      "Thursday: 10:30 AM – 10:00 PM",
+      "Friday: 10:30 AM – 10:00 PM",
+      "Saturday: 10:30 AM – 10:00 PM",
+      "Sunday: 10:30 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Nikhil Astaya",
+        "author_url": "https://www.google.com/maps/contrib/114860508964280205470/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYBRkcH32M3ttnjFFcLu1nYLd4QkI1XTC5UXR--Ziphf_ZNqnN=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "Here you will not get the mobile of your choice. They will always tell their mobile number, which we do not need, they will force us to take it.\nI bought mobile from here 2 times and both times they gave me phone of their choice not of my choice\nIn the end I would say that this is the worst mobile shop in Ujjain.",
+        "time": 1691677943,
+        "translated": false
+      },
+      {
+        "author_name": "Dinesh Jaat",
+        "author_url": "https://www.google.com/maps/contrib/112694157484433742754/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLrkLBmzvte_VmRZhzo1KxqfBKi1kwf-8XS5quTNfsH4X7dVg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Good service happy customers",
+        "time": 1655296247,
+        "translated": false
+      },
+      {
+        "author_name": "Mahesh kumrawat",
+        "author_url": "https://www.google.com/maps/contrib/116734242072841002831/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9fNzD05k5juZNeeSnWctz7e7BFcdWbrR9ETvFefazRE11aZxX=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Very good service",
+        "time": 1655296205,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:55.895158",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "RB ZONE Electronics Super Store",
+    "address": "24, Bhoj Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJ0bBJK2x0YzkRxSJadC2-35U",
+    "rating": 4.4,
+    "user_ratings_total": 1302,
+    "price_level": null,
+    "types": [
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.178073,
+    "longitude": 75.792131,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpezNF2hRazaTAIQn91Cxxm7V8vcTnBqFEMwHi5gdqOSozbYlmy9gaRW_7iS3qZS8c9gqo7cWZm_C7PRC7k_JJwWifZEEDaCzmWnquOVpS0UDadCt5u0wMgoMvsqZF8Eq4I1x70gCjpZNJtTWABP4X1Jv9ayL4lETkhnyIAyL0CfrE79QiQeUrtcG9VoQl8u4xTmISzxB939Zw5dwiANkOz8F0doNlpa5heV_w3V7V335FxWhZ6s34C8MhLSLQsOSUewnYfr_rn9dtoav_72bhdl7zeNbrQNAyTWUrQcO-XpT4rGkHJnex_Xe3J0Awr6Xx9LPA4jgPPzX8M-xN4udXKy_ezrBHinFGN56rJnJKiY1xjljmYHtSdBy3iBpPcY1f4MDa2oM4kjJ6Iv-GMsFWyOj03OrNF4yKqwYvlgpx1oD-ut0SO-hjLxoj4otvkvJq0REAcvOQ3P8HNK9JkERYxLBm183LwYuUNv9m-Pr4x1sxzOJpi86BjqXzlPfPwU9G7cPXkvNJudaCNUkrxmYpzRJru__DlzjkwEG-dVVp8J029hqWdEo_C1hAbPEiprLvVeC5G0&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "0734 253 0181",
+    "website": "https://www.rbzone.com/",
+    "opening_hours": [
+      "Monday: 10:00 AM – 9:30 PM",
+      "Tuesday: 10:00 AM – 9:30 PM",
+      "Wednesday: 10:00 AM – 9:30 PM",
+      "Thursday: 10:00 AM – 9:30 PM",
+      "Friday: 10:00 AM – 9:30 PM",
+      "Saturday: 10:00 AM – 9:30 PM",
+      "Sunday: 10:00 AM – 9:30 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "sapna sharma",
+        "author_url": "https://www.google.com/maps/contrib/107674223028883377627/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2BoiPbGELrlV5-siTdHdk6eEw38yWvJIOv5s-1oXlKurerJuj=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "2 months ago",
+        "text": "Delayed product delivery.  Salesman not aware of product and also misguided to my questions. When asked for money refund, said 2% will be cut, had to wait for washing machine and when got delivered, had scratches inside the drum rim BUT they considered the issue, resolved it timely and got my machine replaced. Happy with the service.",
+        "time": 1745237389,
+        "translated": false
+      },
+      {
+        "author_name": "Pranjal Kothari",
+        "author_url": "https://www.google.com/maps/contrib/109647870001533220283/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwt162DQyIl0pAqEl3KWRq6ZZp538cQ8N9CiS1Lc3opgfvQg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Nice customer satisfaction ,I am regular customer of your freeganj shop we always like to come here for our all needs",
+        "time": 1750672914,
+        "translated": false
+      },
+      {
+        "author_name": "Nidhi Lucky",
+        "author_url": "https://www.google.com/maps/contrib/104221692346189620681/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJp-_TgGxbL73jD5s6qk5WdLUBCI9pA5TBdUJVPgZB8jQ4hg5o=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "I recently purchased a laptop from this store, but they did not provide a laptop bag despite multiple requests. I was disappointed with the service and lack of customer support. I would advise potential buyers to clarify all inclusions before making a purchase. Not at all satisfied",
+        "time": 1743136592,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:55.982867",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "New Balaji Mobile Shopee",
+    "address": "Vinayak Tower, 59, Kshapnak Marg., Madhav Nagar, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJf8kvNDd1YzkRNi9biW3hjTI",
+    "rating": 5,
+    "user_ratings_total": 12,
+    "price_level": null,
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1774968,
+    "longitude": 75.79353309999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcXtEa9pyZ4HEGv-UntC0aY__nWl2YkeZwIHA_ob7iDpziyXZ4yaLpSLZrVBs7QOEbUCiI_rn4UqqqnrRYMCaXy0tW7YqF9j9vsiwf4_qkuHRPQu14EZLmKrVElCQ_vkkCLHDCpTvqGKXjkTayaaQoKj19BrHsQW04tvmCYpLZDDuMV7vOZwNSdVw7qqMqB7PH2nO0s6Qx5RFgHSMvK2vbvp-fmDHy5YIDHOS4j6M22QSL1Lj8DJsGikBGUGVBA-OpMoxdgAWIP5s53Lz7g_gz6K_Yvv12at61gUsAr3kftEwnuhKk&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "Garvit Singh jat",
+        "author_url": "https://www.google.com/maps/contrib/101142507044178178822/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUy4kH_ftpuTAS7rvMrZ2K24Xw8vhyTB03uKhY0XfkdVIsGqaz=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Best store to get mobile phone on cheaper price than others, best service, good staff with helpful nature. Must visit ✌🏻",
+        "time": 1629905952,
+        "translated": false
+      },
+      {
+        "author_name": "Shivani Sattan",
+        "author_url": "https://www.google.com/maps/contrib/110044686719630958068/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJffZSCrew-bXC0sG_-9VFVDql-fWtVsx31_0SoLfdyZyDooQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Very pleasant experience..owner mr pratik is very polite and helping..good collection of mobile and accessories",
+        "time": 1633980660,
+        "translated": false
+      },
+      {
+        "author_name": "Dinesh Singh",
+        "author_url": "https://www.google.com/maps/contrib/110500400087187316514/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKr5zsTOjTTYuScBSumViOcHcdOXMbZ2VXIyvc7UFCXVKzGw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Absolutely first class service, excellent staff behaviour.\nTotally recommend them",
+        "time": 1627282807,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:56.065623",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Ajanta Electronics Appliances",
+    "address": "Shop No 1, Harphool Wali Gali, behind Ganga Restaurant, Freeganj, Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJVx83DGx0YzkRuuNnZOKQPcI",
+    "rating": 4.2,
+    "user_ratings_total": 188,
+    "price_level": null,
+    "types": [
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1786932,
+    "longitude": 75.7898951,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcO9UDAvOJlsNTSAqctjWqSkW_RVIQohoO1FaRvxz9XAla1Skxx4fC4l5fIeJ3R-ZJTbAcahbNisbuQsuaWEsXTqKyNbG_RnOH37rW__enCV5yFjkDzYJsvElb515TyJIImdvHn3Gtc1UeH66HIkawikwAEFAX6EfeTx0aFRjGMRK8I7L236qKY_XMZ8ewKwLeoUIt_e8WJ4nTRr2oyrBe_SiVKHkFYif3bjj1w56ZpC2yKwLj6M89W8VqjpfISXVtt4KWFFYK1zmVaS_3P-tUeBf9bh_8djxinyBHFuICcSGumhdqT9xC0jqyfSv-BbTcoFoJGrP-iTzTIRwzaEFgryNOrjhcF0iC36cut-Y-BOgPwBTXLe5VZjtJR6g9Jxhfdjwp6ACIKLeCfMlqT9FR5jscCYWjOfYM-eF_DkmHu-7zTMYYYsS-qHyjbsQUFn8aV5ROu1MDYBW4MVk8sFd2mYRvKEO23zbUzIC9SLQdfd0ZJ07rQLJYAIrSqeQzCs8uvoGYaL-WWeTAtC_nNR7zRTQDUjoWJIb17FJubP91ZB-JuzuJPkWLOnZgrJcdwVpnkunB-&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "080 6220 8003",
+    "website": "https://ajantaelectronics.in/",
+    "opening_hours": [
+      "Monday: 11:00 AM – 9:30 PM",
+      "Tuesday: 11:00 AM – 9:30 PM",
+      "Wednesday: 11:00 AM – 9:30 PM",
+      "Thursday: 11:00 AM – 9:30 PM",
+      "Friday: 11:00 AM – 9:30 PM",
+      "Saturday: 11:00 AM – 9:30 PM",
+      "Sunday: Closed"
+    ],
+    "reviews": [
+      {
+        "author_name": "SHIBBU",
+        "author_url": "https://www.google.com/maps/contrib/118142164487625014839/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3EguEK_2jDarKxdDJxHYEUmxsyQ5gvGtHPzrc0sbv_rYVHw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I am purchasing since 05 years in this shop\nAll shopkeeper are so good\nI am so happy with this shop",
+        "time": 1699104356,
+        "translated": false
+      },
+      {
+        "author_name": "Rahul Thakur",
+        "author_url": "https://www.google.com/maps/contrib/115411804164503235647/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJihVIRR1FKjyGM5elL3D4OwFrS6CQ-BukmRq8mbH2UnrldFw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "All range of smartphones available wid Lowest rate and best cash back offer\nMust visit everyone here.",
+        "time": 1697960890,
+        "translated": false
+      },
+      {
+        "author_name": "GAYATRI BRAHMA",
+        "author_url": "https://www.google.com/maps/contrib/113045550559855851098/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOj7fFMDjvW02xVd0wPj6O-hbhMmzlNbr4Kkr1BDiJCXR6J-Px=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "This store is a go-to for all things electronics. The staffs are  incredibly helpful in explaining the features and help make an informed decision. The store's layout is organised, making it easy to compare different models. The store had a wide selection of appliances, and the prices were competitive. Highly recommended for anyone in need of quality electronics appliances.",
+        "time": 1701086278,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:56.158750",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "MOBILE ZONE",
+    "address": "Front Of Madhav Nagar Hospital, Kshapnak Marg., Ujjain, Madhya Pradesh 456010, India",
+    "place_id": "ChIJkW0frgp1YzkRaZmATPeVd_o",
+    "rating": 5,
+    "user_ratings_total": 1,
+    "price_level": null,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.1773453,
+    "longitude": 75.79256459999999,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpe5E4DHOrr9VV5onz50b-HE8VV0sik1Ea1Si4C_BAJL11zPdmhwBYoSdniCnFnn2dsjz-W1SB-kyRW6rFWNefybAcIn0KOpYg3T8SF8xWWH4nuAZ7Ps0pgwmBdoMlcXk0ItxkwSt0fGPP4yjBIX6E9vEbnemGQhM8Tp4BHF6Zy1qELoyodv3V1z_93tJIMEEjJI37h0vs-3sRjyHgDxX3ZWQdRGCj_rhkcr4Aa-XxJocbcpCmrUsRDyLGqjzshFzPvNfoDCKLgoGDzLHWstRMxXm_4fDb5Sq9SEpS6XyMCjPDX9syY38Jf8HjyjLqMyityffNI7Plaa3HLA-a6jbq1nKSbvoOjIt6nkvWWlSgjpQPjLuBunH7195Ez7ZJiXVV5B6GhIhhi8NiQXEku-i_H9K6Sl7r7GtRzYKxqKz-WK4FYpwoBlUAgR-_O5yLpPtMyW-T8zi5V3zFKjRLAeB1NtImdLKwwCtHKLTBFEv8c3pPxzDCcldQLAiGP4hjpVsFzOqrcKqlX5CMAP5uLbnipqCZd645mAVoqHXHxYKjk9g8jfNIghZ6KWRxwQIQuJqR20Nkir&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "088394 69899",
+    "opening_hours": [
+      "Monday: 11:00 AM – 10:00 AM",
+      "Tuesday: 11:00 AM – 10:00 AM",
+      "Wednesday: 11:00 AM – 10:00 AM",
+      "Thursday: 11:00 AM – 10:00 AM",
+      "Friday: 11:00 AM – 10:00 AM",
+      "Saturday: 11:00 AM – 10:00 AM",
+      "Sunday: 12:00 PM – 6:00 AM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Aman Shaikh",
+        "author_url": "https://www.google.com/maps/contrib/109979690772265789608/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINJVjlvtWCyYNrtP4z_Qua87hlPml3YrOWZkPJCEA_K0hYMg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "",
+        "time": 1740404435,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:56.243462",
+    "source": "google_maps_api",
+    "data_type": "real"
+  },
+  {
+    "name": "Global Mobile And Electronics",
+    "address": "20/2 Shankar bhawan indira gandhi square, Freeganj, Ujjain, Madhya Pradesh 456001, India",
+    "place_id": "ChIJZ1nwMq91YzkRh4foSCgEi08",
+    "rating": 4.7,
+    "user_ratings_total": 38,
+    "price_level": null,
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "permanently_closed": false,
+    "latitude": 23.177737,
+    "longitude": 75.7884783,
+    "image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATKogpcbDJupYIx0UFTfWqYMbdKQ0byQ30dgLwJ9DerwbCQzKUo7Irmq3dyRqGZWHwk5f72TrMrwVxezBV5x5aJgAfvApJEr5yWXAB6Txb2YRtQitCM977dMaGI7j3gtYxq5Lgqvqq1-RhE10wJwBodW8LegJD8QB4b2crdqgNR-UXIsmX0Av7FEPKFcGQ-0pTKQnHNiuy3hvZgDR6vc2G4-ZyfRS7_pmAkevMOZvKhxxCXaGTs_LiEidKRj1jTXTvLfwmYYCrvhPD5CrQY29V30qnUbpyv25uSyjUVAV2HuSbGfvwmi4tI&key=AIzaSyAsWs15Tu7mWDxw6bGV5F8LL9FRvztQ_cc",
+    "phone_number": "097706 40665",
+    "opening_hours": [
+      "Monday: 10:00 AM – 10:00 PM",
+      "Tuesday: 10:00 AM – 10:00 PM",
+      "Wednesday: 10:00 AM – 10:00 PM",
+      "Thursday: 10:00 AM – 10:00 PM",
+      "Friday: Closed",
+      "Saturday: Closed",
+      "Sunday: 10:00 AM – 10:00 PM"
+    ],
+    "reviews": [
+      {
+        "author_name": "Sunil Gurjar",
+        "author_url": "https://www.google.com/maps/contrib/104798637956354288513/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtcdqKQEzBHqJ46oD7EaT3IvzZ3d1hwNAnlMfJAxxxU-tYNIo=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a month ago",
+        "text": "Very poor call atten nhi krte or customer service achi nhi h",
+        "time": 1747922453,
+        "translated": false
+      },
+      {
+        "author_name": "Azam Khan",
+        "author_url": "https://www.google.com/maps/contrib/113433505004083758066/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhVEjWTQWerbAKd8z0suH34KADY4oNS5nJIGW9bSMXvD5wdyzP=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Best Shop in Ujjain  all Verity smart watch available",
+        "time": 1690727625,
+        "translated": false
+      },
+      {
+        "author_name": "Suyash Anand",
+        "author_url": "https://www.google.com/maps/contrib/102418406715569048176/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbNJm7Jm6hBUm_r50lbRmV6mzryg5AeuMsb4hMs-A-tcbm_eDR=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "I really love this shop because the customer service is fantastic and all products are nice  Must recommend a visit 👍👍",
+        "time": 1652258705,
+        "translated": false
+      }
+    ],
+    "scraped_at": "2025-07-04T16:03:56.340455",
+    "source": "google_maps_api",
+    "data_type": "real"
+  }
+]
