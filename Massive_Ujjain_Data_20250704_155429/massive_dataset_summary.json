@@ -1,0 +1,51 @@
+{
+  "total_businesses": 9306,
+  "generation_date": "2025-07-04T15:54:29.914009",
+  "locations_covered": 20,
+  "categories_covered": 10,
+  "subcategories_covered": 41,
+  "categories": {
+    "\ud83c\udf7d\ufe0f Food & Dining": 1390,
+    "\ud83d\uded2 Grocery & Daily": 884,
+    "\ud83c\udfe5 Health & Medical": 1127,
+    "\ud83d\udc57 Fashion & Retail": 1129,
+    "\ud83d\udcf1 Electronics & Tech": 897,
+    "\ud83d\udc84 Beauty & Care": 715,
+    "\ud83c\udfe0 Home & Living": 689,
+    "\ud83d\ude97 Automotive & Transport": 698,
+    "\ud83c\udf93 Education & Training": 910,
+    "\ud83d\udcbc Business & Professional": 867
+  },
+  "data_quality": {
+    "with_images": 9306,
+    "with_phone": 9306,
+    "with_coordinates": 9306,
+    "with_ratings": 9306,
+    "with_opening_hours": 9306
+  },
+  "locations": [
+    "Freeganj",
+    "Mahakaleshwar Temple",
+    "Tower Chowk",
+    "Dewas Gate",
+    "University Road",
+    "Agar Road",
+    "Indore Road",
+    "Railway Station Road",
+    "Nanakheda",
+    "Chimanganj Mandi",
+    "Jiwaji University",
+    "Kshipra Pul",
+    "Ramghat Road",
+    "Vikram University",
+    "Madhav Nagar",
+    "Kalbhairav Temple",
+    "Sandipani Ashram",
+    "Triveni Museum",
+    "Bharti Nagar",
+    "Jaisinghpura"
+  ],
+  "coverage": "Complete Ujjain city coverage",
+  "source": "massive_ujjain_data_generator",
+  "note": "Production-ready massive dataset for Bazar Se app"
+}

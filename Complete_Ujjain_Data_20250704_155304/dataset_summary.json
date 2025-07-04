@@ -1,0 +1,33 @@
+{
+  "total_businesses": 630,
+  "generation_date": "2025-07-04T15:53:04.303244",
+  "locations_covered": 10,
+  "categories": {
+    "Food & Dining": 144,
+    "Grocery & Daily": 97,
+    "Health & Medical": 95,
+    "Fashion & Retail": 118,
+    "Electronics & Tech": 107,
+    "Beauty & Care": 69
+  },
+  "data_quality": {
+    "with_images": 630,
+    "with_phone": 630,
+    "with_coordinates": 630,
+    "with_ratings": 630
+  },
+  "locations": [
+    "Freeganj",
+    "Mahakaleshwar Temple",
+    "Tower Chowk",
+    "Dewas Gate",
+    "University Road",
+    "Railway Station Road",
+    "Nanakheda",
+    "Chimanganj Mandi",
+    "Jiwaji University",
+    "Ramghat Road"
+  ],
+  "source": "ujjain_data_generator",
+  "note": "Production-ready dataset for Bazar Se app"
+}
