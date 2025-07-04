@@ -1,0 +1,13 @@
+# 🔥 BAZAR SE GOOGLE MAPS SCRAPER REQUIREMENTS 🔥
+
+# Core scraping dependencies
+pandas==2.2.3
+playwright==1.52.0
+
+# Firebase integration
+firebase-admin==6.2.0
+google-cloud-firestore==2.13.1
+
+# Additional utilities
+requests==2.31.0
+python-dotenv==1.0.0
