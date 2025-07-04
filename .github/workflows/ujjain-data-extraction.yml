@@ -1,0 +1,513 @@
+name: 🔥 Complete Ujjain Business Data Extraction
+
+on:
+  workflow_dispatch:
+    inputs:
+      extraction_mode:
+        description: 'Extraction Mode'
+        required: true
+        default: 'ultra_fast'
+        type: choice
+        options:
+        - ultra_fast
+        - parallel_workers
+        - test_mode
+      businesses_per_query:
+        description: 'Businesses per query'
+        required: true
+        default: '25'
+        type: string
+      max_workers:
+        description: 'Number of parallel workers'
+        required: true
+        default: '50'
+        type: string
+
+jobs:
+  extract-ujjain-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 480  # 8 hours timeout
+    
+    strategy:
+      matrix:
+        worker_batch: [1, 2, 3, 4, 5]  # 5 parallel jobs
+    
+    steps:
+    - name: 🚀 Checkout Repository
+      uses: actions/checkout@v4
+      
+    - name: 🐍 Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: 📦 Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas playwright aiohttp aiofiles asyncio
+        pip install firebase-admin google-cloud-firestore
+        playwright install chromium
+        playwright install-deps
+        
+    - name: 🔧 Setup Environment
+      run: |
+        echo "🔥 GITHUB ACTIONS UJJAIN DATA EXTRACTION 🔥"
+        echo "Worker Batch: ${{ matrix.worker_batch }}"
+        echo "Extraction Mode: ${{ github.event.inputs.extraction_mode }}"
+        echo "Businesses per Query: ${{ github.event.inputs.businesses_per_query }}"
+        echo "Max Workers: ${{ github.event.inputs.max_workers }}"
+        
+    - name: 🗺️ Generate Query Batches
+      run: |
+        python3 << 'EOF'
+        import json
+        import os
+        
+        # Generate all Ujjain queries
+        locations = [
+            "Freeganj", "Mahakaleshwar Temple", "Tower Chowk", "Dewas Gate",
+            "University Road", "Agar Road", "Indore Road", "Railway Station Road",
+            "Nanakheda", "Chimanganj Mandi", "Jiwaji University", "Kshipra Pul",
+            "Ramghat Road", "Vikram University", "Madhav Nagar", "Kalbhairav Temple",
+            "Sandipani Ashram", "Triveni Museum", "Bharti Nagar", "Jaisinghpura"
+        ]
+        
+        categories = [
+            "restaurants", "grocery stores", "medical stores", "clothing shops",
+            "mobile shops", "beauty parlors", "electronics stores", "banks",
+            "petrol pumps", "hospitals", "schools", "hotels", "auto repair",
+            "jewellery shops", "furniture stores", "hardware stores", "pharmacies",
+            "sweet shops", "kirana stores", "salons", "coaching centers",
+            "travel agencies", "real estate", "insurance", "lawyers",
+            "fast food", "bakeries", "ice cream parlors", "tea stalls", "coffee shops",
+            "supermarkets", "general stores", "spice shops", "clinics", "dental clinics",
+            "eye clinics", "saree shops", "footwear", "computer shops", "mobile repair"
+        ]
+        
+        # Generate all combinations
+        all_queries = []
+        for location in locations:
+            for category in categories:
+                all_queries.append(f"{category} in {location}, Ujjain")
+        
+        # Add general queries
+        for category in categories:
+            all_queries.append(f"{category} in Ujjain")
+        
+        # Split into 5 batches for parallel processing
+        batch_size = len(all_queries) // 5
+        worker_batch = int(os.environ.get('MATRIX_WORKER_BATCH', 1))
+        
+        start_idx = (worker_batch - 1) * batch_size
+        if worker_batch == 5:
+            end_idx = len(all_queries)
+        else:
+            end_idx = worker_batch * batch_size
+        
+        batch_queries = all_queries[start_idx:end_idx]
+        
+        # Save batch queries
+        with open(f'batch_{worker_batch}_queries.json', 'w') as f:
+            json.dump(batch_queries, f, indent=2)
+        
+        print(f"Generated {len(batch_queries)} queries for batch {worker_batch}")
+        print(f"Total queries across all batches: {len(all_queries)}")
+        EOF
+      env:
+        MATRIX_WORKER_BATCH: ${{ matrix.worker_batch }}
+        
+    - name: 🔥 Run Ultra-Fast Extraction
+      run: |
+        python3 << 'EOF'
+        import json
+        import asyncio
+        import aiohttp
+        import aiofiles
+        from playwright.async_api import async_playwright
+        import os
+        import time
+        from datetime import datetime
+        
+        class GitHubActionsScraper:
+            def __init__(self, worker_batch):
+                self.worker_batch = worker_batch
+                self.businesses_per_query = int(os.environ.get('BUSINESSES_PER_QUERY', 25))
+                self.results = []
+                
+            async def scrape_query(self, browser, query):
+                """Scrape a single query"""
+                try:
+                    page = await browser.new_page()
+                    await page.goto("https://www.google.com/maps", timeout=30000)
+                    
+                    # Search
+                    await page.fill('input[id="searchboxinput"]', query)
+                    await page.press('input[id="searchboxinput"]', 'Enter')
+                    await page.wait_for_timeout(3000)
+                    
+                    # Scroll to load results
+                    for _ in range(3):
+                        await page.mouse.wheel(0, 3000)
+                        await page.wait_for_timeout(1000)
+                    
+                    # Get listings
+                    listings = await page.locator('a[href*="/maps/place/"]').all()
+                    businesses = []
+                    
+                    for i, listing in enumerate(listings[:self.businesses_per_query]):
+                        try:
+                            await listing.click()
+                            await page.wait_for_timeout(2000)
+                            
+                            business = await self.extract_business_data(page, query)
+                            if business:
+                                businesses.append(business)
+                                
+                        except Exception as e:
+                            print(f"Error extracting business {i}: {e}")
+                            continue
+                    
+                    await page.close()
+                    print(f"✅ {query}: {len(businesses)} businesses")
+                    return businesses
+                    
+                except Exception as e:
+                    print(f"❌ Query failed: {query} - {e}")
+                    return []
+            
+            async def extract_business_data(self, page, query):
+                """Extract business data"""
+                try:
+                    business = {}
+                    
+                    # Name
+                    name_elem = page.locator('h1.DUwDvf').first
+                    if await name_elem.count() > 0:
+                        business['name'] = await name_elem.inner_text()
+                    
+                    # Address
+                    address_elem = page.locator('[data-item-id="address"] .fontBodyMedium').first
+                    if await address_elem.count() > 0:
+                        business['address'] = await address_elem.inner_text()
+                    
+                    # Phone
+                    phone_elem = page.locator('[data-item-id*="phone"] .fontBodyMedium').first
+                    if await phone_elem.count() > 0:
+                        business['phone_number'] = await phone_elem.inner_text()
+                    
+                    # Image
+                    img_elem = page.locator('.ZKCDEc img').first
+                    if await img_elem.count() > 0:
+                        business['image_url'] = await img_elem.get_attribute('src')
+                    
+                    # Rating
+                    rating_elem = page.locator('[role="img"][aria-label*="stars"]').first
+                    if await rating_elem.count() > 0:
+                        rating_text = await rating_elem.get_attribute('aria-label')
+                        if rating_text:
+                            try:
+                                business['rating'] = float(rating_text.split()[0])
+                            except:
+                                pass
+                    
+                    # Coordinates
+                    url = page.url
+                    if '/@' in url:
+                        try:
+                            coords = url.split('/@')[1].split('/')[0]
+                            lat, lng = coords.split(',')[:2]
+                            business['latitude'] = float(lat)
+                            business['longitude'] = float(lng)
+                        except:
+                            pass
+                    
+                    business['query'] = query
+                    business['worker_batch'] = self.worker_batch
+                    business['scraped_at'] = datetime.now().isoformat()
+                    
+                    return business if business.get('name') else None
+                    
+                except Exception as e:
+                    print(f"Error extracting data: {e}")
+                    return None
+            
+            async def run_extraction(self):
+                """Run the extraction for this batch"""
+                
+                # Load queries for this batch
+                with open(f'batch_{self.worker_batch}_queries.json', 'r') as f:
+                    queries = json.load(f)
+                
+                print(f"🔥 Starting extraction for batch {self.worker_batch}")
+                print(f"📊 Processing {len(queries)} queries")
+                
+                async with async_playwright() as playwright:
+                    browser = await playwright.chromium.launch(headless=True)
+                    
+                    all_businesses = []
+                    
+                    for i, query in enumerate(queries):
+                        print(f"Processing {i+1}/{len(queries)}: {query}")
+                        businesses = await self.scrape_query(browser, query)
+                        all_businesses.extend(businesses)
+                        
+                        # Small delay
+                        await asyncio.sleep(0.5)
+                    
+                    await browser.close()
+                    
+                    # Save results
+                    output_file = f'ujjain_data_batch_{self.worker_batch}.json'
+                    async with aiofiles.open(output_file, 'w') as f:
+                        await f.write(json.dumps(all_businesses, indent=2, ensure_ascii=False))
+                    
+                    print(f"🎉 Batch {self.worker_batch} completed!")
+                    print(f"📊 Total businesses extracted: {len(all_businesses)}")
+                    
+                    return len(all_businesses)
+        
+        # Run the scraper
+        async def main():
+            worker_batch = int(os.environ.get('MATRIX_WORKER_BATCH', 1))
+            scraper = GitHubActionsScraper(worker_batch)
+            await scraper.run_extraction()
+        
+        asyncio.run(main())
+        EOF
+      env:
+        MATRIX_WORKER_BATCH: ${{ matrix.worker_batch }}
+        BUSINESSES_PER_QUERY: ${{ github.event.inputs.businesses_per_query }}
+        
+    - name: 📊 Generate Summary Report
+      run: |
+        python3 << 'EOF'
+        import json
+        import os
+        from datetime import datetime
+        
+        worker_batch = int(os.environ.get('MATRIX_WORKER_BATCH', 1))
+        
+        # Load extracted data
+        data_file = f'ujjain_data_batch_{worker_batch}.json'
+        if os.path.exists(data_file):
+            with open(data_file, 'r') as f:
+                businesses = json.load(f)
+            
+            # Generate summary
+            summary = {
+                'worker_batch': worker_batch,
+                'total_businesses': len(businesses),
+                'extraction_date': datetime.now().isoformat(),
+                'categories': {},
+                'locations': {},
+                'with_images': 0,
+                'with_phone': 0,
+                'with_coordinates': 0
+            }
+            
+            for business in businesses:
+                # Count categories
+                query = business.get('query', '')
+                if 'restaurant' in query.lower():
+                    summary['categories']['Food & Dining'] = summary['categories'].get('Food & Dining', 0) + 1
+                elif 'medical' in query.lower() or 'hospital' in query.lower():
+                    summary['categories']['Health & Medical'] = summary['categories'].get('Health & Medical', 0) + 1
+                elif 'mobile' in query.lower() or 'electronics' in query.lower():
+                    summary['categories']['Electronics & Tech'] = summary['categories'].get('Electronics & Tech', 0) + 1
+                else:
+                    summary['categories']['Other'] = summary['categories'].get('Other', 0) + 1
+                
+                # Count data quality
+                if business.get('image_url'):
+                    summary['with_images'] += 1
+                if business.get('phone_number'):
+                    summary['with_phone'] += 1
+                if business.get('latitude') and business.get('longitude'):
+                    summary['with_coordinates'] += 1
+            
+            # Save summary
+            with open(f'summary_batch_{worker_batch}.json', 'w') as f:
+                json.dump(summary, f, indent=2)
+            
+            print(f"📊 Batch {worker_batch} Summary:")
+            print(f"   Total Businesses: {summary['total_businesses']}")
+            print(f"   With Images: {summary['with_images']}")
+            print(f"   With Phone: {summary['with_phone']}")
+            print(f"   With Coordinates: {summary['with_coordinates']}")
+        EOF
+      env:
+        MATRIX_WORKER_BATCH: ${{ matrix.worker_batch }}
+        
+    - name: 📁 Upload Extraction Results
+      uses: actions/upload-artifact@v4
+      with:
+        name: ujjain-data-batch-${{ matrix.worker_batch }}
+        path: |
+          ujjain_data_batch_${{ matrix.worker_batch }}.json
+          summary_batch_${{ matrix.worker_batch }}.json
+        retention-days: 30
+        
+    - name: 💾 Commit Results to Repository
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # Create results directory
+        mkdir -p "GitHub_Actions_Results/$(date +%Y%m%d)"
+        
+        # Move results
+        if [ -f "ujjain_data_batch_${{ matrix.worker_batch }}.json" ]; then
+          mv "ujjain_data_batch_${{ matrix.worker_batch }}.json" "GitHub_Actions_Results/$(date +%Y%m%d)/"
+          mv "summary_batch_${{ matrix.worker_batch }}.json" "GitHub_Actions_Results/$(date +%Y%m%d)/"
+        fi
+        
+        # Commit if there are changes
+        git add .
+        if ! git diff --staged --quiet; then
+          git commit -m "🔥 Ujjain Data Batch ${{ matrix.worker_batch }} - $(date +%Y-%m-%d) - GitHub Actions Extraction"
+          git push
+        fi
+
+  combine-results:
+    needs: extract-ujjain-data
+    runs-on: ubuntu-latest
+    if: always()
+    
+    steps:
+    - name: 🚀 Checkout Repository
+      uses: actions/checkout@v4
+      
+    - name: 📥 Download All Batch Results
+      uses: actions/download-artifact@v4
+      with:
+        path: batch-results
+        
+    - name: 🔄 Combine All Batches
+      run: |
+        python3 << 'EOF'
+        import json
+        import os
+        from datetime import datetime
+        import glob
+        
+        print("🔥 COMBINING ALL BATCH RESULTS 🔥")
+        
+        all_businesses = []
+        all_summaries = []
+        
+        # Find all batch files
+        for batch_dir in glob.glob('batch-results/ujjain-data-batch-*'):
+            print(f"Processing {batch_dir}")
+            
+            # Load business data
+            data_files = glob.glob(f'{batch_dir}/ujjain_data_batch_*.json')
+            for data_file in data_files:
+                try:
+                    with open(data_file, 'r') as f:
+                        batch_data = json.load(f)
+                        all_businesses.extend(batch_data)
+                        print(f"  Added {len(batch_data)} businesses from {data_file}")
+                except Exception as e:
+                    print(f"  Error loading {data_file}: {e}")
+            
+            # Load summary data
+            summary_files = glob.glob(f'{batch_dir}/summary_batch_*.json')
+            for summary_file in summary_files:
+                try:
+                    with open(summary_file, 'r') as f:
+                        summary_data = json.load(f)
+                        all_summaries.append(summary_data)
+                except Exception as e:
+                    print(f"  Error loading {summary_file}: {e}")
+        
+        # Create combined results
+        combined_results = {
+            'extraction_date': datetime.now().isoformat(),
+            'total_businesses': len(all_businesses),
+            'total_batches': len(all_summaries),
+            'businesses': all_businesses,
+            'batch_summaries': all_summaries
+        }
+        
+        # Generate final summary
+        final_summary = {
+            'total_businesses': len(all_businesses),
+            'extraction_date': datetime.now().isoformat(),
+            'categories': {},
+            'data_quality': {
+                'with_images': 0,
+                'with_phone': 0,
+                'with_coordinates': 0,
+                'with_rating': 0
+            }
+        }
+        
+        for business in all_businesses:
+            # Count data quality
+            if business.get('image_url'):
+                final_summary['data_quality']['with_images'] += 1
+            if business.get('phone_number'):
+                final_summary['data_quality']['with_phone'] += 1
+            if business.get('latitude') and business.get('longitude'):
+                final_summary['data_quality']['with_coordinates'] += 1
+            if business.get('rating'):
+                final_summary['data_quality']['with_rating'] += 1
+        
+        # Save combined results
+        os.makedirs('Complete_Ujjain_Data_GitHub_Actions', exist_ok=True)
+        
+        with open('Complete_Ujjain_Data_GitHub_Actions/complete_ujjain_businesses.json', 'w') as f:
+            json.dump(all_businesses, f, indent=2, ensure_ascii=False)
+        
+        with open('Complete_Ujjain_Data_GitHub_Actions/final_summary.json', 'w') as f:
+            json.dump(final_summary, f, indent=2)
+        
+        print(f"\n🎉 EXTRACTION COMPLETED!")
+        print(f"📊 Total Businesses: {len(all_businesses):,}")
+        print(f"📊 With Images: {final_summary['data_quality']['with_images']:,}")
+        print(f"📊 With Phone: {final_summary['data_quality']['with_phone']:,}")
+        print(f"📊 With Coordinates: {final_summary['data_quality']['with_coordinates']:,}")
+        print(f"📁 Saved to: Complete_Ujjain_Data_GitHub_Actions/")
+        EOF
+        
+    - name: 🎉 Final Commit
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        git add .
+        if ! git diff --staged --quiet; then
+          git commit -m "🎉 Complete Ujjain Data Extraction Finished - $(date +%Y-%m-%d) - GitHub Actions
+
+📊 EXTRACTION SUMMARY:
+- Multiple batches processed in parallel
+- Complete business data with images
+- Real-time extraction on GitHub servers
+- Production-ready dataset
+
+🔥 Ready for Bazar Se app integration!"
+          git push
+        fi
+        
+    - name: 📊 Display Final Results
+      run: |
+        echo "🔥 UJJAIN DATA EXTRACTION COMPLETED ON GITHUB! 🔥"
+        echo "=================================================="
+        
+        if [ -f "Complete_Ujjain_Data_GitHub_Actions/final_summary.json" ]; then
+          python3 -c "
+import json
+with open('Complete_Ujjain_Data_GitHub_Actions/final_summary.json', 'r') as f:
+    summary = json.load(f)
+print(f'📊 Total Businesses: {summary[\"total_businesses\"]:,}')
+print(f'🖼️ With Images: {summary[\"data_quality\"][\"with_images\"]:,}')
+print(f'📞 With Phone: {summary[\"data_quality\"][\"with_phone\"]:,}')
+print(f'📍 With Coordinates: {summary[\"data_quality\"][\"with_coordinates\"]:,}')
+print(f'⭐ With Ratings: {summary[\"data_quality\"][\"with_rating\"]:,}')
+"
+        fi
+        
+        echo ""
+        echo "✅ Data saved in: Complete_Ujjain_Data_GitHub_Actions/"
+        echo "✅ Ready for Bazar Se app integration"
+        echo "✅ All processing done on GitHub servers"
